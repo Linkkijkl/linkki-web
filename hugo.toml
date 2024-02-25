@@ -1,5 +1,5 @@
 baseURL = 'https://dev.linkkijkl.fi/'
-languageCode = 'fi-fi'
+languageCode = 'fi'
 title = 'Linkki Jyväskylä ry.'
 theme = "hugo-universal-theme"
 
@@ -51,3 +51,14 @@ staticDir = ["static"]
     auto_play = true
     slide_speed = 2000
     pagination_speed = 1000
+
+
+[params.carouselCustomers]
+    auto_play = true
+
+[params.clients]
+    enable = true
+    # All clients are defined in their own files. You can find example items
+    # at 'exampleSite/data/clients'.
+    # For more information take a look at the README.
+    title = "Yhteistyössä"
