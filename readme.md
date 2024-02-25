@@ -5,11 +5,10 @@ Repository for [linkkijkl.fi](https://linkkijkl.fi).
 ## Getting started
 
 To compile and open locally:
-1. Clone this repository, i.e. `git clone https://github.com/linkkijkl/linkkijkl-web`
-2. Initialize git submodules `git submodule init && git submodule update`
-3. Install [Git Large File Storage](https://git-lfs.com) `git lfs install`
-4. Install [Hugo](https://gohugo.io/)
-5. Run `hugo server` and you should be good to go 🎉
+1. Install [Hugo](https://gohugo.io/) and [Git Large File Storage](https://git-lfs.com)
+2. Clone this repository, i.e. `git clone https://github.com/linkkijkl/linkkijkl-web`
+3. Initialize git submodules `git submodule init && git submodule update`
+4. Run `hugo server` and you should be good to go 🎉
 
 ## FAQ
 
@@ -24,7 +23,3 @@ Make a new issue detailing the problem.
 ### I want to contribute but don't know what to do, how should I start?
 
 Take a look at open issues. From there you should find something to do.
-
-### How does the web server get updated with changes in here?
-
-Through Github Actions, always when main branch gets updated.

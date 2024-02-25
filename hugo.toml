@@ -1,3 +1,51 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://dev.linkkijkl.fi/'
+languageCode = 'fi-fi'
+title = 'Linkki Jyväskylä ry.'
+theme = "hugo-universal-theme"
+
+# Number of posts per page
+paginate = 10
+
+# Don't pluralize title pages by default
+pluralizeListTitles = false
+
+
+[menu]
+
+
+# Main menu
+[[menu.main]]
+    name = "home"
+    identifier = "menu.home"
+    url = "/"
+    weight = 1
+
+
+[params]
+    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    style = "blue"
+    
+    defaultKeywords = ["linkkijkl", "linkki", "jyväskylä"]
+
+    # TODO
+    #about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+    #copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+
+    disabled_logo = true
+    logo_text = "Linkki Jyväskylä ry."
+
+    # Format dates with Go's time formatting
+    # https://pkg.go.dev/time
+    date_format = "January 2, 2006"
+    
+    dropdown_mouse_over = false
+
+
+[params.carouselHomepage]
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more information take a look at the README.
+    enable = true
+    auto_play = true
+    slide_speed = 2000
+    pagination_speed = 1000
