@@ -1,0 +1,8 @@
+/* Bigger logo */
+.navbar-brand {
+    padding: 2px;
+}
+
+.navbar-brand img {
+    max-height: 64px;
+}

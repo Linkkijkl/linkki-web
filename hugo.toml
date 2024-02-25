@@ -33,14 +33,14 @@ staticDir = ["static"]
     #about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
     #copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
 
-    disabled_logo = true
     logo_text = "Linkki Jyväskylä ry."
+    logo = "img/logo.png"
 
     # Format dates with Go's time formatting
     # https://pkg.go.dev/time
     date_format = "2.1.2006"
     
-    dropdown_mouse_over = false
+    dropdown_mouse_over = false # TODO: should this be changed?
 
 
 [params.carouselHomepage]
@@ -55,6 +55,7 @@ staticDir = ["static"]
 
 [params.carouselCustomers]
     auto_play = true
+
 
 [params.clients]
     enable = true
