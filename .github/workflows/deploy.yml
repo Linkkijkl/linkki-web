@@ -28,7 +28,7 @@ jobs:
       - name: Deploy
         uses: up9cloud/action-rsync@master
         env:
-          SOURCE: ./public/*
+          SOURCE: ./public/
           ARGS_MORE: --checksum
           VERBOSE: true
           

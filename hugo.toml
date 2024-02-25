@@ -9,6 +9,8 @@ paginate = 10
 # Don't pluralize title pages by default
 pluralizeListTitles = false
 
+staticDir = ["static"]
+
 
 [menu]
 
@@ -36,7 +38,7 @@ pluralizeListTitles = false
 
     # Format dates with Go's time formatting
     # https://pkg.go.dev/time
-    date_format = "January 2, 2006"
+    date_format = "2.1.2006"
     
     dropdown_mouse_over = false
 
