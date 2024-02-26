@@ -34,7 +34,8 @@ staticDir = ["static"]
     #copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
 
     logo_text = "Linkki Jyväskylä ry."
-    logo = "img/logo.png"
+    logo = "img/linkki_jyvaskyla_modern.svg"
+    logo_small = "img/linkki_jyvaskyla_modern.svg"
 
     # Format dates with Go's time formatting
     # https://pkg.go.dev/time
