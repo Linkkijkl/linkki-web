@@ -35,6 +35,7 @@ staticDir = ["static"]
 
     logo_text = "Linkki Jyväskylä ry."
     logo = "img/logo.png"
+    logo_small = "img/logo.png"
 
     # Format dates with Go's time formatting
     # https://pkg.go.dev/time
