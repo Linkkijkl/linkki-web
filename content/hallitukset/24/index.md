@@ -133,7 +133,7 @@ Mediatiimin tehtävänä on tiedottaa jäsenistöä yhdistyksen eri kanavissa ku
 #### Mediapäällikkö
 [**media@linkkijkl.fi**](mailto:media@linkkijkl.fi)
 [Telegram: **@alex_glhl**](https://t.me/alex_glhl)
-![Mortti Luhtala](mortti-luhtala.jpg)
+![Alexander Goldhill](alexander-goldhill.jpg)
 
 ## Lari Nurkka
 #### Webmaster
