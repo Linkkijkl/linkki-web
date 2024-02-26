@@ -61,7 +61,7 @@ categories = ["hallitukset"]
 #### Daniel Buselli
 
 ## Mediapäällikkö
-#### Jimi Hendrix
+#### Jimi Hiltunen
 
 ## Teekkarivastaava
 #### Eemil Hukkanen
