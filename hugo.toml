@@ -17,10 +17,30 @@ staticDir = ["static"]
 
 # Main menu
 [[menu.main]]
-    name = "home"
+    name = "Home"
     identifier = "menu.home"
     url = "/"
     weight = 1
+
+
+[[menu.main]]
+    name = "Hallitus"
+    identifier = "menu.hallitus"
+    weight = 2
+
+
+[[menu.main]]
+    name = "Hallitus 2024"
+    url = "/hallitukset/24"
+    weight = 1
+    parent = "menu.hallitus"
+
+
+[[menu.main]]
+    name = "Hallitus 2023"
+    url = "/hallitukset/23"
+    weight = 2
+    parent = "menu.hallitus"
 
 
 [params]
@@ -41,7 +61,7 @@ staticDir = ["static"]
     # https://pkg.go.dev/time
     date_format = "2.1.2006"
     
-    dropdown_mouse_over = false # TODO: should this be changed?
+    dropdown_mouse_over = true
 
 
 [params.carouselHomepage]
