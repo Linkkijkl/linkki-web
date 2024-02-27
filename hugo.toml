@@ -78,25 +78,50 @@ staticDir = ["static"]
     weight = 7
 
 
-# [[menu.main]]
-#     name = "Hallitus"
-#     identifier = "menu.hallitus"
-#     weight = 2
+[[menu.main]]
+    name = "Toiminta"
+    identifier = "menu.toiminta"
+    weight = 2
 
 
-# [[menu.main]]
-#     name = "Hallitus 2024"
-#     url = "/hallitukset/24"
-#     weight = 1
-#     parent = "menu.hallitus"
+[[menu.main]]
+    name = "Kattila"
+    identifier = "menu.kattila"
+    url = "/toiminta/kattila"
+    parent = "menu.toiminta"
+    weight = 1
 
 
-# [[menu.main]]
-#     name = "Hallitus 2023"
-#     url = "/hallitukset/23"
-#     weight = 2
-#     parent = "menu.hallitus"
+[[menu.main]]
+    name = "Tenttiarkisto"
+    identifier = "menu.tenttiarkisto"
+    url = "/toiminta/tenttiarkisto"
+    parent = "menu.toiminta"
+    weight = 2
 
+
+[[menu.main]]
+    name = "Laitteistovuokraus"
+    identifier = "menu.vuokraus"
+    url = "/toiminta/vuokraus"
+    parent = "menu.toiminta"
+    weight = 3
+
+
+[[menu.main]]
+    name = "Haalarimerkit"
+    identifier = "menu.haalarimerkit"
+    url = "/toiminta/haalarimerkit"
+    parent = "menu.toiminta"
+    weight = 4
+
+
+[[menu.main]]
+    name = "Keskustelukanavat"
+    identifier = "menu.keskustelukanavat"
+    url = "/toiminta/keskustelukanavat"
+    parent = "menu.toiminta"
+    weight = 5
 
 
 
