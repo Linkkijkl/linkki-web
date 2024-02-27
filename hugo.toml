@@ -170,6 +170,20 @@ staticDir = ["static"]
     weight = 5
 
 
+[[menu.main]]
+    name = "Yhteistyö"
+    identifier = "menu.yhteistyö"
+    url = "/yhteistyö"
+    weight = 4
+
+
+[[menu.main]]
+    name = "A href"
+    identifier = "menu.ahref"
+    url = "/ahref"
+    weight = 5
+
+
 [params]
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "blue"
