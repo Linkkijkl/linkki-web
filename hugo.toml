@@ -17,30 +17,87 @@ staticDir = ["static"]
 
 # Main menu
 [[menu.main]]
-    name = "Home"
-    identifier = "menu.home"
-    url = "/"
+    name = "Yhdistys"
+    identifier = "menu.yhdistys"
+    weight = 1
+
+
+[[menu.main]]
+    name = "Säännöt ja ohjeet"
+    identifier = "menu.saannot"
+    url = "/yhdistys/säännöt"
+    parent = "menu.yhdistys"
     weight = 1
 
 
 [[menu.main]]
     name = "Hallitus"
     identifier = "menu.hallitus"
+    url = "/yhdistys/hallitus"
+    parent = "menu.yhdistys"
     weight = 2
 
 
 [[menu.main]]
-    name = "Hallitus 2024"
-    url = "/hallitukset/24"
-    weight = 1
-    parent = "menu.hallitus"
+    name = "Järjestyksen historia"
+    identifier = "menu.historia"
+    url = "/yhdistys/historia"
+    parent = "menu.yhdistys"
+    weight = 3
 
 
 [[menu.main]]
-    name = "Hallitus 2023"
-    url = "/hallitukset/23"
-    weight = 2
-    parent = "menu.hallitus"
+    name = "Jäsenedut"
+    identifier = "menu.edut"
+    url = "/yhdistys/jäsenedut"
+    parent = "menu.yhdistys"
+    weight = 4
+
+
+[[menu.main]]
+    name = "Jäseneksi"
+    identifier = "menu.jäseneksi"
+    url = "/yhdistys/jäseneksi"
+    parent = "menu.yhdistys"
+    weight = 5
+
+
+[[menu.main]]
+    name = "Aktiivi-info"
+    identifier = "menu.aktiivi"
+    url = "/yhdistys/aktiivi"
+    parent = "menu.yhdistys"
+    weight = 6
+
+
+[[menu.main]]
+    name = "Pöytäkirjat"
+    identifier = "menu.pöytäkirjat"
+    url = "/yhdistys/pöytäkirjat"
+    parent = "menu.yhdistys"
+    weight = 7
+
+
+# [[menu.main]]
+#     name = "Hallitus"
+#     identifier = "menu.hallitus"
+#     weight = 2
+
+
+# [[menu.main]]
+#     name = "Hallitus 2024"
+#     url = "/hallitukset/24"
+#     weight = 1
+#     parent = "menu.hallitus"
+
+
+# [[menu.main]]
+#     name = "Hallitus 2023"
+#     url = "/hallitukset/23"
+#     weight = 2
+#     parent = "menu.hallitus"
+
+
 
 
 [params]
