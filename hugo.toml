@@ -124,6 +124,51 @@ staticDir = ["static"]
     weight = 5
 
 
+[[menu.main]]
+    name = "Tapahtumat"
+    identifier = "menu.tapahtumat"
+    weight = 3
+
+
+[[menu.main]]
+    name = "Kalenteri"
+    identifier = "menu.kalenteri"
+    url = "/tapahtumat/kalenteri"
+    parent = "menu.tapahtumat"
+    weight = 1
+
+
+[[menu.main]]
+    name = "Jyväsmetro"
+    identifier = "menu.metro"
+    url = "/tapahtumat/metro"
+    parent = "menu.tapahtumat"
+    weight = 2
+
+
+[[menu.main]]
+    name = "Instanssi"
+    identifier = "menu.instanssi"
+    url = "/tapahtumat/instanssi"
+    parent = "menu.tapahtumat"
+    weight = 3
+
+
+[[menu.main]]
+    name = "Lukupiiri"
+    identifier = "menu.lukupiiri"
+    url = "/tapahtumat/lukupiiri"
+    parent = "menu.tapahtumat"
+    weight = 4
+
+
+[[menu.main]]
+    name = "Kässäkerho"
+    identifier = "menu.kässäkerho"
+    url = "/tapahtumat/kässäkerho"
+    parent = "menu.tapahtumat"
+    weight = 5
+
 
 [params]
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
