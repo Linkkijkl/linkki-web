@@ -35,6 +35,5 @@ jobs:
           
           HOST: ${{ secrets.DEPLOY_SSH_HOST }}
           USER: ${{ secrets.DEPLOY_USER }}
-          # TODO: Change to key-based authentication
-          PASSWORD: ${{ secrets.DEPLOY_PASSWORD }}
+          KEY: ${{ secrets.SSH_KEY }}
           TARGET: ${{ secrets.DEPLOY_TARGET }}
