@@ -12,6 +12,21 @@ pluralizeListTitles = false
 staticDir = ["static"]
 
 
+# https://gohugo.io/content-management/multilingual/
+defaultContentLanguage = 'fi'
+[languages]
+    [languages.fi]
+        disabled = false
+        languageCode = 'fi'
+        languageName = 'Suomi'
+        weight = 1
+    [languages.en]
+        disabled = false
+        languageCode = 'en'
+        languageName = 'English'
+        weight = 2
+
+
 [menu]
 
 
