@@ -140,11 +140,11 @@
                   {{ end }}
                   {{ end }}
                   {{ range $translations := $.Page.Page.Translations }}
-                    {{ $lang_to_flag := dict "fi" "🇫🇮" "en" "🇬🇧"}}
-                    {{ range $lang, $flag := $lang_to_flag }}
+                    {{ $lang_to_language_display:= dict "fi" "suomeksi" "en" "In english"}}
+                    {{ range $lang, $lang_display := $lang_to_language_display }}
                       {{ with eq $translations.Language.Lang $lang }}
                         <li class="dropdown">
-                          <a href="{{ $translations.RelPermalink }}">{{ $flag }}</a>
+                          <a href="{{ $translations.RelPermalink }}">{{ $lang_display }}</a>
                         </li>
                       {{ end }}
                     {{ end }}
