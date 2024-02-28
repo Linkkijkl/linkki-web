@@ -8,13 +8,15 @@ keywords = ["säännöt", "ohjeet"]
 
 Alla olevat säännöt astuivat voimaan alkaen 4.10.2023.
 
-**LINKKI JYVÄSKYLÄ RY:N SÄÄNNÖT**
+#### LINKKI JYVÄSKYLÄ RY:N SÄÄNNÖT
 
-## 1. YHDISTYKSEN NIMI JA KOTIPAIKKA
+#### 1. YHDISTYKSEN NIMI JA KOTIPAIKKA
+
 Yhdistyksen nimi on Linkki Jyväskylä ry. Yhdistyksen kotipaikka on
 Jyväskylä.
  
-## 2. TARKOITUS JA TOIMINNAN LAATU
+#### 2. TARKOITUS JA TOIMINNAN LAATU
+
 Yhdistyksen tarkoituksena on toimia Jyväskylän yliopiston tietotekniikan,
 tietojenkäsittelytieteen ja koulutusteknologian opiskelijoiden yhdyssiteenä
 informaatioteknologian tiedekuntaan, edistää heidän opintojaan, harrastuksiaan
@@ -33,7 +35,8 @@ arpajaisia, maksullisia huvitilaisuuksia ja muita vastaavanlaisia tapahtumia
 - omistaa ja hallita toimintaansa varten tarpeellista irtainta ja kiinteää omaisuutta
 ottaa vastaan avustuksia, lahjoituksia ja testamentteja
 
-## 3. JÄSENET
+#### 3. JÄSENET
+
 Yhdistyksen varsinaisena jäsenenä voi olla Jyväskylän yliopistossa tietotekniikan,
 tietojenkäsittelytieteen tai koulutusteknologian opintoja suorittava perus- tai
 jatko-opiskelija tai henkilö, jonka yhdistyksen hallituksen kokous muuten hyväksyy
@@ -44,7 +47,8 @@ Kunniajäsenekseen yhdistys voi hallituksen esityksestä kutsua yhdistyksen toim
 ansiokkaasti tukeneen henkilön, joka on antanut siihen suostumuksensa.
 Kunniajäsenyys on elinikäinen. Saavutetut jäsenoikeudet säilyvät.
 
-## 4. JÄSENEN EROAMINEN JA EROTTAMINEN
+#### 4. JÄSENEN EROAMINEN JA EROTTAMINEN
+
 Jäsenellä on oikeus erota yhdistyksestä ilmoittamalla siitä
 kirjallisesti hallitukselle tai sen puheenjohtajalle tai
 ilmoittamalla erosta yhdistyksen kokouksessa merkittäväksi
@@ -56,13 +60,15 @@ sitoutunut tai on menettelyllään yhdistyksessä tai sen ulkopuolella
 huomattavasti vahingoittanut yhdistystä tai ei enää täytä laissa
 taikka yhdistyksen säännöissä mainittuja jäsenyyden ehtoja.
 
-## 5. LIITTYMIS- JA JÄSENMAKSU
+#### 5. LIITTYMIS- JA JÄSENMAKSU
+
 Varsinaisilta jäseniltä ja kannattavilta jäseniltä perittävän
 liittymis- ja jäsenmaksun suuruudesta erikseen kummallekin
 jäsenryhmälle päättää kevätkokous. Kunniajäsenet eivät suorita
 jäsenmaksuja.
 
-## 6. HALLITUS
+#### 6. HALLITUS
+
 Yhdistyksen asioita hoitaa hallitus, johon kuuluu syyskokouksessa
 valitut puheenjohtaja, varapuheenjohtaja, sihteeri ja rahastonhoitaja
 sekä vähintään kolme ja enintään kolmetoista muuta jäsentä. Näiden
@@ -92,12 +98,14 @@ yhdistyksen kokouksen valitsema hallitus aloittaa työskentelynsä.
 Eronneen jäsenen tilalle valitun toimikausi kestää siihen asti kuin
 eronneen toimikausi olisi kestänyt.
 
-## 7. YHDISTYKSEN NIMEN KIRJOITTAMINEN
+#### 7. YHDISTYKSEN NIMEN KIRJOITTAMINEN
+
 Yhdistyksen nimen kirjoittaa hallituksen puheenjohtaja tai
 varapuheenjohtaja tai henkilö, jolla on nimenkirjoitukseen
 hallituksen erikseen antama henkilökohtainen oikeus.
  
-## 8. TILIKAUSI JA TOIMINNANTARKASTUS
+#### 8. TILIKAUSI JA TOIMINNANTARKASTUS
+
 Yhdistyksen tilikausi on kalenterivuosi.
  
 Tilinpäätös tarvittavine asiakirjoineen ja hallituksen vuosikertomus
@@ -108,7 +116,8 @@ hallitukselle.
  
 Tarkemmin taloudesta säädetään talousohjesäännössä.
  
-## 9. YHDISTYKSEN KOKOUKSET
+#### 9. YHDISTYKSEN KOKOUKSET
+
 Yhdistys pitää vuosittain kaksi varsinaista kokousta. Yhdistyksen
 kevätkokous pidetään maalis-huhtikuussa ja syyskokous lokamarraskuussa hallituksen määräämänä päivänä. Ylimääräinen kokous
 pidetään, kun yhdistyksen kokous niin päättää tai kun hallitus
@@ -129,13 +138,15 @@ yhdistyksen kokouksen niin päättäessä myös tietoliikenneyhteyden tai
 muun teknisen apuvälineen avulla kokouksen aikana tai ennen
 kokousta.
 
-## 10. YHDISTYKSEN KOKOUSTEN KOOLLEKUTSUMINEN
+#### 10. YHDISTYKSEN KOKOUSTEN KOOLLEKUTSUMINEN
+
 Hallituksen on kutsuttava yhdistyksen kokoukset koolle vähintään
 seitsemän vuorokautta ennen kokousta jäsenille postitetuilla
 kirjeillä tai sähköpostiviesteillä jäsenen ilmoittamaan
 osoitteeseen, sekä ilmoittamalla asiasta yhdistyksen internetsivuilla.
 
-## 11. VARSINAISET KOKOUKSET
+#### 11. VARSINAISET KOKOUKSET
+
 Yhdistyksen kevätkokouksessa päätetään seuraavat asiat:
 
 - esitetään tilinpäätös, toimintakertomus ja toiminnantarkastajan lausunto
@@ -155,14 +166,16 @@ Mikäli yhdistyksen jäsen haluaa saada jonkin asian yhdistyksen
 kevät- tai syyskokouksen käsiteltäväksi, on hänen ilmoitettava siitä kirjallisesti hallitukselle niin hyvissä ajoin, että asia voidaan
 sisällyttää kokouskutsuun.
 
-## 12. ANSIOMERKIT JA JUHLANAUHA
+#### 12. ANSIOMERKIT JA JUHLANAUHA
+
 Yhdistyksen hallitus voi myöntää ansioituneille jäsenille
 ansiomerkkejä, joista säädetään tarkemmin ansiomerkkiohjesäännössä.
 Yhdistyksellä on akateemisissa tilaisuuksissa ja yhdistystä
 edustettaessa käytettävä juhlanauha. Sen käytöstä säädetään
 tarkemmin juhlanauhaohjesäännössä.
 
-## 13. SÄÄNTÖMUUTOKSET
+#### 13. SÄÄNTÖMUUTOKSET
+
 Näihin sääntöihin voidaan tehdä muutoksia tai lisäyksiä, jos
 vähintään kolme neljäsosaa yhdistyksen kokouksessa annetuista
 äänistä kannattaa sitä yhdessä kokouksessa, tai ehdotus hyväksytään
@@ -170,7 +183,8 @@ yksinkertaisella äänten enemmistöllä ja sitä kannattaa seuraavassa,
 aikaisintaan viikon kuluttua pidettävässä yhdistyksen kokouksessa
 kaksi kolmasosaa annetuista äänistä.
 
-## 14. YHDISTYKSEN PURKAMINEN
+#### 14. YHDISTYKSEN PURKAMINEN
+
 Päätös yhdistyksen purkamisesta on tehtävä kolmen neljäsosan
 enemmistöllä annetuista äänistä kahdessa peräkkäisessä yhdistyksen
 kokouksessa, joiden välillä on kulunut vähintään yksi viikko.
@@ -179,13 +193,16 @@ yhdistyksen tarkoitusta palvelevaan toimintaan purkautumisesta
 päättäneen kokouksen mukaisesti.
 
 
+---
+
+
 # Talousohjesäännöt
 
-## 1 § Soveltaminen
+#### 1 § Soveltaminen
 
 Linkki Jyväskylä ry:n taloudenhoidossa noudatetaan tätä ohjesääntöä siltä osin, kuin yhdistystä koskevissa laeissa tai yhdistyksen säännöissä ei toisin mainita tai yhdistyksen kokouksessa muulla päätöksellä ole toisin päätetty.
 
-## 2 § Yhdistyksen taloudenhoidon periaatteet
+#### 2 § Yhdistyksen taloudenhoidon periaatteet
 
 Taloudenhoitoa johtaa ja taloudesta vastaa yhdistyksen hallitus vuotuisen talousarvion ja toimintasuunnitelman mukaan.
 
@@ -205,7 +222,7 @@ Rahastonhoitajan tehtävänä on taloudenhoidon osalta:
 - valmistella taloutta koskevat esitykset hallitukselle
 - pitää luetteloa yhdistyksen saatavista, sitoumuksista ja vastuista, ja niihin liittyvistä määräajoista
 
-## 3 § Talousarvio
+#### 3 § Talousarvio
 
 Hallitus laatii talousarvion ja esittää sen yhdistyksen syyskokouksen hyväksyttäväksi. Talousarvioon merkittyä määrärahaa hallitus ei saa ylittää, ellei se samanaikaisesti voi osoittaa vastaavia tuloja. Talousarvio laaditaan tilikaudeksi, joka yhdistyksen sääntöjen mukaisesti on kalenterivuosi.
 
@@ -213,7 +230,7 @@ Taloutta on hoidettava säästäväisesti ja talousarvion mukaan. Yhdistyksen ko
 
 Hallitus voi tarvittaessa laatia lisätalousarvion, joka on alistettava yhdistyksen kokouksen päätökselle. Lisätalousarvio on laadittava kuin varsinainen talousarvio.
 
-## 4 § Varojen hoito
+#### 4 § Varojen hoito
 
 Toimihenkilöt ovat velvolliset valvomaan, että heidän hoidossaan oleva omaisuus pidetään tarkoituksenmukaisessa kunnossa.
 
@@ -227,15 +244,15 @@ Yhdistyksen käyttötilin saldo ei saa laskea pysyvästi alle 12 000,00 euron. T
 - Enintään 70% likvideistä varoista voidaan sijoittaa rahasto-osuuksiin, osakkeisiin ja obligaatioihin. Tämä sijoitus pitää jakaa vähintään kolmeen eri kohteeseen ja yksittäisen sijoituskohteen osuus voi olla sijoitushetkellä enintään 45% sijoitettavasta varallisuudesta.
 - Tämän sijoitussalkun osto- ja myyntipäätökset tehdään hallituksessa.
 
-## 5 § Menojen suoritus ja menotosite
+#### 5 § Menojen suoritus ja menotosite
 
 Oikeus laskujen maksamiseen on rahastonhoitajalla. Kukaan ei voi hyväksyä itseään koskevia laskuja. Laskuja hyväksyttäessä on tarkistettava, että ne ovat yhdistyksen toiminnasta johtuvia, sopimusten mukaisia, asiallisia ja hyväksyttäviä.
 
-## 6 § Hankinnat
+#### 6 § Hankinnat
 
 Yhdistyksen puheenjohtajalla on oikeus tehdä yhdistykselle hankintoja ja sitoumuksia kahteensataan (200) euroon saakka. Hankinnat ja sitoumukset tulee saattaa hallituksen kokoukseen hyväksyttäväksi kuukausittain.
 
-## 7 § Kirjanpito
+#### 7 § Kirjanpito
 
 Yhdistyksen kirjanpito on järjestettävä ja hoidettava hyvän kirjanpitotavan mukaisesti kirjanpitolaissa ja asetuksissa säädettyjä periaatteita noudattaen ja tämän ohjesäännön mukaisesti. Kirjanpidosta vastaava henkilö tai taho vastaa yhdistyksen kirjanpidosta ja laatii sen perusteella esityksen yhdistyksen tilinpäätökseksi.
 
@@ -249,7 +266,7 @@ Kalustosta ja muusta irtaimesta käyttöomaisuudesta on pidettävä luetteloa.
 
 Kirjanpidossa on kullekin talousarvioon merkitylle meno- ja tulomomentille avattava tili.
 
-## 8 § Käteiskassa
+#### 8 § Käteiskassa
 
 Yhdistyksellä on ainejärjestötila Kattilassa (Agora C233.2) yksi käteiskassa. Käteiskassa tulee säilyttää ja lukita niin, että siihen eivät hallituksen ulkopuoliset henkilöt pääse käsiksi luvatta.
 
@@ -261,7 +278,7 @@ Tapahtumamyyntiä varten rahastonhoitaja tekee pohjakassan erilliseen kassalippa
 
 Rahastonhoitaja laskee kassan säännöllisesti tilikauden aikana ja pitää siitä kassakirjanpitoa.
 
-## 9 § Kulukorvaukset
+#### 9 § Kulukorvaukset
 
 Muut yhdistykselle esitetyt kulukorvaukset haetaan yhdistyksen tilityskaavakkeella. Tilityskaavake sekä siihen kuuluvat kuitit tulee toimittaa rahastonhoitajalle kuukauden kuluessa kulun syntymisestä. Kulukorvaushakemukset hyväksyy joko hallituksen puheenjohtaja tai varapuheenjohtaja. Kukaan ei kuitenkaan voi hyväksyä omia kulukorvaushakemuksiaan.
 
@@ -269,7 +286,7 @@ Matkakulut korvataan julkisen liikenteen (Linja-auto ja juna) osalta opiskelijah
 
 Muiden kulkuneuvojen osalta matkakulut korvataan vain etukäteen sovituissa tapauksissa.
 
-## 10 § Tilinpäätös
+#### 10 § Tilinpäätös
 
 Tilinpäätös on laadittava kirjanpitolain ja -asetuksen edellyttämällä tavalla.
 
@@ -277,7 +294,7 @@ Hallituksen tulee huolehtia, että tilinpäätös on valmiina jätettäväksi to
 
 Hallituksen hyväksyttyä tilinpäätösehdotuksen on se päivättävä ja yhdistyksen päätösvaltainen hallitus allekirjoittaa tilinpäätöksen.
 
-## 11 § Toiminnantarkastus
+#### 11 § Toiminnantarkastus
 
 Toiminnantarkastajaksi valitaan yhdistyksen syyskokouksessa sääntöjen määräämällä tavalla esteettömät ja pätevät henkilöt tarkastamaan tilejä ja hallintoa. Valittavilta henkilöiltä ja hänen varahenkilöiltään on ennakkoon kysyttävä suostumusta tehtävään. Jos toiminnantarkastaja on estynyt tai esteellinen, on hänen tästä heti ilmoitettava hallitukselle.
 
@@ -287,12 +304,15 @@ Hallitus on velvollinen antamaan toiminnantarkastajien käytettäväksi kaiken s
 
 Toiminnantarkastajat laativat tarkastuskertomuksen, jossa mainitaan heidän saamansa käsitys yhdistyksen hallinnosta sekä tileistä. Kertomuksesta käy selville toiminnantarkastajien kanta tilinpäätöksen vahvistamiseen ja vastuuvapauden myöntämiseen.
 
-## 12 § Ohjesäännön voimassaolo ja muuttaminen
+#### 12 § Ohjesäännön voimassaolo ja muuttaminen
 
 Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 6.3.2017 ja kohtaa 4§ on muokattu yhdistyksen kokouksesa 19.11.2018 ja se on voimassa toistaiseksi. ja se on voimassa toistaiseksi. Tämän ohjesäännön muuttamisesta päättää yhdistyksen kokous yksinkertaisella äänten enemmistöllä.
 
 
-# Juhanauhaohjesääntö
+---
+
+
+# Juhlanauhaohjesääntö
 
 **1§** Linkki Jyväskylä ry:llä on juhlanauha, jota käytetään ylioppilaskuntanauhan tavoin akateemisissa juhlatilaisuuksissa ja yhdistystä edustettaessa.
 
@@ -313,9 +333,12 @@ Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 6.3.2017 ja kohtaa 4
 **9§** Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 6.3.2017 ja muokattu kohtaa 3§ yhdistyksen ylimääräisessä kokouksessa 24.1.2018 ja se on voimassa toistaiseksi. Tämän ohjesäännön muuttamisesta päättää yhdistyksen kokous yksinkertaisella äänten enemmistöllä.
 
 
+---
+
+
 # Ansiomerkkiohjesääntö
 
-## Kunniamaininta
+#### Kunniamaininta
 
 **1§** Linkki Jyväskylä ry:llä on akateeminen ansiomerkki, jonka yhdistyksen hallitus voi myöntää ansioituneelle Linkki Jyväskylä ry:n jäsenelle. Ansiomerkkiä ei voida myöntää istuvan hallituksen jäsenelle, pois lukien vuoden linkkarille jaettava merkki. Ansiomerkki voidaan myöntää myös yhdistyksen entiselle jäsenelle, joka on toiminut ansiokkaasti yhdistyksen hyväksi myös yhdistyksestä eroamisen jälkeen. Ansiomerkki on kooltaan 28 mm ja väriltään hopeinen.
 
@@ -327,7 +350,7 @@ Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 6.3.2017 ja kohtaa 4
 
 **5§** Myönnetyt ansiomerkit luovutetaan saajilleen seuraavissa yhdistyksen vuosijuhlissa, vuosijuhlasitseillä tai muussa hallituksen sopivaksi katsomassa arvokkaassa tilaisuudessa.
 
-## Kunniajäsenyys
+#### Kunniajäsenyys
 
 **6§** Linkki Jyväskylä ry:llä on akateeminen kunniajäsenmerkki, jonka yhdistyksen hallitus voi myöntää vain Linkki Jyväskylä ry:n kunniajäsenelle. Merkki voidaan myöntää kunniajäseneksi myöntämisen yhteydessä tai takautuvasti kunniajäsenelle.
 
@@ -337,24 +360,27 @@ Ansiomerkki voidaan myöntää myös yhdistyksen entiselle jäsenelle. Ansiomerk
 
 **8§** Myönnetyt ansiomerkit luovutetaan saajilleen seuraavissa yhdistyksen vuosijuhlissa, vuosijuhlasitseillä tai muussa hallituksen sopivaksi katsomassa arvokkaassa tilaisuudessa.
 
-## Hallitusmerkit
+#### Hallitusmerkit
 
 **9§** Linkki Jyväskylä ry:llä on akateeminen hallitusmerkki, joka myönnetään käyttöön yhdistyksen hallituksen jäsenille. Ansiomerkki voidaan myöntää myös yhdistyksen hallituksen entiselle jäsenelle. Ansiomerkki on kooltaan 28 mm ja väriltään kultainen.
 
-## Yleisiä ohjeita
+#### Yleisiä ohjeita
 
 **10§** Kaikkien Linkki Jyväskylä ry:n myöntämien ansiomerkkien käyttöoikeus on elinikäinen.
 
 **11§** Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 6.3.2017 ja muokattu kohtia 4§ ja 7§  yhdistyksen ylimääräisessä kokouksessa 24.1.2018 sekä lisätty kohta 3§ ja muokattu kohtia 1§ ja 2§ yhdistyksen ylimääräisessä kokouksessa 29.1.2019. Se on voimassa toistaiseksi. Tämän ohjesäännön muuttamisesta päättää yhdistyksen kokous yksinkertaisella äänten enemmistöllä.
 
 
+---
+
+
 # Hallitushakuohjesääntö
 
-# 1 § Soveltaminen
+#### 1 § Soveltaminen
 
 Linkki Jyväskylä ry:n hallitushakuprosessissa noudatetaan tätä ohjesääntöä siltä osin, kuin yhdistystä koskevissa laeissa tai yhdistyksen säännöissä ei toisin mainita tai yhdistyksen kokouksessa muulla päätöksellä ole toisin päätetty.
 
-# 2 § Yhdistyksen hallituksen toiminta hakuprosessissa
+#### 2 § Yhdistyksen hallituksen toiminta hakuprosessissa
 
 Hallituksen tulee avata sähköinen hakulomake hallitushakijoille viimeistään neljä (4) viikkoa ennen yhdistyksen sääntömääräistä syyskokousta. Hakulomake on suljettava aikaisintaan kaksi viikkoa ennen kokousta.
 
@@ -364,7 +390,7 @@ Hallituksen tulee järjestää vähintään kaksi (2) tapahtumaa, jossa hallituk
 
 Hallitus järjestää haastattelut hallitushakijoille, joissa on paikalla haastattelijoina yhdistyksen puheenjohtaja ja puheenjohtajaksi hakevat henkilöt, sekä haastateltava henkilö.
 
-# 3 § Hakijoiden toiminta hakuprosessissa
+#### 3 § Hakijoiden toiminta hakuprosessissa
 
 Hallitushakijoiden tulee täyttää hallituksen sähköinen hakulomake määräaikaan mennessä. Täyttämällä lomakkeen hakija ilmoittaa olevansa käytettävissä hallitukseen. Mikäli hakija muuttaa mieltään on hakijan ilmoitettava siitä yhdistyksen puheenjohtajalle viipymättä tai kokouksessa kokouksen puheenjohtajalle.
 
@@ -374,42 +400,143 @@ Puheenjohtajaehdokkaat ilmoittavat valitsemilleen hakijoille valinnastaan listal
 
 Hakijalla on myös oikeus nousta ehdolle yhdistyksen kokouksessa, jolloin puheenjohtajaehdokkaat saavat miettiä listansa uudelleen, mikäli kokevat siihen tarvetta.
 
-# 4 § Toiminta syyskokouksessa
+#### 4 § Toiminta syyskokouksessa
 
 Hallitus valitaan kokouksen puheenjohtajalle jätettävien listojen perusteella.  Puheenjohtajaksi valitun hakijan on jätettävä oma listansa kokouksen puheenjohtajalle.
 
-# 5 § Ohjesäännön voimassaolo ja muuttaminen
+#### 5 § Ohjesäännön voimassaolo ja muuttaminen
 
 Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 19.11.2018 ja se on voimassa toistaiseksi. Tämän ohjesäännön muuttamisesta päättää yhdistyksen kokous yksinkertaisella äänten enemmistöllä.
 
 
+---
+
+
 # Jäsenrekisteriseloste
 
-**Rekisteri- ja tietosuojaseloste**
+#### Rekisteri- ja tietosuojaseloste
 
 Tämä on Linkki Jyväskylä ry:n henkilötietolain (10 ja 24 §) ja EU:n yleisen tietosuoja-asetuksen (GDPR) mukainen rekisteri- ja tietosuojaseloste. Laadittu 24.05.2018. Päivitetty 24.1.2019. Päivitetty 25.10.2021.
 
-1. Rekisterinpitäjä
-    Linkki Jyväskylä ry / IT-Tiedekunta
-    PL 35 (Agora)
-    40014 Jyväskylän yliopisto
-2. Rekisteristä vastaava yhteyshenkilö
-    Linkki Jyväskylä ry:n sihteeri (sihteeri@linkkijkl.fi) ja Linkki Jyväskylä ry:n webmaster (webmaster@.linkkijkl.fi)
-3. Rekisterin nimi
-    Yhdistyksen jäsenrekisteri.
-4. Oikeusperuste ja henkilötietojen käsittelyn tarkoitus
-    EU:n yleisen tietosuoja-asetuksen mukainen oikeusperuste henkilötietojen käsittelylle on rekisterinpitäjän oikeutettu etu (jäsenyys).
-    Henkilötietojen käsittelyn tarkoitus on yhteydenpito jäseniin, sekä jäsenyyden tarkistaminen, silloin kun sitä vaaditaan (esim. Sääntömääräinen kokous).
-    Tietoja ei käytetä automatisoituun päätöksentekoon tai profilointiin. Yhdistyslain mukaan yhdistyksen hallituksen on pidettävä jäsenistä luetteloa.
-5. Rekisterin tietosisältö
-    Rekisteriin tallennettavia tietoja ovat: henkilön nimi, yhteystiedot (sähköpostiosoite), kotipaikkakunta
-6. Säännönmukaiset tietolähteet
-    Rekisteriin tallennettavat tiedot saadaan jäseneltä www-lomakkeilla lähetetyistä viesteistä tai tapaamisessa.
-7. Tietojen säännönmukaiset luovutukset ja tietojen siirto EU:n tai ETA:n ulkopuolelle
-    Tietoja ei luovuteta säännönmukaisesti muille tahoille.
-8. Rekisterin suojauksen periaatteet
-    Rekisterin käsittelyssä noudatetaan huolellisuutta ja tietojärjestelmien avulla käsiteltävät tiedot suojataan asianmukaisesti. Kun rekisteritietoja säilytetään Internet-palvelimilla, niiden laitteiston fyysisestä ja digitaalisesta tietoturvasta huolehditaan asiaankuuluvasti. Rekisterinpitäjä huolehtii siitä, että tallennettuja tietoja sekä palvelimien käyttöoikeuksia ja muita henkilötietojen turvallisuuden kannalta kriittisiä tietoja käsitellään luottamuksellisesti ja vain niiden henkilöiden toimesta, joiden työnkuvaan se kuuluu.
-9. Tarkastusoikeus ja oikeus vaatia tiedon korjaamista
-    Jokaisella rekisterissä olevalla henkilöllä on oikeus tarkistaa rekisteriin tallennetut tietonsa ja vaatia mahdollisen virheellisen tiedon korjaamista tai puutteellisen tiedon täydentämistä. Mikäli henkilö haluaa tarkistaa hänestä tallennetut tiedot tai vaatia niihin oikaisua, pyyntö tulee lähettää kirjallisesti rekisterinpitäjälle. Rekisterinpitäjä voi pyytää tarvittaessa pyynnön esittäjää todistamaan henkilöllisyytensä. Rekisterinpitäjä vastaa asiakkaalle EU:n tietosuoja-asetuksessa säädetyssä ajassa.
-10. Muut henkilötietojen käsittelyyn liittyvät oikeudet
-    Rekisterissä olevalla henkilöllä on oikeus pyytää häntä koskevien henkilötietojen poistamiseen rekisteristä (”oikeus tulla unohdetuksi”). Niin ikään rekisteröidyillä on muut EU:n yleisen tietosuoja-asetuksen mukaiset oikeudet kuten henkilötietojen käsittelyn rajoittaminen tietyissä tilanteissa. Pyynnöt tulee lähettää kirjallisesti rekisterinpitäjälle. Rekisterinpitäjä voi pyytää tarvittaessa pyynnön esittäjää todistamaan henkilöllisyytensä. Rekisterinpitäjä vastaa asiakkaalle EU:n tietosuoja-asetuksessa säädetyssä ajassa
+#### 1. Rekisterinpitäjä
+
+Linkki Jyväskylä ry / IT-Tiedekunta
+
+PL 35 (Agora)
+
+40014 Jyväskylän yliopisto
+
+#### 2. Rekisteristä vastaava yhteyshenkilö
+
+Linkki Jyväskylä ry:n sihteeri (sihteeri@linkkijkl.fi) ja Linkki Jyväskylä ry:n webmaster (webmaster@linkkijkl.fi)
+
+#### 3. Rekisterin nimi
+
+Yhdistyksen jäsenrekisteri.
+
+#### 4. Oikeusperuste ja henkilötietojen käsittelyn tarkoitus
+
+EU:n yleisen tietosuoja-asetuksen mukainen oikeusperuste henkilötietojen käsittelylle on rekisterinpitäjän oikeutettu etu (jäsenyys).
+Henkilötietojen käsittelyn tarkoitus on yhteydenpito jäseniin, sekä jäsenyyden tarkistaminen, silloin kun sitä vaaditaan (esim. Sääntömääräinen kokous).
+Tietoja ei käytetä automatisoituun päätöksentekoon tai profilointiin. Yhdistyslain mukaan yhdistyksen hallituksen on pidettävä jäsenistä luetteloa.
+
+#### 5. Rekisterin tietosisältö
+
+Rekisteriin tallennettavia tietoja ovat: henkilön nimi, yhteystiedot (sähköpostiosoite), kotipaikkakunta
+
+#### 6. Säännönmukaiset tietolähteet
+
+Rekisteriin tallennettavat tiedot saadaan jäseneltä www-lomakkeilla lähetetyistä viesteistä tai tapaamisessa.
+
+#### 7. Tietojen säännönmukaiset luovutukset ja tietojen siirto EU:n tai ETA:n ulkopuolelle
+
+Tietoja ei luovuteta säännönmukaisesti muille tahoille.
+
+#### 8. Rekisterin suojauksen periaatteet
+
+Rekisterin käsittelyssä noudatetaan huolellisuutta ja tietojärjestelmien avulla käsiteltävät tiedot suojataan asianmukaisesti. Kun rekisteritietoja säilytetään Internet-palvelimilla, niiden laitteiston fyysisestä ja digitaalisesta tietoturvasta huolehditaan asiaankuuluvasti. Rekisterinpitäjä huolehtii siitä, että tallennettuja tietoja sekä palvelimien käyttöoikeuksia ja muita henkilötietojen turvallisuuden kannalta kriittisiä tietoja käsitellään luottamuksellisesti ja vain niiden henkilöiden toimesta, joiden työnkuvaan se kuuluu.
+
+#### 9. Tarkastusoikeus ja oikeus vaatia tiedon korjaamista
+
+Jokaisella rekisterissä olevalla henkilöllä on oikeus tarkistaa rekisteriin tallennetut tietonsa ja vaatia mahdollisen virheellisen tiedon korjaamista tai puutteellisen tiedon täydentämistä. Mikäli henkilö haluaa tarkistaa hänestä tallennetut tiedot tai vaatia niihin oikaisua, pyyntö tulee lähettää kirjallisesti rekisterinpitäjälle. Rekisterinpitäjä voi pyytää tarvittaessa pyynnön esittäjää todistamaan henkilöllisyytensä. Rekisterinpitäjä vastaa asiakkaalle EU:n tietosuoja-asetuksessa säädetyssä ajassa.
+
+#### 10. Muut henkilötietojen käsittelyyn liittyvät oikeudet
+
+Rekisterissä olevalla henkilöllä on oikeus pyytää häntä koskevien henkilötietojen poistamiseen rekisteristä (”oikeus tulla unohdetuksi”). Niin ikään rekisteröidyillä on muut [EU:n yleisen tietosuoja-asetuksen mukaiset oikeudet](http://eur-lex.europa.eu/legal-content/FI/TXT/?uri=CELEX%3A32016R0679#d1e2144-1-1) kuten henkilötietojen käsittelyn rajoittaminen tietyissä tilanteissa. Pyynnöt tulee lähettää kirjallisesti rekisterinpitäjälle. Rekisterinpitäjä voi pyytää tarvittaessa pyynnön esittäjää todistamaan henkilöllisyytensä. Rekisterinpitäjä vastaa asiakkaalle EU:n tietosuoja-asetuksessa säädetyssä ajassa
+
+
+---
+
+
+# Tapahtumien rekisteriseloste
+
+#### Tapahtumarekisteri
+
+Tämä on Linkki Jyväskylä ry:n henkilötietolain (10 ja 24 §) ja EU:n yleisen tietosuoja-asetuksen (GDPR) mukainen rekisteri- ja tietosuojaseloste. Laadittu 24.5.2018. Päivitetty 25.10.2021.
+
+#### 1. Rekisterinpitäjä
+
+Linkki Jyväskylä ry / IT-Tiedekunta
+PL 35 (Agora)
+40014 Jyväskylän yliopisto
+
+#### 2. Rekisteristä vastaava yhteyshenkilö
+
+Paavo Nieminen
+sihteeri@linkkijkl.fi
+
+#### 3. Rekisterin nimi
+
+Tapahtumien ilmoittautumisrekisteri.
+
+#### 4. Oikeusperuste ja henkilötietojen käsittelyn tarkoitus
+
+EU:n yleisen tietosuoja-asetuksen mukainen oikeusperuste henkilötietojen käsittelylle ovat henkilön suostumus ja rekisterinpitäjän oikeutettu etu.
+
+#### 5. Rekisterin tietosisältö
+
+Rekisteriin tallennettavia tietoja ovat: henkilön nimi, yhteystiedot ja allergiat.
+
+#### 6. Säännönmukaiset tietolähteet
+
+Rekisterin tiedot saadaan henkilön omatoimisesta ilmoittautumisesta tapahtumaan. Arkaluonteisina henkilötietoina pidettävät ruoka-aineallergiat henkilö ilmoittaa itse ja täten antaa nimenomaisen suostumuksensa niiden käsittelyyn (Henkilötietolaki 12.1 kohta 1).
+
+#### 7. Tietojen säännönmukaiset luovutukset ja tietojen siirto EU:n tai ETA:n ulkopuolelle
+
+Tietoja ei luovuteta säännönmukaisesti muille tahoille.
+
+#### 8. Rekisterin suojauksen periaatteet
+
+Rekisterin käsittelyssä noudatetaan huolellisuutta ja tietojärjestelmien avulla käsiteltävät tiedot suojataan asianmukaisesti. Kun rekisteritietoja säilytetään Internet-palvelimilla, niiden laitteiston fyysisestä ja digitaalisesta tietoturvasta huolehditaan asiaankuuluvasti. Rekisterinpitäjä huolehtii siitä, että tallennettuja tietoja sekä palvelimien käyttöoikeuksia ja muita henkilötietojen turvallisuuden kannalta kriittisiä tietoja käsitellään luottamuksellisesti ja vain niiden työntekijöiden toimesta, joiden työnkuvaan se kuuluu.
+
+#### 9. Tarkastusoikeus ja oikeus vaatia tiedon korjaamista
+
+Jokaisella rekisterissä olevalla henkilöllä on oikeus tarkistaa rekisteriin tallennetut tietonsa ja vaatia mahdollisen virheellisen tiedon korjaamista tai puutteellisen tiedon täydentämistä. Mikäli henkilö haluaa tarkistaa hänestä tallennetut tiedot tai vaatia niihin oikaisua, pyyntö tulee lähettää kirjallisesti rekisterinpitäjälle. Rekisterinpitäjä voi pyytää tarvittaessa pyynnön esittäjää todistamaan henkilöllisyytensä. Rekisterinpitäjä vastaa asiakkaalle EU:n tietosuoja-asetuksessa säädetyssä ajassa (pääsääntöisesti kuukauden kuluessa).
+
+#### 10. Muut henkilötietojen käsittelyyn liittyvät oikeudet
+
+Rekisterissä olevalla henkilöllä on oikeus pyytää häntä koskevien henkilötietojen poistamiseen rekisteristä (”oikeus tulla unohdetuksi”). Niin ikään rekisteröidyillä on muut [EU:n yleisen tietosuoja-asetuksen mukaiset oikeudet](http://eur-lex.europa.eu/legal-content/FI/TXT/?uri=CELEX%3A32016R0679#d1e2144-1-1) kuten henkilötietojen käsittelyn rajoittaminen tietyissä tilanteissa. Pyynnöt tulee lähettää kirjallisesti rekisterinpitäjälle. Rekisterinpitäjä voi pyytää tarvittaessa pyynnön esittäjää todistamaan henkilöllisyytensä. Rekisterinpitäjä vastaa asiakkaalle EU:n tietosuoja-asetuksessa säädetyssä ajassa (pääsääntöisesti kuukauden kuluessa).
+
+
+---
+
+
+# Yhdenvertaisuussuunnitelma
+
+TODO
+
+
+---
+
+
+# Ympäristösuunnitelma
+
+TODO
+
+
+---
+
+
+# JYYn turvallisemman tilan periaatteet
+
+TODO
