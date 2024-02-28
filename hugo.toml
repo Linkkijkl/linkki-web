@@ -216,7 +216,7 @@ defaultContentLanguage = 'fi'
     # https://pkg.go.dev/time
     date_format = "2.1.2006"
     
-    dropdown_mouse_over = true
+    dropdown_mouse_over = false
 
 
 [params.carouselHomepage]
