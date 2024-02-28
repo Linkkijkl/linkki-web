@@ -39,7 +39,7 @@ defaultContentLanguage = 'fi'
 [[menu.main]]
     name = "Säännöt ja ohjeet"
     identifier = "menu.saannot"
-    url = "/yhdistys/säännöt"
+    url = "/yhdistys/säännöt/"
     parent = "menu.yhdistys"
     weight = 1
 
@@ -47,7 +47,7 @@ defaultContentLanguage = 'fi'
 [[menu.main]]
     name = "Hallitus"
     identifier = "menu.hallitus"
-    url = "/yhdistys/hallitus"
+    url = "/yhdistys/hallitus/"
     parent = "menu.yhdistys"
     weight = 2
 
@@ -55,7 +55,7 @@ defaultContentLanguage = 'fi'
 [[menu.main]]
     name = "Järjestyksen historia"
     identifier = "menu.historia"
-    url = "/yhdistys/historia"
+    url = "/yhdistys/historia/"
     parent = "menu.yhdistys"
     weight = 3
 
@@ -63,7 +63,7 @@ defaultContentLanguage = 'fi'
 [[menu.main]]
     name = "Jäsenedut"
     identifier = "menu.edut"
-    url = "/yhdistys/jäsenedut"
+    url = "/yhdistys/jäsenedut/"
     parent = "menu.yhdistys"
     weight = 4
 
@@ -71,7 +71,7 @@ defaultContentLanguage = 'fi'
 [[menu.main]]
     name = "Jäseneksi"
     identifier = "menu.jäseneksi"
-    url = "/yhdistys/jäseneksi"
+    url = "/yhdistys/jäseneksi/"
     parent = "menu.yhdistys"
     weight = 5
 
@@ -79,7 +79,7 @@ defaultContentLanguage = 'fi'
 [[menu.main]]
     name = "Aktiivi-info"
     identifier = "menu.aktiivi"
-    url = "/yhdistys/aktiivi"
+    url = "/yhdistys/aktiivi/"
     parent = "menu.yhdistys"
     weight = 6
 
@@ -87,7 +87,7 @@ defaultContentLanguage = 'fi'
 [[menu.main]]
     name = "Pöytäkirjat"
     identifier = "menu.pöytäkirjat"
-    url = "/yhdistys/pöytäkirjat"
+    url = "/yhdistys/pöytäkirjat/"
     parent = "menu.yhdistys"
     weight = 7
 
@@ -101,7 +101,7 @@ defaultContentLanguage = 'fi'
 [[menu.main]]
     name = "Kattila"
     identifier = "menu.kattila"
-    url = "/toiminta/kattila"
+    url = "/toiminta/kattila/"
     parent = "menu.toiminta"
     weight = 1
 
@@ -109,7 +109,7 @@ defaultContentLanguage = 'fi'
 [[menu.main]]
     name = "Tenttiarkisto"
     identifier = "menu.tenttiarkisto"
-    url = "/toiminta/tenttiarkisto"
+    url = "/toiminta/tenttiarkisto/"
     parent = "menu.toiminta"
     weight = 2
 
@@ -117,7 +117,7 @@ defaultContentLanguage = 'fi'
 [[menu.main]]
     name = "Laitteistovuokraus"
     identifier = "menu.vuokraus"
-    url = "/toiminta/vuokraus"
+    url = "/toiminta/vuokraus/"
     parent = "menu.toiminta"
     weight = 3
 
@@ -125,7 +125,7 @@ defaultContentLanguage = 'fi'
 [[menu.main]]
     name = "Haalarimerkit"
     identifier = "menu.haalarimerkit"
-    url = "/toiminta/haalarimerkit"
+    url = "/toiminta/haalarimerkit/"
     parent = "menu.toiminta"
     weight = 4
 
@@ -133,7 +133,7 @@ defaultContentLanguage = 'fi'
 [[menu.main]]
     name = "Keskustelukanavat"
     identifier = "menu.keskustelukanavat"
-    url = "/toiminta/keskustelukanavat"
+    url = "/toiminta/keskustelukanavat/"
     parent = "menu.toiminta"
     weight = 5
 
@@ -147,7 +147,7 @@ defaultContentLanguage = 'fi'
 [[menu.main]]
     name = "Kalenteri"
     identifier = "menu.kalenteri"
-    url = "/tapahtumat/kalenteri"
+    url = "/tapahtumat/kalenteri/"
     parent = "menu.tapahtumat"
     weight = 1
 
@@ -155,7 +155,7 @@ defaultContentLanguage = 'fi'
 [[menu.main]]
     name = "Jyväsmetro"
     identifier = "menu.metro"
-    url = "/tapahtumat/metro"
+    url = "/tapahtumat/metro/"
     parent = "menu.tapahtumat"
     weight = 2
 
@@ -163,7 +163,7 @@ defaultContentLanguage = 'fi'
 [[menu.main]]
     name = "Instanssi"
     identifier = "menu.instanssi"
-    url = "/tapahtumat/instanssi"
+    url = "/tapahtumat/instanssi/"
     parent = "menu.tapahtumat"
     weight = 3
 
@@ -171,7 +171,7 @@ defaultContentLanguage = 'fi'
 [[menu.main]]
     name = "Lukupiiri"
     identifier = "menu.lukupiiri"
-    url = "/tapahtumat/lukupiiri"
+    url = "/tapahtumat/lukupiiri/"
     parent = "menu.tapahtumat"
     weight = 4
 
@@ -179,7 +179,7 @@ defaultContentLanguage = 'fi'
 [[menu.main]]
     name = "Kässäkerho"
     identifier = "menu.kässäkerho"
-    url = "/tapahtumat/kässäkerho"
+    url = "/tapahtumat/kässäkerho/"
     parent = "menu.tapahtumat"
     weight = 5
 
@@ -187,14 +187,14 @@ defaultContentLanguage = 'fi'
 [[menu.main]]
     name = "Yhteistyö"
     identifier = "menu.yhteistyö"
-    url = "/yhteistyö"
+    url = "/yhteistyö/"
     weight = 4
 
 
 [[menu.main]]
     name = "A href"
     identifier = "menu.ahref"
-    url = "/ahref"
+    url = "/ahref/"
     weight = 5
 
 
