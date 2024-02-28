@@ -343,6 +343,42 @@ Ansiomerkki voidaan myöntää myös yhdistyksen entiselle jäsenelle. Ansiomerk
 
 ## Yleisiä ohjeita
 
-**10**§ Kaikkien Linkki Jyväskylä ry:n myöntämien ansiomerkkien käyttöoikeus on elinikäinen.
+**10§** Kaikkien Linkki Jyväskylä ry:n myöntämien ansiomerkkien käyttöoikeus on elinikäinen.
 
-**11**§ Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 6.3.2017 ja muokattu kohtia 4§ ja 7§  yhdistyksen ylimääräisessä kokouksessa 24.1.2018 sekä lisätty kohta 3§ ja muokattu kohtia 1§ ja 2§ yhdistyksen ylimääräisessä kokouksessa 29.1.2019. Se on voimassa toistaiseksi. Tämän ohjesäännön muuttamisesta päättää yhdistyksen kokous yksinkertaisella äänten enemmistöllä.
+**11§** Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 6.3.2017 ja muokattu kohtia 4§ ja 7§  yhdistyksen ylimääräisessä kokouksessa 24.1.2018 sekä lisätty kohta 3§ ja muokattu kohtia 1§ ja 2§ yhdistyksen ylimääräisessä kokouksessa 29.1.2019. Se on voimassa toistaiseksi. Tämän ohjesäännön muuttamisesta päättää yhdistyksen kokous yksinkertaisella äänten enemmistöllä.
+
+
+# Hallitushakuohjesääntö
+
+# 1 § Soveltaminen
+
+Linkki Jyväskylä ry:n hallitushakuprosessissa noudatetaan tätä ohjesääntöä siltä osin, kuin yhdistystä koskevissa laeissa tai yhdistyksen säännöissä ei toisin mainita tai yhdistyksen kokouksessa muulla päätöksellä ole toisin päätetty.
+
+# 2 § Yhdistyksen hallituksen toiminta hakuprosessissa
+
+Hallituksen tulee avata sähköinen hakulomake hallitushakijoille viimeistään neljä (4) viikkoa ennen yhdistyksen sääntömääräistä syyskokousta. Hakulomake on suljettava aikaisintaan kaksi viikkoa ennen kokousta.
+
+Hallituksen tulee huolehtia siitä, että hallituksen toimintaa ja rooleja on esitelty yhdistyksen viestintäkanavissa kattavasti.
+
+Hallituksen tulee järjestää vähintään kaksi (2) tapahtumaa, jossa hallituksen toimintaa esitellään, joilla mainostetaan hallitukseen hakemista ja joissa yhdistyksen jäsenet pääsevät tutustumaan hakijoihin etukäteen.
+
+Hallitus järjestää haastattelut hallitushakijoille, joissa on paikalla haastattelijoina yhdistyksen puheenjohtaja ja puheenjohtajaksi hakevat henkilöt, sekä haastateltava henkilö.
+
+# 3 § Hakijoiden toiminta hakuprosessissa
+
+Hallitushakijoiden tulee täyttää hallituksen sähköinen hakulomake määräaikaan mennessä. Täyttämällä lomakkeen hakija ilmoittaa olevansa käytettävissä hallitukseen. Mikäli hakija muuttaa mieltään on hakijan ilmoitettava siitä yhdistyksen puheenjohtajalle viipymättä tai kokouksessa kokouksen puheenjohtajalle.
+
+Hakijoiden haastattelujen perusteella puheenjohtajaehdokkaat muodostavat oman listansa tulevan hallituksen kokoonpanosta.
+
+Puheenjohtajaehdokkaat ilmoittavat valitsemilleen hakijoille valinnastaan listalleen, ja pyytävät tältä suostumuksen listalleen osallistumisesta ennen syyskokousta.
+
+Hakijalla on myös oikeus nousta ehdolle yhdistyksen kokouksessa, jolloin puheenjohtajaehdokkaat saavat miettiä listansa uudelleen, mikäli kokevat siihen tarvetta.
+
+# 4 § Toiminta syyskokouksessa
+
+Hallitus valitaan kokouksen puheenjohtajalle jätettävien listojen perusteella.  Puheenjohtajaksi valitun hakijan on jätettävä oma listansa kokouksen puheenjohtajalle.
+
+# 5 § Ohjesäännön voimassaolo ja muuttaminen
+
+Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 19.11.2018 ja se on voimassa toistaiseksi. Tämän ohjesäännön muuttamisesta päättää yhdistyksen kokous yksinkertaisella äänten enemmistöllä.
+
