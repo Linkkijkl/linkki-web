@@ -1,4 +1,4 @@
-baseURL = 'https://dev.linkkijkl.fi/'
+baseURL = 'https://new.linkkijkl.fi/'
 languageCode = 'fi'
 title = 'Linkki Jyväskylä ry.'
 theme = "hugo-universal-theme"
