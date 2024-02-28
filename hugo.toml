@@ -8,7 +8,7 @@ paginate = 10
 # Don't pluralize title pages by default
 pluralizeListTitles = false
 
-staticDir = ["static"]
+staticDir = ["static", "dynamic"]
 
 
 # https://gohugo.io/content-management/multilingual/
