@@ -311,3 +311,38 @@ Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 6.3.2017 ja kohtaa 4
 **8§** Kunniajäsenillä on oikeus käyttää juhlanauhan kanssa Linkin kunniamerkkiä. Kunniamerkki on Linkin tunnuksen muotoinen (halkaisija 42 mm) kullattu pinssi. Miehet kantavat merkkiä siten, että se on kiinnitetty juhlanauhaan keskelle rintaa vaakasuoraan. Naiset kantavat merkkiä keskellä juhlanauhasta taiteltua ruusuketta. Kunniamerkin käyttöoikeus juhlanauhassa on elinikäinen
 
 **9§** Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 6.3.2017 ja muokattu kohtaa 3§ yhdistyksen ylimääräisessä kokouksessa 24.1.2018 ja se on voimassa toistaiseksi. Tämän ohjesäännön muuttamisesta päättää yhdistyksen kokous yksinkertaisella äänten enemmistöllä.
+
+
+# Ansiomerkkiohjesääntö
+
+## Kunniamaininta
+
+**1§** Linkki Jyväskylä ry:llä on akateeminen ansiomerkki, jonka yhdistyksen hallitus voi myöntää ansioituneelle Linkki Jyväskylä ry:n jäsenelle. Ansiomerkkiä ei voida myöntää istuvan hallituksen jäsenelle, pois lukien vuoden linkkarille jaettava merkki. Ansiomerkki voidaan myöntää myös yhdistyksen entiselle jäsenelle, joka on toiminut ansiokkaasti yhdistyksen hyväksi myös yhdistyksestä eroamisen jälkeen. Ansiomerkki on kooltaan 28 mm ja väriltään hopeinen.
+
+**2§** Ansiomerkkejä voidaan myöntää vuoden aikana korkeintaan kolme ansiomerkkiä Linkki Jyväskylä ry:n jäsenille tai entisille jäsenille, joista yksi voidaan myöntää vuoden linkkari – äänestyksen voittaneelle henkilölle. Hallitus voi hyvin perustelluista syistä jättää antamatta vuoden linkkari merkin eniten ääniä saaneelle henkilön erityisen painavista syistä ja antaa sen seuraavaksi eniten ääniä saaneelle. Yhdistyksen hallituksen on pidettävä rekisteriä ansiomerkin saajista ja myöntämisajankohdista.
+
+**3§** Vuoden linkkari äänestetään vuosittain marraskuussa ja äänestysaika on 3 viikkoa. Äänioikeutettuja ovat kaikki Linkki Jyväskylä ry:n jäsenet. Äänestyksestä tulee tiedottaa jäsenistölle sähköpostilla ja Linkin nettisivuilla.
+
+**4§** Ansiomerkin myöntämisperusteena on jäsenen osoittama työ Linkki Jyväskylä ry:n hyväksi. Myöntämisen yhteydessä hallituksen on yksilöitävä myöntämisperusteet, jotka on arkistoitava.
+
+**5§** Myönnetyt ansiomerkit luovutetaan saajilleen seuraavissa yhdistyksen vuosijuhlissa, vuosijuhlasitseillä tai muussa hallituksen sopivaksi katsomassa arvokkaassa tilaisuudessa.
+
+## Kunniajäsenyys
+
+**6§** Linkki Jyväskylä ry:llä on akateeminen kunniajäsenmerkki, jonka yhdistyksen hallitus voi myöntää vain Linkki Jyväskylä ry:n kunniajäsenelle. Merkki voidaan myöntää kunniajäseneksi myöntämisen yhteydessä tai takautuvasti kunniajäsenelle.
+
+Ansiomerkki voidaan myöntää myös yhdistyksen entiselle jäsenelle. Ansiomerkki on kooltaan 42 mm ja väriltään kultainen.
+
+**7§** Ansiomerkkejä voidaan myöntää vuoden aikana korkeintaan yksi, poislukien takautuvasti myönnetyt ansiomerkit yhdistyksen aikaisempien hallitusten päättämille kunniajäsenille. Yhdistyksen hallituksen on pidettävä rekisteriä ansiomerkin saajista ja myöntämisajankohdista.
+
+**8§** Myönnetyt ansiomerkit luovutetaan saajilleen seuraavissa yhdistyksen vuosijuhlissa, vuosijuhlasitseillä tai muussa hallituksen sopivaksi katsomassa arvokkaassa tilaisuudessa.
+
+## Hallitusmerkit
+
+**9§** Linkki Jyväskylä ry:llä on akateeminen hallitusmerkki, joka myönnetään käyttöön yhdistyksen hallituksen jäsenille. Ansiomerkki voidaan myöntää myös yhdistyksen hallituksen entiselle jäsenelle. Ansiomerkki on kooltaan 28 mm ja väriltään kultainen.
+
+## Yleisiä ohjeita
+
+**10**§ Kaikkien Linkki Jyväskylä ry:n myöntämien ansiomerkkien käyttöoikeus on elinikäinen.
+
+**11**§ Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 6.3.2017 ja muokattu kohtia 4§ ja 7§  yhdistyksen ylimääräisessä kokouksessa 24.1.2018 sekä lisätty kohta 3§ ja muokattu kohtia 1§ ja 2§ yhdistyksen ylimääräisessä kokouksessa 29.1.2019. Se on voimassa toistaiseksi. Tämän ohjesäännön muuttamisesta päättää yhdistyksen kokous yksinkertaisella äänten enemmistöllä.
