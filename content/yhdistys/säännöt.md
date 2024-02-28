@@ -8,7 +8,7 @@ keywords = ["säännöt", "ohjeet"]
 
 Alla olevat säännöt astuivat voimaan alkaen 4.10.2023.
 
-#### LINKKI JYVÄSKYLÄ RY:N SÄÄNNÖT
+**LINKKI JYVÄSKYLÄ RY:N SÄÄNNÖT**
 
 #### 1. YHDISTYKSEN NIMI JA KOTIPAIKKA
 
