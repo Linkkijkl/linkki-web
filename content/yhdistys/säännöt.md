@@ -290,3 +290,24 @@ Toiminnantarkastajat laativat tarkastuskertomuksen, jossa mainitaan heidän saam
 ## 12 § Ohjesäännön voimassaolo ja muuttaminen
 
 Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 6.3.2017 ja kohtaa 4§ on muokattu yhdistyksen kokouksesa 19.11.2018 ja se on voimassa toistaiseksi. ja se on voimassa toistaiseksi. Tämän ohjesäännön muuttamisesta päättää yhdistyksen kokous yksinkertaisella äänten enemmistöllä.
+
+
+# Juhanauhaohjesääntö
+
+**1§** Linkki Jyväskylä ry:llä on juhlanauha, jota käytetään ylioppilaskuntanauhan tavoin akateemisissa juhlatilaisuuksissa ja yhdistystä edustettaessa.
+
+**2§** Juhlanauha on 45 mm leveä ja sen värit ovat sininen ja hopea. Nauhan mitat ovat ylhäältä alas lukien 25 mm ja 20 mm. Värit ovat järjestyksessä sininen-hopea.
+
+**3§** Nauhan käyttöoikeus on Linkki Jyväskylä ry:n hallituksella ja kunniajäsenillä. Juhlanauhan käyttöoikeus elinikäinen ja juhlanauha luovutetaan veloituksetta.
+
+**4§** Juhlanauhaa kannetaan siten, että se kulkee oikealta olkapäältä rinnan yli vasemmalle lantiolle, hopeinen väri alhaalla. Miehet kantavat juhlanauhaa juhlapuvussa (frakki) liivin alla ja tummassa puvussa liivin ja solmion päällä. Naiset voivat kantaa juhlanauhaa taiteltuna ruusukkeena vasemmalla puolella rintaa. Juhlanauha ei saa koskettaa paljasta ihoa
+
+**5§** Käytettäessä juhlanauhaa tulee muun pukeutumisen olla tilaisuuden ja nauhan arvolle sopivaa.
+
+**6§** Linkki Jyväskylä ry:n omissa tilaisuuksissa juhlanauhaa kannetaan ylimpänä, jos kantajalla on myös muiden organisaatioiden nauhoja. Muissa tilaisuuksissa noudatetaan soveltuvia ohjesääntöjä.
+
+**7§** Juhlanauhan kanssa on oikeus kantaa Linkin kultaista ansiomerkkiä. Ansiomerkki on Linkin tunnuksen muotoinen (halkaisija 28 mm) kullattu pinssi. Miehet kantavat merkkiä siten, että se on kiinnitetty juhlanauhaan keskelle rintaa vaakasuoraan. Naiset kantavat merkkiä keskellä juhlanauhasta taiteltua ruusuketta. Ansiomerkin käyttöoikeus juhlanauhassa on elinikäinen.
+
+**8§** Kunniajäsenillä on oikeus käyttää juhlanauhan kanssa Linkin kunniamerkkiä. Kunniamerkki on Linkin tunnuksen muotoinen (halkaisija 42 mm) kullattu pinssi. Miehet kantavat merkkiä siten, että se on kiinnitetty juhlanauhaan keskelle rintaa vaakasuoraan. Naiset kantavat merkkiä keskellä juhlanauhasta taiteltua ruusuketta. Kunniamerkin käyttöoikeus juhlanauhassa on elinikäinen
+
+**9§** Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 6.3.2017 ja muokattu kohtaa 3§ yhdistyksen ylimääräisessä kokouksessa 24.1.2018 ja se on voimassa toistaiseksi. Tämän ohjesäännön muuttamisesta päättää yhdistyksen kokous yksinkertaisella äänten enemmistöllä.
