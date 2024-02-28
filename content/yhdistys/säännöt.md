@@ -177,3 +177,116 @@ kokouksessa, joiden välillä on kulunut vähintään yksi viikko.
 Jos yhdistys purkautuu tai lakkautetaan, sen omaisuus luovutetaan
 yhdistyksen tarkoitusta palvelevaan toimintaan purkautumisesta
 päättäneen kokouksen mukaisesti.
+
+
+# Talousohjesäännöt
+
+## 1 § Soveltaminen
+
+Linkki Jyväskylä ry:n taloudenhoidossa noudatetaan tätä ohjesääntöä siltä osin, kuin yhdistystä koskevissa laeissa tai yhdistyksen säännöissä ei toisin mainita tai yhdistyksen kokouksessa muulla päätöksellä ole toisin päätetty.
+
+## 2 § Yhdistyksen taloudenhoidon periaatteet
+
+Taloudenhoitoa johtaa ja taloudesta vastaa yhdistyksen hallitus vuotuisen talousarvion ja toimintasuunnitelman mukaan.
+
+Hallituksen on seurattava säännöllisesti ja johdonmukaisesti yhdistyksen taloutta. Huomattavimmat talouteen liittyvät tapahtumat on todettava hallituksen pöytäkirjoissa. Lainanotto, omaisuuden hankinta ja muut merkittävästi talouteen vaikuttavat asiat on käsiteltävä ja päätettävä yhdistyksen yleisessä kokouksessa.
+
+Hallituksen tehtävänä on taloudenhoidon osalta:
+
+- valvoa taloudenhoitoa ja siitä huolehtivien henkilöiden toimintaa
+- valvoa talousarvion noudattamista
+- valvoa kirjanpitoa
+- esittää tilinpäätös sekä toiminnantarkastajien lausunto yhdistyksen kevätkokoukselle
+- antaa esitys tulevan tilikauden talousarviosta yhdistyksen syyskokoukselle
+
+Rahastonhoitajan tehtävänä on taloudenhoidon osalta:
+
+- hoitaa huolellisesti yhdistyksen taloutta ja kirjanpitoa
+- valmistella taloutta koskevat esitykset hallitukselle
+- pitää luetteloa yhdistyksen saatavista, sitoumuksista ja vastuista, ja niihin liittyvistä määräajoista
+
+## 3 § Talousarvio
+
+Hallitus laatii talousarvion ja esittää sen yhdistyksen syyskokouksen hyväksyttäväksi. Talousarvioon merkittyä määrärahaa hallitus ei saa ylittää, ellei se samanaikaisesti voi osoittaa vastaavia tuloja. Talousarvio laaditaan tilikaudeksi, joka yhdistyksen sääntöjen mukaisesti on kalenterivuosi.
+
+Taloutta on hoidettava säästäväisesti ja talousarvion mukaan. Yhdistyksen kokoukselle tulee esittää selvitys talousarvion toteutumisesta.
+
+Hallitus voi tarvittaessa laatia lisätalousarvion, joka on alistettava yhdistyksen kokouksen päätökselle. Lisätalousarvio on laadittava kuin varsinainen talousarvio.
+
+## 4 § Varojen hoito
+
+Toimihenkilöt ovat velvolliset valvomaan, että heidän hoidossaan oleva omaisuus pidetään tarkoituksenmukaisessa kunnossa.
+
+Yhdistyksen omaisuutta saa luovuttaa vain kuittausta vastaan.
+
+Pankkitilien avaamisesta ja lopettamisesta päättää yhdistyksen hallitus. Hallituksen on pöytäkirjassaan nimettävä henkilöt, joilla on oikeus nostaa varoja pankkitileiltä.
+
+Yhdistyksen käyttötilin saldo ei saa laskea pysyvästi alle 12 000,00 euron. Tämän ylijäävät likvidit varat voidaan sijoittaa seuraavan ohjeen mukaan.
+
+- Vähintään 30% likvideistä varoista sijoitetaan pankkien määräaikaistalletustileille.
+- Enintään 70% likvideistä varoista voidaan sijoittaa rahasto-osuuksiin, osakkeisiin ja obligaatioihin. Tämä sijoitus pitää jakaa vähintään kolmeen eri kohteeseen ja yksittäisen sijoituskohteen osuus voi olla sijoitushetkellä enintään 45% sijoitettavasta varallisuudesta.
+- Tämän sijoitussalkun osto- ja myyntipäätökset tehdään hallituksessa.
+
+## 5 § Menojen suoritus ja menotosite
+
+Oikeus laskujen maksamiseen on rahastonhoitajalla. Kukaan ei voi hyväksyä itseään koskevia laskuja. Laskuja hyväksyttäessä on tarkistettava, että ne ovat yhdistyksen toiminnasta johtuvia, sopimusten mukaisia, asiallisia ja hyväksyttäviä.
+
+## 6 § Hankinnat
+
+Yhdistyksen puheenjohtajalla on oikeus tehdä yhdistykselle hankintoja ja sitoumuksia kahteensataan (200) euroon saakka. Hankinnat ja sitoumukset tulee saattaa hallituksen kokoukseen hyväksyttäväksi kuukausittain.
+
+## 7 § Kirjanpito
+
+Yhdistyksen kirjanpito on järjestettävä ja hoidettava hyvän kirjanpitotavan mukaisesti kirjanpitolaissa ja asetuksissa säädettyjä periaatteita noudattaen ja tämän ohjesäännön mukaisesti. Kirjanpidosta vastaava henkilö tai taho vastaa yhdistyksen kirjanpidosta ja laatii sen perusteella esityksen yhdistyksen tilinpäätökseksi.
+
+Kirjanpito on pidettävä ajan tasalla ja hoidettava huolellisesti sekä niin, että varojen käyttö asianomaisiin tarkoituksiin saadaan aina tarvittaessa selville.
+
+Kirjanpidon merkintöjen tulee perustua tilikauden alusta juoksevasti numeroituihin tositteisiin, jotka on säilytettävä numerojärjestyksessä. Kirjanpidon merkinnät oon tehtävä selvästi ja pysyvästi.
+
+Tositteet, kirjanpitokirjat ja muu aineisto on säilytettävä kirjanpitolain mukaisesti.
+
+Kalustosta ja muusta irtaimesta käyttöomaisuudesta on pidettävä luetteloa.
+
+Kirjanpidossa on kullekin talousarvioon merkitylle meno- ja tulomomentille avattava tili.
+
+## 8 § Käteiskassa
+
+Yhdistyksellä on ainejärjestötila Kattilassa (Agora C233.2) yksi käteiskassa. Käteiskassa tulee säilyttää ja lukita niin, että siihen eivät hallituksen ulkopuoliset henkilöt pääse käsiksi luvatta.
+
+Käteiskassaa hoitaa ja hallinnoi rahastonhoitaja. Hänen velvollisuutenaan on huolehtia, että käteiskassassa ei ole rahaa yli 500 euroa kerrallaan kuin väliaikaisesti.
+
+Hallitus voi myydä yhdistyksen tuotteita ainejärjestötila Kattilassa käyttäen käteiskassaa. Kaikista myynneistä tulee tehdä asianmukainen kirjaus käteiskassakirjanpitoon, josta ilmenee myyty tuote, määrä, hinta, päivämäärä ja myyjä.
+
+Tapahtumamyyntiä varten rahastonhoitaja tekee pohjakassan erilliseen kassalippaaseen, jonka hän tai muu hallituksen valtuuttama henkilö laskee ennen ja jälkeen myyntitapahtuman. Pohjakassasta ovat myyntien aikana vastuussa hallituksen valtuuttamat myyjät. Lopullinen vastuu kuuluu kuitenkin hallituksen jäsenelle, joka on tapahtumasta tai myynnistä vastuussa. Kaikkien tapahtumien myynneistä tulee tehdä asianmukaiset kirjaukset käteiskassakirjanpitoon.
+
+Rahastonhoitaja laskee kassan säännöllisesti tilikauden aikana ja pitää siitä kassakirjanpitoa.
+
+## 9 § Kulukorvaukset
+
+Muut yhdistykselle esitetyt kulukorvaukset haetaan yhdistyksen tilityskaavakkeella. Tilityskaavake sekä siihen kuuluvat kuitit tulee toimittaa rahastonhoitajalle kuukauden kuluessa kulun syntymisestä. Kulukorvaushakemukset hyväksyy joko hallituksen puheenjohtaja tai varapuheenjohtaja. Kukaan ei kuitenkaan voi hyväksyä omia kulukorvaushakemuksiaan.
+
+Matkakulut korvataan julkisen liikenteen (Linja-auto ja juna) osalta opiskelijahintaisten matkalippujen mukaan. Matka korvataan, mikäli se on suoritettu yhdistyksen tehtävien hoitamiseksi.
+
+Muiden kulkuneuvojen osalta matkakulut korvataan vain etukäteen sovituissa tapauksissa.
+
+## 10 § Tilinpäätös
+
+Tilinpäätös on laadittava kirjanpitolain ja -asetuksen edellyttämällä tavalla.
+
+Hallituksen tulee huolehtia, että tilinpäätös on valmiina jätettäväksi toiminnantarkastajalle tammikuun loppuun mennessä. Toiminnantarkastajan tulee tarkastaa yhdistyksen hallinto ja tilit sekä antaa kirjallinen lausuntonsa tilinpäätöksen vahvistamisesta ja vastuuvapauden myöntämisestä seitsemän (7) vuorokauden sisällä siitä, kun hän on vastaanottaneet tilinpäätöksen ja siihen liittyvät asiakirjat. Hallitus tekee ehdotuksen yhdistyksen tilinpäätökseksi.
+
+Hallituksen hyväksyttyä tilinpäätösehdotuksen on se päivättävä ja yhdistyksen päätösvaltainen hallitus allekirjoittaa tilinpäätöksen.
+
+## 11 § Toiminnantarkastus
+
+Toiminnantarkastajaksi valitaan yhdistyksen syyskokouksessa sääntöjen määräämällä tavalla esteettömät ja pätevät henkilöt tarkastamaan tilejä ja hallintoa. Valittavilta henkilöiltä ja hänen varahenkilöiltään on ennakkoon kysyttävä suostumusta tehtävään. Jos toiminnantarkastaja on estynyt tai esteellinen, on hänen tästä heti ilmoitettava hallitukselle.
+
+Toiminnantarkastajat noudattavat työssään hyvää tilintarkastustapaa ja toteavat, onko yhdistyksen toiminnassa noudatettu paitsi lakia ja sääntöjä, myös tämän talousohjesäännön määräyksiä.
+
+Hallitus on velvollinen antamaan toiminnantarkastajien käytettäväksi kaiken sen aineiston, jonka nämä katsovat tarvitsevansa tarkastuksessa.
+
+Toiminnantarkastajat laativat tarkastuskertomuksen, jossa mainitaan heidän saamansa käsitys yhdistyksen hallinnosta sekä tileistä. Kertomuksesta käy selville toiminnantarkastajien kanta tilinpäätöksen vahvistamiseen ja vastuuvapauden myöntämiseen.
+
+## 12 § Ohjesäännön voimassaolo ja muuttaminen
+
+Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 6.3.2017 ja kohtaa 4§ on muokattu yhdistyksen kokouksesa 19.11.2018 ja se on voimassa toistaiseksi. ja se on voimassa toistaiseksi. Tämän ohjesäännön muuttamisesta päättää yhdistyksen kokous yksinkertaisella äänten enemmistöllä.
