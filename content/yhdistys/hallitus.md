@@ -4,7 +4,7 @@ description = "Linkin hallitus"
 keywords = ["hallitus"]
 +++
 
-[Hallitus 2024]({{% relref "/2024" %}})
+[Hallitus 2024]({{% relref "hallitus/2024" %}})
 
 [Menneet hallitukset]({{% relref "/menneet" %}})
 
