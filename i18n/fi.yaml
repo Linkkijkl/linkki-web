@@ -1,0 +1,116 @@
+- id: home
+  translation: "Koti"
+
+- id: templateBy
+  translation: "Sivun pohjan kehitti"
+
+- id: portedBy
+  translation: "Portannut Hugolle"
+
+- id: contactGoTo
+  translation: "Siirry yhteydenottolomakkeeseen"
+
+- id: contactAddrTitle
+  translation: "Osoite"
+
+- id: contactTitle
+  translation: "Ota yhteyttä"
+
+- id: contactForm
+  translation: "Yhteydenottolomake"
+
+- id: contactName
+  translation: "Nimi"
+
+- id: contactMail
+  translation: "Sähköposti"
+
+- id: contactMessage
+  translation: "Viesti"
+
+- id: contactSend
+  translation: "Lähetä"
+
+- id: navHome
+  translation: "siirry kotisivulle"
+
+- id: navToggle
+  translation: "Piilota / näytä navigointi"
+
+- id: categoriesTitle
+  translation: "Kategoriat"
+
+- id: searchTitle
+  translation: "Haku"
+
+- id: tagsTitle
+  translation: "Tagit"
+
+- id: continueReading
+  translation: "Jatka lukemista"
+
+- id: readMore
+  translation: "Lue lisää"
+
+- id: authorBy
+  translation: "Kirjoittanut"
+
+- id: recentPosts
+  translation: "Uusimmat julkaisut"
+
+- id: aboutUs
+  translation: "Tietoja"
+
+- id: newer
+  translation: "Uudempi"
+
+- id: older
+  translation: "Vanhempi"
+
+- id: publishedOn
+  translation: ""
+
+- id: 404Error
+  translation: "Virhe 404: Sivua ei löytynyt"
+
+- id: 404Message
+  translation: "Sivua ei löydy 😕"
+
+- id: 404NavHome
+  translation: "Siirry kotisivulle"
+
+- id: January
+  translation: tammikuuta
+
+- id: February
+  translation: helmikuuta
+
+- id: March
+  translation: maaliskuuta
+
+- id: April
+  translation: huhtikuuta
+
+- id: May
+  translation: toukokuuta
+
+- id: June
+  translation: kesäkuuta
+
+- id: July
+  translation: heinäkuuta
+
+- id: August
+  translation: elokuuta
+
+- id: September
+  translation: syyskuuta
+
+- id: October
+  translation: lokakuuta
+
+- id: November
+  translation: marraskuuta
+
+- id: December
+  translation: joulukuuta

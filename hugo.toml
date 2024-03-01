@@ -14,11 +14,13 @@ staticDir = ["static"]
 # https://gohugo.io/content-management/multilingual/
 defaultContentLanguage = 'fi'
 [languages]
+
     [languages.fi]
         disabled = false
         languageCode = 'fi'
         languageName = 'Suomi'
         weight = 1
+
     [languages.en]
         disabled = false
         languageCode = 'en'
@@ -26,25 +28,21 @@ defaultContentLanguage = 'fi'
         weight = 2
 
 
-[menu]
+[languages.fi.menus]
 
-
-# Main menu
-[[menu.main]]
+[[languages.fi.menus.main]]
     name = "Yhdistys"
     identifier = "menu.yhdistys"
     weight = 1
 
-
-[[menu.main]]
+[[languages.fi.menus.main]]
     name = "Säännöt ja ohjeet"
     identifier = "menu.saannot"
     url = "/yhdistys/säännöt/"
     parent = "menu.yhdistys"
     weight = 1
 
-
-[[menu.main]]
+[[languages.fi.menus.main]]
     name = "Hallitus"
     identifier = "menu.hallitus"
     url = "/yhdistys/hallitus/"
@@ -52,7 +50,7 @@ defaultContentLanguage = 'fi'
     weight = 2
 
 
-[[menu.main]]
+[[languages.fi.menus.main]]
     name = "Järjestyksen historia"
     identifier = "menu.historia"
     url = "/yhdistys/historia/"
@@ -60,7 +58,7 @@ defaultContentLanguage = 'fi'
     weight = 3
 
 
-[[menu.main]]
+[[languages.fi.menus.main]]
     name = "Jäsenedut"
     identifier = "menu.edut"
     url = "/yhdistys/jäsenedut/"
@@ -68,7 +66,7 @@ defaultContentLanguage = 'fi'
     weight = 4
 
 
-[[menu.main]]
+[[languages.fi.menus.main]]
     name = "Jäseneksi"
     identifier = "menu.jäseneksi"
     url = "/yhdistys/jäseneksi/"
@@ -76,7 +74,7 @@ defaultContentLanguage = 'fi'
     weight = 5
 
 
-[[menu.main]]
+[[languages.fi.menus.main]]
     name = "Aktiivi-info"
     identifier = "menu.aktiivi"
     url = "/yhdistys/aktiivi/"
@@ -84,7 +82,7 @@ defaultContentLanguage = 'fi'
     weight = 6
 
 
-[[menu.main]]
+[[languages.fi.menus.main]]
     name = "Pöytäkirjat"
     identifier = "menu.pöytäkirjat"
     url = "/yhdistys/pöytäkirjat/"
@@ -92,13 +90,13 @@ defaultContentLanguage = 'fi'
     weight = 7
 
 
-[[menu.main]]
+[[languages.fi.menus.main]]
     name = "Toiminta"
     identifier = "menu.toiminta"
     weight = 2
 
 
-[[menu.main]]
+[[languages.fi.menus.main]]
     name = "Kattila"
     identifier = "menu.kattila"
     url = "/toiminta/kattila/"
@@ -106,7 +104,7 @@ defaultContentLanguage = 'fi'
     weight = 1
 
 
-[[menu.main]]
+[[languages.fi.menus.main]]
     name = "Tenttiarkisto"
     identifier = "menu.tenttiarkisto"
     url = "/toiminta/tenttiarkisto/"
@@ -114,7 +112,7 @@ defaultContentLanguage = 'fi'
     weight = 2
 
 
-[[menu.main]]
+[[languages.fi.menus.main]]
     name = "Laitteistovuokraus"
     identifier = "menu.vuokraus"
     url = "/toiminta/vuokraus/"
@@ -122,7 +120,7 @@ defaultContentLanguage = 'fi'
     weight = 3
 
 
-[[menu.main]]
+[[languages.fi.menus.main]]
     name = "Haalarimerkit"
     identifier = "menu.haalarimerkit"
     url = "/toiminta/haalarimerkit/"
@@ -130,7 +128,7 @@ defaultContentLanguage = 'fi'
     weight = 4
 
 
-[[menu.main]]
+[[languages.fi.menus.main]]
     name = "Keskustelukanavat"
     identifier = "menu.keskustelukanavat"
     url = "/toiminta/keskustelukanavat/"
@@ -138,13 +136,13 @@ defaultContentLanguage = 'fi'
     weight = 5
 
 
-[[menu.main]]
+[[languages.fi.menus.main]]
     name = "Tapahtumat"
     identifier = "menu.tapahtumat"
     weight = 3
 
 
-[[menu.main]]
+[[languages.fi.menus.main]]
     name = "Kalenteri"
     identifier = "menu.kalenteri"
     url = "/tapahtumat/kalenteri/"
@@ -152,7 +150,7 @@ defaultContentLanguage = 'fi'
     weight = 1
 
 
-[[menu.main]]
+[[languages.fi.menus.main]]
     name = "Jyväsmetro"
     identifier = "menu.metro"
     url = "/tapahtumat/metro/"
@@ -160,7 +158,7 @@ defaultContentLanguage = 'fi'
     weight = 2
 
 
-[[menu.main]]
+[[languages.fi.menus.main]]
     name = "Instanssi"
     identifier = "menu.instanssi"
     url = "/tapahtumat/instanssi/"
@@ -168,7 +166,7 @@ defaultContentLanguage = 'fi'
     weight = 3
 
 
-[[menu.main]]
+[[languages.fi.menus.main]]
     name = "Lukupiiri"
     identifier = "menu.lukupiiri"
     url = "/tapahtumat/lukupiiri/"
@@ -176,7 +174,7 @@ defaultContentLanguage = 'fi'
     weight = 4
 
 
-[[menu.main]]
+[[languages.fi.menus.main]]
     name = "Kässäkerho"
     identifier = "menu.kässäkerho"
     url = "/tapahtumat/kässäkerho/"
@@ -184,18 +182,190 @@ defaultContentLanguage = 'fi'
     weight = 5
 
 
-[[menu.main]]
+[[languages.fi.menus.main]]
     name = "Yhteistyö"
     identifier = "menu.yhteistyö"
     url = "/yhteistyö/"
     weight = 4
 
 
-[[menu.main]]
+[[languages.fi.menus.main]]
     name = "A href"
     identifier = "menu.ahref"
     url = "/ahref/"
     weight = 5
+
+
+[languages.en.menus]
+
+[[languages.en.menus.main]]
+    name = "Association"
+    identifier = "menu.yhdistys"
+    weight = 1
+
+
+[[languages.en.menus.main]]
+    name = "Rules and guides"
+    identifier = "menu.saannot"
+    # Just redirect to Finnish rules and guides for now
+    # Does the site require rules and guides translated to English?
+    url = "/yhdistys/säännöt/"
+    parent = "menu.yhdistys"
+    weight = 1
+
+
+[[languages.en.menus.main]]
+    name = "Board of Directors"
+    identifier = "menu.hallitus"
+    url = "/en/yhdistys/hallitus/"
+    parent = "menu.yhdistys"
+    weight = 2
+
+
+#[[languages.en.menus.main]]
+#    name = "History"
+#    identifier = "menu.historia"
+#    url = "/en/yhdistys/historia/"
+#    parent = "menu.yhdistys"
+#    weight = 3
+
+
+#[[languages.en.menus.main]]
+#    name = "Member Benefits" # Vai membership benefits?
+#    identifier = "menu.edut"
+#    url = "/en/yhdistys/jäsenedut/"
+#    parent = "menu.yhdistys"
+#    weight = 4
+
+
+#[[languages.en.menus.main]]
+#    name = "Join"
+#    identifier = "menu.jäseneksi"
+#    url = "/en/yhdistys/jäseneksi/"
+#    parent = "menu.yhdistys"
+#    weight = 5
+
+
+#[[languages.en.menus.main]]
+#    name = "Active Likees"
+#    identifier = "menu.aktiivi"
+#    url = "/en/yhdistys/aktiivi/"
+#    parent = "menu.yhdistys"
+#    weight = 6
+
+
+#[[languages.en.menus.main]]
+#    name = "Meeting Records"
+#    identifier = "menu.pöytäkirjat"
+#    url = "/en/yhdistys/pöytäkirjat/"
+#    parent = "menu.yhdistys"
+#    weight = 7
+
+
+#[[languages.en.menus.main]]
+#    name = "Activities"
+#    identifier = "menu.toiminta"
+#    weight = 2
+
+
+#[[languages.en.menus.main]]
+#    name = "Kattila"
+#    identifier = "menu.kattila"
+#    url = "/en/toiminta/kattila/"
+#    parent = "menu.toiminta"
+#    weight = 1
+
+
+#[[languages.en.menus.main]]
+#    name = "Exam Database"
+#    identifier = "menu.tenttiarkisto"
+#    url = "/en/toiminta/tenttiarkisto/"
+#    parent = "menu.toiminta"
+#    weight = 2
+
+
+#[[languages.en.menus.main]]
+#    name = "Equipment Rental"
+#    identifier = "menu.vuokraus"
+#    url = "/en/toiminta/vuokraus/"
+#    parent = "menu.toiminta"
+#    weight = 3
+
+
+#[[languages.en.menus.main]]
+#    name = "Overalls Badges"
+#    identifier = "menu.haalarimerkit"
+#    url = "/en/toiminta/haalarimerkit/"
+#    parent = "menu.toiminta"
+#    weight = 4
+
+
+#[[languages.en.menus.main]]
+#    name = "Chats"
+#    identifier = "menu.keskustelukanavat"
+#    url = "/en/toiminta/keskustelukanavat/"
+#    parent = "menu.toiminta"
+#    weight = 5
+
+
+#[[languages.en.menus.main]]
+#    name = "Events"
+#    identifier = "menu.tapahtumat"
+#    weight = 3
+
+
+#[[languages.en.menus.main]]
+#    name = "Calendar"
+#    identifier = "menu.kalenteri"
+#    url = "/en/tapahtumat/kalenteri/"
+#    parent = "menu.tapahtumat"
+#    weight = 1
+
+
+#[[languages.en.menus.main]]
+#    name = "Jyväsmetro"
+#    identifier = "menu.metro"
+#    url = "/en/tapahtumat/metro/"
+#    parent = "menu.tapahtumat"
+#    weight = 2
+
+
+#[[languages.en.menus.main]]
+#    name = "Instanssi"
+#    identifier = "menu.instanssi"
+#    url = "/en/tapahtumat/instanssi/"
+#    parent = "menu.tapahtumat"
+#    weight = 3
+
+
+#[[languages.en.menus.main]]
+#    name = "Group Reading"
+#    identifier = "menu.lukupiiri"
+#    url = "/en/tapahtumat/lukupiiri/"
+#    parent = "menu.tapahtumat"
+#    weight = 4
+
+
+#[[languages.en.menus.main]]
+#    name = "Crafts Club"
+#    identifier = "menu.kässäkerho"
+#    url = "/en/tapahtumat/kässäkerho/"
+#    parent = "menu.tapahtumat"
+#    weight = 5
+
+
+#[[languages.en.menus.main]]
+#    name = "Collaboration"
+#    identifier = "menu.yhteistyö"
+#    url = "/en/yhteistyö/"
+#    weight = 4
+
+
+#[[languages.en.menus.main]]
+#    name = "A href"
+#    identifier = "menu.ahref"
+#    url = "/en/ahref/"
+#    weight = 5
 
 
 [params]
@@ -204,9 +374,11 @@ defaultContentLanguage = 'fi'
     
     defaultKeywords = ["linkkijkl", "linkki", "jyväskylä"]
 
-    # TODO
-    #about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    #copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    address = """<p class="text-uppercase"><strong>Linkki Jyväskylä ry (2147178-4)</strong></br>
+            Opiskelijatila Kattila (Agora, Ag B437)</br>
+            PL 35, 40014 Jyväskylän yliopisto </p>"""
+    contact_url = "/404"
+    copyright = "Copyright (c) 2024, Linkki Jyväskylä ry; all rights reserved."
 
     logo_text = "Linkki Jyväskylä ry."
     logo = "img/linkki_jyvaskyla_modern.svg"
@@ -238,4 +410,11 @@ defaultContentLanguage = 'fi'
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more information take a look at the README.
+
+
+[languages.fi.params.clients]
     title = "Yhteistyössä"
+
+
+[languages.en.params.clients]
+    title = "Our sponsors"
