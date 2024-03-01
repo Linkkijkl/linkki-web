@@ -61,7 +61,7 @@ mahdollista tukea tapahtumaa sekä tulla paikan päälle puhujaksi,
 workshopin vetäjäksi tai esittelemään itseään ja yrityksensä
 toimintaa.
 
-#### Linkki -tarra
+#### Linkki-tarra
 
 Yritysten on mahdollista toimia yhteistyössä Linkin kanssa tarjoamalla
 etuja omista tuotteistaan tai palveluistaan. Esittämällä Linkki-tarraa
