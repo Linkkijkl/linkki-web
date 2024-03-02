@@ -4,7 +4,6 @@ description = ""
 keywords = ["laitteistovuokraus"]
 +++
 
-TODO kuvat
 
 # Laitteistovuokraus
 
