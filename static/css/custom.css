@@ -22,3 +22,9 @@
 .home-carousel {
     background: none;
 }
+
+.google-calendar {
+    padding: 2em 0;
+    height: 600px;
+    width: 100%;
+}
