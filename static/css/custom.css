@@ -1,5 +1,5 @@
 :root {
-    /* All colors copied to here for ease editing */
+    /* All colors overridden to here for easier access */
     --primary-accent: #387dff;
     --navbar-border-top: #294d76;
     --button-border: #336194;
@@ -19,10 +19,21 @@
     max-height: 64px;
 }
 
+/* Disable theme background images*/
 .home-carousel {
     background: none;
 }
 
+#heading-breadcrumbs {
+    background: none;
+    background-color: var(--primary-accent);
+}
+
+#heading-breadcrumbs h1 {
+    color: #fff;
+}
+
+/* Google calendar theming */
 .google-calendar {
     padding: 2em 0;
     height: 600px;
