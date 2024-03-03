@@ -1,3 +1,15 @@
+:root {
+    /* All colors copied to here for ease editing */
+    --primary-accent: #387dff;
+    --navbar-border-top: #294d76;
+    --button-border: #336194;
+    --link-focus: #2f5a89;
+    --form-shadow: rgba(70, 127, 191, 0.6);
+    --pagination-bg: #b8cee6;
+    --link-hover-bg: #36669c;
+    --navbar-focus: #92b3d9;
+}
+
 /* Bigger logo */
 .navbar-brand {
     padding: 2px;
@@ -5,4 +17,8 @@
 
 .navbar-brand img {
     max-height: 64px;
+}
+
+.home-carousel {
+    background: none;
 }
