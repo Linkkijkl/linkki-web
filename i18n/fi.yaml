@@ -7,6 +7,9 @@
 - id: portedBy
   translation: "Portannut Hugolle"
 
+- id: modifiedBy
+  translation: "Muokannut"
+
 - id: contactGoTo
   translation: "Siirry yhteydenottolomakkeeseen"
 

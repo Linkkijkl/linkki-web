@@ -377,7 +377,7 @@ defaultContentLanguage = 'fi'
     address = """<p class="text-uppercase"><strong>Linkki Jyväskylä ry (2147178-4)</strong></br>
             Opiskelijatila Kattila (Agora, Ag B437)</br>
             PL 35, 40014 Jyväskylän yliopisto </p>"""
-    contact_url = "/404"
+    contact_url = ""
     copyright = "Copyright (c) 2024, Linkki Jyväskylä ry; all rights reserved."
 
     logo_text = "Linkki Jyväskylä ry."
@@ -389,6 +389,8 @@ defaultContentLanguage = 'fi'
     date_format = "2.1.2006"
     
     dropdown_mouse_over = false
+
+    modified_by_url = "https://github.com/linkkijkl/linkki-web/graphs/contributors"
 
 
 [params.carouselHomepage]

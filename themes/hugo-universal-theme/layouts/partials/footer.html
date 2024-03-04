@@ -50,9 +50,11 @@
 
             {{ .Site.Params.address | safeHTML }}
 
-	    <a href="{{ default "/contact" .Site.Params.contact_url }}" class="btn btn-small btn-template-main">{{ i18n "contactGoTo" }}</a>
+        {{ if ne .Site.Params.contact_url "" }}
+            <a href="{{ default "/contact" .Site.Params.contact_url }}" class="btn btn-small btn-template-main">{{ i18n "contactGoTo" }}</a>
 
-            <hr class="hidden-md hidden-lg hidden-sm">
+                <hr class="hidden-md hidden-lg hidden-sm">
+        {{ end }}
 
         </div>
         <!-- /.col-md-4 -->
@@ -80,6 +82,10 @@ _________________________________________________________ -->
               <!-- Not removing this link is part of the licence conditions of the template. Thanks for understanding :) -->
 
               {{ i18n "portedBy" | markdownify }} <a href="https://github.com/devcows/hugo-universal-theme">DevCows</a>.
+
+              {{ if isset .Site.Params "modified_by_url" }}
+                {{ i18n "modifiedBy" | markdownify }} <a href="{{ .Site.Params.modified_by_url }}">Linkki Website Task Force</a>.
+              {{ end }}
             </p>
         </div>
     </div>
