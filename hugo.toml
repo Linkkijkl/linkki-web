@@ -308,18 +308,18 @@ defaultContentLanguage = 'fi'
 #    weight = 5
 
 
-#[[languages.en.menus.main]]
-#    name = "Events"
-#    identifier = "menu.tapahtumat"
-#    weight = 3
+[[languages.en.menus.main]]
+    name = "Events"
+    identifier = "menu.tapahtumat"
+    weight = 3
 
 
-#[[languages.en.menus.main]]
-#    name = "Calendar"
-#    identifier = "menu.kalenteri"
-#    url = "/en/tapahtumat/kalenteri/"
-#    parent = "menu.tapahtumat"
-#    weight = 1
+[[languages.en.menus.main]]
+    name = "Calendar"
+    identifier = "menu.kalenteri"
+    url = "/en/tapahtumat/kalenteri/"
+    parent = "menu.tapahtumat"
+    weight = 1
 
 
 #[[languages.en.menus.main]]
