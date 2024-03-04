@@ -308,18 +308,18 @@ defaultContentLanguage = 'fi'
 #    weight = 5
 
 
-#[[languages.en.menus.main]]
-#    name = "Events"
-#    identifier = "menu.tapahtumat"
-#    weight = 3
+[[languages.en.menus.main]]
+    name = "Events"
+    identifier = "menu.tapahtumat"
+    weight = 3
 
 
-#[[languages.en.menus.main]]
-#    name = "Calendar"
-#    identifier = "menu.kalenteri"
-#    url = "/en/tapahtumat/kalenteri/"
-#    parent = "menu.tapahtumat"
-#    weight = 1
+[[languages.en.menus.main]]
+    name = "Calendar"
+    identifier = "menu.kalenteri"
+    url = "/en/tapahtumat/kalenteri/"
+    parent = "menu.tapahtumat"
+    weight = 1
 
 
 #[[languages.en.menus.main]]
@@ -374,9 +374,11 @@ defaultContentLanguage = 'fi'
     
     defaultKeywords = ["linkkijkl", "linkki", "jyväskylä"]
 
-    address = """<p class="text-uppercase"><strong>Linkki Jyväskylä ry (2147178-4)</strong></br>
+    address = """
+            <p class="text-uppercase"><strong>Linkki Jyväskylä ry (2147178-4)</strong></br>
             Opiskelijatila Kattila (Agora, Ag B437)</br>
-            PL 35, 40014 Jyväskylän yliopisto </p>"""
+            PL 35, 40014 Jyväskylän yliopisto </p>
+    """
     contact_url = ""
     copyright = "Copyright (c) 2024, Linkki Jyväskylä ry; all rights reserved."
 
@@ -391,6 +393,30 @@ defaultContentLanguage = 'fi'
     dropdown_mouse_over = false
 
     modified_by_url = "https://github.com/linkkijkl/linkki-web/graphs/contributors"
+
+
+[languages.fi.params]
+    about_us = """
+            <a class="text-uppercase" href="/yhdistys/säännöt/#jäsenrekisteriseloste">
+                <strong>Tietosuojaseloste</strong>
+            </a>
+            <br/>
+            <a class="text-uppercase" href="/yhdistys/säännöt/">
+                <strong>Säännöt</strong>
+            </a>
+    """
+
+
+[languages.en.params]
+    about_us = """
+            <a class="text-uppercase" href="/yhdistys/säännöt/#jäsenrekisteriseloste">
+                <strong>Privacy policy</strong>
+            </a>
+            <br/>
+            <a class="text-uppercase" href="/yhdistys/säännöt/">
+                <strong>Rules</strong>
+            </a>
+    """
 
 
 [params.carouselHomepage]
