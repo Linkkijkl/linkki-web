@@ -1,13 +1,14 @@
-# LinkkiJKL-web
+# Linkki-web
 
-Repository for [linkkijkl.fi](https://linkkijkl.fi).
+Repository for [new.linkkijkl.fi](https://new.linkkijkl.fi).
 
 ## Getting started
 
 To compile and open locally:
-1. Install [Hugo](https://gohugo.io/)
-2. Clone this repository, i.e. `git clone https://github.com/linkkijkl/linkki-web && cd linkki-web`
-3. Run `hugo server` and you should be good to go 🎉
+1. Install [Hugo](https://gohugo.io/) and [Git Large File Storage](https://git-lfs.com)
+2. Clone this repository, i.e. `git clone https://github.com/linkkijkl/linkki-web`
+3. Initialize git submodules `git submodule init && git submodule update`
+4. Run `hugo server` and you should be good to go 🎉
 
 ## FAQ
 

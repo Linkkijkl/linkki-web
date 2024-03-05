@@ -523,7 +523,7 @@ Rekisterissä olevalla henkilöllä on oikeus pyytää häntä koskevien henkil�
 
 # Yhdenvertaisuussuunnitelma
 
-TODO
+{{< embed-pdf url="yhdenvertaisuussuunnitelma.pdf" >}}
 
 
 ---
@@ -531,7 +531,7 @@ TODO
 
 # Ympäristösuunnitelma
 
-TODO
+{{< embed-pdf url="ympäristöohjelma.pdf" >}}
 
 
 ---
@@ -539,4 +539,4 @@ TODO
 
 # JYYn turvallisemman tilan periaatteet
 
-TODO
+{{< embed-pdf url="turvallisemman-tilan-periaatteet.pdf" >}}
