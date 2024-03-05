@@ -372,6 +372,7 @@ defaultContentLanguage = 'fi'
 [params]
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "blue"
+    mainSections = ["ahref"]
     
     defaultKeywords = ["linkkijkl", "linkki", "jyväskylä"]
 

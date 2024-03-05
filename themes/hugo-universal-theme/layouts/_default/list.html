@@ -23,6 +23,8 @@
 
                     <div class="col-md-9" id="blog-listing-medium">
 
+                        {{ .Content }}
+
                         {{ $paginator := .Paginate (where .Data.Pages "Type" "in" .Site.Params.mainSections) }}
                         {{ range $paginator.Pages }}
                         <section class="post">
