@@ -1,6 +1,7 @@
 baseURL = 'https://new.linkkijkl.fi/'
 title = 'Linkki Jyväskylä ry.'
-theme = "hugo-universal-theme"
+theme = ["hugo-embed-pdf-shortcode", "hugo-universal-theme"]
+enableInlineShortcodes = true
 
 # Number of posts per page
 paginate = 10
