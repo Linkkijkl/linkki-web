@@ -97,11 +97,19 @@ defaultContentLanguage = 'fi'
 
 
 [[languages.fi.menus.main]]
+    name = "Tapahtumat"
+    identifier = "menu.tapahtumat"
+    url = "/toiminta/tapahtumat/"
+    parent = "menu.toiminta"
+    weight = 1
+
+
+[[languages.fi.menus.main]]
     name = "Kattila"
     identifier = "menu.kattila"
     url = "/toiminta/kattila/"
     parent = "menu.toiminta"
-    weight = 1
+    weight = 2
 
 
 [[languages.fi.menus.main]]
@@ -109,7 +117,7 @@ defaultContentLanguage = 'fi'
     identifier = "menu.tenttiarkisto"
     url = "/toiminta/tenttiarkisto/"
     parent = "menu.toiminta"
-    weight = 2
+    weight = 3
 
 
 [[languages.fi.menus.main]]
@@ -117,7 +125,7 @@ defaultContentLanguage = 'fi'
     identifier = "menu.vuokraus"
     url = "/toiminta/vuokraus/"
     parent = "menu.toiminta"
-    weight = 3
+    weight = 4
 
 
 [[languages.fi.menus.main]]
@@ -125,7 +133,7 @@ defaultContentLanguage = 'fi'
     identifier = "menu.haalarimerkit"
     url = "/toiminta/haalarimerkit/"
     parent = "menu.toiminta"
-    weight = 4
+    weight = 5
 
 
 [[languages.fi.menus.main]]
@@ -133,53 +141,7 @@ defaultContentLanguage = 'fi'
     identifier = "menu.keskustelukanavat"
     url = "/toiminta/keskustelukanavat/"
     parent = "menu.toiminta"
-    weight = 5
-
-
-[[languages.fi.menus.main]]
-    name = "Tapahtumat"
-    identifier = "menu.tapahtumat"
-    weight = 3
-
-
-[[languages.fi.menus.main]]
-    name = "Kalenteri"
-    identifier = "menu.kalenteri"
-    url = "/tapahtumat/kalenteri/"
-    parent = "menu.tapahtumat"
-    weight = 1
-
-
-[[languages.fi.menus.main]]
-    name = "Jyväsmetro"
-    identifier = "menu.metro"
-    url = "/tapahtumat/metro/"
-    parent = "menu.tapahtumat"
-    weight = 2
-
-
-[[languages.fi.menus.main]]
-    name = "Instanssi"
-    identifier = "menu.instanssi"
-    url = "/tapahtumat/instanssi/"
-    parent = "menu.tapahtumat"
-    weight = 3
-
-
-[[languages.fi.menus.main]]
-    name = "Lukupiiri"
-    identifier = "menu.lukupiiri"
-    url = "/tapahtumat/lukupiiri/"
-    parent = "menu.tapahtumat"
-    weight = 4
-
-
-[[languages.fi.menus.main]]
-    name = "Kässäkerho"
-    identifier = "menu.kässäkerho"
-    url = "/tapahtumat/kässäkerho/"
-    parent = "menu.tapahtumat"
-    weight = 5
+    weight = 6
 
 
 [[languages.fi.menus.main]]
@@ -262,10 +224,18 @@ defaultContentLanguage = 'fi'
 #    weight = 7
 
 
-#[[languages.en.menus.main]]
-#    name = "Activities"
-#    identifier = "menu.toiminta"
-#    weight = 2
+[[languages.en.menus.main]]
+    name = "Activities"
+    identifier = "menu.toiminta"
+    weight = 2
+
+
+[[languages.en.menus.main]]
+    name = "Events"
+    identifier = "menu.tapahtumat"
+    url = "/en/toiminta/tapahtumat/"
+    parent = "menu.toiminta"
+    weight = 1
 
 
 #[[languages.en.menus.main]]
@@ -273,7 +243,7 @@ defaultContentLanguage = 'fi'
 #    identifier = "menu.kattila"
 #    url = "/en/toiminta/kattila/"
 #    parent = "menu.toiminta"
-#    weight = 1
+#    weight = 2
 
 
 #[[languages.en.menus.main]]
@@ -281,7 +251,7 @@ defaultContentLanguage = 'fi'
 #    identifier = "menu.tenttiarkisto"
 #    url = "/en/toiminta/tenttiarkisto/"
 #    parent = "menu.toiminta"
-#    weight = 2
+#    weight = 3
 
 
 #[[languages.en.menus.main]]
@@ -289,7 +259,7 @@ defaultContentLanguage = 'fi'
 #    identifier = "menu.vuokraus"
 #    url = "/en/toiminta/vuokraus/"
 #    parent = "menu.toiminta"
-#    weight = 3
+#    weight = 4
 
 
 #[[languages.en.menus.main]]
@@ -297,7 +267,7 @@ defaultContentLanguage = 'fi'
 #    identifier = "menu.haalarimerkit"
 #    url = "/en/toiminta/haalarimerkit/"
 #    parent = "menu.toiminta"
-#    weight = 4
+#    weight = 5
 
 
 #[[languages.en.menus.main]]
@@ -305,53 +275,7 @@ defaultContentLanguage = 'fi'
 #    identifier = "menu.keskustelukanavat"
 #    url = "/en/toiminta/keskustelukanavat/"
 #    parent = "menu.toiminta"
-#    weight = 5
-
-
-[[languages.en.menus.main]]
-    name = "Events"
-    identifier = "menu.tapahtumat"
-    weight = 3
-
-
-[[languages.en.menus.main]]
-    name = "Calendar"
-    identifier = "menu.kalenteri"
-    url = "/en/tapahtumat/kalenteri/"
-    parent = "menu.tapahtumat"
-    weight = 1
-
-
-#[[languages.en.menus.main]]
-#    name = "Jyväsmetro"
-#    identifier = "menu.metro"
-#    url = "/en/tapahtumat/metro/"
-#    parent = "menu.tapahtumat"
-#    weight = 2
-
-
-#[[languages.en.menus.main]]
-#    name = "Instanssi"
-#    identifier = "menu.instanssi"
-#    url = "/en/tapahtumat/instanssi/"
-#    parent = "menu.tapahtumat"
-#    weight = 3
-
-
-#[[languages.en.menus.main]]
-#    name = "Group Reading"
-#    identifier = "menu.lukupiiri"
-#    url = "/en/tapahtumat/lukupiiri/"
-#    parent = "menu.tapahtumat"
-#    weight = 4
-
-
-#[[languages.en.menus.main]]
-#    name = "Crafts Club"
-#    identifier = "menu.kässäkerho"
-#    url = "/en/tapahtumat/kässäkerho/"
-#    parent = "menu.tapahtumat"
-#    weight = 5
+#    weight = 6
 
 
 #[[languages.en.menus.main]]
