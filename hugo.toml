@@ -46,7 +46,7 @@ defaultContentLanguage = 'fi'
 [[languages.fi.menus.main]]
     name = "Hallitus"
     identifier = "menu.hallitus"
-    url = "/yhdistys/hallitus/"
+    url = "/hallitus/"
     parent = "menu.yhdistys"
     weight = 2
 
@@ -180,7 +180,7 @@ defaultContentLanguage = 'fi'
 [[languages.en.menus.main]]
     name = "Board of Directors"
     identifier = "menu.hallitus"
-    url = "/en/yhdistys/hallitus/"
+    url = "/en/hallitus/"
     parent = "menu.yhdistys"
     weight = 2
 
@@ -296,7 +296,7 @@ defaultContentLanguage = 'fi'
 [params]
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "blue"
-    mainSections = ["ahref"]
+    mainSections = ["ahref", "hallitus"]
     
     defaultKeywords = ["linkkijkl", "linkki", "jyväskylä"]
 
