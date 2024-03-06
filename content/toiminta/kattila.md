@@ -27,6 +27,8 @@ keskustelukanavalla, onko hallituslaisia paikalla.
 
 ## Kahvikamera
 
+{{< kahvikamera >}}
+
 Kattilan kahvinkeittimen tilaa voit seurata lähes reaaliajassa
 sivustolla [kattila.cafe](https://kattila.cafe/). Voit myös ilmaista
 halukkuutesi kahvinjuontiin sivustolla olevalla painikkeella.
