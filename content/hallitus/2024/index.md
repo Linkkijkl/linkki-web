@@ -2,8 +2,7 @@
 title = "Hallitus 2024"
 date = "2024-01-01T00:00:00+02:00"
 description = "Linkin hallitus 2024"
-keywords = ["hallitus", "2024"]
-categories = ["hallitukset", "2024"]
+tags = ["Santeri Sormunen", "Oskari Lahtinen", "Lassi Karjalainen", "Vili Kärkkäinen", "Ossi Rantala", "Valtteri Hiltunen", "Juho Kallijärvi", "Emma Järvinen", "Jami Virtanen", "Pekka Pihjalamaa", "Mortti Luhtala", "Aino Sipola", "Johannes Horila", "Taru Nikkanen", "Toni Pietiläinen", "Jaakko Siika-aho", "Juho Ropanen", "Alexander Goldhill", "Lari Nurkka"]
 +++
 
 # Hallintotiimi
@@ -139,48 +138,3 @@ Mediatiimin tehtävänä on tiedottaa jäsenistöä yhdistyksen eri kanavissa ku
 #### Webmaster
 [**webmaster@linkkijkl.fi**](mailto:webmaster@linkkijkl.fi)
 [Telegram: **@lurppa**](https://t.me/lurppa)
-
-
-# Pestit
-
-**Puheenjohtaja** toimii ainejärjestön päänä. Pitää kokouksia, on yhteydessä laitokseen ja muiden ainejärjestöjen puheenjohtajiin.
-
-**Varapuheenjohtaja** pitää huolta siitä, että puheenjohtaja saa tehtävät tehtyä, ja ottaa hoidettavakseen puheenjohtajan tehtävät, jos pj estyy hoitamasta tehtäviään.
-
-**Sihteeri** kirjoittaa, hyväksyttää ja arkistoi pöytäkirjat, papereiden pyörittelyä ja erinäisten tilojen varailua.
-
-**Rahastonhoitaja** hoitaa raha-asioita, kuten laskuja, kirjanpidon, tilinpäätöksen ja -tarkastuksen.
-
-**Tiedottaja** ylläpitää sähköpostilistoja ja toimii yhteyshenkilönä puheenjohtajan ohella.
-
-**Tapahtumapäällikkö** hoitaa tapahtumia, tiimiläiset auttavat tässä.
-
-**Yritys- ja yhteistyöpäällikkö** hankkii yhteistyökumppaneita, esim. haalarisponsorit, tiimiläiset auttavat tässä.
-
-**Hyvinvointipäällikkö** pitää tapaamisia oman tiiminsä kanssa ja toimii välikätenä hallituksen ja hyvinvointitiimin välillä.
-
-**Korkeakoulupoliittinen vastaava** on ääni opiskelijoiden ja tiedekunnan välillä, sekä toimii opiskelijoiden edunvalvojana.
-
-**Sosiaalipoliittisen vastaavan** toimenkuvaan kuuluu mm. opiskelijan toimeentulo, asumisasiat, terveydenhuolto ja muu hyvinvointi.
-
-**Fuksivastaava** toimii linkkinä tiedekunnan, ainejärjestön, tutorien ja fuksien välillä.
-
-**Kansainvälisyysvastaava** toimii yhteyshenkilönä kv-opiskelijoiden, tiedekunnan kv-sektorin ja ainejärjestön välillä.
-
-**Verijumala** pitää verenluovutuspäiviä
-
-**Kattilakeisari** ylläpitää ainejärjestötilaamme Kattilaa (Ag B437).
-
-**Mediapäällikkö** toimii linkkinä muun mediatiimin ja hallituksen välillä, ja tekee muiden pestien hommia tarpeen tullen.
-
-**Webmaster** ylläpitää nettisivuja sekä sähköpostialiaksia.
-
-**Päätoimittaja** on vastuussa ainejärjestölehti A href:istä.
-
-**Mediavastaava** hoitaa meidän sosiaalisia medioita.
-
-**Meemimestari** hoitaa meidän meemikanavaa Telegrammissa.
-
-**Graafikko/taittaja** tekee taiton A href:ille.
-
-**Hallitusmentori** tai “Vanha näätä” on menneen hallituksen jäsen, jonka tehtävänä on tukea nykyistä hallitusta ja välittää hyödyllistä perinnetietoa.

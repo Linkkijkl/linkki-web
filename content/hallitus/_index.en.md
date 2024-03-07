@@ -1,5 +1,6 @@
 +++
-title = 'Board of Directors'
+title = "Board of Directors"
+description = "All boards of directors of Linkki Jyväskylä ry"
 keywords = ["hallitus"]
 +++
 
