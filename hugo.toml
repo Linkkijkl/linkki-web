@@ -372,3 +372,21 @@ defaultContentLanguage = 'fi'
 
 [languages.en.params.clients]
     title = "Our sponsors"
+
+
+[params.see_more]
+    enable = true
+    icon = "far fa-file-alt"
+    link_url = "https://forms.gle/ZRYsBxLazFVM111Q8"
+
+
+[languages.fi.params.see_more]
+    link_text = "Ilmoittautumislomakkeeseen"
+    title = "Liity jäseneksi"
+    subtitle = "Ainejärjestön jäsenyys tarkoittaa perinteisesti elämänmittaisia kaverisuhteita ja juuri opiskelijan näköistä opiskelijakulttuuria."
+
+
+[languages.en.params.see_more]
+    link_text = "Application form"
+    title = "Membership application"
+    subtitle = "Joining a student union traditionally equates to lifelong friendships and memorable experiences in student culture."
