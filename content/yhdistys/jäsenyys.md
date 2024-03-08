@@ -1,10 +1,8 @@
 +++
-title = "Jäseneksi liittyminen"
-description = ""
-keywords = ["jäsenyys", "jäsen", "lomake"]
+title = "Jäsenyys"
+description = "Linkin historia"
+keywords = ["jäsenyys", "aktiivi", "jäsen", "jäsenedut", "lomake"]
 +++
-
-# Jäsenyys
 
 Ainejärjestön jäsenyys tarkoittaa perinteisesti elämänmittaisia
 kaverisuhteita ja juuri opiskelijan näköistä
@@ -25,7 +23,8 @@ esimerkiksi ainejärjestön haalarit, osallistua yhdistyksen toimintaan
   yhdistyksen eteen, mistä syystä yhdistys on halunnut muistaa heitä
   erityisesti.
 
-## LIITTYMINEN
+
+# Liittyminen
 
 - *Varsinaiseksi jäseneksi* voit liittyä täyttämällä oheisen
 [LOMAKKEEN](https://forms.gle/ZRYsBxLazFVM111Q8). Jäsenhakemuksesi
@@ -35,6 +34,9 @@ heti jäsenyyttä haettuasi. Jäseneksi voi liittyä kuka tahansa
 tietotekniikan, koulutusteknologian tai tietojenkäsittelytieteen
 pääaine-, sivuaine- tai jatko-opiskelija, joka hyväksyy yhdistyksen
 säännöt sekä tavoitteet.
+
+- *Aktiiviksi* haku tapahtuu oheisen
+[LOMAKKEEN](https://r.jyu.fi/aktiivihaku) kautta.
 
 - *Kannatusjäseneksi* ei ole tällä hetkellä mahdollista liittyä.
 <!---
@@ -60,3 +62,5 @@ säännöt sekä tavoitteet.
   ehdottamiaan kunniajäseniä yhdistyksen puheenjohtajalle
   sähköpostilla osoitteeseen pj@linkkijkl.fi.
 
+# Jäsenedut
+TODO

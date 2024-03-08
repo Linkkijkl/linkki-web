@@ -60,27 +60,11 @@ defaultContentLanguage = 'fi'
 
 
 [[languages.fi.menus.main]]
-    name = "Jäsenedut"
-    identifier = "menu.edut"
-    url = "/yhdistys/jäsenedut/"
+    name = "Jäsenyys"
+    identifier = "menu.jäsenyys"
+    url = "/yhdistys/jäsenyys/"
     parent = "menu.yhdistys"
     weight = 4
-
-
-[[languages.fi.menus.main]]
-    name = "Jäseneksi"
-    identifier = "menu.jäseneksi"
-    url = "/yhdistys/jäseneksi/"
-    parent = "menu.yhdistys"
-    weight = 5
-
-
-[[languages.fi.menus.main]]
-    name = "Aktiivi-info"
-    identifier = "menu.aktiivi"
-    url = "/yhdistys/aktiivi/"
-    parent = "menu.yhdistys"
-    weight = 6
 
 
 [[languages.fi.menus.main]]
@@ -146,6 +130,14 @@ defaultContentLanguage = 'fi'
 
 
 [[languages.fi.menus.main]]
+    name = "Lukupiiri"
+    identifier = "menu.lukupiiri"
+    url = "/toiminta/lukupiiri/"
+    parent = "menu.toiminta"
+    weight = 7
+
+
+[[languages.fi.menus.main]]
     name = "Yhteistyö"
     identifier = "menu.yhteistyö"
     url = "/yhteistyö/"
@@ -194,27 +186,11 @@ defaultContentLanguage = 'fi'
 
 
 #[[languages.en.menus.main]]
-#    name = "Member Benefits" # Vai membership benefits?
-#    identifier = "menu.edut"
-#    url = "/en/yhdistys/jäsenedut/"
+#    name = "Membership"
+#    identifier = "menu.jäsenyys"
+#    url = "/en/yhdistys/jäsenyys/"
 #    parent = "menu.yhdistys"
 #    weight = 4
-
-
-#[[languages.en.menus.main]]
-#    name = "Join"
-#    identifier = "menu.jäseneksi"
-#    url = "/en/yhdistys/jäseneksi/"
-#    parent = "menu.yhdistys"
-#    weight = 5
-
-
-#[[languages.en.menus.main]]
-#    name = "Active Likees"
-#    identifier = "menu.aktiivi"
-#    url = "/en/yhdistys/aktiivi/"
-#    parent = "menu.yhdistys"
-#    weight = 6
 
 
 #[[languages.en.menus.main]]
@@ -372,3 +348,21 @@ defaultContentLanguage = 'fi'
 
 [languages.en.params.clients]
     title = "Our sponsors"
+
+
+[params.see_more]
+    enable = true
+    icon = "far fa-file-alt"
+    link_url = "https://forms.gle/ZRYsBxLazFVM111Q8"
+
+
+[languages.fi.params.see_more]
+    link_text = "Ilmoittautumislomakkeeseen"
+    title = "Liity jäseneksi"
+    subtitle = "Ainejärjestön jäsenyys tarkoittaa perinteisesti elämänmittaisia kaverisuhteita ja juuri opiskelijan näköistä opiskelijakulttuuria."
+
+
+[languages.en.params.see_more]
+    link_text = "Application form"
+    title = "Membership application"
+    subtitle = "Joining a student union traditionally equates to lifelong friendships and memorable experiences in student culture."

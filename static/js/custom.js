@@ -14,9 +14,19 @@ function updateKahvikamera() {
     setInterval(updateKahvikamera, KAHVI_UPDATE_FREQ);
 };
 
+let randomizeSponsorOrder = () => {
+    let customers = document.querySelector(".customers .owl-wrapper");
+    if (!customers) return;
+    [...document.querySelectorAll(".customers .owl-item")]
+        .sort((a, b) => 0.5 - Math.random())
+        .forEach(sponsor => customers.appendChild(sponsor));
+};
+
 window.onload = () => {
     kahvikamera = document.querySelector(".kahvikamera");
     if (kahvikamera) {
         setInterval(updateKahvikamera, KAHVI_UPDATE_FREQ);
     }
+
+    randomizeSponsorOrder();
 };
