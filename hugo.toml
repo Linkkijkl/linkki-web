@@ -146,6 +146,14 @@ defaultContentLanguage = 'fi'
 
 
 [[languages.fi.menus.main]]
+    name = "Lukupiiri"
+    identifier = "menu.lukupiiri"
+    url = "/toiminta/lukupiiri/"
+    parent = "menu.toiminta"
+    weight = 7
+
+
+[[languages.fi.menus.main]]
     name = "Yhteistyö"
     identifier = "menu.yhteistyö"
     url = "/yhteistyö/"

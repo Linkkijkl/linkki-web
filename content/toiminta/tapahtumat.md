@@ -1,7 +1,7 @@
 +++
 title = "Tapahtumat"
 description = ""
-keywords = ["tapahtumat", "kalenteri", "jyväsmetro", "metro", "instanssi", "lukupiiri", "kässäkerho"]
+keywords = ["tapahtumat", "kalenteri", "jyväsmetro", "metro", "instanssi", "kässäkerho"]
 +++
 
 # Tapahtumakalenteri
@@ -22,6 +22,3 @@ TODO
 
 TODO
 
-# Lukupiiri
-
-TODO
