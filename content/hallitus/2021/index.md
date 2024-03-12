@@ -4,6 +4,7 @@ date = "2021-01-01T00:00:00+02:00"
 description = "Linkin Hallitus 2021"
 keywords = ["hallitus", "2021"]
 categories = ["hallitukset"]
+banner = "/img/hallitukset/hallitus2021.jpg"
 +++
 
 ## Puheenjohtaja

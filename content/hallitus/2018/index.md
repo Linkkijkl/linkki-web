@@ -4,6 +4,7 @@ date = "2018-01-01T00:00:00+02:00"
 description = "Linkin Hallitus 2018"
 keywords = ["hallitus", "2018"]
 categories = ["hallitukset"]
+banner = "/img/hallitukset/hallitus2018.jpg"
 +++
 
 ## Puheenjohtaja
