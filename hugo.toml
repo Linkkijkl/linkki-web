@@ -296,6 +296,8 @@ defaultContentLanguage = 'fi'
 
     modified_by_url = "https://github.com/linkkijkl/linkki-web/graphs/contributors"
 
+    shader = true
+
 
 [languages.fi.params]
     about_us = """
