@@ -5,6 +5,8 @@ description = "Linkin Hallitus 2023"
 keywords = ["hallitus", "2023"]
 categories = ["hallitukset"]
 banner = "/img/hallitukset/hallitus2023.jpg"
+summary = " "
+authors = ["Ossi Rantala", "Kati Nietosvuori", "Oskari Lahtinen", "Arttu Juntunen", "Emma Järvinen", "Mortti Luhtala", "Daniel Buselli", 'Martti "Mara" Niukkanen', "Samuli Ryhänen", "Jami Virtanen"]
 +++
 
 ## Puheenjohtaja

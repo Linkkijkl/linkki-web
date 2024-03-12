@@ -4,7 +4,9 @@ date = "2019-01-01T00:00:00+02:00"
 description = "Linkin Hallitus 2019"
 keywords = ["hallitus", "2019"]
 categories = ["hallitukset"]
+authors = ["Juuso Koistinen", "Julia Sippola", "Minna Kangaspuoskari", "Henrik Korhonen", "Joonas Rautiainen", "Emilia Varonen", "Einar Rautjärvi", "Tinja Vaskelainen", "Sinna Pirinen", "Emma Nevala", "Taavi Heinonen", "Anna Arikainen", "Jyrki Kokkola"]
 banner = "/img/hallitukset/hallitus2019.jpg"
+summary = " "
 +++
 
 ## Puheenjohtaja

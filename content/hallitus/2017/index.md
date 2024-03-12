@@ -4,7 +4,9 @@ date = "2017-01-01T00:00:00+02:00"
 description = "Linkin Hallitus 2019"
 keywords = ["hallitus", "2017"]
 categories = ["hallitukset"]
+authors = ["Leevi Leppälä", "Jami Laamanen", "Artturi Lobski", "Janne Mäyrä", "Sara Afflekt-Lazar", "Wiljam Rautiainen", "Ville Kankaanpää", "Perttu Rautaniemi", "Leo Toiminen", "Tinja Vaskelainen", "Otto Jahnukainen", "Anttu Kaipanen", "Nico Foxell", "Milla Koivuniemi"]
 banner = "/img/hallitukset/hallitus2017.jpg"
+summary = " "
 +++
 
 # Hallitus 2017

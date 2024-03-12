@@ -366,3 +366,8 @@ defaultContentLanguage = 'fi'
     link_text = "Application form"
     title = "Membership application"
     subtitle = "Joining a student union traditionally equates to lifelong friendships and memorable experiences in student culture."
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+    author = "authors"
