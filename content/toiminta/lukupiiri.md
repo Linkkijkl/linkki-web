@@ -7,7 +7,7 @@ keywords = ["tapahtumat", "lukupiiri"]
 # Lukupiiri
 
 Linkin lukupiiri kokoontuu n. kerran kuussa keskustelemaan yhdessä valitusta teoksesta enemmän tai vähemmän asiallisella otteella. Kokoontumisajat ja
-seuraavaksi luettava teos valitaan yhdessä [lukupiirin Telegram-ryhmässä] (https://t.me/+SFwSBN8MrGNkMDA0) (pandemiarajoitusten jälkeen tapaamiset on tähän asti pidetty Mustassa Kynnyksessä ja sunnuntaisin). Tämä eri demokraattinen valintaprosessi sujuu seuraavasti:
+seuraavaksi luettava teos valitaan yhdessä [lukupiirin Telegram-ryhmässä](https://t.me/+SFwSBN8MrGNkMDA0) (pandemiarajoitusten jälkeen tapaamiset on tähän asti pidetty Mustassa Kynnyksessä ja sunnuntaisin). Tämä eri demokraattinen valintaprosessi sujuu seuraavasti:
 
 1. Valitaan kokoontumisen lopussa seuraavaksi luettavan teoksen teema (esim. genre, aihepiiri, tyyppi...)
 2. Heitellään teemaan sopivia kirjaehdotuksia Telegram-ryhmään (teemaan sopivuus jokaisen tulkittavissa)
