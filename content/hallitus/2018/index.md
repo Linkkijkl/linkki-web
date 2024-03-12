@@ -4,7 +4,9 @@ date = "2018-01-01T00:00:00+02:00"
 description = "Linkin Hallitus 2018"
 keywords = ["hallitus", "2018"]
 categories = ["hallitukset"]
+authors = ["Otto Jahnukainen", "Niko Muukkonen", "Nuutti Rantanen", "Tinja Vaskelainen", "Toni Keskinen", "Arimo Lemettinen", "Minna Kangaspuoskari", "Taavi Heinonen", "Riina Kokkonen", "Leo Toiminen", "Juuso Koistinen"]
 banner = "/img/hallitukset/hallitus2018.jpg"
+summary = " "
 +++
 
 ## Puheenjohtaja
@@ -35,4 +37,3 @@ banner = "/img/hallitukset/hallitus2018.jpg"
 
 ## Tiedottaja
 #### Juuso Koistinen
-
