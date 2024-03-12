@@ -1,48 +1,10 @@
 +++
-title = "Hallitukset 2006-2017"
-date = "2017-01-01T00:00:00+02:00"
+title = "Hallitukset 2006-2016"
+date = "2016-01-01T00:00:00+02:00"
 description = "Linkin hallitukset 2006-2017"
 keywords = ["hallitus", "vanha"]
 categories = ["hallitukset"]
 +++
-
-# Hallitus 2017
-
-## Puheenjohtaja
-#### Leevi Leppälä
-
-## Varapuheenjohtaja
-#### Jami Laamanen
-
-## Sihteeri
-#### Artturi Lobski
-
-## Rahastonhoitaja
-#### Janne Mäyrä
-
-## Tapahtumapäälliköt
-#### Sara Afflekt-Lazar
-#### Wiljam Rautiainen
-
-## Fuksi-/alumnivastaava
-#### Ville Kankaanpää
-
-## Korkeakoulupoliittiset vastaavat
-#### Perttu Rautaniemi
-#### Leo Toiminen
-
-## Sosiaalipoliittinen vastaava
-#### Tinja Vaskelainen
-
-## Yritys- ja yhteistyöpäälliköt
-#### Otto Jahnukainen
-#### Anttu Kaipainen
-#### Nico Foxell
-
-## Tiedottaja
-#### Milla Koivuniemi
-
-
 
 # Hallitus 2016
 
