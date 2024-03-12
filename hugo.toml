@@ -367,7 +367,21 @@ defaultContentLanguage = 'fi'
     title = "Membership application"
     subtitle = "Joining a student union traditionally equates to lifelong friendships and memorable experiences in student culture."
 
+
 [taxonomies]
     category = "categories"
     tag = "tags"
     author = "authors"
+
+
+[params.recent_posts]
+    enable = true
+    hide_summary = true
+
+
+[languages.fi.params.recent_posts]
+    title = "Uusimmat päivitykset"
+
+
+[languages.en.params.recent_posts]
+    title = "Recent updates"
