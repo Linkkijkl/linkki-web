@@ -16,7 +16,11 @@ TODO
 
 # Instanssi
 
-TODO
+Instanssi on Linkin ja [Jyväskylän Hacklabin](https://jyväskylä.hacklab.fi/) vuosittain järjestämä digitaalisen tekemisen festivaali Jyväskylässä. Ensimmäinen Instanssi järjestettiin syksyllä 2010.
+
+Instanssi on aloittelijaystävällinen tapahtuma, joka on tarkoitettu kaikille digitaalisesta kulttuurista kiinnostuneille. Tapahtuman ohjelma koostuu demoskene-aiheisista kompoista (eli kilpailuista), pelaamisesta, ohjelmoimisesta, esitelmistä ja työpajoista.
+
+Lisätietoa Instanssista löytää Instanssin omilta [sivuilta](https://instanssi.org).
 
 # Kässäkerho
 
