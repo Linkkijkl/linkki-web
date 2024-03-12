@@ -7,4 +7,4 @@ summary = " "
 banner = "/img/a-href-123.webp"
 +++
 
-{{< embed-pdf url="../a-href-123.pdf" >}}
+{{< embed-pdf url="./a-href-123.pdf" >}}
