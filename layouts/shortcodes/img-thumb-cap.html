@@ -1,0 +1,14 @@
+{{ $imagename := .Get 0 }}
+{{ $size := .Get 1 }}
+{{ $imageoriginal := .Page.Resources.GetMatch $imagename }}
+{{ $imagethumbnail := $imageoriginal.Resize $size }}
+<figure>
+    <a href="{{ $imageoriginal.RelPermalink }}">
+        <img src="{{ $imagethumbnail.RelPermalink }}">
+    </a>
+    <figcaption>
+        {{ with .Inner }}
+            {{ . | markdownify}}
+        {{ end }}
+    </figcaption>
+</figure>
