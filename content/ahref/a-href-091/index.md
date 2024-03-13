@@ -1,0 +1,10 @@
++++
+title = "A href 1/09"
+date = "2009-01-17"
+tags = ["a href", "jäsenlehti"]
+authors = ["Niko Tuomi-Nikula", "Ville Lappalainen", "Simo Hovari", "Mikko Punkari", "Jaakko Kaski", "Arto Muronen", "Markiisi de Jannumies"]
+summary = " "
+banner = "/img/a-href-091.webp"
++++
+
+{{< embed-pdf url="./a-href-091.pdf" >}}
