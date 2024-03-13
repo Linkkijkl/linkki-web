@@ -193,12 +193,12 @@ defaultContentLanguage = 'fi'
 #    weight = 4
 
 
-#[[languages.en.menus.main]]
-#    name = "Meeting Records"
-#    identifier = "menu.pöytäkirjat"
-#    url = "/en/yhdistys/pöytäkirjat/"
-#    parent = "menu.yhdistys"
-#    weight = 7
+[[languages.en.menus.main]]
+    name = "Board Minutes"
+    identifier = "menu.pöytäkirjat"
+    url = "/en/yhdistys/pöytäkirjat/"
+    parent = "menu.yhdistys"
+    weight = 7
 
 
 [[languages.en.menus.main]]
