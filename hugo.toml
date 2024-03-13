@@ -277,8 +277,8 @@ defaultContentLanguage = 'fi'
     defaultKeywords = ["linkkijkl", "linkki", "jyväskylä"]
 
     address = """
-            <p class="text-uppercase"><strong>Linkki Jyväskylä ry (2147178-4)</strong></br>
-            Opiskelijatila Kattila (Agora, Ag B437)</br>
+            <p class="text-uppercase"><strong>Linkki Jyväskylä ry (2147178-4)</strong><br/>
+            Opiskelijatila Kattila (Agora, Ag B437)<br/>
             PL 35, 40014 Jyväskylän yliopisto </p>
     """
     contact_url = ""
