@@ -4,6 +4,8 @@ date = "2020-01-01T00:00:00+02:00"
 description = "Linkin Hallitus 2020"
 keywords = ["hallitus", "2020"]
 categories = ["hallitukset"]
+authors = ["Riina Kokkonen", "Jari Haapasaari", "Maiju Velkeinen", "Henrik Korhonen", "Joonas Rautiainen", "Lauri Määttä", "Ella Ilen", "Otto Virtanen", "Niko Sihvo"]
+summary = " "
 +++
 
 ## Puheenjohtaja

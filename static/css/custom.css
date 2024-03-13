@@ -20,8 +20,16 @@
 }
 
 /* Disable theme background images*/
-.home-carousel {
+.home-carousel .dark-mask, .home-carousel {
     background: none;
+}
+
+/* Shader background */
+#shader {
+    background-color: var(--primary-accent);
+    position: absolute;
+    top: 0;
+    left: 0;
 }
 
 #heading-breadcrumbs {
