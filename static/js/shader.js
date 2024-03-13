@@ -3,7 +3,6 @@ const homeCarousel = document.getElementsByClassName("home-carousel")[0];
 const shaderPath = canvas.getAttribute("data-shader");
 
 const resizeCanvas = () => {
-    console.log("Resizing");
     canvas.width = homeCarousel.clientWidth;
     canvas.height = homeCarousel.clientHeight;
 }
@@ -56,11 +55,22 @@ const buildShaderProgram = (shaderInfo) => {
     }
 
     return program;
-}
+};
+
+
+const getPrimaryAccent = () => {
+    const hexToRgb = hex =>
+        hex.replace(/^#?([a-f\d])([a-f\d])([a-f\d])$/i
+            , (m, r, g, b) => '#' + r + r + g + g + b + b)
+            .substring(1).match(/.{2}/g)
+            .map(x => parseInt(x, 16));
+    return hexToRgb(
+        getComputedStyle(document.body).getPropertyValue('--primary-accent')
+    );
+};
 
 
 window.onload = () => {
-    console.log("Hello World");
     gl = canvas.getContext("webgl2");
     if (!gl) return;
 
@@ -78,23 +88,58 @@ window.onload = () => {
             type: gl.FRAGMENT_SHADER,
             code: `#version 300 es
             precision highp float;
-                    
+
+            uniform vec2 u_resolution;
+            uniform float u_time;
+            uniform vec3 u_primary_accent;
+            
             out vec4 outColor;
-                    
+            
+            vec3 hash33(vec3 p3)
+            {
+                p3 = fract(p3 * vec3(443.8975,397.2973, 491.1871));
+                p3 += dot(p3, p3.yxz+19.19);
+                return -1.0 + 2.0 * fract(vec3((p3.x + p3.y)*p3.z, (p3.x+p3.z)*p3.y, (p3.y+p3.z)*p3.x));
+            }
+        
+            float simplex_noise(vec3 p)
+            {
+                const float K1 = 0.333333333;
+                const float K2 = 0.166666667;
+                
+                vec3 i = floor(p + (p.x + p.y + p.z) * K1);
+                vec3 d0 = p - (i - (i.x + i.y + i.z) * K2);
+                
+                // thx nikita: https://www.shadertoy.com/view/XsX3zB
+                vec3 e = step(vec3(0.0), d0 - d0.yzx);
+                vec3 i1 = e * (1.0 - e.zxy);
+                vec3 i2 = 1.0 - e.zxy * (1.0 - e);
+                
+                vec3 d1 = d0 - (i1 - 1.0 * K2);
+                vec3 d2 = d0 - (i2 - 2.0 * K2);
+                vec3 d3 = d0 - (1.0 - 3.0 * K2);
+                
+                vec4 h = max(0.6 - vec4(dot(d0, d0), dot(d1, d1), dot(d2, d2), dot(d3, d3)), 0.0);
+                vec4 n = h * h * h * h * vec4(dot(d0, hash33(i)), dot(d1, hash33(i + i1)), dot(d2, hash33(i + i2)), dot(d3, hash33(i + 1.0)));
+                
+                return dot(vec4(31.316), n);
+            }
+
             void main() {
-                outColor = vec4(1, 0, 0.1, 1);
+                vec2 a = vec2(gl_FragCoord.xy / u_resolution);
+                float simplex = 1.0 - simplex_noise(vec3(a.x, a.y, u_time * 0.1));
+                vec3 color = vec3(simplex) * u_primary_accent;
+                outColor = vec4(mix(u_primary_accent, color, min(u_time * 0.3, 1.0)), 1);
             }`
         }
     ]);
 
     const positionAttributeLocation = gl.getAttribLocation(shaderProgram, "a_position");
+    const resolutionLocation = gl.getUniformLocation(shaderProgram, "u_resolution");
+    const timeLocation = gl.getUniformLocation(shaderProgram, "u_time");
+    const accentLocation = gl.getUniformLocation(shaderProgram, "u_primary_accent");
 
-    console.log(shaderProgram);
-
-    // Create a vertex array object (attribute state)
     const vao = gl.createVertexArray();
-
-    // and make it the one we're currently working with
     gl.bindVertexArray(vao);
 
     // Create a buffer to put three 2d clip space points in
@@ -113,10 +158,7 @@ window.onload = () => {
         1, 1,
     ]), gl.STATIC_DRAW);
 
-    // Turn on the attribute
     gl.enableVertexAttribArray(positionAttributeLocation);
-
-    // Tell the attribute how to get data out of positionBuffer (ARRAY_BUFFER)
     gl.vertexAttribPointer(
         positionAttributeLocation,
         2,          // 2 components per iteration
@@ -128,10 +170,27 @@ window.onload = () => {
 
     gl.viewport(0, 0, gl.canvas.width, gl.canvas.height);
 
-    // Drawing
     gl.useProgram(shaderProgram);
     gl.bindVertexArray(vao);
-    gl.drawArrays(
-        gl.TRIANGLES, 0, 6
-    )
+
+    gl.uniform2f(resolutionLocation, gl.canvas.width, gl.canvas.height);
+    const pa = getPrimaryAccent();
+    console.log(pa);
+    gl.uniform3f(accentLocation, pa[0] / 255.0, pa[1] / 255.0, pa[2] / 255.0);
+
+
+    gl.uniform3f
+
+    let timeTracker = 0.0;
+    let startTime = document.timeline.currentTime;
+
+    function render() {
+        timeTracker = (document.timeline.currentTime - startTime) * 0.001;
+
+        gl.uniform1f(timeLocation, timeTracker);
+        gl.drawArrays(gl.TRIANGLES, 0, 6);
+        window.requestAnimationFrame(render);
+    }
+
+    render();
 }
