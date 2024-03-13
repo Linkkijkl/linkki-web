@@ -3,24 +3,6 @@
 {{ if gt (len .Site.Data.carousel) 0 }}
 <section>
     <div class="home-carousel">
-        {{ if default false .Site.Params.Shader }}
-            <script id="vertex-shader" type="x-shader/x-vertex">#version 300 es
-                in vec4 a_position;
-                
-                void main() {
-                    gl_Position = a_position;
-                }
-            </script>
-            <script id="fragment-shader" type="x-shader/x-fragment">#version 300 es
-                precision highp float;
-                        
-                out vec4 outColor;
-                        
-                void main() {
-                    outColor = vec4(1, 0, 0.1, 1);
-                }
-            </script>
-        {{ end }}
         <canvas id="shader" ></canvas>
         <div class="dark-mask"></div>
         <div class="container">
