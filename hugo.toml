@@ -327,12 +327,13 @@ defaultContentLanguage = 'fi'
     # For more information take a look at the README.
     enable = true
     auto_play = true
-    slide_speed = 2000
     pagination_speed = 1000
 
 
 [params.carouselCustomers]
     auto_play = true
+    items = 8
+    pagination_speed = 1000
 
 
 [params.clients]
@@ -357,7 +358,7 @@ defaultContentLanguage = 'fi'
 
 
 [languages.fi.params.see_more]
-    link_text = "Ilmoittautumislomakkeeseen"
+    link_text = "Liittymislomakkeeseen"
     title = "Liity jäseneksi"
     subtitle = "Ainejärjestön jäsenyys tarkoittaa perinteisesti elämänmittaisia kaverisuhteita ja juuri opiskelijan näköistä opiskelijakulttuuria."
 

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="71.70343mm"
+   height="71.575363mm"
+   id="svg3054"
+   version="1.1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs3">
+    <ellipse
+       transform="matrix(-0.704605,-0.413973,0.451739,-0.768884,374.751,1080.08)"
+       id="path6556"
+       style="fill:none;stroke:none"
+       cx="362.64478"
+       cy="524.30493"
+       rx="84.852814"
+       ry="78.53936" />
+    <ellipse
+       transform="matrix(-0.76837,0.514881,0.563461,0.835267,339.046,-97.5708)"
+       id="path7315"
+       style="fill:none;stroke:none"
+       cx="362.64478"
+       cy="524.30493"
+       rx="84.852814"
+       ry="78.53936" />
+  </defs>
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="matrix(0.44965663,0,0,0.44965663,-37.506251,-39.240622)">
+    <g
+       transform="matrix(3.2223986,0,0,3.2223986,-761.85475,-1309.5906)"
+       id="g3047"
+       style="display:inline">
+      <ellipse
+         transform="matrix(-0.669317,-0.93904,0.865648,-0.617006,139.201,1193.35)"
+         id="path2827"
+         style="display:inline;fill:#f9f9f9;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         cx="361.63461"
+         cy="529.86078"
+         rx="79.802048"
+         ry="87.125656" />
+      <path
+         transform="matrix(0.98366599,0,0,1.09418,-10.5751,-62.030105)"
+         id="path1349"
+         d="m 416.38515,577.40034 c -11.10739,10.10178 -26.44908,16.3526 -43.38631,16.3526 -33.87446,0 -61.36677,-25.00329 -61.36677,-55.81092 0,-30.80764 27.49231,-55.81093 61.36677,-55.81093 16.93723,0 32.27892,6.25082 43.38631,16.3526 l -42.61601,39.45813 z"
+         style="display:inline;fill:#035cff;fill-opacity:1;fill-rule:evenodd;stroke:#00006d;stroke-width:1.69825;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         transform="matrix(1.2179,0,0,1.14616,-84.968904,-78.953803)"
+         id="path2825"
+         style="display:inline;fill:#035cff;fill-opacity:1;stroke:#00006d;stroke-width:1.36971;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         cx="401.53564"
+         cy="528.09302"
+         rx="11.111678"
+         ry="11.616755" />
+      <text
+         id="text4347"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><textPath
+           id="textPath7284"
+           xlink:href="#path6556"
+           style="font-family:sans-serif"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
+             id="tspan4349">LINKKI JYVÄSKYLÄ RY</tspan></textPath></text>
+      <ellipse
+         transform="matrix(-0.704605,-0.413973,0.451739,-0.768884,374.751,1080.08)"
+         id="path3795"
+         style="display:inline;fill:none;stroke:none"
+         cx="362.64478"
+         cy="524.30493"
+         rx="84.852814"
+         ry="78.53936" />
+      <ellipse
+         transform="matrix(-0.76837,0.514881,0.563461,0.835267,339.046,-97.5708)"
+         id="path3797"
+         style="display:inline;fill:none;stroke:none"
+         cx="362.64478"
+         cy="524.30493"
+         rx="84.852814"
+         ry="78.53936" />
+      <text
+         id="text7317"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><textPath
+           id="textPath7321"
+           xlink:href="#path7315"
+           style="font-family:sans-serif"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
+             id="tspan7319">JYVÄSKYLÄN YLIOPISTO</tspan></textPath></text>
+    </g>
+  </g>
+</svg>
