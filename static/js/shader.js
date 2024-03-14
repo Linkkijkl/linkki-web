@@ -2,9 +2,18 @@ const canvas = document.getElementById("shader");
 const homeCarousel = document.getElementsByClassName("home-carousel")[0];
 const shaderPath = canvas.getAttribute("data-shader");
 
+let gl = null;
+let shaderProgram;
+let resolutionLocation;
+let vertexArray = new Float32Array
+
 const resizeCanvas = () => {
     canvas.width = homeCarousel.clientWidth;
     canvas.height = homeCarousel.clientHeight;
+    if (gl != null) {
+        gl.viewport(0, 0, gl.canvas.width, gl.canvas.height);
+        gl.uniform2f(resolutionLocation, gl.canvas.width, gl.canvas.height);
+    }
 }
 
 new ResizeObserver((entires) => {
@@ -13,9 +22,6 @@ new ResizeObserver((entires) => {
     }
 }).observe(homeCarousel);
 
-
-let gl = null;
-let vertexArray = new Float32Array
 
 
 const compileShader = (code, type) => {
@@ -74,7 +80,7 @@ window.onload = () => {
     gl = canvas.getContext("webgl2");
     if (!gl) return;
 
-    const shaderProgram = buildShaderProgram([
+    shaderProgram = buildShaderProgram([
         {
             type: gl.VERTEX_SHADER,
             code: `#version 300 es
@@ -135,7 +141,7 @@ window.onload = () => {
     ]);
 
     const positionAttributeLocation = gl.getAttribLocation(shaderProgram, "a_position");
-    const resolutionLocation = gl.getUniformLocation(shaderProgram, "u_resolution");
+    resolutionLocation = gl.getUniformLocation(shaderProgram, "u_resolution");
     const timeLocation = gl.getUniformLocation(shaderProgram, "u_time");
     const accentLocation = gl.getUniformLocation(shaderProgram, "u_primary_accent");
 
