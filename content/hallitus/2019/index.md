@@ -9,6 +9,8 @@ banner = "/img/hallitukset/hallitus2019.jpg"
 summary = " "
 +++
 
+![Hallitus 2019](/img/hallitukset/hallitus2019.jpg)
+
 ## Puheenjohtaja
 #### Juuso Koistinen
 

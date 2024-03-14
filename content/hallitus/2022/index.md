@@ -9,6 +9,8 @@ banner = "/img/hallitukset/hallitus2022.jpg"
 summary = " "
 +++
 
+![Hallitus 2022](/img/hallitukset/hallitus2022.jpg)
+
 ## Puheenjohtaja
 #### Waltteri Mielty
 

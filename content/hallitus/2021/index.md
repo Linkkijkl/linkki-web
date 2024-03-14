@@ -9,6 +9,8 @@ banner = "/img/hallitukset/hallitus2021.jpg"
 summary = " "
 +++
 
+![Hallitus 2021](/img/hallitukset/hallitus2021.jpg)
+
 ## Puheenjohtaja
 #### Roope Tirronen
 

@@ -9,6 +9,8 @@ banner = "/img/hallitukset/hallitus2018.jpg"
 summary = " "
 +++
 
+![Hallitus 2018](/img/hallitukset/hallitus2018.jpg)
+
 ## Puheenjohtaja
 #### Otto Jahnukainen
 

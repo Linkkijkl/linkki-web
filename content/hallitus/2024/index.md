@@ -8,6 +8,8 @@ banner = "/img/hallitukset/hallitus2024.jpg"
 summary = " "
 +++
 
+![Hallitus 2024](/img/hallitukset/hallitus2024.jpg)
+
 # Hallintotiimi
 
 Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen puolesta, että yhdistyksen toiminnassa noudatetaan lainsäädäntöä, kuten **yhdistyslakia**. Tiimissä tehdään työtä, että kokoukset järjestetään lain vaatimilla edellytyksillä ja huolehditaan talouden seurannasta, sekä budjetoinnista. Tiimi toimii enemmän hallinnollisessa, sekä koordinoivassa roolissa. Tiimin jäsenet osallistuvat tarvittaessa myös muiden tiimien toimintaan.
