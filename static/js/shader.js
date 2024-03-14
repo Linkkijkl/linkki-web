@@ -5,6 +5,8 @@ const shaderPath = canvas.getAttribute("data-shader");
 const resizeCanvas = () => {
     canvas.width = homeCarousel.clientWidth;
     canvas.height = homeCarousel.clientHeight;
+    gl.viewport(0, 0, gl.canvas.width, gl.canvas.height);
+    gl.uniform2f(resolutionLocation, gl.canvas.width, gl.canvas.height);
 }
 
 new ResizeObserver((entires) => {
