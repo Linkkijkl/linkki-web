@@ -4,22 +4,20 @@ description = ""
 keywords = ["keskustelukanavat", "telegram", "irc", "matrix"]
 +++
 
-TODO linkit piiloon?
-
-
 
 Linkki Jyväskylä ry:n virallinen keskustelukanava sijaitsee Telegram
 -palvelussa. Vastaavassa palvelussa löytyy myös keskustelukanavalle
 linkitetty tiedotuskanava, jonka saat tilattua halutessasi
-[tästä](https://t.me/linkkijkl_info).
+[tästä](https://t.me/linkkijkl_info) tai hakemalla @linkkijkl_info.
 
 Kanavayhteys on sillattuna ainejärjestön muiden viestintäkanavien
 kanssa, eli keskusteluun voi osallistua haluamaltaan
 alustalta. Keskustelu on sillattuna seuraaviin palveluihin:
 
-- Matrix
-- IRC
-- Discord
+- Telegram: @linkkijkl
+- Matrix: #linkkijkl:hacklab.fi
+- IRC: #linkki.jkl IRCnetissä
+- Discord: https://discord.com/invite/f9c6y97
 
 Ryhmäkeskustelun säännöt
 
@@ -33,5 +31,5 @@ keskustellessasi.** Kiellettyä ovat erityisesti:
 - Roskapostittaminen ja mainonta
 
 Linkki Jyväskylä ry:n ryhmäkeskustelua moderoi hallituksen jäsenet,
-vastuuhenkilöt ja erikseen nimeämät henkilöt. Yksittäisistä
+toimihenkilöt ja hallituksen erikseen nimeämät henkilöt. Yksittäisistä
 moderointipäätöksistä ei voi valittaa.
