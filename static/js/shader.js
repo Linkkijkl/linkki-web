@@ -101,41 +101,124 @@ window.onload = () => {
             
             out vec4 outColor;
             
-            vec3 hash33(vec3 p3)
-            {
-                p3 = fract(p3 * vec3(443.8975,397.2973, 491.1871));
-                p3 += dot(p3, p3.yxz+19.19);
-                return -1.0 + 2.0 * fract(vec3((p3.x + p3.y)*p3.z, (p3.x+p3.z)*p3.y, (p3.y+p3.z)*p3.x));
+            vec3 cameraPosition;
+            vec3 lightPosition;
+            
+            const float EPSILON = 0.001f;
+            const float PI = 3.1415;
+            const float timeScale = 1.0f;
+            
+            // Some utility functions for logical operations etc.
+            float unionCSG(float a, float b) {return min(a, b);}
+            float differenceCSG(float a, float b) {return max(a, -b);}
+            float intersectionCSG(float a, float b) {return max(a, b);}
+
+            // A signed distance function for a box
+            float sdfBox(vec3 p, vec3 b) {
+                vec3 q = abs(p) - b;
+                return length(max(q, 0.0f)) + min(max(q.x, max(q.y, q.z)), 0.0f);
             }
-        
-            float simplex_noise(vec3 p)
-            {
-                const float K1 = 0.333333333;
-                const float K2 = 0.166666667;
+            
+            // A signed distance function for a sphere
+            float sdfSphere(vec3 p, float r) {
+                return length(p) - r;
+            }
+
+            vec3 op_repeat(vec3 p, vec3 c) {
+                return mod(p, c) - (0.5) * c;
+            }
+            
+            mat2 op_rotate(float a) {
+                float s = sin(a);
+                float c = cos(a);
+                return mat2(c, -s, s, c);
+            }
+
+            // Slap all drawables here
+            float mapTheWorld(vec3 p) {
+                p -= vec3(sin(u_time) * 0.2, cos(u_time) * 0.2, -u_time * 3.0);
+                p.xy *= op_rotate(PI/4.0f);
+                p = op_repeat(p, vec3(2.5, 2.5, 2.5));
+                float sphere0 = sdfSphere(p - vec3(0.0, 0.0f, 0.0f), 1.0f);
+                float cube0 = sdfBox(p - vec3(1.0f, 1.0f, 0.0f), vec3(1.0f, 1.0f, 2.0f));
+                float sphere1 = sdfSphere(p - vec3(0.5f, 0.5f, 0.0f), 0.2);
+                return unionCSG(sphere1, differenceCSG(sphere0, cube0));
+            }
+            
+            // Calclulate the normal for the object
+            vec3 calcNormal(vec3 p) {
+                const vec2 tinyStep = vec2(EPSILON, 0.0f);
+              
+                float gradX = mapTheWorld(p + tinyStep.xyy) - mapTheWorld(p - tinyStep.xyy);
+                float gradY = mapTheWorld(p + tinyStep.yxy) - mapTheWorld(p - tinyStep.yxy);
+                float gradZ = mapTheWorld(p + tinyStep.yyx) - mapTheWorld(p - tinyStep.yyx);
+              
+                return normalize(vec3(gradX, gradY, gradZ));
+            }
+            
+            // Variables for lighting, light colours and such
+            const float ambientStrength = 0.3f;
+            const vec3 ambientColor = vec3(0.0f, 0.0f, 0.0f);
+            const vec3 lightColor = vec3(1.0f, 1.0f,  1.0f);
+            const vec3 objectColor = vec3(0.219f, 0.490f, 1.0f);
+            
+            // Calculate shading for the object
+            vec3 calcShading(vec3 position, vec3 normal) {
+              
+                vec3 ambientLight = ambientColor * ambientStrength;
+              
+                vec3 dirToLight = normalize(lightPosition - position);
+                vec3 diffuseLight = max(0.0f, dot(normal, dirToLight)) * lightColor;
+              
+                return objectColor * (ambientLight + diffuseLight);
+            }
+            
+            // The raymarch function.
+            vec3 rayMarch(vec3 ro, vec3 rd) {
+              
+                float dTraveled = 0.0f;         // Distance travelled so far
+                const int STEPNUM = 100;         // Number of maximum steps
+                const float MAXDIST = 15.0f;  // Maximum distance for the ray to travel.
+              
+                for (int i = 0; i < STEPNUM; ++i) {
                 
-                vec3 i = floor(p + (p.x + p.y + p.z) * K1);
-                vec3 d0 = p - (i - (i.x + i.y + i.z) * K2);
+                    // Set the current position on the ray
+                    vec3 currentPosition = ro + dTraveled * rd;
                 
-                // thx nikita: https://www.shadertoy.com/view/XsX3zB
-                vec3 e = step(vec3(0.0), d0 - d0.yzx);
-                vec3 i1 = e * (1.0 - e.zxy);
-                vec3 i2 = 1.0 - e.zxy * (1.0 - e);
+                    // Calculate the SDFs
+                    float distanceToClosest = mapTheWorld(currentPosition);
                 
-                vec3 d1 = d0 - (i1 - 1.0 * K2);
-                vec3 d2 = d0 - (i2 - 2.0 * K2);
-                vec3 d3 = d0 - (1.0 - 3.0 * K2);
+                    // If a hit, then calculate normals and shading.
+                    if (distanceToClosest < EPSILON) {
+                        vec3 normal = calcNormal(currentPosition);
+                        return calcShading(currentPosition, normal);
+                    }
                 
-                vec4 h = max(0.6 - vec4(dot(d0, d0), dot(d1, d1), dot(d2, d2), dot(d3, d3)), 0.0);
-                vec4 n = h * h * h * h * vec4(dot(d0, hash33(i)), dot(d1, hash33(i + i1)), dot(d2, hash33(i + i2)), dot(d3, hash33(i + 1.0)));
+                    // If distance travelled has hit the limit, break the loop
+                    if (dTraveled > MAXDIST) break;
                 
-                return dot(vec4(31.316), n);
+                    // Otherwise, add results of the SDF to the travelled distance.
+                    dTraveled += distanceToClosest;
+                }
+                // If no hits are registered, return ambient color.
+                return ambientColor * ambientStrength;
             }
 
             void main() {
-                vec2 a = vec2(gl_FragCoord.xy / u_resolution);
-                float simplex = 1.0 - simplex_noise(vec3(a.x, a.y, u_time * 0.1));
-                vec3 color = vec3(simplex) * u_primary_accent;
-                outColor = vec4(mix(u_primary_accent, color, min(u_time * 0.3, 1.0)), 1);
+                // Should be self explanatory
+                cameraPosition = vec3(0.0f, 0.0f, -5.0f);
+                lightPosition = cameraPosition;
+
+                // Set up everything for the raymarching and march the ray
+                float aspectRatio = u_resolution.x/u_resolution.y;
+                vec2 uv = gl_FragCoord.xy/u_resolution - vec2(0.5f);
+                uv.x = uv.x * aspectRatio;
+                vec3 ro = cameraPosition;
+                vec3 screen = vec3(uv, ro.z + 1.0f);
+                vec3 rd = normalize(screen - ro);
+                vec4 marchResult = vec4(rayMarch(ro, rd), 1);
+
+                outColor = marchResult;
             }`
         }
     ]);
