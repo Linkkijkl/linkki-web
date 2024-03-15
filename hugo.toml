@@ -52,7 +52,7 @@ defaultContentLanguage = 'fi'
 
 
 [[languages.fi.menus.main]]
-    name = "Järjestyksen historia"
+    name = "Järjestön historia"
     identifier = "menu.historia"
     url = "/yhdistys/historia/"
     parent = "menu.yhdistys"
@@ -279,7 +279,13 @@ defaultContentLanguage = 'fi'
     address = """
             <p class="text-uppercase"><strong>Linkki Jyväskylä ry (2147178-4)</strong><br/>
             Opiskelijatila Kattila (Agora, Ag B437)<br/>
-            PL 35, 40014 Jyväskylän yliopisto </p>
+            PL 35, 40014 Jyväskylän yliopisto</p><br/>
+            <a href="https://t.me/linkkijkl_info"><i class='fab fa-2x fa-telegram'></i></a>
+            <a href="https://instagram.com/linkkijkl"><i class='fab fa-2x fa-instagram'></i></a>
+            <a href="https://github.com/linkkijkl"><i class='fab fa-2x fa-github'></i></a>
+            <a href="https://www.facebook.com/linkkijkl"><i class='fab fa-2x fa-facebook'></i></a>
+            <a href="https://www.youtube.com/@LinkkiJyvaskylaRy"><i class='fab fa-2x fa-youtube'></i></a>
+            <a href="mailto:hallitus@linkkijkl.fi"><i class='fas fa-2x fa-envelope'></i></a>
     """
     contact_url = ""
     copyright = "Copyright (c) 2024, Linkki Jyväskylä ry; all rights reserved."
@@ -332,7 +338,7 @@ defaultContentLanguage = 'fi'
 
 [params.carouselCustomers]
     auto_play = true
-    items = 8
+    items = 6
     pagination_speed = 1000
 
 
@@ -358,7 +364,7 @@ defaultContentLanguage = 'fi'
 
 
 [languages.fi.params.see_more]
-    link_text = "Liittymislomakkeeseen"
+    link_text = "Avaa liittymislomake"
     title = "Liity jäseneksi"
     subtitle = "Ainejärjestön jäsenyys tarkoittaa perinteisesti elämänmittaisia kaverisuhteita ja juuri opiskelijan näköistä opiskelijakulttuuria."
 
