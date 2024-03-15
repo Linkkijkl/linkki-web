@@ -12,7 +12,12 @@ keywords = ["tapahtumat", "kalenteri", "jyväsmetro", "metro", "instanssi", "kä
 
 # Jyväsmetro
 
-TODO
+Jyväsmetro on Linkin vapun aikaan järjestettävä tapahtuma, jossa
+kierretään Jyväskylän lähialueiden anniskeluravintoloita
+linja-autoilla rennossa hengessä ja poikkitieteellisestä
+seurasta nauttien.
+
+Katso lisää Jyväsmetron [sivuilta](https://www.jyvasmetro.fi/).
 
 # Instanssi
 
