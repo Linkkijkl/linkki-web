@@ -56,9 +56,11 @@
     margin-bottom: 2em;
 }
 
-.row {
-    display: flex;
-    justify-content: center;
+@media (min-width: 991px) {
+    .row {
+        display: flex;
+        justify-content: center;
+    }
 }
 
 .home-carousel a {
