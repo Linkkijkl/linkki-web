@@ -9,6 +9,8 @@ banner = "/img/hallitukset/hallitus2017.jpg"
 summary = " "
 +++
 
+![Hallitus 2017](/img/hallitukset/hallitus2017.jpg)
+
 # Hallitus 2017
 
 ## Puheenjohtaja

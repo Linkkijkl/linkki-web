@@ -9,6 +9,8 @@ summary = " "
 authors = ["Ossi Rantala", "Kati Nietosvuori", "Oskari Lahtinen", "Arttu Juntunen", "Emma Järvinen", "Mortti Luhtala", "Daniel Buselli", 'Martti "Mara" Niukkanen', "Samuli Ryhänen", "Jami Virtanen"]
 +++
 
+![Hallitus 2023](/img/hallitukset/hallitus2023.jpg)
+
 ## Puheenjohtaja
 #### Ossi Rantala
 
