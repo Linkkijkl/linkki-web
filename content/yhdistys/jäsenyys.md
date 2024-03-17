@@ -63,4 +63,53 @@ säännöt sekä tavoitteet.
   sähköpostilla osoitteeseen pj@linkkijkl.fi.
 
 # Jäsenedut
-TODO
+
+## Teerenpeli
+
+* Teerenpelin panimon hanatuotteet -15%
+* Teerenpelin Mustikka tai Puolukka-snapsi 4cl 3€
+* Drinkit MustikkaMuuli tai Pulina 5€
+* Viini punainen tai valkoinen 12cl 4€
+* Koko pullo viiniä 23€
+* Kahvi tai tee 1€
+* Pieni limu 1€
+* Iso limu 2€
+* Sulami järrikerrosleipä 7,5€
+* Ranskalaiset 3€
+* Talvikaudella kaakao 2€
+
+## DeLorean
+* -2€ listacocktaileista
+* Hanajuomat ja kaikki viinit -20%
+* Linkkariviinipullo 17€
+
+## Club Escape
+* hanaolut 0,3l 4€
+* hanasiideri 0,3l 4€
+* hanalonkero 0,3l 4€
+* Linkki-drinkki 4€
+
+## Antishop
+* 10% alennus normaalihintaisista myymälän tuotteista
+
+## Jyväskylän kiipeilykeskus
+* Kertakäynti 8€
+* Viiden kerran sarjakortti 35€
+* Top Rope -kurssi + 5 harjoittelukertaa 55€ (sisältää valjasvuokran)
+
+Kaikki hinnat sisältävät kenkävuokran.
+
+## Konehuone
+* Hiustenleikkuu 24€
+* Mallinmuutos 32€
+* Koneleikkuu 14€
+* 20% alennusta hiustuotteista
+
+## Huoltokukko
+* 20% alennus oheislaitteista
+
+## Karaoke Bar Helmi
+* Happy Hour -hinnaston mukaiset hinnat 
+* Sisäänpääsy ja narikka ilmaisia
+* Linkki-juoma
+* Karaokekabinetti arkipäivisin 50€
