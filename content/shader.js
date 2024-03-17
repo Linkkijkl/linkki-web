@@ -132,8 +132,10 @@ window.onload = () => {
             }
 
             void main() {
+                const float TIMESCALE = 0.05;
+
                 vec2 a = vec2(gl_FragCoord.xy / u_resolution);
-                float simplex = 1.0 - simplex_noise(vec3(a.x, a.y, u_time * 0.1));
+                float simplex = clamp(1.0 - simplex_noise(vec3(a.x, a.y, u_time * TIMESCALE)), 0.0, 1.0);
                 vec3 color = vec3(simplex) * u_primary_accent;
                 outColor = vec4(mix(u_primary_accent, color, min(u_time * 0.3, 1.0)), 1);
             }`
@@ -181,11 +183,7 @@ window.onload = () => {
 
     gl.uniform2f(resolutionLocation, gl.canvas.width, gl.canvas.height);
     const pa = getPrimaryAccent();
-    console.log(pa);
     gl.uniform3f(accentLocation, pa[0] / 255.0, pa[1] / 255.0, pa[2] / 255.0);
-
-
-    gl.uniform3f
 
     let timeTracker = 0.0;
     let startTime = document.timeline.currentTime;

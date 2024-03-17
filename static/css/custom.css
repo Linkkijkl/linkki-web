@@ -20,8 +20,7 @@
 }
 
 /* Disable theme background images*/
-.home-carousel,
-.home-carousel.dark-mask {
+.home-carousel {
     background: none;
 }
 
@@ -90,7 +89,7 @@
 
 #post-content,
 #content {
-    font-size: 1.2em;
+    font-size: 1.1em;
 }
 
 p.text-muted {

@@ -20,7 +20,21 @@
 <script src="{{ "js/owl.carousel.min.js" | relURL }}"></script>
 
 <!-- custom scripts -->
-<script src="{{ "js/custom.js" | relURL }}"></script>
+{{ range resources.Match "/js/*.js" }}
+{{ with  . | js.Build }}
+<script src="{{ .RelPermalink }}" ></script>
+{{ end }}
+{{ end }}
 
-<!-- front page shader -->
-<script src="{{ "js/shader.js" | relURL }}"></script>
+<!-- page scripts -->
+{{ range .Page.Resources.Match "*.js" }}
+<script src="{{ .RelPermalink }}" ></script>
+{{ end }}
+
+<!-- page shaders -->
+{{ range .Page.Resources.Match "*.vert"}}
+<script src="{{ .RelPermalink }}" type="x-shader/x-vertex"></script>
+{{ end }}
+{{ range .Page.Resources.Match "*.frag"}}
+<script src="{{ .RelPermalink }}" type="x-shader/x-fragment"></script>
+{{ end }}
