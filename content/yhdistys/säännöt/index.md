@@ -4,11 +4,9 @@ description = "Säännöt ja ohjeet"
 keywords = ["säännöt", "ohjeet"]
 +++
 
-# Säännöt
+# LINKKI JYVÄSKYLÄ RY:N SÄÄNNÖT
 
 Alla olevat säännöt astuivat voimaan alkaen 4.10.2023.
-
-**LINKKI JYVÄSKYLÄ RY:N SÄÄNNÖT**
 
 #### 1. YHDISTYKSEN NIMI JA KOTIPAIKKA
 

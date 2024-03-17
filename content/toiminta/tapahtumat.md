@@ -4,12 +4,6 @@ description = ""
 keywords = ["tapahtumat", "kalenteri", "jyväsmetro", "metro", "instanssi", "kässäkerho"]
 +++
 
-# Tapahtumakalenteri
-
-{{< button "Tilaa kalenteri" "https://calendar.google.com/calendar/u/2?cid=Y19nMmVxdDJhN3UxZmMxcGFoZTJvMGVjbTdhc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t" >}}
-
-{{< google_calendar "Y19nMmVxdDJhN3UxZmMxcGFoZTJvMGVjbTdhc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t" >}}
-
 # Jyväsmetro
 
 Jyväsmetro on Linkin vapun aikaan järjestettävä tapahtuma, jossa
@@ -38,3 +32,9 @@ Linkkarit kokoontuvat n. kerran kuussa heiluttamaan puikkoja ja koukkuja, askart
 Yhteisillä käsityöiltamilla on yleensä (ei aina) myös omat teemansa: tähän mennessä ollaan esim. puuhailtu ystävyysrannekkeita, taiteiltu taikataikinaa, parsittu sukkaa... uusia teemoja saa ehdottaa esim. kässäiltojen aikana :) Jos teema ei nappaa, voi mukaan aina tulla myös puuhailemaan omia käsityöprojekteja, ompelemaan haalarimerkkejä, väsäämään sitsiasua, ihan mitä tekee mieli tehdä. Mahdolliset teemat ilmoitetaan kulloisenkin tapahtumakuvauksen yhteydessä, samoin paikka ja aika; useimmiten tarvitset mukaasi omat käsityövälineet, mutta mikäli teemaan liittyy erityistarvikkeita jotka löytyvät paikanpäältä, tästä ilmoitetaan kuvauksessa myös.
 
 Paikalta löytyy yleensä myös useita amatööritason taitajia monissa käsityön lajeissa, eli jos esim. neulomisen tai virkkaamisen aloittaminen kiinnostaa, käsityöiltojen aikana siihen on mahdollista saada apua :)
+
+# Tapahtumakalenteri
+
+{{< google_calendar "Y19nMmVxdDJhN3UxZmMxcGFoZTJvMGVjbTdhc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t" >}}
+
+{{< button "Tilaa kalenteri" "https://calendar.google.com/calendar/u/2?cid=Y19nMmVxdDJhN3UxZmMxcGFoZTJvMGVjbTdhc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t" >}}

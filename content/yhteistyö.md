@@ -15,9 +15,9 @@ koulutusteknologian osa-alueilta.
 Lisätietoja yhteistyömahdollisuuksista saat lähettämällä sähköpostia
 suoraan yritys- ja yhteistyöpäälliköllemme (yritys@linkkijkl.fi).
 
-## YHTEISTYÖMUODOT
+# YHTEISTYÖMUODOT
 
-#### Yritysvierailut
+### Yritysvierailut
 
 Yritysvierailut, jotka kulkevat opiskelijapiireissä nimellä excursiot
 ovat yritykselle otollinen tilaisuus päästä esittelemään yrityksen
@@ -25,7 +25,7 @@ toimintaa ja tiloja, sekä yritystä työnantajana. Yritysvierailuilla
 opiskelijat pääsevät aidosti tutustumaan yrityksiin ja sen
 työntekijöihin.
 
-#### Opiskelijahaalarit
+### Opiskelijahaalarit
 
 Linkin haalarivärit ovat hieman normaaleista yksivärisistä poikkeavat,
 sillä linkkareiden haalarit ovat sini-mustat. Haalareita pidetään
@@ -34,14 +34,14 @@ oiva tapa näkyä myös muille kuin tietotekniikan
 opiskelijoille. Haalarimainos on yksi suosituimmista
 yhteistyötavoistamme.
 
-#### Tapahtumat
+### Tapahtumat
 
 Yksi yhteistyömuoto on osallistuminen Linkin tapahtumiin esimerkiksi
 pitämällä omaa ständiä Instanssi-tapahtumassa. Linkkarit ovat
 aktiivisia tapahtumakävijöitä, joten yrityksen näkyvyys on varmasti
 taattu.
 
-#### Vuosijuhlatuki
+### Vuosijuhlatuki
 
 Perinteitä kunnioittaen Linkki Jyväskylä ry juhlii mennyttä vuotta
 arvokkailla vuosijuhlilla. Osallistujina ovat kaikki fukseistamme
@@ -52,7 +52,7 @@ vierailijoille. Haemme tukijoita erityisesti nyt, sillä vuosijuhlat
 ovat jo melkein nurkan takana. Lisätietoja https://vujut.linkkijkl.fi/
 tai tapahtuma@linkkijkl.fi
 
-#### Instanssituki
+### Instanssituki
 
 Digitaalisen tekemisen Instanssi on Linkki Jyväskylä ry:n järjestämä
 vuotuinen demopartytapahtuma, joka on matalan kynnyksen tapahtuma
@@ -61,13 +61,13 @@ mahdollista tukea tapahtumaa sekä tulla paikan päälle puhujaksi,
 workshopin vetäjäksi tai esittelemään itseään ja yrityksensä
 toimintaa.
 
-#### Linkki-tarra
+### Linkki-tarra
 
 Yritysten on mahdollista toimia yhteistyössä Linkin kanssa tarjoamalla
 etuja omista tuotteistaan tai palveluistaan. Esittämällä Linkki-tarraa
 jäsenemme ovat oikeutettuja ennalta sovittuihin etuihin.
 
-#### Muita yhteistyömuotoja
+### Muita yhteistyömuotoja
 
 Yhteistyömuotomme eivät ole rajoittuneet vain yllä oleviin vaan olemme
 aina valmiita kehittämään yhteistyömuotojamme. Jos teillä on jokin

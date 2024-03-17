@@ -4,10 +4,12 @@ description = ""
 keywords = ["haalarimerkit"]
 +++
 
-## Linkin myymät haalarimerkit
+# Linkin myymät haalarimerkit
 
-##### Hae omasi Kattilasta!
-##### Maksutapoina toimii Mobilepay ja korttimaksu. 1kpl - 3€ ja 2kpl 5€
+Hae omasi Kattilasta!
+Maksutapoina toimii Mobilepay ja korttimaksu. 1kpl 3€ ja 2kpl 5€
+
+{{< row >}}
 
 {{< img-thumb-cap "merkit/linkki.webp" "x200" >}}
 #### Linkin logo
@@ -21,6 +23,9 @@ keywords = ["haalarimerkit"]
 #### Senor developer
 {{< /img-thumb-cap >}}
 
+{{< /row >}}
+{{< row >}}
+
 {{< img-thumb-cap "merkit/linkinpark.webp" "x200" >}}
 #### Linkinpark
 {{< /img-thumb-cap >}}
@@ -32,6 +37,9 @@ keywords = ["haalarimerkit"]
 {{< img-thumb-cap "merkit/penetraatio.webp" "x200" >}}
 #### Penetraatiotestaaja
 {{< /img-thumb-cap >}}
+
+{{< /row >}}
+{{< row >}}
 
 {{< img-thumb-cap "merkit/älä-paina.webp" "x200" >}}
 #### Älä paina tuntematonta linkkaria
@@ -45,6 +53,9 @@ keywords = ["haalarimerkit"]
 #### Vaaravyöhyke
 {{< /img-thumb-cap >}}
 
+{{< /row >}}
+{{< row >}}
+
 {{< img-thumb-cap "merkit/ei-voi-tulla-darra.webp" "x200" >}}
 #### Ei voi tulla darra
 {{< /img-thumb-cap >}}
@@ -53,9 +64,12 @@ keywords = ["haalarimerkit"]
 #### Lanit
 {{< /img-thumb-cap >}}
 
-## Jämälaari
+{{< /row >}}
 
-#### Nämä merkit alennettuun hintaan 0.50€ kpl, valikoima vaihtelee
+# Jämälaari
+
+Kasa merkkejä alennettuun hintaan 0.50€ kpl. Valikoima vaihtelee ja se on
+esillä [Kattilan](/toiminta/kattila/) seinällä.
 
 {{< img-thumb-cap "merkit/jämälaari.webp" "x600" >}}
 {{< /img-thumb-cap >}}
