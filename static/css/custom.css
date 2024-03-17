@@ -138,6 +138,10 @@ figcaption :first-child {
         color: white;
     }
 
+    .navbar ul.dropdown-menu li {
+        border-bottom-color: #333;
+    }
+
     h1,
     h2,
     h3,
@@ -149,7 +153,8 @@ figcaption :first-child {
     .home-carousel h2,
     .home-carousel h3,
     .home-carousel p,
-    .home-carousel ul {
+    .home-carousel ul,
+    .navbar ul.dropdown-menu li a {
         color: var(--text-color);
     }
 
@@ -158,7 +163,8 @@ figcaption :first-child {
     .btn,
     .navbar, 
     #copyright,
-    .bar.background-white {
+    .bar.background-white,
+    .dropdown-menu {
         background-color: var(--background);
         color: var(--text-color);
     }
@@ -167,9 +173,11 @@ figcaption :first-child {
         background-color: var(--background2);
     }
 
-
     #footer {
         background-color: var(--background3);
     }
 
+    iframe {
+        filter: invert(.9) saturate(.8) hue-rotate(160deg);
+    }
 }

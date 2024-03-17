@@ -76,7 +76,7 @@ const getPrimaryAccent = () => {
 };
 
 
-window.onload = async () => {
+window.addEventListener("load", async () => {
     gl = canvas.getContext("webgl2");
     if (!gl) return;
 
@@ -152,4 +152,4 @@ window.onload = async () => {
     }
 
     render();
-}
+});
