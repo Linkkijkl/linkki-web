@@ -20,7 +20,7 @@
 }
 
 /* Disable theme background images*/
-.home-carousel .dark-mask, .home-carousel {
+.home-carousel {
     background: none;
 }
 
@@ -39,6 +39,7 @@
 
 #heading-breadcrumbs h1 {
     color: #fff;
+    font-size: 3em;
 }
 
 /* Google calendar theming */
@@ -67,7 +68,51 @@
     color: #ccc;
 }
 
-/* Fixes #-links correct header being obstructed by nabar */
-h1, h2, h3, h4, h5 {
+.heading {
+    /* Fixes #-links correct header being obstructed by navbar */
     scroll-margin-top: 130px;
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+#post-content h1,
+#content h1 {
+    display: table;
+    border-bottom: solid 5px var(--primary-accent);
+    line-height: 1.1;
+    margin-bottom: 0.5em;
+    padding-bottom: 10px;
+    vertical-align: middle;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+}
+
+#post-content,
+#content {
+    font-size: 1.1em;
+}
+
+p.text-muted {
+    font-size: inherit;
+}
+
+figure {
+    text-align: center;
+    margin: 1em;
+}
+
+figcaption .heading,
+figcaption a,
+figcaption p {
+    margin: 0;
+    line-height: normal;
+}
+
+figcaption .heading {
+    display: block;
+    margin-bottom: 10px; /* px because of em being proportional to font size */
+}
+
+figcaption :first-child {
+    margin-top: 0.5em;
 }

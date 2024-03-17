@@ -1,14 +1,16 @@
-{{ $imagename := .Get 0 }}
+{{ $image := .Get 0 }}
 {{ $size := .Get 1 }}
-{{ $imageoriginal := .Page.Resources.GetMatch $imagename }}
-{{ $imagethumbnail := $imageoriginal.Resize $size }}
 <figure>
-    <a href="{{ $imageoriginal.RelPermalink }}">
-        <img src="{{ $imagethumbnail.RelPermalink }}">
-    </a>
-    <figcaption>
-        {{ with .Inner }}
+    {{ if and $image $size }}
+        {{ $imageoriginal := .Page.Resources.GetMatch $image }}
+        {{ $imagethumbnail := $imageoriginal.Resize $size }}
+        <a href="{{ $imageoriginal.RelPermalink }}">
+            <img src="{{ $imagethumbnail.RelPermalink }}">
+        </a>
+    {{ end }}
+    {{ with .Inner }}
+        <figcaption>
             {{ . | markdownify}}
-        {{ end }}
-    </figcaption>
+        </figcaption>
+    {{ end }}
 </figure>

@@ -10,8 +10,8 @@ keywords = ["hallitus"]
 
 **Tiimi** on yhdistyksen organisaatiossa joukko, missä toteutetaan tiimin tehtäviä. Tehtäviä ohjaa lainsäädäntö, sekä jäsenistön hyväksymä toimintasuunnitelma.
 
-# Tiimit
 
+# Tiimit
 
 ### Hallintotiimi
 
@@ -43,19 +43,22 @@ Yritys- ja yhteistyötiimin tehtävänä on vaalia yhdistyksen yhteistyökumppan
 **Korkeakoulupoliittinen vastaava** on ääni opiskelijoiden ja tiedekunnan välillä, sekä toimii opiskelijoiden edunvalvojana.
 
 
-# Tapahtumatiimi
+### Tapahtumatiimi
+
 Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistyksen järjestämät kulttuuritilaisuudet, matkat, sekä muut tapahtumat. Tapahtumatiimin toiminta on kenties näkyvin osa yhdistyksen toimintaa.
 
 **Tapahtumapäällikkö** hoitaa tapahtumia, tiimiläiset auttavat tässä.
 
 
 ### Projektitiimi
+
 Projektitiimi vastaa suurempien kokonaisuuksien ja tapahtumien, kuten esimerkiksi Jyväsmetron ja vuosijuhlien, suunnittelusta, koordinoimisesta sekä toteuttamisesta.
 
 **Projektipäällikkö** 
 
 
-# Hyvinvointitiimi
+### Hyvinvointitiimi
+
 Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnasta ja sosiaalipoliittisista kysymyksistä, kuten yhdenvertaisuudesta yhdistyksen toiminnassa. Tiimi tekee työtä ainejärjestön puolesta sen eteen, että jokaiselle on tarjolla turvallinen opiskeluympäristö, jossa jokaisella on oikeus opiskella kokematta häirintää, kiusaamista tai syrjintää.
 
 **Hyvinvointipäällikkö** pitää tapaamisia oman tiiminsä kanssa ja toimii välikätenä hallituksen ja hyvinvointitiimin välillä.
@@ -71,7 +74,7 @@ Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnast
 **Kattilakeisari** ylläpitää ainejärjestötilaamme Kattilaa (Ag B437).
 
 
-# Mediatiimi
+### Mediatiimi
 Mediatiimin tehtävänä on tiedottaa jäsenistöä yhdistyksen eri kanavissa kuten kotisivuilla, sosiaalisen median kanavissa, sekä sähköpostilla. Tiimi ylläpitää ja kehittää yhdistyksen verkkosivuja sekä tuottaa multimediaa yhdistyksen muiden tiimien tarpeisiin.
 
 **Mediapäällikkö** toimii linkkinä muun mediatiimin ja hallituksen välillä, ja tekee muiden pestien hommia tarpeen tullen.
