@@ -1,0 +1,9 @@
+<div class="row col-md-6">
+    {{ with .Inner }}
+        {{ if $.Get "markdown" }}
+            {{ . | markdownify }}
+        {{ else }}
+            {{ . }}
+        {{ end }}
+    {{ end }}
+</div>
