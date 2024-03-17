@@ -110,9 +110,66 @@ figcaption p {
 
 figcaption .heading {
     display: block;
-    margin-bottom: 10px; /* px because of em being proportional to font size */
+    /* px because of em being proportional to font size */
+    margin-bottom: 10px;
 }
 
 figcaption :first-child {
     margin-top: 0.5em;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --background: #181818;
+        --background2: #222;
+        --background3: #111;
+        --text-color: #ddd;
+        --primary-accent: #387dff;
+        --navbar-border-top: #294d76;
+        --button-border: #336194;
+        --link-focus: #2f5a89;
+        --form-shadow: rgba(70, 127, 191, 0.6);
+        --pagination-bg: #b8cee6;
+        --link-hover-bg: #36669c;
+        --navbar-focus: #1f3a58;
+    }
+
+    .navbar-default .navbar-nav>li>a:hover {
+        color: white;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    .navbar-default .navbar-nav>li>a,
+    .home-carousel h1,
+    .home-carousel h2,
+    .home-carousel h3,
+    .home-carousel p,
+    .home-carousel ul {
+        color: var(--text-color);
+    }
+
+    body,
+    button,
+    .btn,
+    .navbar, 
+    #copyright,
+    .bar.background-white {
+        background-color: var(--background);
+        color: var(--text-color);
+    }
+
+    .bar.background-gray {
+        background-color: var(--background2);
+    }
+
+
+    #footer {
+        background-color: var(--background3);
+    }
+
 }
