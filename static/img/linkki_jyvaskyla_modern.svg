@@ -61,6 +61,13 @@
          rx="84.852814"
          ry="78.53936" />
     </g>
+    <style>
+      @media (prefers-color-scheme: dark) {
+         #text1 {
+            fill: #ddd;
+         }
+      }
+    </style>
     <g
        id="text1"
        style="font-weight:bold;font-size:192px;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;white-space:pre"
