@@ -4,7 +4,7 @@ date = "2017-02-01"
 tags = ["a href", "jäsenlehti"]
 authors = ["Milla Koivuniemi", "Leo Toiminen", "Tinja Vaskelainen", "Artturi Lobski", "Leevi Leppälä", "Otto Jahnukainen", "Juho Siitari"]
 summary = " "
-banner = "/img/a-href-172.webp"
+banner = "/img/a-href/a-href-172.webp"
 +++
 
 {{< embed-pdf url="./a-href-172.pdf" >}}
