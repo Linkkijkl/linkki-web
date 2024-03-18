@@ -39,7 +39,7 @@ float simplex_noise(vec3 p) {
 
 
 void main() {
-    float TIMESCALE = 0.05f * float(u_dark_mode);
+    float TIMESCALE = 0.05f;
 
     vec2 a = vec2(gl_FragCoord.xy / u_resolution);
     float simplex = clamp((1.0f) - simplex_noise(vec3(a.x, a.y, u_time * TIMESCALE)), 0.0f, 1.0f);
