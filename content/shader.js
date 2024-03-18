@@ -76,6 +76,9 @@ const getPrimaryAccent = () => {
 };
 
 
+const isDarkMode = () => window.matchMedia("(prefers-color-scheme: dark)").matches;
+
+
 window.addEventListener("load", async () => {
     gl = canvas.getContext("webgl2");
     if (!gl) return;
@@ -101,6 +104,7 @@ window.addEventListener("load", async () => {
     resolutionLocation = gl.getUniformLocation(shaderProgram, "u_resolution");
     const timeLocation = gl.getUniformLocation(shaderProgram, "u_time");
     const accentLocation = gl.getUniformLocation(shaderProgram, "u_primary_accent");
+    const darkModeLocation = gl.getUniformLocation(shaderProgram, "u_dark_mode");
 
     const vao = gl.createVertexArray();
     gl.bindVertexArray(vao);
@@ -136,9 +140,11 @@ window.addEventListener("load", async () => {
     gl.useProgram(shaderProgram);
     gl.bindVertexArray(vao);
 
+
     gl.uniform2f(resolutionLocation, gl.canvas.width, gl.canvas.height);
     const pa = getPrimaryAccent();
     gl.uniform3f(accentLocation, pa[0] / 255.0, pa[1] / 255.0, pa[2] / 255.0);
+    gl.uniform1i(darkModeLocation, isDarkMode());
 
     let timeTracker = 0.0;
     let startTime = document.timeline.currentTime;

@@ -184,4 +184,8 @@ figcaption :first-child {
     .owl-item > [data-dark=false]{
         filter: invert(1.0) hue-rotate(180deg) saturate(5.0);
     }
+
+    #shader {
+        background-color: black;
+    }
 }

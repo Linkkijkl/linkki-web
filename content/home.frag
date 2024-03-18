@@ -4,6 +4,7 @@ precision highp float;
 uniform vec2 u_resolution;
 uniform float u_time;
 uniform vec3 u_primary_accent;
+uniform int u_dark_mode;
 
 out vec4 outColor;
 
@@ -38,10 +39,20 @@ float simplex_noise(vec3 p) {
 
 
 void main() {
-    const float TIMESCALE = 0.05f;
+    float TIMESCALE = 0.05f * float(u_dark_mode);
 
     vec2 a = vec2(gl_FragCoord.xy / u_resolution);
-    float simplex = clamp(1.0f - simplex_noise(vec3(a.x, a.y, u_time * TIMESCALE)), 0.0f, 1.0f);
+    float simplex = clamp((1.0f) - simplex_noise(vec3(a.x, a.y, u_time * TIMESCALE)), 0.0f, 1.0f);
+    if (u_dark_mode == 1){
+        simplex = 1.0f - simplex;
+    }
     vec3 color = vec3(simplex) * u_primary_accent;
-    outColor = vec4(mix(u_primary_accent, color, min(u_time * 0.3f, 1.0f)), 1);
+    vec3 fade_from;
+    if (u_dark_mode == 1) {
+        fade_from = vec3(0);
+    } else {
+        fade_from = u_primary_accent; min(u_time * 0.3f, 1.0f);
+    }
+    float fade = min(u_time * 0.3f, 1.0f);
+    outColor = vec4(mix(fade_from, color, fade), 0);
 }
