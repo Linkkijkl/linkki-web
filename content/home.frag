@@ -51,8 +51,8 @@ void main() {
     if (u_dark_mode == 1) {
         fade_from = vec3(0);
     } else {
-        fade_from = u_primary_accent; min(u_time * 0.3f, 1.0f);
+        fade_from = u_primary_accent;
     }
     float fade = min(u_time * 0.3f, 1.0f);
-    outColor = vec4(mix(fade_from, color, fade), 0);
+    outColor = vec4(mix(fade_from, color, fade), 1.0);
 }
