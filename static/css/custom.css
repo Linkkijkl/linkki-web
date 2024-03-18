@@ -180,4 +180,8 @@ figcaption :first-child {
     iframe {
         filter: invert(.9) saturate(.8) hue-rotate(160deg);
     }
+
+    .owl-item > [data-dark=false]{
+        filter: invert(1.0) hue-rotate(180deg) saturate(5.0);
+    }
 }
