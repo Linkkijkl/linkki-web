@@ -6,7 +6,9 @@ keywords = ["events", "calendar", "jyväsmetro", "metro", "instanssi", "group re
 
 # Jyväsmetro
 
-TODO
+Jyväsmetro is an annual event hosted by Linkki, held during May day celebrations. During the event students tour bars in Jyväskylä and its surrounding areas via buses, which serve as a sort of metro system, thus giving the event its name. Sometimes, the buses are named after sponsors of the event. Essentially, it's like a traditional pub crawl, but instead of walking, participants travel by bus.
+
+For more information go to Jyväsmetro's own [homepage](https://jyvasmetro.fi/).
 
 # Instanssi
 
