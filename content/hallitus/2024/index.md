@@ -6,6 +6,7 @@ categories = ["hallitukset"]
 authors = ["Santeri Sormunen", "Oskari Lahtinen", "Lassi Karjalainen", "Vili Kärkkäinen", "Ossi Rantala", "Valtteri Hiltunen", "Juho Kallijärvi", "Emma Järvinen", "Jami Virtanen", "Pekka Pihjalamaa", "Mortti Luhtala", "Aino Sipola", "Johannes Horila", "Taru Nikkanen", "Toni Pietiläinen", "Jaakko Siika-aho", "Juho Ropanen", "Alexander Goldhill", "Lari Nurkka"]
 banner = "/img/hallitukset/hallitus2024.jpg"
 summary = " "
+aliases = "nykyinen" # Change this to next board when it exists
 +++
 
 ![Hallitus 2024](/img/hallitukset/hallitus2024.jpg)
