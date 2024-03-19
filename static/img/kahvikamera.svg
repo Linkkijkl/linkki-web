@@ -1,0 +1,26 @@
+<!-- Kahvikamera embedded into a self-updating svg -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" baseProfile="full" width="640" height="480" viewBox="0 0 640 480">
+   <image href="https://kattila.cafe/static/images/kahvi.jpg" width="640px" height="480px" x="0" y="0" />
+   <script type="text/javascript"><![CDATA[
+
+let kahvikamera = null;
+const KAHVI_UPDATE_FREQ = 10_000;
+
+kahvikamera = document.querySelector("image");
+if (kahvikamera) {
+   setInterval(updateKahvikamera, KAHVI_UPDATE_FREQ);
+}
+
+function updateKahvikamera() {
+   // Update image while cirumventing browser cahe
+   let href = kahvikamera.href.baseVal;
+   href = href.split("?")[0];
+   const MAX_RANDOM_CHARS = 5;
+   let randomHex = parseInt(Math.random() * (16 ** MAX_RANDOM_CHARS)).toString(16);
+   kahvikamera.href.baseVal = href += "?" + randomHex;
+   
+   setInterval(updateKahvikamera, KAHVI_UPDATE_FREQ);
+};
+
+   ]]></script>
+</svg>
