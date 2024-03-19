@@ -18,6 +18,10 @@ Instanssi is a beginner-friendly event that anyone interested in digital culture
 
 More information can be found on Instanssi's own [homepage](https://instanssi.org/).
 
+# Boardgame Evenings
+
+Linkki arranges evenings to play boardgames together about once a month. These evenings regularly are on the first Monday of the month at Agora. Linkki has a decent boardgame selection on hand, however you are welcome to bring your own games. You can also show up and leave as you please during the evening.
+
 # Crafts Club
 
 TODO
