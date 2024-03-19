@@ -1,5 +1,5 @@
 +++
-title = "Keskustelukanavat"
+title = "Viestiryhmät"
 description = ""
 keywords = ["keskustelukanavat", "telegram", "irc", "matrix"]
 +++

@@ -12,7 +12,7 @@ videopelejä, tietokoneita sekä kurssimateriaalia.
 
 Tilassa on myös istuvan hallituksen postilokerot.
 
-# Kattilapäivystykset
+# {{< wrap "Kat/ti/la/päi/vys/tyk/set" >}}
 
 Kattilapäivystykset ovat aikoja, joina Kattilasta löytyy varmasti
 hallituslainen esimerkiksi haalarien lunastamista tai merkkien

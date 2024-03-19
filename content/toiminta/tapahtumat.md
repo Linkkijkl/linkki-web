@@ -33,7 +33,7 @@ Yhteisillä käsityöiltamilla on yleensä (ei aina) myös omat teemansa: tähä
 
 Paikalta löytyy yleensä myös useita amatööritason taitajia monissa käsityön lajeissa, eli jos esim. neulomisen tai virkkaamisen aloittaminen kiinnostaa, käsityöiltojen aikana siihen on mahdollista saada apua :)
 
-# Tapahtumakalenteri
+# {{< wrap "Ta/pah/tu/ma/ka/len/te/ri" >}}
 
 {{< google_calendar "Y19nMmVxdDJhN3UxZmMxcGFoZTJvMGVjbTdhc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t" >}}
 
