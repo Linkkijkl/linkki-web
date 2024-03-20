@@ -7,4 +7,4 @@ description = ""
 
 {{< google_calendar "Y19nMmVxdDJhN3UxZmMxcGFoZTJvMGVjbTdhc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t" >}}
 
-{{< button "Subscribe calendar" "https://calendar.google.com/calendar/u/2?cid=Y19nMmVxdDJhN3UxZmMxcGFoZTJvMGVjbTdhc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t" >}}
+{{< button "Add Calendar" "https://calendar.google.com/calendar/u/2?cid=Y19nMmVxdDJhN3UxZmMxcGFoZTJvMGVjbTdhc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t" >}}
