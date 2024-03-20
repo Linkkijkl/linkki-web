@@ -17,7 +17,7 @@ function updateKahvikamera() {
    href = href.split("?")[0];
    const MAX_RANDOM_CHARS = 5;
    let randomHex = parseInt(Math.random() * (16 ** MAX_RANDOM_CHARS)).toString(16);
-   kahvikamera.href.baseVal = href += "?" + randomHex;
+   kahvikamera.href.baseVal = href + "?" + randomHex;
    
    setInterval(updateKahvikamera, KAHVI_UPDATE_FREQ);
 };
