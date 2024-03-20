@@ -215,12 +215,12 @@ defaultContentLanguage = 'fi'
     weight = 1
 
 
-#[[languages.en.menus.main]]
-#    name = "Kattila"
-#    identifier = "menu.kattila"
-#    url = "/en/toiminta/kattila/"
-#    parent = "menu.toiminta"
-#    weight = 2
+[[languages.en.menus.main]]
+    name = "Kattila"
+    identifier = "menu.kattila"
+    url = "/en/toiminta/kattila/"
+    parent = "menu.toiminta"
+    weight = 2
 
 
 #[[languages.en.menus.main]]
