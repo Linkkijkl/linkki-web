@@ -153,6 +153,15 @@ figcaption :first-child {
     }
 
 
+    #blog-listing-medium .post h2 a {
+        color: var(--primary-accent);
+    }
+
+    #blog-listing-medium .post h2 a:hover {
+        color: var(--link-focus);
+    }
+
+
     body,
     button,
     .btn,
