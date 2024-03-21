@@ -6,7 +6,6 @@ categories = ["hallitukset"]
 authors = ["Santeri Sormunen", "Oskari Lahtinen", "Lassi Karjalainen", "Vili Kärkkäinen", "Ossi Rantala", "Valtteri Hiltunen", "Juho Kallijärvi", "Emma Järvinen", "Jami Virtanen", "Pekka Pihjalamaa", "Mortti Luhtala", "Aino Sipola", "Johannes Horila", "Taru Nikkanen", "Toni Pietiläinen", "Jaakko Siika-aho", "Juho Ropanen", "Alexander Goldhill", "Lari Nurkka"]
 banner = "/img/hallitukset/hallitus2024.jpg"
 summary = " "
-aliases = "nykyinen" # Change this to next board when it exists
 +++
 
 ![Hallitus 2024](/img/hallitukset/hallitus2024.jpg)
@@ -16,6 +15,7 @@ aliases = "nykyinen" # Change this to next board when it exists
 Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen puolesta, että yhdistyksen toiminnassa noudatetaan lainsäädäntöä, kuten **yhdistyslakia**. Tiimissä tehdään työtä, että kokoukset järjestetään lain vaatimilla edellytyksillä ja huolehditaan talouden seurannasta, sekä budjetoinnista. Tiimi toimii enemmän hallinnollisessa, sekä koordinoivassa roolissa. Tiimin jäsenet osallistuvat tarvittaessa myös muiden tiimien toimintaan.
 
 {{< row >}}
+{{< column >}}
 
 {{< img-thumb-cap "santeri-sormunen.jpg" "300x" >}}
 ## Santeri Sormunen
@@ -25,6 +25,9 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 [Telegram: **@Santtuz**](https://t.me/Santtuz)
 {{< /img-thumb-cap >}}
 
+{{< /column >}}
+{{< column >}}
+
 {{< img-thumb-cap "oskari-lahtinen.jpg" "300x" >}}
 ## Oskari Lahtinen
 #### Varapuheenjohtaja
@@ -33,8 +36,10 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 [Telegram: **@ikaros02**](https://t.me/ikaros02)
 {{< /img-thumb-cap >}}
 
+{{< /column >}}
 {{< /row >}}
 {{< row >}}
+{{< column >}}
 
 {{< img-thumb-cap "lassi-karjalainen.jpg" "300x" >}}
 ## Lassi Karjalainen
@@ -44,6 +49,9 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 [Telegram: **@LKKarjalainen**](https://t.me/LKKarjalainen)
 {{< /img-thumb-cap >}}
 
+{{< /column >}}
+{{< column >}}
+
 {{< img-thumb-cap "vili-kärkkäinen.jpg" "300x" >}}
 ## Vili Kärkkäinen
 #### Rahastonhoitaja
@@ -52,8 +60,10 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 [Telegram: **@viljoust**](https://t.me/viljoust)
 {{< /img-thumb-cap >}}
 
+{{< /column >}}
 {{< /row >}}
 {{< row >}}
+{{< column >}}
 
 {{< img-thumb-cap >}}
 ## Ossi Rantala
@@ -61,12 +71,14 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 [Telegram: **@Zualix**](https://t.me/Zualix)
 {{< /img-thumb-cap >}}
 
+{{< /column >}}
 {{< /row >}}
 
 # Yritys- ja yhteistyötiimi
 Yritys- ja yhteistyötiimin tehtävänä on vaalia yhdistyksen yhteistyökumppanuuksia, huolehtia että yhteistyökumppanuuksien sopimuksien molemmat osapuolet täyttävät yhteistyösopimuksien ehdot, sekä etsiä mahdollisia uusia kumppanuuksia.
 
 {{< row >}}
+{{< column >}}
 
 {{< img-thumb-cap "valtteri-hiltunen.png" "300x" >}}
 ## Valtteri Hiltunen
@@ -76,6 +88,9 @@ Yritys- ja yhteistyötiimin tehtävänä on vaalia yhdistyksen yhteistyökumppan
 [Telegram: **@luigipunk**](https://t.me/luigipunk)
 {{< /img-thumb-cap >}}
 
+{{< /column >}}
+{{< column >}}
+
 {{< img-thumb-cap "lassi-karjalainen.jpg" "300x" >}}
 ## Lassi Karjalainen
 #### TEK- ja Loimu-yhteyshenkilö
@@ -84,8 +99,10 @@ Yritys- ja yhteistyötiimin tehtävänä on vaalia yhdistyksen yhteistyökumppan
 [Telegram: **@LKKarjalainen**](https://t.me/LKKarjalainen)
 {{< /img-thumb-cap >}}
 
+{{< /column >}}
 {{< /row >}}
 {{< row>}}
+{{< column >}}
 
 {{< img-thumb-cap >}}
 ## Juho Kallijärvi
@@ -95,12 +112,14 @@ Yritys- ja yhteistyötiimin tehtävänä on vaalia yhdistyksen yhteistyökumppan
 [Telegram: **@kjuho**](https://t.me/kjuho)
 {{< /img-thumb-cap >}}
 
+{{< /column >}}
 {{< /row >}}
 
 # Projektitiimi
 Projektitiimi vastaa suurempien kokonaisuuksien ja tapahtumien, kuten esimerkiksi Jyväsmetron ja vuosijuhlien, suunnittelusta, koordinoimisesta sekä toteuttamisesta.
 
 {{< row >}}
+{{< column >}}
 
 {{< img-thumb-cap "emma-järvinen.jpg" "300x" >}}
 ## Emma Järvinen
@@ -110,6 +129,9 @@ Projektitiimi vastaa suurempien kokonaisuuksien ja tapahtumien, kuten esimerkiks
 [Telegram: **@Emmayayy**](https://t.me/Emmayayy)
 {{< /img-thumb-cap >}}
 
+{{< /column >}}
+{{< column >}}
+
 {{< img-thumb-cap >}}
 ## Ossi Rantala ja Jami Virtanen
 #### Jyväsmetrovastaavat
@@ -118,6 +140,7 @@ Projektitiimi vastaa suurempien kokonaisuuksien ja tapahtumien, kuten esimerkiks
 Telegram: [**@Zualix**](https://t.me/Zualix) ja [**@lehtisolmu**](https://t.me/lehtisolmu)
 {{< /img-thumb-cap >}}
 
+{{< /column >}}
 {{< /row >}}
 
 
@@ -125,6 +148,7 @@ Telegram: [**@Zualix**](https://t.me/Zualix) ja [**@lehtisolmu**](https://t.me/l
 Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistyksen järjestämät kulttuuritilaisuudet, matkat, sekä muut tapahtumat. Tapahtumatiimin toiminta on kenties näkyvin osa yhdistyksen toimintaa.
 
 {{< row >}}
+{{< column >}}
 
 {{< img-thumb-cap "pekka-pihjalamaa.jpg" "300x" >}}
 ## Pekka Pihjalamaa
@@ -134,6 +158,9 @@ Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistykse
 [Telegram: **@phenex02**](https://t.me/phenex02)
 {{< /img-thumb-cap >}}
 
+{{< /column >}}
+{{< column >}}
+
 {{< img-thumb-cap "mortti-luhtala.jpg" "300x" >}}
 ## Mortti Luhtala
 #### Tapahtumapäällikkö
@@ -142,8 +169,10 @@ Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistykse
 [Telegram: **@M0salu**](https://t.me/M0salu)
 {{< /img-thumb-cap >}}
 
+{{< /column >}}
 {{< /row >}}
 {{< row >}}
+{{< column >}}
 
 {{< img-thumb-cap >}}
 ## Aino Sipola
@@ -151,12 +180,14 @@ Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistykse
 [Telegram: **@Aino_Sipola**](https://t.me/Aino_Sipola)
 {{< /img-thumb-cap >}}
 
+{{< /column >}}
 {{< /row >}}
 
 # Hyvinvointitiimi
 Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnasta ja sosiaalipoliittisista kysymyksistä, kuten yhdenvertaisuudesta yhdistyksen toiminnassa. Tiimi tekee työtä ainejärjestön puolesta sen eteen, että jokaiselle on tarjolla turvallinen opiskeluympäristö, jossa jokaisella on oikeus opiskella kokematta häirintää, kiusaamista tai syrjintää.
 
 {{< row >}}
+{{< column >}}
 
 {{< img-thumb-cap "johannes-horila.jpg" "300x" >}}
 ## Johannes Horila
@@ -167,6 +198,9 @@ Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnast
 [Telegram: **@Johanneshor**](https://t.me/Johanneshor)
 {{< /img-thumb-cap >}}
 
+{{< /column >}}
+{{< column >}}
+
 {{< img-thumb-cap >}}
 ## Aino Siploa & Taru Nikkanen
 #### Kansainvälisyysvastaavat
@@ -176,8 +210,10 @@ Telegram: [**@Aino_Sipola**](https://t.me/Aino_Sipola)
 ja [**@taruksn**](https://t.me/taruksn)
 {{< /img-thumb-cap >}}
 
+{{< /column >}}
 {{< /row >}}
 {{< row >}}
+{{< column >}}
 
 {{< img-thumb-cap >}}
 ## Toni Pietiläinen
@@ -187,6 +223,9 @@ ja [**@taruksn**](https://t.me/taruksn)
 [Telegram: **@dnttu**](https://t.me/dnttu)
 {{< /img-thumb-cap >}}
 
+{{< /column >}}
+{{< column >}}
+
 {{< img-thumb-cap >}}
 ## Jaakko Siika-aho
 #### Fuksivastaava
@@ -195,8 +234,10 @@ ja [**@taruksn**](https://t.me/taruksn)
 [Telegram: **@JaxSuss**](https://t.me/JaxSuss)
 {{< /img-thumb-cap >}}
 
+{{< /column >}}
 {{< /row >}}
 {{< row >}}
+{{< column >}}
 
 {{< img-thumb-cap >}}
 ## Juho Ropanen
@@ -206,12 +247,14 @@ ja [**@taruksn**](https://t.me/taruksn)
 [Telegram: **@juusto95**](https://t.me/juusto95)
 {{< /img-thumb-cap >}}
 
+{{< /column >}}
 {{< /row >}}
 
 # Mediatiimi
 Mediatiimin tehtävänä on tiedottaa jäsenistöä yhdistyksen eri kanavissa kuten kotisivuilla, sosiaalisen median kanavissa, sekä sähköpostilla. Tiimi ylläpitää ja kehittää yhdistyksen verkkosivuja sekä tuottaa multimediaa yhdistyksen muiden tiimien tarpeisiin.
 
 {{< row >}}
+{{< column >}}
 
 {{< img-thumb-cap "alexander-goldhill.jpg" "300x" >}}
 ## Alexander Goldhill
@@ -221,6 +264,9 @@ Mediatiimin tehtävänä on tiedottaa jäsenistöä yhdistyksen eri kanavissa ku
 [Telegram: **@alex_glhl**](https://t.me/alex_glhl)
 {{< /img-thumb-cap >}}
 
+{{< /column >}}
+{{< column >}}
+
 {{< img-thumb-cap >}}
 ## Lari Nurkka
 #### Webmaster
@@ -229,4 +275,5 @@ Mediatiimin tehtävänä on tiedottaa jäsenistöä yhdistyksen eri kanavissa ku
 [Telegram: **@lurppa**](https://t.me/lurppa)
 {{< /img-thumb-cap >}}
 
+{{< /column >}}
 {{< /row >}}
