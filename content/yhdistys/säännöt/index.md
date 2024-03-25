@@ -194,7 +194,7 @@ päättäneen kokouksen mukaisesti.
 ---
 
 
-# Talousohjesäännöt
+# {{< wrap "Ta/lo/us/oh/je/sään/nöt" >}}
 
 #### 1 § Soveltaminen
 
@@ -310,7 +310,7 @@ Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 6.3.2017 ja kohtaa 4
 ---
 
 
-# Juhlanauhaohjesääntö
+# {{< wrap "Juh/la/nau/ha/oh/je/sään/tö" >}}
 
 **1§** Linkki Jyväskylä ry:llä on juhlanauha, jota käytetään ylioppilaskuntanauhan tavoin akateemisissa juhlatilaisuuksissa ja yhdistystä edustettaessa.
 
@@ -334,7 +334,7 @@ Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 6.3.2017 ja kohtaa 4
 ---
 
 
-# Ansiomerkkiohjesääntö
+# {{< wrap "An/sio/merk/ki/oh/je/sään/tö" >}}
 
 #### Kunniamaininta
 
@@ -372,7 +372,7 @@ Ansiomerkki voidaan myöntää myös yhdistyksen entiselle jäsenelle. Ansiomerk
 ---
 
 
-# Hallitushakuohjesääntö
+# {{< wrap "Hal/li/tus/ha/ku/oh/je/sään/tö" >}}
 
 #### 1 § Soveltaminen
 
@@ -410,7 +410,7 @@ Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 19.11.2018 ja se on 
 ---
 
 
-# Jäsenrekisteriseloste
+# {{< wrap "Jä/sen/re/kis/te/ri/se/los/te" >}}
 
 #### Rekisteri- ja tietosuojaseloste
 
@@ -466,7 +466,7 @@ Rekisterissä olevalla henkilöllä on oikeus pyytää häntä koskevien henkil�
 ---
 
 
-# Tapahtumien rekisteriseloste
+# {{< wrap "Ta/pah/tu/mi/en re/kis/te/ri/se/los/te" >}}
 
 #### Tapahtumarekisteri
 
@@ -519,7 +519,7 @@ Rekisterissä olevalla henkilöllä on oikeus pyytää häntä koskevien henkil�
 ---
 
 
-# Yhdenvertaisuussuunnitelma
+# {{< wrap "Yh/den/ver/tai/suus/suun/ni/tel/ma" >}}
 
 {{< embed-pdf url="yhdenvertaisuussuunnitelma.pdf" >}}
 
@@ -527,7 +527,7 @@ Rekisterissä olevalla henkilöllä on oikeus pyytää häntä koskevien henkil�
 ---
 
 
-# Ympäristösuunnitelma
+# {{< wrap "Ym/pä/ris/tö/suun/ni/tel/ma" >}}
 
 {{< embed-pdf url="ympäristöohjelma.pdf" >}}
 

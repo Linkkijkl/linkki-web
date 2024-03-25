@@ -1,4 +1,4 @@
-<div class='row col-md-{{ default 6 (.Get "width") }}'>
+<div class='row col-md-{{ default 6 (.Get "width") }} {{ default "" (.Get "class")}}'>
     {{ with .Inner }}
         {{ if $.Get "markdown" }}
             {{ . | markdownify }}

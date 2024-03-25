@@ -141,7 +141,8 @@ figcaption :first-child {
     h4,
     h5,
     h6,
-    .navbar-default .navbar-nav>li>a,
+    .navbar-default .navbar-nav > li > a,
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a,
     .home-carousel h1,
     .home-carousel h2,
     .home-carousel h3,
@@ -150,6 +151,16 @@ figcaption :first-child {
     .navbar ul.dropdown-menu li a {
         color: var(--text-color);
     }
+
+
+    #blog-listing-medium .post h2 a {
+        color: var(--primary-accent);
+    }
+
+    #blog-listing-medium .post h2 a:hover {
+        color: var(--link-focus);
+    }
+
 
     body,
     button,
