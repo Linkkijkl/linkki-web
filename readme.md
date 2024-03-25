@@ -1,6 +1,6 @@
 # Linkki-web
 
-Repository for [new.linkkijkl.fi](https://new.linkkijkl.fi).
+Repository of [linkkijkl.fi](https://linkkijkl.fi).
 
 ## Getting started
 
