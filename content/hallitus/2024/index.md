@@ -202,7 +202,7 @@ Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnast
 {{< column >}}
 
 {{< img-thumb-cap >}}
-## Aino Siploa & Taru Nikkanen
+## Aino Sipola & Taru Nikkanen
 #### Kansainvälisyysvastaavat
 [**kv@linkkijkl.fi**](mailto:kv@linkkijkl.fi)
 
