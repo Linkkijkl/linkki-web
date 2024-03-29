@@ -79,20 +79,29 @@ Maksutapoina toimii Mobilepay ja korttimaksu. 1kpl 3€ ja 2kpl 5€
 {{< /column >}}
 {{< /row >}}
 {{< row >}}
-{{< column width=6 >}}
+{{< column width=4 >}}
 
 {{< img-thumb-cap "merkit/ei-voi-tulla-darra.webp" "x200" >}}
 #### Ei voi tulla darra
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
-{{< column width=6 >}}
+{{< column width=4 >}}
 
 {{< img-thumb-cap "merkit/lanit.webp" "x200" >}}
 #### Lanit
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
+
+{{< column width=4 >}}
+
+{{< img-thumb-cap "merkit/webtaskforce.webp" "x200" >}}
+#### Web Task Force
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+
 {{< /row >}}
 
 # Jämälaari
