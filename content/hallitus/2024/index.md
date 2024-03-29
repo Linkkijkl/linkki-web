@@ -113,6 +113,17 @@ Yritys- ja yhteistyötiimin tehtävänä on vaalia yhdistyksen yhteistyökumppan
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
+
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Viljami Töhönen
+#### Yritys- ja yhteistyötiimiläinen
+
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+
 {{< /row >}}
 
 # Projektitiimi
