@@ -397,7 +397,7 @@ home = ["html", "rss", "api-sponsors"]
 
 
 [languages.fi.params.recent_posts]
-    title = "Uusimmat päivitykset"
+    title = "Viimeisimmät päivitykset"
 
 
 [languages.en.params.recent_posts]
