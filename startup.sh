@@ -7,8 +7,8 @@ elif [ -f /etc/debian_version ]; then
     OS="Debian/Ubuntu"
 elif [ -f /etc/fedora-release ]; then
     OS="Fedora"
-else
-    echo "Unsupported OS or distribution."
+else 
+    echo -e "Unsupported OS or distribution.\nInstall Hugo Extended Edition and Git LFS manually.\nThen run:\n    - git lfs pull\n    - git submodule init && git submodule update\n    - hugo server --config=\"hugo.toml\"" 
     exit 1
 fi
 
@@ -28,7 +28,7 @@ if ! command -v hugo; then
             sudo dnf install hugo
             ;;
         *)
-            echo "Unsupported OS for automatic Hugo installation."
+            echo "Unsupported OS for automatic Hugo installation. Install Hugo Extended Edition manually."
             exit 1
             ;;
     esac
@@ -48,7 +48,7 @@ if ! command -v git-lfs; then
             sudo dnf install git-lfs
             ;;
         *)
-            echo "Unsupported OS for automatic Git LFS installation."
+            echo "Unsupported OS for automatic Git LFS installation. Install Git LFS manually."
             exit 1
             ;;
     esac
