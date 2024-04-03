@@ -15,7 +15,7 @@ fi
 echo "Detected OS: $OS"
 
 # Install Hugo based on OS
-if ! command -v hugo &> /dev/null; then
+if ! command -v hugo; then
     echo "Hugo could not be found, attempting to install..."
     case $OS in
         "macOS")
@@ -35,7 +35,7 @@ if ! command -v hugo &> /dev/null; then
 fi
 
 # Install Git LFS based on OS
-if ! command -v git-lfs &> /dev/null; then
+if ! command -v git-lfs; then
     echo "Git LFS could not be found, attempting to install..."
     case $OS in
         "macOS")
@@ -54,6 +54,8 @@ if ! command -v git-lfs &> /dev/null; then
             ;;
     esac
 fi
+# Pull lfs content
+git lfs pull
 
 # Initialize and update git submodules
 git submodule init && git submodule update
