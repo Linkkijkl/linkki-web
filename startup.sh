@@ -22,7 +22,7 @@ if ! command -v hugo; then
             brew install hugo
             ;;
         "Debian/Ubuntu")
-            sudo apt-get update && sudo apt-get install -y hugo
+            sudo apt-get install -y hugo
             ;;
         "Fedora")
             sudo dnf install hugo
@@ -42,7 +42,6 @@ if ! command -v git-lfs; then
             brew install git-lfs
             ;;
         "Debian/Ubuntu")
-            curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
             sudo apt-get install git-lfs
             ;;
         "Fedora")
