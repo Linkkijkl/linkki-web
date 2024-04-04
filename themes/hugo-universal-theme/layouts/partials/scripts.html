@@ -21,9 +21,7 @@
 
 <!-- custom scripts -->
 {{ range resources.Match "/js/*.js" }}
-{{ with  . | js.Build }}
 <script src="{{ .RelPermalink }}" ></script>
-{{ end }}
 {{ end }}
 
 <!-- page scripts -->

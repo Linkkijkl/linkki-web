@@ -2,14 +2,23 @@ let icon;
 let darkStyleObject;
 let darkStyleParent;
 
-const isDark = () => {
+const themeChangeEvent = new Event("ThemeChange");
+
+
+/**
+ * @returns true if current theme is dark
+ */
+const isThemeDark = () => {
     const dm = window.localStorage.getItem("darkmode");
     if (dm === null) return window.matchMedia("(prefers-color-scheme: dark)").matches;
     return dm === "true";
 }
 
-
+/**
+ * @param {boolean} dark 
+ */
 const setDark = dark => {
+    window.localStorage.setItem("darkmode", dark);
     const ds = document.querySelector("#darkstyle");
     if (dark && !ds) {
         darkStyleParent.appendChild(darkStyleObject.cloneNode());
@@ -18,17 +27,18 @@ const setDark = dark => {
         ds.remove();
         icon.className = "fas fa-2x fa-moon";
     }
-    window.localStorage.setItem("darkmode", dark);
+    document.getRootNode().dispatchEvent(themeChangeEvent);
 }
 
 
-const toggle = () => setDark(!isDark());
+const toggle = () => setDark(!isThemeDark());
 
 
 const createButton = () => {
     const element = document.querySelector(".home-carousel, #heading-breadcrumbs");
 
     icon = document.createElement("i");
+    icon.className = "fas fa-2x " + (isThemeDark() ? "fa-sun" : "fa-moon");
 
     let lightswitch = document.createElement("a");
     lightswitch.appendChild(icon);
@@ -44,11 +54,13 @@ const createButton = () => {
 
 window.addEventListener("DOMContentLoaded", () => {
     createButton();
-
     const darkStyle = document.querySelector("#darkstyle");
+
+    // As this sript has loaded, remove media-query based dark theme toggle
     darkStyle.media = "";
+
     darkStyleObject = darkStyle.cloneNode();
     darkStyleParent = darkStyle.parentElement;
 
-    setDark(isDark());
+    setDark(isThemeDark());
 });

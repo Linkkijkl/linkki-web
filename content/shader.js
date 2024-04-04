@@ -5,7 +5,9 @@ const shaderPath = canvas.getAttribute("data-shader");
 let gl = null;
 let shaderProgram;
 let resolutionLocation;
-let vertexArray = new Float32Array
+let vertexArray = new Float32Array;
+let darkModeLocation;
+
 
 const resizeCanvas = () => {
     canvas.width = homeCarousel.clientWidth;
@@ -16,12 +18,12 @@ const resizeCanvas = () => {
     }
 }
 
+
 new ResizeObserver((entires) => {
     for (const entry of entires) {
         resizeCanvas();
     }
 }).observe(homeCarousel);
-
 
 
 const compileShader = (code, type) => {
@@ -76,10 +78,7 @@ const getPrimaryAccent = () => {
 };
 
 
-const isDarkMode = () => window.matchMedia("(prefers-color-scheme: dark)").matches;
-
-
-window.addEventListener("load", async () => {
+window.addEventListener("DOMContentLoaded", async () => {
     gl = canvas.getContext("webgl2");
     if (!gl) return;
 
@@ -104,7 +103,7 @@ window.addEventListener("load", async () => {
     resolutionLocation = gl.getUniformLocation(shaderProgram, "u_resolution");
     const timeLocation = gl.getUniformLocation(shaderProgram, "u_time");
     const accentLocation = gl.getUniformLocation(shaderProgram, "u_primary_accent");
-    const darkModeLocation = gl.getUniformLocation(shaderProgram, "u_dark_mode");
+    darkModeLocation = gl.getUniformLocation(shaderProgram, "u_dark_mode");
 
     const vao = gl.createVertexArray();
     gl.bindVertexArray(vao);
@@ -144,7 +143,7 @@ window.addEventListener("load", async () => {
     gl.uniform2f(resolutionLocation, gl.canvas.width, gl.canvas.height);
     const pa = getPrimaryAccent();
     gl.uniform3f(accentLocation, pa[0] / 255.0, pa[1] / 255.0, pa[2] / 255.0);
-    gl.uniform1i(darkModeLocation, isDarkMode());
+    gl.uniform1i(darkModeLocation, isThemeDark());
 
     let timeTracker = 0.0;
     let startTime = document.timeline.currentTime;
@@ -158,4 +157,9 @@ window.addEventListener("load", async () => {
     }
 
     render();
+});
+
+
+document.getRootNode().addEventListener("ThemeChange", () => {
+    gl.uniform1i(darkModeLocation, isThemeDark());
 });
