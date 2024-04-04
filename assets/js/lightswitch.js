@@ -59,7 +59,8 @@ const createButton = () => {
 
     let lightswitch = document.createElement("a");
     lightswitch.appendChild(icon);
-    lightswitch.style = "position: absolute; top: 10px; right: 10px;";
+    lightswitch.id = "lightswitch";
+    lightswitch.href = "#"
     lightswitch.onclick = (event) => {
         event.preventDefault();
         toggle();
