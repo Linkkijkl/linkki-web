@@ -160,6 +160,6 @@ window.addEventListener("DOMContentLoaded", async () => {
 });
 
 
-document.getRootNode().addEventListener("ThemeChange", () => {
+document.getRootNode().addEventListener("onThemeChange", () => {
     if (gl) gl.uniform1i(darkModeLocation, isThemeDark());
 });

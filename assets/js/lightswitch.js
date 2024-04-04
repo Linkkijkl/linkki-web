@@ -2,7 +2,7 @@ let icon;
 let darkStyleObject;
 let darkStyleParent;
 
-const themeChangeEvent = new Event("ThemeChange");
+const themeChangeEvent = new Event("onThemeChange");
 
 
 /**
@@ -52,7 +52,7 @@ const toggle = () => setDark(!isThemeDark());
 
 
 const createButton = () => {
-    const element = document.querySelector(".home-carousel, #heading-breadcrumbs");
+    const element = document.querySelector(".home-carousel .container, #heading-breadcrumbs .container");
 
     icon = document.createElement("i");
     icon.className = "fas fa-2x " + (isThemeDark() ? "fa-sun" : "fa-moon");

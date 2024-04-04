@@ -57,8 +57,14 @@
     margin-bottom: 2em;
 }
 
-.home-carousel a {
+.home-carousel a,
+#heading-breadcrumbs a {
     color: #ccc;
+}
+
+.home-carousel .container,
+#heading-breadcrumbs .container {
+    position: relative;
 }
 
 .heading {
@@ -115,4 +121,5 @@ figcaption :first-child {
     position: absolute;
     top: 10px;
     right: 10px;
+    z-index: 20000;
 }
