@@ -17,15 +17,32 @@ const isThemeDark = () => {
 /**
  * @param {boolean} dark 
  */
+const setLogoDark = (dark) => {
+    for (const logo of document.querySelectorAll(".navbar-brand img")) {
+        for (const suffix of ["-dark.svg", "-light.svg", ".svg"]) {
+            if (logo.src.endsWith(suffix)) {
+                logo.src = `${logo.src.replace(suffix, "")}${dark ? "-dark.svg" : "-light.svg"}`;
+                break;
+            }
+        }
+    }
+}
+
+
+/**
+ * @param {boolean} dark 
+ */
 const setDark = dark => {
     window.localStorage.setItem("darkmode", dark);
     const ds = document.querySelector("#darkstyle");
     if (dark && !ds) {
         darkStyleParent.appendChild(darkStyleObject.cloneNode());
         icon.className = "fas fa-2x fa-sun";
+        setLogoDark(true);
     } else if (!dark && ds) {
         ds.remove();
         icon.className = "fas fa-2x fa-moon";
+        setLogoDark(false);
     }
     document.getRootNode().dispatchEvent(themeChangeEvent);
 }

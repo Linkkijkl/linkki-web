@@ -161,5 +161,5 @@ window.addEventListener("DOMContentLoaded", async () => {
 
 
 document.getRootNode().addEventListener("ThemeChange", () => {
-    gl.uniform1i(darkModeLocation, isThemeDark());
+    if (gl) gl.uniform1i(darkModeLocation, isThemeDark());
 });
