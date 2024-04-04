@@ -11,6 +11,7 @@ To compile and open locally:
 3. Initialize git submodules `git submodule init && git submodule update`
 4. Run `hugo server` and you should be good to go 🎉
 
+Or optionally, on some supported Unix based environments _(currently MacOS, Debian and Fedora)_, you can just run `startup.sh`.
 
 ## Building and running with [Docker](https://www.docker.com/)
 
