@@ -1,6 +1,6 @@
-const canvas = document.getElementById("shader");
-const homeCarousel = document.getElementsByClassName("home-carousel")[0];
-const shaderPath = canvas.getAttribute("data-shader");
+let canvas;
+let container;
+let shaderPath;
 
 let gl = null;
 let shaderProgram;
@@ -10,20 +10,13 @@ let darkModeLocation;
 
 
 const resizeCanvas = () => {
-    canvas.width = homeCarousel.clientWidth;
-    canvas.height = homeCarousel.clientHeight;
+    canvas.width = container.clientWidth;
+    canvas.height = container.clientHeight;
     if (gl != null) {
         gl.viewport(0, 0, gl.canvas.width, gl.canvas.height);
         gl.uniform2f(resolutionLocation, gl.canvas.width, gl.canvas.height);
     }
 }
-
-
-new ResizeObserver((entires) => {
-    for (const entry of entires) {
-        resizeCanvas();
-    }
-}).observe(homeCarousel);
 
 
 const compileShader = (code, type) => {
@@ -79,23 +72,34 @@ const getPrimaryAccent = () => {
 
 
 window.addEventListener("DOMContentLoaded", async () => {
+    canvas = document.querySelector("#shader");
+    if (!canvas) return;
+    shaderPath = canvas.getAttribute("data-shader");
+    container = document.querySelector(".home-carousel, #heading-breadcrumbs");
+
+    new ResizeObserver((entires) => {
+        for (const entry of entires) {
+            resizeCanvas();
+        }
+    }).observe(container);
+
     gl = canvas.getContext("webgl2");
     if (!gl) return;
 
     const getShaderSource = url => fetch(url).then(response => response.text());
 
+    const vertex = document.querySelector('script[type="x-shader/x-vertex"]');
+    const fragment = document.querySelector('script[type="x-shader/x-fragment');
+    if (!vertex || !fragment) return;
+
     shaderProgram = buildShaderProgram([
         {
             type: gl.VERTEX_SHADER,
-            code: await getShaderSource(
-                document.querySelector('script[type="x-shader/x-vertex"]').src
-            )
+            code: await getShaderSource(vertex.src)
         },
         {
             type: gl.FRAGMENT_SHADER,
-            code: await getShaderSource(
-                document.querySelector('script[type="x-shader/x-fragment').src
-            )
+            code: await getShaderSource(fragment.src)
         }
     ]);
 

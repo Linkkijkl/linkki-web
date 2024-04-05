@@ -63,7 +63,8 @@
 }
 
 .home-carousel .container,
-#heading-breadcrumbs .container {
+#heading-breadcrumbs .container,
+#heading-breadcrumbs {
     position: relative;
 }
 
