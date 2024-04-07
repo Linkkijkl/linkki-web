@@ -53,6 +53,10 @@ if ! command -v git-lfs; then
             ;;
     esac
 fi
+
+# Init git lfs in repo
+git lfs install
+
 # Pull lfs content
 git lfs pull
 
