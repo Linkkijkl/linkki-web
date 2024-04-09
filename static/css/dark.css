@@ -78,6 +78,6 @@ iframe {
     filter: invert(1.0) hue-rotate(180deg) saturate(5.0);
 }
 
-#shader {
+#shader, #heading-breadcrumbs {
     background-color: black;
 }
