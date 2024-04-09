@@ -16,8 +16,8 @@ Or optionally, on some supported Unix based environments _(currently MacOS, Debi
 ## Building and running with [Docker](https://www.docker.com/)
 
 ```shell
-docker build -t linkkijkl/linkki-web:latest .
-docker run -p 127.0.0.1:8080:8080 linkkijkl-web
+docker build -t linkki-web .
+docker run -p 127.0.0.1:8080:8080 linkki-web
 ```
 
 
