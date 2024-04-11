@@ -1,4 +1,4 @@
-name: Deploy to server
+name: Deploy to Tnnet server
 on:
   push:
     branches:
