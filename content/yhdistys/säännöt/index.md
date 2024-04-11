@@ -266,7 +266,7 @@ Kirjanpidossa on kullekin talousarvioon merkitylle meno- ja tulomomentille avatt
 
 #### 8 § Käteiskassa
 
-Yhdistyksellä on ainejärjestötila Kattilassa (Agora C233.2) yksi käteiskassa. Käteiskassa tulee säilyttää ja lukita niin, että siihen eivät hallituksen ulkopuoliset henkilöt pääse käsiksi luvatta.
+Yhdistyksellä on ainejärjestötila Kattilassa (Agora B437) yksi käteiskassa. Käteiskassa tulee säilyttää ja lukita niin, että siihen eivät hallituksen ulkopuoliset henkilöt pääse käsiksi luvatta.
 
 Käteiskassaa hoitaa ja hallinnoi rahastonhoitaja. Hänen velvollisuutenaan on huolehtia, että käteiskassassa ei ole rahaa yli 500 euroa kerrallaan kuin väliaikaisesti.
 
@@ -480,8 +480,7 @@ PL 35 (Agora)
 
 #### 2. Rekisteristä vastaava yhteyshenkilö
 
-Paavo Nieminen
-sihteeri@linkkijkl.fi
+Linkki Jyväskylä ry:n sihteeri (sihteeri@linkkijkl.fi).
 
 #### 3. Rekisterin nimi
 
