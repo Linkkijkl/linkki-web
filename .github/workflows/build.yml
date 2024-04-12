@@ -7,11 +7,12 @@ jobs:
       run:
         working-directory: ./  
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           submodules: recursive
           fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
           lfs: false
+          fetch-tags: true
 
       - name: Fill git lfs files with dummy data
         uses: linkkijkl/lfs-dummy-clone-action@main
