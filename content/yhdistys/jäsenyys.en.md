@@ -17,7 +17,7 @@ Linkki has three kinds of memberships:
 
 - To join Linkki as a **regular member** fill in the [application form](https://forms.gle/ZRYsBxLazFVM111Q8). Your membership application will be reviewed in the next meeting of the board. You can ask for a Linkki-sticker for your student card from a member of the board right after applying. To join Linkki you need to study Mathematical Information Technology, Education Technology, or Computer Science, and accept the rules and objectives of the association.
 
-- To become a **volunteer** fill in the [application form](https://r.jyu.fi/aktiivihaku) kautta.
+- To become a **volunteer** fill in the [application form](https://r.jyu.fi/aktiivihaku).
 
 - Currently it's not possible to become a **supporting member**.
 <!---

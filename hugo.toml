@@ -195,12 +195,12 @@ home = ["html", "rss", "api-sponsors"]
 #    weight = 3
 
 
-#[[languages.en.menus.main]]
-#    name = "Membership"
-#    identifier = "menu.jäsenyys"
-#    url = "/en/yhdistys/jäsenyys/"
-#    parent = "menu.yhdistys"
-#    weight = 4
+[[languages.en.menus.main]]
+    name = "Membership"
+    identifier = "menu.jäsenyys"
+    url = "/en/yhdistys/jäsenyys/"
+    parent = "menu.yhdistys"
+    weight = 4
 
 
 [[languages.en.menus.main]]
