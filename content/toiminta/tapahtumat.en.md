@@ -26,11 +26,13 @@ Linkki arranges evenings to play boardgames together about once a month. These e
 
 Linkki and [Ynnä](https://ynna.fi/) join forces approximately once a month to knit, crochet, sew and do arts and crafts. Crafts Club meets usually on Mondays or Tuesdays at Agora between 4pm and 8pm. The time and place are announced in the invitation.
 
-Quite often the meeting will have a theme. So far we have made friendship bracelets, had fun with salt dough and learnt how to darn socks... You're always welcome to work on your own WIPs, decorate your overalls with patches, or design and create an outfit for an upcoming sitsfest. We offer supplies for themed crafts; please bring your own supplies for your own projects. Our skilled regulars are happy to help you with your projects, should you be interested in learning a new skill!
+Quite often the meeting will have a theme. In the past meetings have made friendship bracelets, had fun with salt dough, and learnt how to darn socks. You're always welcome to work on your own WIPs, decorate your overalls with patches, or design and create an outfit for an upcoming sitsfest. We offer supplies for themed crafts; please bring your own supplies for your own projects. 
 
-# Group Reading
+Our skilled regulars are happy to help you with your projects, should you be interested in learning a new skill!
 
-TODO
+# Book Club
+
+Avid readers of Linkki gather together monthly to discuss a predetermined book and its themes. Read more on the Book Club [homepage](/toiminta/lukupiiri).
 
 # Event calendar
 {{< google_calendar "Y19nMmVxdDJhN3UxZmMxcGFoZTJvMGVjbTdhc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t" >}}
