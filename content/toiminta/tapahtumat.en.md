@@ -1,7 +1,7 @@
 +++
 title = "Events"
 description = ""
-keywords = ["events", "calendar", "jyväsmetro", "metro", "instanssi", "group reading", "crafts club"]
+keywords = ["events", "calendar", "jyväsmetro", "metro", "instanssi", "boardgames", "crafts club", "book club"]
 +++
 
 # Jyväsmetro
