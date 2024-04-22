@@ -1,5 +1,5 @@
 +++
-title = "Event calendar"
+title = "Events"
 description = ""
 keywords = ["events", "calendar", "jyväsmetro", "metro", "instanssi", "group reading", "crafts club"]
 +++
@@ -8,11 +8,11 @@ keywords = ["events", "calendar", "jyväsmetro", "metro", "instanssi", "group re
 
 Jyväsmetro is an annual event hosted by Linkki, held during May day celebrations. During the event students tour bars in Jyväskylä and its surrounding areas via buses, which serve as a sort of metro system, thus giving the event its name. Sometimes, the buses are named after sponsors of the event. Essentially, it's like a traditional pub crawl, but instead of walking, participants travel by bus.
 
-For more information go to Jyväsmetro's own [homepage](https://jyvasmetro.fi/).
+For more information go to Jyväsmetro's own [homepage](https://jyvasmetro.fi/en).
 
 # Instanssi
 
-Instanssi is a yearly festival of digital making organized by Linkki and [Hacklab Jyväskylä](https://jyväskylä.hacklab.fi/). The first Instanssi was held in 2010.
+Instanssi is a yearly festival of digital making organized by Linkki and [Hacklab Jyväskylä](https://jyväskylä.hacklab.fi/en). The first Instanssi was held in 2010.
 
 Instanssi is a beginner-friendly event that anyone interested in digital culture can visit and enjoy. Instanssi offers demoscene compos (competitions), workshops, presentations, and a friendly creative environment.
 
@@ -24,7 +24,9 @@ Linkki arranges evenings to play boardgames together about once a month. These e
 
 # Crafts Club
 
-TODO
+Linkki and [Ynnä](https://ynna.fi/) join forces approximately once a month to knit, crochet, sew and do arts and crafts. Crafts Club meets usually on Mondays or Tuesdays at Agora between 4pm and 8pm. The time and place are announced in the invitation.
+
+Quite often the meeting will have a theme. So far we have made friendship bracelets, had fun with salt dough and learnt how to darn socks... You're always welcome to work on your own WIPs, decorate your overalls with patches, or design and create an outfit for an upcoming sitsfest. We offer supplies for themed crafts; please bring your own supplies for your own projects. Our skilled regulars are happy to help you with your projects, should you be interested in learning a new skill!
 
 # Group Reading
 
