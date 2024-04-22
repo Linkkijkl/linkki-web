@@ -4,7 +4,7 @@ description = "Membership"
 keywords = ["membership", "member", "benefits", "member benefits", "membership form"]
 +++
 
-To join a student association usually leads to lifelong friendships and to a student culture that looks like its members. As a member of **LINKKI** you get to take part in various events, excursions, and activities, and get to wear our black-and-blue overalls. As a member you get **BENEFITS**, such as discounts from our partners, and are able to join the **BOARD OF DIRECTORS**.
+To join a student association usually leads to lifelong friendships and to a student culture that looks like its members. As a member of **LINKKI** you get to take part in various events, excursions, and activities, and get to wear our black-and-blue overalls. As a member you get **BENEFITS**, such as discounts from our partners and are able to join the **BOARD OF DIRECTORS**.
 
 Linkki has three kinds of memberships:
 
@@ -13,21 +13,13 @@ Linkki has three kinds of memberships:
 - *Honorary member*; Honorary members have done invaluable work for the association.
 
 
-# Liittyminen
+# How to become a member?
 
-- *Varsinaiseksi jäseneksi* voit liittyä täyttämällä oheisen
-[LOMAKKEEN](https://forms.gle/ZRYsBxLazFVM111Q8). Jäsenhakemuksesi
-tarkastetaan ja käsitellään virallisesti seuraavassa hallituksen
-kokouksessa, mutta voit hakea Linkki-tarran hallituksen jäseneltä jo
-heti jäsenyyttä haettuasi. Jäseneksi voi liittyä kuka tahansa
-tietotekniikan, koulutusteknologian tai tietojenkäsittelytieteen
-pääaine-, sivuaine- tai jatko-opiskelija, joka hyväksyy yhdistyksen
-säännöt sekä tavoitteet.
+- To join Linkki as a *regular member* fill the [APPLICATION FORM](https://forms.gle/ZRYsBxLazFVM111Q8). Your membership application will be reviewed in the next meeting of the board. You can ask for a Linkki-sticker for your student card from a member of the board right after applying. To join Linkki you need to study Mathematical Information Technology, Education Technology, or Computer Science and accept the rules and objectives of the association.
 
-- *Aktiiviksi* haku tapahtuu oheisen
-[LOMAKKEEN](https://r.jyu.fi/aktiivihaku) kautta.
+- To become a *volunteer* fill the [APPLICATION FORM](https://r.jyu.fi/aktiivihaku) kautta.
 
-- *Kannatusjäseneksi* ei ole tällä hetkellä mahdollista liittyä.
+- Currently it's not possible to become a *supporting member*.
 <!---
 - *Kannattava jäsen*; kannattajajäsenyyden hinta on 30€ / vuosi, lasku
   toimitetaan ilmoittamaasi sähköpostiin. Voit liittyä kannattavaksi
@@ -43,13 +35,7 @@ säännöt sekä tavoitteet.
     - Viimeisin työpaikka
 -->
 
-- *Kunniajäseneksi* ei voi liittyä erikseen. Yhdistyksen kokous kutsuu
-  sääntöjen kohdan 3. ilmoittamalla tavalla esitetyn ja hyväksytyn
-  henkilön, jonka jälkeen hyväksytty henkilö kutsutaan yhdistyksen
-  kunniajäseneksi. Yhdistyksen kokous on hyväksynyt ensimmäiset
-  kunniajäsenet syyskokouksessa 2015. Jäsenet voivat ilmoittaa
-  ehdottamiaan kunniajäseniä yhdistyksen puheenjohtajalle
-  sähköpostilla osoitteeseen pj@linkkijkl.fi.
+- *Honorary members* are invited by the general meeting as described in the rules of the association. ei voi liittyä erikseen. The first honorary members have been acknowledged in 2015. All members can make suggestions for honorary members via email to the chairperson of the board at pj@linkkijkl.fi.
 
 # Jäsenedut
 
