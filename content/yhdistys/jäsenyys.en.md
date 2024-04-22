@@ -37,54 +37,52 @@ Linkki has three kinds of memberships:
 
 - *Honorary members* are invited by the general meeting as described in the rules of the association. ei voi liittyä erikseen. The first honorary members have been acknowledged in 2015. All members can make suggestions for honorary members via email to the chairperson of the board at pj@linkkijkl.fi.
 
-# Jäsenedut
+# Member benefits
 
 ## Teerenpeli
 
-* Teerenpelin panimon hanatuotteet -15%
-* Teerenpelin Mustikka tai Puolukka-snapsi 4cl 3€
-* Drinkit MustikkaMuuli tai Pulina 5€
-* Viini punainen tai valkoinen 12cl 4€
-* Koko pullo viiniä 23€
-* Kahvi tai tee 1€
-* Pieni limu 1€
-* Iso limu 2€
-* Sulami järrikerrosleipä 7,5€
-* Ranskalaiset 3€
-* Talvikaudella kaakao 2€
+* Teerenpeli brewery products on tap -15%
+* Teerenpeli schnapps: Mustikka (Blueberry) or Puolukka (Lingonberry) 4cl 3€
+* Drinks: MustikkaMuuli or Pulina 5€
+* Wine (red/white 12cl 4€
+* Bottle of wine 23€
+* Coffee or tea 1€
+* Small soda 1€
+* Big soda 2€
+* Sulami sandwich 7,5€
+* Fries 3€
+* Hot chocolate in winter season 2€
 
 ## DeLorean
-* -2€ listacocktaileista
-* Hanajuomat ja kaikki viinit -20%
-* Linkkariviinipullo 17€
+* -2€ discount of list cocktails
+* Taps and wines -20%
+* Linkki wine bottle 17€
 
 ## Club Escape
-* hanaolut 0,3l 4€
-* hanasiideri 0,3l 4€
-* hanalonkero 0,3l 4€
+* beer on tap 0,3l 4€
+* cider on tap 0,3l 4€
+* long drink on tap 0,3l 4€
 * Linkki-drinkki 4€
 
 ## Antishop
-* 10% alennus normaalihintaisista myymälän tuotteista
+* 10% discount on all normal priced items in store
 
-## Jyväskylän kiipeilykeskus
-* Kertakäynti 8€
-* Viiden kerran sarjakortti 35€
-* Top Rope -kurssi + 5 harjoittelukertaa 55€ (sisältää valjasvuokran)
-
-Kaikki hinnat sisältävät kenkävuokran.
+## Jyväskylän kiipeilykeskus / Jyväskylä Climbing Centre
+* One-off 8€ (incl. shoes)
+* Multiticket, 5 sessions 35€ (incl. shoes)
+* Top Rope -course + 5 sessions 55€ (incl. shoes and harness)
 
 ## Konehuone
-* Hiustenleikkuu 24€
-* Mallinmuutos 32€
-* Koneleikkuu 14€
-* 20% alennusta hiustuotteista
+* Haircut 24€
+* Hairstyle change 32€
+* Buzzcut 14€
+* 20% discount of hair products
 
 ## Huoltokukko
-* 20% alennus oheislaitteista
+* 20% discount accessory devices
 
 ## Karaoke Bar Helmi
-* Happy Hour -hinnaston mukaiset hinnat 
-* Sisäänpääsy ja narikka ilmaisia
-* Linkki-juoma
-* Karaokekabinetti arkipäivisin 50€
+* Happy Hour -prices
+* Free admission and cloakroom
+* Linkki-drink
+* Karaoke cabinet during working days 50€
