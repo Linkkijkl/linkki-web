@@ -1,27 +1,16 @@
 +++
 title = "Membership"
 description = "Membership"
-keywords = ["jäsenyys", "aktiivi", "jäsen", "jäsenedut", "lomake"]
+keywords = ["membership", "member", "benefits", "member benefits", "membership form"]
 +++
 
-Ainejärjestön jäsenyys tarkoittaa perinteisesti elämänmittaisia
-kaverisuhteita ja juuri opiskelijan näköistä
-opiskelijakulttuuria. **LINKIN** jäsenenä pääset osallistumaan
-erilaisiin kulttuuritilaisuuksiin, tapahtumiin ja matkoihin. Voit
-hyödyntää yhdistyksen **JÄSENETUJA**, mitkä sisältävät esimerkiksi
-erilaisia alennuksia. **LINKKARINA** voit hankkia itsellesi
-esimerkiksi ainejärjestön haalarit, osallistua yhdistyksen toimintaan
-**AKTIIVINA**, ja myöhemmin hakea **HALLITUKSEEN**.
+To join a student association usually leads to lifelong friendships and to a student culture that looks like its members. As a member of **LINKKI** you get to take part in various events, excursions, and activities, and get to wear our black-and-blue overalls. As a member you get **BENEFITS**, such as discounts from our partners, and are able to join the **BOARD OF DIRECTORS**.
 
-**LINKIN** säännöt tunnustavat kolme erilaista jäsenlajia:
+Linkki has three kinds of memberships:
 
-- *Varsinainen jäsen*; Varsinaiset jäsenet ovat päätoimisia tai
-  sivutoimisia tietotekniikan opiskelijoita.
-- *Kannattava jäsen*; Kannattavat jäsenet ovat henkilöitä ketkä
-  kannattavat yhdistyksen toimia ja tarkoitusperiä.
-- *Kunniajäsen*; Kunniajäsenet ovat tehneet arvostettavaa työtä
-  yhdistyksen eteen, mistä syystä yhdistys on halunnut muistaa heitä
-  erityisesti.
+- *Regular member*; Regular members are majors or minors of Mathematical Information Technology.
+- *Supporting member*; Supporting members are natural persons who support the cause and activities association.
+- *Honorary member*; Honorary members have done invaluable work for the association.
 
 
 # Liittyminen
