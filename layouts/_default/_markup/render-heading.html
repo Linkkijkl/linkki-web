@@ -1,3 +1,7 @@
-<h{{ .Level }} id="{{ .Anchor | safeURL }}" class="heading">
+<!--
+"shy" comes from "&shy;" which is a helper which shortcode wrap generates
+to help the browser split text into multiple lines.
+-->
+<h{{ .Level }} id='{{ ( strings.Replace .Anchor "shy" "" ) | safeURL }}' class="heading">
     {{ .Text | safeHTML }}
 </h{{ .Level }}>
