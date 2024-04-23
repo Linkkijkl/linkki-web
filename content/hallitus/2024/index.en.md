@@ -6,6 +6,7 @@ banner = "/img/hallitukset/hallitus2024.jpg"
 summary = " "
 +++
 
+# Administrative team
 
 {{< row >}}
 {{< column >}}
@@ -67,8 +68,7 @@ summary = " "
 {{< /column >}}
 {{< /row >}}
 
-# Yritys- ja yhteistyötiimi
-Yritys- ja yhteistyötiimin tehtävänä on vaalia yhdistyksen yhteistyökumppanuuksia, huolehtia että yhteistyökumppanuuksien sopimuksien molemmat osapuolet täyttävät yhteistyösopimuksien ehdot, sekä etsiä mahdollisia uusia kumppanuuksia.
+# Corporational and collaborational team
 
 {{< row >}}
 {{< column >}}
@@ -119,8 +119,7 @@ Yritys- ja yhteistyötiimin tehtävänä on vaalia yhdistyksen yhteistyökumppan
 
 {{< /row >}}
 
-# Projektitiimi
-Projektitiimi vastaa suurempien kokonaisuuksien ja tapahtumien, kuten esimerkiksi Jyväsmetron ja vuosijuhlien, suunnittelusta, koordinoimisesta sekä toteuttamisesta.
+# Project team
 
 {{< row >}}
 {{< column >}}
@@ -148,8 +147,7 @@ Telegram: [**@Zualix**](https://t.me/Zualix) ja [**@lehtisolmu**](https://t.me/l
 {{< /row >}}
 
 
-# Tapahtumatiimi
-Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistyksen järjestämät kulttuuritilaisuudet, matkat, sekä muut tapahtumat. Tapahtumatiimin toiminta on kenties näkyvin osa yhdistyksen toimintaa.
+# Event team
 
 {{< row >}}
 {{< column >}}
@@ -243,8 +241,7 @@ Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistykse
 {{< /column >}}
 {{< /row >}}
 
-# Hyvinvointitiimi
-Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnasta ja sosiaalipoliittisista kysymyksistä, kuten yhdenvertaisuudesta yhdistyksen toiminnassa. Tiimi tekee työtä ainejärjestön puolesta sen eteen, että jokaiselle on tarjolla turvallinen opiskeluympäristö, jossa jokaisella on oikeus opiskella kokematta häirintää, kiusaamista tai syrjintää.
+# Wellbeing team
 
 {{< row >}}
 {{< column >}}
@@ -310,8 +307,7 @@ ja [**@taruksn**](https://t.me/taruksn)
 {{< /column >}}
 {{< /row >}}
 
-# Mediatiimi
-Mediatiimin tehtävänä on tiedottaa jäsenistöä yhdistyksen eri kanavissa kuten kotisivuilla, sosiaalisen median kanavissa, sekä sähköpostilla. Tiimi ylläpitää ja kehittää yhdistyksen verkkosivuja sekä tuottaa multimediaa yhdistyksen muiden tiimien tarpeisiin.
+# Media team
 
 {{< row >}}
 {{< column >}}
