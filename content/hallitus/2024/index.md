@@ -3,7 +3,7 @@ title = "Hallitus 2024"
 date = "2024-01-01T00:00:00+02:00"
 description = "Linkin hallitus 2024"
 categories = ["hallitukset"]
-authors = ["Santeri Sormunen", "Oskari Lahtinen", "Lassi Karjalainen", "Vili Kärkkäinen", "Ossi Rantala", "Valtteri Hiltunen", "Juho Kallijärvi", "Emma Järvinen", "Jami Virtanen", "Pekka Pihjalamaa", "Mortti Luhtala", "Aino Sipola", "Johannes Horila", "Taru Nikkanen", "Toni Pietiläinen", "Jaakko Siika-aho", "Juho Ropanen", "Alexander Goldhill", "Lari Nurkka"]
+authors = ["Santeri Sormunen", "Oskari Lahtinen", "Lassi Karjalainen", "Vili Kärkkäinen", "Ossi Rantala", "Valtteri Hiltunen", "Viljami Töhönen", "Juho Kallijärvi", "Emma Järvinen", "Jami Virtanen", "Pekka Pihjalamaa", "Mortti Luhtala", "Aleksi Sulasalmi", "Jules Kuortti", "Veeti Kataja", "Jenna Tykkyläinen", "Veikko Havula", "Aina Seppänen", "Aino Sipola", "Johannes Horila", "Taru Nikkanen", "Toni Pietiläinen", "Jaakko Siika-aho", "Juho Ropanen", "Alexander Goldhill", "Lari Nurkka"]
 banner = "/img/hallitukset/hallitus2024.jpg"
 summary = " "
 +++
