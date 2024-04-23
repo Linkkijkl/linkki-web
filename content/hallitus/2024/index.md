@@ -186,6 +186,62 @@ Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistykse
 {{< column >}}
 
 {{< img-thumb-cap >}}
+## Aleksi Sulasalmi
+#### Tapahtumatiimiläinen
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Jules Kuortti
+#### Tapahtumatiimiläinen
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< /row >}}
+
+{{< row >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Veeti Kataja
+#### Tapahtumatiimiläinen
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Jenna Tykkyläinen
+#### Tapahtumatiimiläinen
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< /row >}}
+{{< row >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Veikko Havula
+#### Tapahtumatiimiläinen
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Aina Seppänen
+#### Tapahtumatiimiläinen
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< /row >}}
+
+{{< row >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
 ## Aino Sipola
 #### Käsityövastaava
 [Telegram: **@Aino_Sipola**](https://t.me/Aino_Sipola)
