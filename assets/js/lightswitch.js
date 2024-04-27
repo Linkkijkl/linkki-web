@@ -14,6 +14,7 @@ const isThemeDark = () => {
     return dm === "true";
 }
 
+
 /**
  * @param {boolean} dark 
  */
