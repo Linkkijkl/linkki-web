@@ -36,12 +36,13 @@ const setLogoDark = (dark) => {
 const setDark = dark => {
     window.localStorage.setItem("darkmode", dark);
     const ds = document.querySelector("#darkstyle");
-    if (dark && !ds) {
-        darkStyleParent.appendChild(darkStyleObject.cloneNode());
+    if (dark) {
+        if (!ds) darkStyleParent.appendChild(darkStyleObject.cloneNode());
         icon.className = "fas fa-2x fa-sun";
         setLogoDark(true);
-    } else if (!dark && ds) {
-        ds.remove();
+    } 
+    else {
+        if (ds) ds.remove();
         icon.className = "fas fa-2x fa-moon";
         setLogoDark(false);
     }
