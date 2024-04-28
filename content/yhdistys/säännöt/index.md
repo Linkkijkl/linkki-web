@@ -194,7 +194,7 @@ päättäneen kokouksen mukaisesti.
 ---
 
 
-# {{< wrap "Ta/lo/us/oh/je/sään/nöt" >}}
+# {{% wrap "Ta/lo/us/oh/je/sään/nöt" %}}
 
 #### 1 § Soveltaminen
 
@@ -310,7 +310,7 @@ Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 6.3.2017 ja kohtaa 4
 ---
 
 
-# {{< wrap "Juh/la/nau/ha/oh/je/sään/tö" >}}
+# {{% wrap "Juh/la/nau/ha/oh/je/sään/tö" %}}
 
 **1§** Linkki Jyväskylä ry:llä on juhlanauha, jota käytetään ylioppilaskuntanauhan tavoin akateemisissa juhlatilaisuuksissa ja yhdistystä edustettaessa.
 
@@ -334,7 +334,7 @@ Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 6.3.2017 ja kohtaa 4
 ---
 
 
-# {{< wrap "An/sio/merk/ki/oh/je/sään/tö" >}}
+# {{% wrap "An/sio/merk/ki/oh/je/sään/tö" %}}
 
 #### Kunniamaininta
 
@@ -372,7 +372,7 @@ Ansiomerkki voidaan myöntää myös yhdistyksen entiselle jäsenelle. Ansiomerk
 ---
 
 
-# {{< wrap "Hal/li/tus/ha/ku/oh/je/sään/tö" >}}
+# {{% wrap "Hal/li/tus/ha/ku/oh/je/sään/tö" %}}
 
 #### 1 § Soveltaminen
 
@@ -410,7 +410,15 @@ Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 19.11.2018 ja se on 
 ---
 
 
-# {{< wrap "Jä/sen/re/kis/te/ri/se/los/te" >}}
+# {{% wrap "Si/vus/ton tie/to/suo/ja/se/los/te" %}}
+
+Linkki Jyväskylä ry:n kotisivut eivät kerää käyttäjästään tietoja. 
+
+
+---
+
+
+# {{% wrap "Jä/sen/re/kis/te/ri/se/los/te" %}}
 
 #### Rekisteri- ja tietosuojaseloste
 
@@ -466,7 +474,7 @@ Rekisterissä olevalla henkilöllä on oikeus pyytää häntä koskevien henkil�
 ---
 
 
-# {{< wrap "Ta/pah/tu/mi/en re/kis/te/ri/se/los/te" >}}
+# {{% wrap "Ta/pah/tu/mi/en re/kis/te/ri/se/los/te" %}}
 
 #### Tapahtumarekisteri
 
@@ -518,7 +526,7 @@ Rekisterissä olevalla henkilöllä on oikeus pyytää häntä koskevien henkil�
 ---
 
 
-# {{< wrap "Yh/den/ver/tai/suus/suun/ni/tel/ma" >}}
+# {{% wrap "Yh/den/ver/tai/suus/suun/ni/tel/ma" %}}
 
 {{< embed-pdf url="yhdenvertaisuussuunnitelma.pdf" >}}
 
@@ -526,7 +534,7 @@ Rekisterissä olevalla henkilöllä on oikeus pyytää häntä koskevien henkil�
 ---
 
 
-# {{< wrap "Ym/pä/ris/tö/suun/ni/tel/ma" >}}
+# {{% wrap "Ym/pä/ris/tö/suun/ni/tel/ma" %}}
 
 {{< embed-pdf url="ympäristöohjelma.pdf" >}}
 
