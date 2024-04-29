@@ -301,8 +301,8 @@ home = ["html", "rss", "api-sponsors"]
     copyright = "Copyright (c) 2024, Linkki Jyväskylä ry; all rights reserved."
 
     logo_text = "Linkki Jyväskylä ry."
-    logo = "img/linkki-logo-modern.svg"
-    logo_small = "img/linkki-logo-modern.svg"
+    logo = "img/logo/linkki-navbar.svg"
+    logo_small = "img/logo/linkki-navbar.svg"
 
     # Format dates with Go's time formatting
     # https://pkg.go.dev/time
