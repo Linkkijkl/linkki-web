@@ -4,6 +4,21 @@ description = "Ainejärjestötila Kattila"
 keywords = ["kattila", "ainejärjestötila"]
 +++
 
+{{< row >}}
+{{< column >}}
+
+{{< img-thumb-cap "kattila_ovi.webp" "400x" >}}
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< column >}}
+
+{{< img-thumb-cap "Kattila_Full.png" "400x" >}}
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< /row >}}
+
 Tule tutustumaan ainejärjestötila ”Kattilaan” Agoran
 B-siiven 4. kerrokseen (Ag B437). Jaamme tilan tieto- ja
 ohjelmistotekniikan killan Algo ry:n kanssa. Ainejärjestötilasta
