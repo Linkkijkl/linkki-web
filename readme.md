@@ -6,16 +6,18 @@ Repository of [linkkijkl.fi](https://linkkijkl.fi).
 ## Getting started
 
 First:
+
 1. Install git and [Git Large File Storage](https://git-lfs.com)
 2. Clone this repository, i.e. `git clone https://github.com/linkkijkl/linkki-web`
 3. Initialize git submodules `git submodule init && git submodule update`
 
 After this there are a few options:
+
 1. Use Devcontainers (easiest if you have Docker already installed)
-    - Install [Docker](https://docs.docker.com/) and [Visual Studio Code](https://code.visualstudio.com/)
-    - Install [Devcontainers VSCode plugin](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
-    - Open this repository in VSCode and a popup should ask you if you want to reopen it in a container. Do that.
-    - When inside a container, open a terminal inside VSCode (Ctrl + Shift + P, search for "create new terminal") and run `hugo server`.
+    - Install [Docker](https://docs.docker.com/), [Visual Studio Code](https://code.visualstudio.com/)
+and [Devcontainers VSCode plugin](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+    - Open this repository in VSCode and there should be a popup asking if you want to reopen the project in a container. Do that.
+    - When inside a container, open a terminal inside VSCode (`Ctrl` + `Shift` + `P`, search for `create new terminal`) and run `hugo server`.
 
 2. Install Hugo locally
     - Install [Hugo extended edition](https://gohugo.io/)
@@ -23,15 +25,16 @@ After this there are a few options:
     - Or optionally, on some supported Unix based environments _(currently MacOS, Debian and Fedora)_, you can just run `startup.sh`.
 
 3. Use [Github Codespaces](https://github.com/features/codespaces)
-    - This approach won't require you to have anything but a modern browser installed, not even this repository cloned. Please note that our association has a limited time of Codespace usage per month, so if you plan to do anything more than content updates, the former options are recommended.
+    - This approach won't require you to have anything but a modern browser installed, not even this repository cloned. Please note that our association has a limited time of Codespace usage per month, so if you plan to do anything more complex than content updates, the former options are recommended over this one.
     - You can open it from here:
     
-    ![](https://github.com/Linkkijkl/linkki-web/assets/5105063/7b554e18-81e4-4dd0-9f57-f5feaea2f2f4)
+    ![Image portraying where Codespaces are launched from](https://github.com/Linkkijkl/linkki-web/assets/5105063/7b554e18-81e4-4dd0-9f57-f5feaea2f2f4)
 
-    - Remember to close your workspaces when you're done!
+    - Please remember to close your codespaces when you're done!
 
 
 ## Building and running with [Docker](https://www.docker.com/)
+
 This is how the site is deployed in production.
 
 ```shell
