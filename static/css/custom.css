@@ -123,3 +123,7 @@ figcaption :first-child {
     top: 10px;
     right: 10px;
 }
+
+#content {
+    overflow: hidden;
+}
