@@ -4,6 +4,21 @@ description = "subject association space"
 keywords = ["kattila", "subject association space"]
 +++
 
+{{< row >}}
+{{< column >}}
+
+{{< img-thumb-cap "kattila_ovi.webp" "400x" >}}
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< column >}}
+
+{{< img-thumb-cap "Kattila_Full.png" "400x" >}}
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< /row >}}
+
 Come and say "Hi" to fellow students at our subject association space called "Kattila". We are located in the B-wing of the Agora building in Mattilanniemi on the 4th floor (Ag B437). We share the space with the information and software engineering guild Algo. In the subject association space you can for example: make coffee or tea, enjoy the comfy couches, play video games, use computers provided by the University or get help with things.
 
 The space also houses the P.O. box of the current board.
