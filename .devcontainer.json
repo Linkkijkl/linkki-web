@@ -1,0 +1,16 @@
+{
+    "image": "mcr.microsoft.com/devcontainers/base:debian",
+    "customizations": {
+        "vscode": {
+            "extensions": ["budparr.language-hugo-vscode"]
+        }
+    },
+    "features": {
+        "ghcr.io/devcontainers/features/hugo:1": {
+            "extended": true
+        }
+    },
+    "forwardPorts": [
+        1313
+    ]
+}
