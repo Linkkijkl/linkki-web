@@ -311,7 +311,7 @@ ja [**@taruksn**](https://t.me/taruksn)
 #### Verijumala
 [**verijumala@linkkijkl.fi**](mailto:verijumala@linkkijkl.fi)
 
-[Telegram: **@juusto95**](https://t.me/juusto95)
+[Telegram: **@el_ropanen**](https://t.me/el_ropanen)
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
