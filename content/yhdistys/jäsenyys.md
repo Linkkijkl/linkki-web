@@ -64,33 +64,30 @@ säännöt sekä tavoitteet.
 
 # Jäsenedut
 
-## Teerenpeli
+## Antishop
+* 10% alennus normaalihintaisista myymälän tuotteista
 
-* Teerenpelin panimon hanatuotteet -15%
-* Teerenpelin Mustikka tai Puolukka-snapsi 4cl 3€
-* Drinkit MustikkaMuuli tai Pulina 5€
-* Viini punainen tai valkoinen 12cl 4€
-* Koko pullo viiniä 23€
-* Kahvi tai tee 1€
-* Pieni limu 1€
-* Iso limu 2€
-* Sulami järrikerrosleipä 7,5€
-* Ranskalaiset 3€
-* Talvikaudella kaakao 2€
+## Club Escape
+( ennen 1.6.2024 )
+* Hanaolut 0,3l 4€
+* Hanasiideri 0,3l 4€
+* Hanalonkero 0,3l 4€
+* Linkki-drinkki 4€
+
+( alkaen 1.6.2024 )
+* Hanaolut 0,3l 3,90€
+* Hanasiideri 0,3l 4,30€
+* Hanalonkero 0,3l 4.30€
+* Vaihtuva drinkki 4,90€
+* Mustikkashot 3,00€
+* Salmari 2,80€
+* Fisu 2,80€
+* Iso limsa 3,50€
 
 ## DeLorean
 * -2€ listacocktaileista
 * Hanajuomat ja kaikki viinit -20%
 * Linkkariviinipullo 17€
-
-## Club Escape
-* hanaolut 0,3l 4€
-* hanasiideri 0,3l 4€
-* hanalonkero 0,3l 4€
-* Linkki-drinkki 4€
-
-## Antishop
-* 10% alennus normaalihintaisista myymälän tuotteista
 
 ## Jyväskylän kiipeilykeskus
 * Kertakäynti 8€
@@ -105,11 +102,16 @@ Kaikki hinnat sisältävät kenkävuokran.
 * Koneleikkuu 14€
 * 20% alennusta hiustuotteista
 
-## Huoltokukko
-* 20% alennus oheislaitteista
+## Teerenpeli
 
-## Karaoke Bar Helmi
-* Happy Hour -hinnaston mukaiset hinnat 
-* Sisäänpääsy ja narikka ilmaisia
-* Linkki-juoma
-* Karaokekabinetti arkipäivisin 50€
+* Teerenpelin panimon hanatuotteet -15%
+* Teerenpelin Mustikka tai Puolukka-snapsi 4cl 3€
+* Drinkit MustikkaMuuli tai Pulina 5€
+* Viini punainen tai valkoinen 12cl 4€
+* Koko pullo viiniä 23€
+* Kahvi tai tee 1€
+* Pieni limu 1€
+* Iso limu 2€
+* Sulami järrikerrosleipä 7,5€
+* Ranskalaiset 3€
+* Talvikaudella kaakao 2€
