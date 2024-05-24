@@ -39,24 +39,8 @@ Linkki has three kinds of memberships:
 
 # Membership benefits
 
-## Teerenpeli
-
-* Teerenpeli brewery products on tap -15%
-* Teerenpeli schnapps: Mustikka (Blueberry) or Puolukka (Lingonberry) 4cl 3€
-* Drinks: MustikkaMuuli or Pulina 5€
-* Wine: red or white 12cl 4€
-* Bottle of wine 23€
-* Coffee or tea 1€
-* Small soda 1€
-* Big soda 2€
-* Sulami sandwich 7,5€
-* Fries 3€
-* Hot chocolate in winter season 2€
-
-## DeLorean
-* -2€ discount of list cocktails
-* Taps and wines -20%
-* Linkki wine bottle 17€
+## Antishop
+* 10% discount on all normal priced items in store
 
 ## Club Escape
 ( before 1.6.2024 )
@@ -75,8 +59,10 @@ Linkki has three kinds of memberships:
 * Fisu shot 2,80€
 * Big soda 3,50€
 
-## Antishop
-* 10% discount on all normal priced items in store
+## DeLorean
+* -2€ discount of list cocktails
+* Taps and wines -20%
+* Linkki wine bottle 17€
 
 ## Jyväskylän kiipeilykeskus / Jyväskylä Climbing Centre
 * One session 8€ (incl. shoes)
@@ -89,11 +75,15 @@ Linkki has three kinds of memberships:
 * Buzzcut 14€
 * 20% discount of hair products
 
-## Huoltokukko
-* 20% discount of accessory devices
-
-## Karaoke Bar Helmi
-* Happy Hour -prices
-* Free admission and cloakroom
-* Linkki-drink
-* Karaoke cabinet during working days 50€
+## Teerenpeli
+* Teerenpeli brewery products on tap -15%
+* Teerenpeli schnapps: Mustikka (Blueberry) or Puolukka (Lingonberry) 4cl 3€
+* Drinks: MustikkaMuuli or Pulina 5€
+* Wine: red or white 12cl 4€
+* Bottle of wine 23€
+* Coffee or tea 1€
+* Small soda 1€
+* Big soda 2€
+* Sulami sandwich 7,5€
+* Fries 3€
+* Hot chocolate in winter season 2€
