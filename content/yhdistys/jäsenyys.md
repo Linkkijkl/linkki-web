@@ -84,10 +84,21 @@ säännöt sekä tavoitteet.
 * Linkkariviinipullo 17€
 
 ## Club Escape
+( ennen 1.6.2024 )
 * hanaolut 0,3l 4€
 * hanasiideri 0,3l 4€
 * hanalonkero 0,3l 4€
 * Linkki-drinkki 4€
+
+( alkaen 1.6.2024 )
+* Hanaolut 0,3l 3,90€
+* Hanasiideri 0,3l 4,30€
+* Hanalonkero 0,3l 4.30€
+* Vaihtuva drinkki 4,90€
+* Mustikkashot 3,00€
+* Salmari 2,80€
+* Fisu 2,80€
+* Iso limsa 3,50€
 
 ## Antishop
 * 10% alennus normaalihintaisista myymälän tuotteista

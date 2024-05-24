@@ -59,10 +59,21 @@ Linkki has three kinds of memberships:
 * Linkki wine bottle 17€
 
 ## Club Escape
+( before 1.6.2024 )
 * Beer on tap 0,3l 4€
 * Cider on tap 0,3l 4€
 * Long drink on tap 0,3l 4€
 * Linkki-drinkki 4€
+
+( from 1.6.2024 )
+* Beer on tap 0,3l 3,90€
+* Cider on tap 0,3l 4,30€
+* Long drink on tap 0,3l 4,30€
+* Todays drink 4,90€
+* Blueberry shot 3,00€
+* Salmari shot 2,80€
+* Fisu shot 2,80€
+* Big soda 3,50€
 
 ## Antishop
 * 10% discount on all normal priced items in store
