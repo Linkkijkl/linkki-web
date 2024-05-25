@@ -76,7 +76,7 @@ säännöt sekä tavoitteet.
 * Linkki -drinkki 4,90 €
 
 ## DeLorean
-* - 2€ listacocktaileista
+* -2€ listacocktaileista
 * Hanajuomat ja kaikki viinit -20%
 * Linkkariviinipullo 17€
 
