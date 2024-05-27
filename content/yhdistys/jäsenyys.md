@@ -106,3 +106,27 @@ Kaikki hinnat sisältävät kenkävuokran.
 * Sulami järrikerrosleipä 7,5€
 * Ranskalaiset 3€
 * Talvikaudella kaakao 2€
+
+## Laajiksen kesäkausi
+
+### Seikkailupuisto
+* Alennus: Seikkailulippu -20% / seikkailuaikaa max. 3 tuntia
+  * Voimassa kaikkina päivinä läpi seikkailukauden
+  * RAJAUKSET: Ei koske valonseikkailua eikä pikaseikkailua
+  * Varaustapa: Vain ennakkovaraus netin kautta (jäsenyys todistettava vielä paikan päällä)
+  * Alekoodi: **AJPuisto24!**
+
+### Bikepark alamäkipyöräily
+* Alennus:  Bikepark paketti 50€ Ghost täysjousto -enduropyörällä / kesto 2 tuntia
+  * Sisältää hissilipun, vuokrapyörän ja suojavarusteet (ei sisällä *keycard -lippupohjaa)
+  * Voimassa kaikkina päivinä läpi bikepark kauden.
+  * Pyörämallin korotus 15€ (premium malleina mm. Commencal, Specialized, Production Privet).
+  * Varaustapa: Vain ennakkovaraus netin kautta (jäsenyys todistettava vielä paikan päällä)
+  * **HUOM!** vastoin alkuperäistä ohjetta, emme pysty tätä pakettia vielä laittamaan nettimyyntiin sellaisenaan. Eli toistaiseksi Bikepark kokeilupaketin saa tähän erikoishintaan varaamalla sen etukäteen puhelimitse vuokraamon numerosta 0207 436 437 tai sähköpostilla osoitteesta vuokraamo@laajis.fi
+
+### eFatbike vuokraus
+* Alennus: eFatbike vuokra 40€ / 2 tuntia
+  * Sisältää pyörän ja kypärän (ei sisällä kuluturvaa)
+  * Voimassa kaikkina päivinä.
+  * Varaustapa: Vain ennakkovaraus netin kautta (jäsenyys todistettava vielä paikan päällä)
+  * Alekoodi: **AJeFat23!**
