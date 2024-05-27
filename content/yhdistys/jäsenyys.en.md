@@ -43,21 +43,11 @@ Linkki has three kinds of memberships:
 * 10% discount on all normal priced items in store
 
 ## Club Escape
-( before 1.6.2024 )
-* Beer on tap 0,3l 4€
-* Cider on tap 0,3l 4€
-* Long drink on tap 0,3l 4€
-* Linkki-drinkki 4€
-
 ( from 1.6.2024 )
-* Beer on tap 0,3l 3,90€
-* Cider on tap 0,3l 4,30€
-* Long drink on tap 0,3l 4,30€
-* Todays drink 4,90€
-* Blueberry shot 3,00€
-* Salmari shot 2,80€
-* Fisu shot 2,80€
-* Big soda 3,50€
+* Beer on tap 0,3l 4,20€
+* Cider on tap 0,3l 4,90€
+* Long drink on tap 0,3l 4,90€
+* Linkki drink 4,90€
 
 ## DeLorean
 * -2€ discount of list cocktails
@@ -87,3 +77,27 @@ Linkki has three kinds of memberships:
 * Sulami sandwich 7,5€
 * Fries 3€
 * Hot chocolate in winter season 2€
+
+## Laajis Summer Season
+(until 31.10.2024)
+### Adventure Park
+* Discount: Adventure Ticket -20% / maximum adventure time 3 hours
+  * Valid every day throughout the adventure season
+  * RESTRICTIONS: Does not apply to the Light Adventure or Quick Adventure
+  * Booking method: Online advance booking only (membership must be proven on-site)
+  * Discount code: **AJPuisto24!**
+
+### Bike Park Downhill Biking
+* Discount: Bike Park Package 50€ with Ghost full-suspension enduro bike / duration 2 hours
+  * Includes lift ticket, rental bike, and protective gear (does not include *keycard ticket base)
+  * Valid every day throughout the bike park season.
+  * Bike model upgrade 15€ (premium models include Commencal, Specialized, Production Privet).
+  * Booking method: Online advance booking only (membership must be proven on-site)
+  * **NOTE!** Contrary to the original instructions, we are currently unable to sell this package online as is. For now, the Bike Park trial package at this special price can be reserved in advance by phone at 0207 436 437 or by email at vuokraamo@laajis.fi
+
+### eFatbike Rental
+* Discount: eFatbike rental 40€ / 2 hours
+  * Includes bike and helmet
+  * Valid every day.
+  * Booking method: Online advance booking only (membership must be proven on-site)
+  * Discount code: **AJeFat23!**
