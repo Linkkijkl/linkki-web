@@ -59,12 +59,6 @@ Linkki has three kinds of memberships:
 * Multiticket, 5 sessions 35€ (incl. shoes)
 * Top Rope -course + 5 sessions 55€ (incl. shoes and harness)
 
-## Konehuone
-* Haircut 24€
-* Hairstyle change 32€
-* Buzzcut 14€
-* 20% discount of hair products
-
 ## Teerenpeli
 * Teerenpeli brewery products on tap -15%
 * Teerenpeli schnapps: Mustikka (Blueberry) or Puolukka (Lingonberry) 4cl 3€

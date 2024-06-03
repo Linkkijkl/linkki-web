@@ -87,12 +87,6 @@ säännöt sekä tavoitteet.
 
 Kaikki hinnat sisältävät kenkävuokran.
 
-## Konehuone
-* Hiustenleikkuu 24€
-* Mallinmuutos 32€
-* Koneleikkuu 14€
-* 20% alennusta hiustuotteista
-
 ## Teerenpeli
 
 * Teerenpelin panimon hanatuotteet -15%
