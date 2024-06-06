@@ -127,3 +127,18 @@ figcaption :first-child {
 #content {
     overflow: hidden;
 }
+
+#TableOfContents {
+    font-weight: 800;
+    margin-bottom: 2em;
+}
+
+#TableOfContents > ol {
+    list-style: decimal;
+    text-transform: uppercase;
+}
+
+#TableOfContents > ol ol {
+    list-style: disc;
+    text-transform: none;
+}

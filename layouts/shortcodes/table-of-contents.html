@@ -1,5 +1,7 @@
-<h2 class="heading" >{{ i18n "tableOfContents" }}</h2>
-{{ $toc := page.TableOfContents }}
+{{ $startLevel := .Get "start" | default 1 }}
+{{ $endLevel := .Get "end" | default 1 }}
+{{ $ordered := .Get "ordered" | default true }}
+{{ $toc := page.Fragments.ToHTML $startLevel $endLevel $ordered }}
 
-<!-- I hope no one tries to use "shy" as part of their headings or else this will break :-) -->
+<!-- If you're debugging missing "shy" from heading text, the next line is probably your culprit :) -->
 {{ strings.Replace $toc "shy" "" | safeHTML }}
