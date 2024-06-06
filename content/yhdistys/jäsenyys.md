@@ -1,8 +1,10 @@
 +++
 title = "Jäsenyys"
-description = "Linkin historia"
+description = "Ainejärjestön jäsenyys"
 keywords = ["jäsenyys", "aktiivi", "jäsen", "jäsenedut", "lomake"]
 +++
+
+{{< table-of-contents end=2 >}}
 
 Ainejärjestön jäsenyys tarkoittaa perinteisesti elämänmittaisia
 kaverisuhteita ja juuri opiskelijan näköistä

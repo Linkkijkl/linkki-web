@@ -4,6 +4,8 @@ description = "Membership"
 keywords = ["membership", "member", "benefits", "member benefits", "membership form"]
 +++
 
+{{< table-of-contents end=2 >}}
+
 Joining a student association usually leads to lifelong friendships and to student culture that looks like its members. As a member of **LINKKI** you get to take part in various events, excursions, and activities. As a member you get **BENEFITS**, such as discounts from our partners, get to wear our black-and-blue overalls, and are able to join the **VOLUNTEER** crew and the **BOARD OF DIRECTORS**.
 
 Linkki has three kinds of memberships:
