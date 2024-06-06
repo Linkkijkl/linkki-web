@@ -1,0 +1,5 @@
+<h2 class="heading" >{{ i18n "tableOfContents" }}</h2>
+{{ $toc := page.TableOfContents }}
+
+<!-- I hope no one tries to use "shy" as part of their headings or else this will break :-) -->
+{{ strings.Replace $toc "shy" "" | safeHTML }}

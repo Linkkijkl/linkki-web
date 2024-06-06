@@ -2,8 +2,9 @@
 title = "Säännöt ja ohjeet"
 description = "Säännöt ja ohjeet"
 keywords = ["säännöt", "ohjeet"]
-tableofcontents = true
 +++
+
+{{< table-of-contents >}}
 
 # Linkki Jyväskylä ry:n säännöt
 

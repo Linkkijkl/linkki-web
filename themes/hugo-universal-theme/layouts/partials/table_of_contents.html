@@ -1,7 +1,0 @@
-<div id="table-of-contents">
-    <h2>{{ i18n "tableOfContents" }}</h2>
-    {{ $toc := page.TableOfContents }}
-
-    <!-- I hope no-one tries to use "shy" as part of their title or else this will break :-) -->
-    {{ strings.Replace $toc "shy" "" | safeHTML }}
-</div>
