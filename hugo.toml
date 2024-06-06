@@ -403,3 +403,8 @@ home = ["html", "rss", "api-sponsors"]
 
 [languages.en.params.recent_posts]
     title = "Recent updates"
+
+
+[markup.tableOfContents]
+    endLevel = 1
+    startLevel = 1

@@ -41,6 +41,10 @@
                           </p>
                         {{ end }}
 
+                        {{ if .Params.tableofcontents }}
+                            {{ partial "table_of_contents.html" }}
+                        {{ end }}
+
                         <div id="post-content">
                           {{ .Content }}
                         </div>
