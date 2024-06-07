@@ -6,6 +6,8 @@ keywords = ["hallitus", "vanha"]
 categories = ["hallitukset"]
 +++
 
+{{< table-of-contents >}}
+
 # Hallitus 2016
 
 ## Puheenjohtaja

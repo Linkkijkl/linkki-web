@@ -4,7 +4,9 @@ description = "Säännöt ja ohjeet"
 keywords = ["säännöt", "ohjeet"]
 +++
 
-# LINKKI JYVÄSKYLÄ RY:N SÄÄNNÖT
+{{< table-of-contents >}}
+
+# Linkki Jyväskylä ry:n säännöt
 
 Alla olevat säännöt astuivat voimaan alkaen 4.10.2023.
 
