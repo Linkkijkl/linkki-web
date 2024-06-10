@@ -74,6 +74,12 @@ Linkki has three kinds of memberships:
 * Fries 3€
 * Hot chocolate in winter season 2€
 
+## Karaoke Bar Helmi
+* Happy Hour prices for whole night from Tuesday to Thursday, and from Friday to Saturday until 10 pm
+* Entrance and clockroom services for free
+* Linkki-drink 6 €
+* Right to book Helmi karaoke -cabinet during weekdays for 50 €
+
 ## Laajis Summer Season
 (until 31.10.2024)
 ### Adventure Park
