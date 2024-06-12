@@ -45,7 +45,6 @@ Linkki has three kinds of memberships:
 * 10% discount on all normal priced items in store
 
 ## Club Escape
-( from 1.6.2024 )
 * Beer on tap 0,3l 4,20€
 * Cider on tap 0,3l 4,90€
 * Long drink on tap 0,3l 4,90€
@@ -76,7 +75,7 @@ Linkki has three kinds of memberships:
 
 ## Karaoke Bar Helmi
 * Happy Hour prices for whole night from Tuesday to Thursday, and from Friday to Saturday until 10 pm
-* Entrance and clockroom services for free
+* Entrance and cloakroom services for free
 * Linkki-drink 6 €
 * Right to book Helmi karaoke -cabinet during weekdays for 50 €
 
