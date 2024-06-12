@@ -70,8 +70,6 @@ säännöt sekä tavoitteet.
 * 10% alennus normaalihintaisista myymälän tuotteista
 
 ## Club Escape
-
-( alkaen 1.6.2024 )
 * Hanaolut 0,3l 4,20 €
 * Hanasiideri 0,3l 4,90 €
 * Hanalonkero 0,3l 4.90 €
