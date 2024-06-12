@@ -103,6 +103,14 @@ Kaikki hinnat sisältävät kenkävuokran.
 * Ranskalaiset 3€
 * Talvikaudella kaakao 2€
 
+## Karaoke Bar Helmi
+
+* Happy hour -hinnaston mukaiset hinnat tiistaista torstaihin koko illan, ja
+perjantaista lauantaihin klo 22 asti
+* Sisäänpääsy sekä narikkapalvelu ilmaiseksi
+* Linkki-juoma 6 €
+* Helmen karaoke -kabinetti arkipäivisin 50 € hintaan
+
 ## Laajiksen kesäkausi
 
 ### Seikkailupuisto
