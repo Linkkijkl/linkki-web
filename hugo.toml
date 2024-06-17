@@ -233,12 +233,12 @@ home = ["html", "rss", "api-sponsors"]
     weight = 2
 
 
-#[[languages.en.menus.main]]
-#    name = "Exam Database"
-#    identifier = "menu.tenttiarkisto"
-#    url = "/en/toiminta/tenttiarkisto/"
-#    parent = "menu.toiminta"
-#    weight = 3
+[[languages.en.menus.main]]
+    name = "Exam Archive"
+    identifier = "menu.tenttiarkisto"
+    url = "/en/toiminta/tenttiarkisto/"
+    parent = "menu.toiminta"
+    weight = 3
 
 
 [[languages.en.menus.main]]
