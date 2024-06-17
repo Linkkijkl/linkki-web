@@ -1,20 +1,20 @@
 +++
-title = "Haalarimerkit"
+title = "Overall patches"
 description = ""
-keywords = ["haalarimerkit"]
+keywords = ["overall", "patch", "patches"]
 +++
 
-# Linkin myymät haalarimerkit
+# Overall patches sold by Linkki
 
-Hae omasi [Kattilasta](/toiminta/kattila)!
-Maksutapoina toimii Mobilepay ja korttimaksu. 1kpl 3€ ja 2kpl 5€
+Get your own from [Kattila](/toiminta/kattila)!
+Available payment methods are Mobilepay and card payment. 1 pcs 3€ and 2pcs 5€ .
 
 {{< row >}}
 {{< column width=4 >}}
 
 {{< img-thumb-cap "merkit/linkki.webp" "x200" >}}
 
-#### Linkin logo
+#### Linkki Logo
 {{< /img-thumb-cap >}}
 
 {{< /column>}}
@@ -48,7 +48,7 @@ Maksutapoina toimii Mobilepay ja korttimaksu. 1kpl 3€ ja 2kpl 5€
 
 {{< img-thumb-cap "merkit/viiden-nopan-kurssi.webp" "x200" >}}
 
-#### Viiden nopan kurssi
+#### 5 sp course
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
@@ -56,7 +56,7 @@ Maksutapoina toimii Mobilepay ja korttimaksu. 1kpl 3€ ja 2kpl 5€
 
 {{< img-thumb-cap "merkit/penetraatio.webp" "x200" >}}
 
-#### Penetraatiotestaaja
+#### Penetration tester
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
@@ -66,7 +66,7 @@ Maksutapoina toimii Mobilepay ja korttimaksu. 1kpl 3€ ja 2kpl 5€
 
 {{< img-thumb-cap "merkit/älä-paina.webp" "x200" >}}
 
-#### Älä paina tuntematonta linkkaria
+#### Don't push unknown linkee
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
@@ -82,7 +82,7 @@ Maksutapoina toimii Mobilepay ja korttimaksu. 1kpl 3€ ja 2kpl 5€
 
 {{< img-thumb-cap "merkit/vaaravyöhyke.webp" "x200" >}}
 
-#### Vaaravyöhyke
+#### Danger Zone
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
@@ -92,7 +92,7 @@ Maksutapoina toimii Mobilepay ja korttimaksu. 1kpl 3€ ja 2kpl 5€
 
 {{< img-thumb-cap "merkit/ei-voi-tulla-darra.webp" "x200" >}}
 
-#### Ei voi tulla darra
+#### Can't get hung over
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
@@ -100,7 +100,7 @@ Maksutapoina toimii Mobilepay ja korttimaksu. 1kpl 3€ ja 2kpl 5€
 
 {{< img-thumb-cap "merkit/lanit.webp" "x200" >}}
 
-#### Lanit
+#### Lan party
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
@@ -116,10 +116,10 @@ Maksutapoina toimii Mobilepay ja korttimaksu. 1kpl 3€ ja 2kpl 5€
 
 {{< /row >}}
 
-# Jämälaari
+# Patches of past events
 
-Kasa merkkejä alennettuun hintaan 0.50€ kpl. Valikoima vaihtelee ja se on
-esillä [Kattilan](/toiminta/kattila/) seinällä.
+A load of patches for discounted price of 0.5€ per patch. The selection
+changes and the current one is on display in [Kattila](/toiminta/kattila/).
 
 {{< img-thumb-cap "merkit/jämälaari.webp" "x600" >}}
 {{< /img-thumb-cap >}}

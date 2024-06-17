@@ -249,12 +249,12 @@ home = ["html", "rss", "api-sponsors"]
     weight = 4
 
 
-#[[languages.en.menus.main]]
-#    name = "Overalls Badges"
-#    identifier = "menu.haalarimerkit"
-#    url = "/en/toiminta/haalarimerkit/"
-#    parent = "menu.toiminta"
-#    weight = 5
+[[languages.en.menus.main]]
+    name = "Overall Patches"
+    identifier = "menu.haalarimerkit"
+    url = "/en/toiminta/haalarimerkit/"
+    parent = "menu.toiminta"
+    weight = 5
 
 
 [[languages.en.menus.main]]
