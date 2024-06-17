@@ -1,5 +1,5 @@
 +++
-title = "Rules and guides"
+title = "Rules and Guides"
 description = "Rules and guides"
 keywords = ["rules", "guides"]
 +++
@@ -11,7 +11,7 @@ a [link to google translate](https://linkkijkl-fi.translate.goog/yhdistys/s%C3%A
 and the best of hopes in understanding it.
 
 
-# Wesites information policy
+# Wesite Information Policy
 
 The web page of Linkki Jyväskylä ry ([linkkijkl.fi]()) does not collect any data from its usage.
 
