@@ -16,7 +16,7 @@ A **board of directors** is chosen for a year at a time in the organisation's au
 
 The main task of the administrative team is to ensure and work towards compliance with the legislation, such as the **Association Act**, in the activities of the association. The team ensures that meetings are organized according to the legal requirements and takes care of financial monitoring and budgeting. The team primarily operates in an administrative and coordinating role. Team members also participate in the activities of other teams when necessary.
 
-**Chairperson** acts as the head of the association. They organize meetings, communicate with the university, and liase with chairpersons of other student associations.
+**Chairperson** acts as the head of the association. They organize meetings, communicate with the faculty, and liase with chairpersons of other student associations.
 
 **Vice Chairperson** ensures that the Chairperson completes their tasks and assumes the Chairperson's duties if they're unable to fulfill them.
 
@@ -26,7 +26,7 @@ The main task of the administrative team is to ensure and work towards complianc
 
 **Board Mentor** or "Old Weasel" is a former board member whose task is to support the current board and convey useful traditional knowledge.
 
-**Communicator** maintains mialing lists and acts as a contact person alongside the Chairperson.
+**Communicator** maintains mailing lists and acts as a contact person alongside the Chairperson.
 
 
 ### Corporational and Collaborationbal Team
@@ -39,7 +39,7 @@ The task of the company and collaboration team is to nurture the association's p
 
 **TITOL Coordinator** is responsible for collaboration with TITOL.
 
-**Educational Policy Coordinator** is the voice between students and the faculty and acts as the advocate for students.
+**Educational Policy Coordinator** is the voice between students and the faculty and acts as an advocate for students.
 
 
 ### Events Team
@@ -75,7 +75,7 @@ The task of the wellbeing team is to take care of the welfare advocacy and socia
 
 ### Media Team
 
-The task of the media team is to inform the members through various association channels such as the website, social media channels, and email. The team maintains and develops the association's website and produces multimedia content for the needs of other association teams.
+The task of the media team is to inform the members through various association's channels such as the website, social media channels, and email. The team maintains and develops the association's website and produces multimedia content for the needs of other association teams.
 
 **Media Coordinator** acts as a link between the rest of the media team and the board and performs other roles' tasks as necessary.
 

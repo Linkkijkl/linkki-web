@@ -16,7 +16,7 @@ If intrested, please contact <pj@linkkijkl.fi>.
 
 ### 24 x Stairville LED Flood Panel 150 40° RGB
 
-![Valo](/toiminta/vuokraus/valo.jpg)
+![Light](/toiminta/vuokraus/valo.jpg)
 
 ### 1 x The t.amp PA-4080
 

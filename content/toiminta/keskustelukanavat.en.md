@@ -13,7 +13,7 @@ The chat is bridged between association's other message channels, so
 you can join from the platform you prefer. Our current channels are
 located in:
 
-- **Telegram**: @linkkijk**l
+- **Telegram**: @linkkijkl
 - **Matrix**: #linkkijkl:hacklab.fi
 - **IRC**: #linkki.jkl IRCnetissä
 - **Discord**: https://discord.com/invite/f9c6y97
