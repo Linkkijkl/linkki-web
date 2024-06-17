@@ -265,11 +265,11 @@ home = ["html", "rss", "api-sponsors"]
     weight = 6
 
 
-#[[languages.en.menus.main]]
-#    name = "Collaboration"
-#    identifier = "menu.yhteistyö"
-#    url = "/en/yhteistyö/"
-#    weight = 4
+[[languages.en.menus.main]]
+    name = "Collaboration"
+    identifier = "menu.yhteistyö"
+    url = "/en/yhteistyö/"
+    weight = 4
 
 
 #[[languages.en.menus.main]]

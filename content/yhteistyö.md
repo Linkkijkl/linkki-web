@@ -1,14 +1,14 @@
 +++
 title = "Yhteistyö"
 description = ""
-keywords = ["yritykset", "yhteistyö"]
+keywords = ["yritys", "yritykset", "yhteistyö"]
 +++
 
-Linkki Jyväskylä ry (puhekielessä Linkki) on Jyväskylän yliopiston
+**Linkki Jyväskylä ry** (puhekielessä Linkki) on Jyväskylän yliopiston
 tietotekniikan ja koulutusteknologian opiskelijoiden
 ainejärjestö. Järjestössä on yli 1000 jäsentä ja olemme yksi
-yliopiston nopeimmin kasvavista ainejärjestöistä. Yhteistyö Linkki
-Jyväskylä ry:n kanssa antaa yritykselle oivan väylän päästä
+yliopiston nopeimmin kasvavista ainejärjestöistä. Yhteistyö **Linkki
+Jyväskylä ry**:n kanssa antaa yritykselle oivan väylän päästä
 tutustumaan tulevaisuuden huippuosaajiin niin tietotekniikan kuin
 koulutusteknologian osa-alueilta.
 
@@ -43,7 +43,7 @@ taattu.
 
 ### Vuosijuhlatuki
 
-Perinteitä kunnioittaen Linkki Jyväskylä ry juhlii mennyttä vuotta
+Perinteitä kunnioittaen **Linkki Jyväskylä ry** juhlii mennyttä vuotta
 arvokkailla vuosijuhlilla. Osallistujina ovat kaikki fukseistamme
 alumneihin, yhteistyökumppaneihin sekä kutsuvieraisiin. Vuosijuhlien
 tukeminen on oiva tapa tulla tutuksi monille juhlijoille. Tarjoamme
@@ -54,7 +54,7 @@ tai tapahtuma@linkkijkl.fi
 
 ### Instanssituki
 
-Digitaalisen tekemisen Instanssi on Linkki Jyväskylä ry:n järjestämä
+Digitaalisen tekemisen Instanssi on **Linkki Jyväskylä ry**:n järjestämä
 vuotuinen demopartytapahtuma, joka on matalan kynnyksen tapahtuma
 kaikille IT-alasta ja ohjelmoinnista kiinnostuneille. Yritysten on
 mahdollista tukea tapahtumaa sekä tulla paikan päälle puhujaksi,
