@@ -241,12 +241,12 @@ home = ["html", "rss", "api-sponsors"]
 #    weight = 3
 
 
-#[[languages.en.menus.main]]
-#    name = "Equipment Rental"
-#    identifier = "menu.vuokraus"
-#    url = "/en/toiminta/vuokraus/"
-#    parent = "menu.toiminta"
-#    weight = 4
+[[languages.en.menus.main]]
+    name = "Equipment Rental"
+    identifier = "menu.vuokraus"
+    url = "/en/toiminta/vuokraus/"
+    parent = "menu.toiminta"
+    weight = 4
 
 
 #[[languages.en.menus.main]]
