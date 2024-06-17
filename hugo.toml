@@ -257,12 +257,12 @@ home = ["html", "rss", "api-sponsors"]
 #    weight = 5
 
 
-#[[languages.en.menus.main]]
-#    name = "Chats"
-#    identifier = "menu.keskustelukanavat"
-#    url = "/en/toiminta/keskustelukanavat/"
-#    parent = "menu.toiminta"
-#    weight = 6
+[[languages.en.menus.main]]
+    name = "Chats"
+    identifier = "menu.keskustelukanavat"
+    url = "/en/toiminta/keskustelukanavat/"
+    parent = "menu.toiminta"
+    weight = 6
 
 
 #[[languages.en.menus.main]]
