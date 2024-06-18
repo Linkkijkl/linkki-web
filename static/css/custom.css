@@ -8,6 +8,20 @@
     --pagination-bg: #b8cee6;
     --link-hover-bg: #36669c;
     --navbar-focus: #92b3d9;
+    
+    --pagefind-ui-scale: 0.8;
+    /* does not work for some reason
+    --pagefind-ui-primary: #034ad8;
+    */
+    --pagefind-ui-text: #393939;
+    --pagefind-ui-background: #ffffff;
+    --pagefind-ui-border: #aaaaaa;
+    --pagefind-ui-tag: #eeeeee;
+    --pagefind-ui-border-width: 2px;
+    --pagefind-ui-border-radius: 6px;
+    --pagefind-ui-image-border-radius: 8px;
+    --pagefind-ui-image-box-ratio: 3 / 2;
+    --pagefind-ui-font: sans-serif;
 }
 
 /* Bigger logo */
@@ -49,7 +63,7 @@
     width: 100%;
 }
 
-.home-content {
+.home-content #blog-post {
     text-align: center;
 }
 

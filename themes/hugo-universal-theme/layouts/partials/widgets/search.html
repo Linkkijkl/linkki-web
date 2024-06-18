@@ -1,14 +1,10 @@
 {{ if isset .Site.Params.widgets "search" }}
 {{ if .Site.Params.widgets.search }}
-<div class="panel panel-default sidebar-menu">
-    <div class="panel-body">
-        <div id="pagefind"></div>
-        <script>
-            window.addEventListener("DOMContentLoaded", (event) => {
-                new PagefindUI({ element: "#pagefind", showSubResults: true });
-            });
-        </script>
-    </div>
-</div>
+    <div id="pagefind"></div>
+    <script>
+        window.addEventListener("DOMContentLoaded", (event) => {
+            new PagefindUI({ element: "#pagefind", showSubResults: true });
+        });
+    </script>
 {{ end }}
 {{ end }}
