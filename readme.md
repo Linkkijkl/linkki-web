@@ -3,7 +3,7 @@
 Repository of [linkkijkl.fi](https://linkkijkl.fi).
 
 
-## Getting started
+## Getting Started
 
 First:
 
@@ -23,17 +23,15 @@ and [Devcontainers VSCode plugin](https://marketplace.visualstudio.com/items?ite
     - Install [Hugo extended edition](https://gohugo.io/)
     - Run `hugo server` and you should be good to go 🎉
     - Or optionally, on some supported Unix based environments _(currently MacOS, Debian and Fedora)_, you can just run `startup.sh`.
-
-3. Use [Github Codespaces](https://github.com/features/codespaces)
-    - This approach won't require you to have anything but a modern browser installed, not even this repository cloned. Please note that our association has a limited time of Codespace usage per month, so if you plan to do anything more complex than content updates, the former options are recommended over this one.
-    - You can open it from here:
-    
-    ![Image portraying where Codespaces are launched from](https://github.com/Linkkijkl/linkki-web/assets/5105063/7b554e18-81e4-4dd0-9f57-f5feaea2f2f4)
-
-    - Please remember to close your codespaces when you're done!
+    - Install [npm](https://nodejs.org) if you want to get search working
 
 
-## Building and running with [Docker](https://www.docker.com/)
+### Building Search Indexes
+
+To get search working locally, run `hugo` at least once, and then `npx pagefind --site public` in the projects root directory.
+
+
+## Building and Running With [Docker](https://www.docker.com/)
 
 This is how the site is deployed in production.
 
