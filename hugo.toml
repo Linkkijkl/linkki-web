@@ -233,43 +233,43 @@ home = ["html", "rss", "api-sponsors"]
     weight = 2
 
 
-#[[languages.en.menus.main]]
-#    name = "Exam Database"
-#    identifier = "menu.tenttiarkisto"
-#    url = "/en/toiminta/tenttiarkisto/"
-#    parent = "menu.toiminta"
-#    weight = 3
+[[languages.en.menus.main]]
+    name = "Exam Archive"
+    identifier = "menu.tenttiarkisto"
+    url = "/en/toiminta/tenttiarkisto/"
+    parent = "menu.toiminta"
+    weight = 3
 
 
-#[[languages.en.menus.main]]
-#    name = "Equipment Rental"
-#    identifier = "menu.vuokraus"
-#    url = "/en/toiminta/vuokraus/"
-#    parent = "menu.toiminta"
-#    weight = 4
+[[languages.en.menus.main]]
+    name = "Equipment Rental"
+    identifier = "menu.vuokraus"
+    url = "/en/toiminta/vuokraus/"
+    parent = "menu.toiminta"
+    weight = 4
 
 
-#[[languages.en.menus.main]]
-#    name = "Overalls Badges"
-#    identifier = "menu.haalarimerkit"
-#    url = "/en/toiminta/haalarimerkit/"
-#    parent = "menu.toiminta"
-#    weight = 5
+[[languages.en.menus.main]]
+    name = "Overall Patches"
+    identifier = "menu.haalarimerkit"
+    url = "/en/toiminta/haalarimerkit/"
+    parent = "menu.toiminta"
+    weight = 5
 
 
-#[[languages.en.menus.main]]
-#    name = "Chats"
-#    identifier = "menu.keskustelukanavat"
-#    url = "/en/toiminta/keskustelukanavat/"
-#    parent = "menu.toiminta"
-#    weight = 6
+[[languages.en.menus.main]]
+    name = "Chats"
+    identifier = "menu.keskustelukanavat"
+    url = "/en/toiminta/keskustelukanavat/"
+    parent = "menu.toiminta"
+    weight = 6
 
 
-#[[languages.en.menus.main]]
-#    name = "Collaboration"
-#    identifier = "menu.yhteistyö"
-#    url = "/en/yhteistyö/"
-#    weight = 4
+[[languages.en.menus.main]]
+    name = "Collaboration"
+    identifier = "menu.yhteistyö"
+    url = "/en/yhteistyö/"
+    weight = 4
 
 
 #[[languages.en.menus.main]]

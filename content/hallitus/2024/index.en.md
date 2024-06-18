@@ -68,14 +68,14 @@ summary = " "
 {{< /column >}}
 {{< /row >}}
 
-# Corporational and collaborational team
+# Corporational and Collaborational Team
 
 {{< row >}}
 {{< column >}}
 
 {{< img-thumb-cap "valtteri-hiltunen.png" "300x" >}}
 ## Valtteri Hiltunen
-#### Corporational and collaborational coordinator 
+#### Corporational and Collaborational Coordinator
 [**yritys@linkkijkl.fi**](mailto:yritys@linkkijkl.fi)
 
 [Telegram: **@luigipunk**](https://t.me/luigipunk)
@@ -86,7 +86,7 @@ summary = " "
 
 {{< img-thumb-cap "lassi-karjalainen.jpg" "300x" >}}
 ## Lassi Karjalainen
-#### TEK and Loimu coordinator
+#### TEK and Loimu Coordinator
 [**sihteeri@linkkijkl.fi**](mailto:sihteeri@linkkijkl.fi)
 
 [Telegram: **@LKKarjalainen**](https://t.me/LKKarjalainen)
@@ -99,7 +99,7 @@ summary = " "
 
 {{< img-thumb-cap >}}
 ## Juho Kallijärvi
-#### TITOL coordinator
+#### TITOL Coordinator
 [**juho.kallijarvi@linkkijkl.fi**](mailto:juho.kallijarvi@linkkijkl.fi)
 
 [Telegram: **@kjuho**](https://t.me/kjuho)
@@ -111,7 +111,7 @@ summary = " "
 
 {{< img-thumb-cap >}}
 ## Viljami Töhönen
-#### Corporational and collaborational team member
+#### Corporational and Collaborational Team Member
 
 {{< /img-thumb-cap >}}
 
@@ -119,7 +119,7 @@ summary = " "
 
 {{< /row >}}
 
-# Project team
+# Project Team
 
 {{< row >}}
 {{< column >}}
@@ -137,7 +137,7 @@ summary = " "
 
 {{< img-thumb-cap >}}
 ## Ossi Rantala ja Jami Virtanen
-#### Jyväsmetro coordinators
+#### Jyväsmetro Coordinators
 [**projektipaallikko@jyvasmetro.fi**](mailto:projektipaallikko@jyvasmetro.fi)
 
 Telegram: [**@Zualix**](https://t.me/Zualix) ja [**@lehtisolmu**](https://t.me/lehtisolmu)
@@ -178,7 +178,7 @@ Telegram: [**@Zualix**](https://t.me/Zualix) ja [**@lehtisolmu**](https://t.me/l
 
 {{< img-thumb-cap >}}
 ## Aleksi Sulasalmi
-#### Event team member
+#### Event Team Member
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
@@ -186,7 +186,7 @@ Telegram: [**@Zualix**](https://t.me/Zualix) ja [**@lehtisolmu**](https://t.me/l
 
 {{< img-thumb-cap >}}
 ## Jules Kuortti
-#### Event team member
+#### Event Team Member
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
@@ -197,7 +197,7 @@ Telegram: [**@Zualix**](https://t.me/Zualix) ja [**@lehtisolmu**](https://t.me/l
 
 {{< img-thumb-cap >}}
 ## Veeti Kataja
-#### Event team member
+#### Event Team Member
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
@@ -205,7 +205,7 @@ Telegram: [**@Zualix**](https://t.me/Zualix) ja [**@lehtisolmu**](https://t.me/l
 
 {{< img-thumb-cap >}}
 ## Jenna Tykkyläinen
-#### Event team member
+#### Event Team Member
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
@@ -215,7 +215,7 @@ Telegram: [**@Zualix**](https://t.me/Zualix) ja [**@lehtisolmu**](https://t.me/l
 
 {{< img-thumb-cap >}}
 ## Veikko Havula
-#### Event team member
+#### Event Team Member
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
@@ -223,7 +223,7 @@ Telegram: [**@Zualix**](https://t.me/Zualix) ja [**@lehtisolmu**](https://t.me/l
 
 {{< img-thumb-cap >}}
 ## Aina Seppänen
-#### Event team member
+#### Event Team Member
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
@@ -241,7 +241,7 @@ Telegram: [**@Zualix**](https://t.me/Zualix) ja [**@lehtisolmu**](https://t.me/l
 {{< /column >}}
 {{< /row >}}
 
-# Wellbeing team
+# Wellbeing Team
 
 {{< row >}}
 {{< column >}}

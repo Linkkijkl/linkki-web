@@ -7,7 +7,7 @@ keywords = ["laitteistovuokraus"]
 
 # Laitteistovuokraus
 
-Linkki Jyväskylä ry:ltä on mahdollisuus vuokrata erilaista
+**Linkki Jyväskylä ry**:ltä on mahdollisuus vuokrata erilaista
 laitteistoa.
 
 Laitteiston vuokraaja on velvollinen tarkistamaan laitteiston kunnon ennen vuokrausta ja vuokrauksen jälkeen.
@@ -16,11 +16,11 @@ Jos laitteistossa havaitaan vuokrauksen jälkeen puuteita, veloitetaan vuokraaja
 Jos haluat vuokrata laitteistoa, ota yhteyttä <pj@linkkijkl.fi>.
 
 
-24 x Stairville LED Flood Panel 150 40° RGB
+### 24 x Stairville LED Flood Panel 150 40° RGB
 
 ![Valo](valo.jpg)
 
-1 x The t.amp PA-4080
+### 1 x The t.amp PA-4080
 
 ![PA](pa.jpg)
 
