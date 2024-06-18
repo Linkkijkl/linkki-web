@@ -99,3 +99,6 @@
 {{ end }}
 <meta name="twitter:description" content="{{ $description_plain | truncate 200 }}">
 {{ with .Param "twitter_author" }}<meta name="twitter:creator" content="@{{ . }}">{{ end }}
+
+<!-- Pagefind search -->
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">

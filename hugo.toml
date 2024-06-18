@@ -9,6 +9,9 @@ paginate = 10
 # Don't pluralize title pages by default
 pluralizeListTitles = false
 
+# Enable search widget
+widgets.search = true
+
 staticDir = ["static"]
 
 # https://gohugo.io/content-management/multilingual/
@@ -38,6 +41,7 @@ home = ["html", "rss", "api-sponsors"]
         mediaType = "application/json"
         baseName = "api/sponsors"
         isPlainText = true
+
 
 [languages.fi.menus]
 
@@ -408,3 +412,10 @@ home = ["html", "rss", "api-sponsors"]
 [markup.tableOfContents]
     endLevel = 1
     startLevel = 1
+
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    categories = false
+    tags = false
+    search = true
