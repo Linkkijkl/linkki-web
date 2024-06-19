@@ -276,11 +276,11 @@ home = ["html", "rss", "api-sponsors"]
     weight = 4
 
 
-#[[languages.en.menus.main]]
-#    name = "A href"
-#    identifier = "menu.ahref"
-#    url = "/en/ahref/"
-#    weight = 5
+[[languages.en.menus.main]]
+    name = "A href"
+    identifier = "menu.ahref"
+    url = "/en/ahref/"
+    weight = 5
 
 
 [params]
