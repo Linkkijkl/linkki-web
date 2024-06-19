@@ -1,10 +1,8 @@
 +++
-title = "A href"
+title = "A href -lehti"
 description = "Linkki Jyväskylä ry:n jäsenlehti"
-keywords = ["aktiivi", "jäsen"]
+keywords = ["ahref", "href", "jäsenlehti"]
 +++
-
-# A href -lehti
 
 Linkki Jyväskylä ry julkaisee jäsenlehteä nimeltä A href. Julkaisussa
 kerrotaan Linkistä, yhdistyksen tavoitteista, tulevista ja menneistä
