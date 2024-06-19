@@ -15,6 +15,9 @@ This style sheet will be applied when user requests dark color theme
     --pagination-bg: #b8cee6;
     --link-hover-bg: #36669c;
     --navbar-focus: #1f3a58;
+
+    --pagefind-ui-text: var(--text-color);
+    --pagefind-ui-background: var(--background);
 }
 
 .navbar-default .navbar-nav>li>a:hover {
@@ -80,4 +83,8 @@ iframe {
 
 #shader, #heading-breadcrumbs {
     background-color: black;
+}
+
+.pagefind-ui mark {
+    background-color: #ffe600;
 }

@@ -21,8 +21,12 @@
         <div id="content" class="home-content">
           <div class="container">
               <div class="row">
-                  <div class="col-md-12" id="blog-post">
+                  <div class="col-md-9" id="blog-post">
                       {{ .Content }}
+                  </div>
+
+                  <div class="col-md-3">
+                      {{ partial "sidebar.html" . }}
                   </div>
               </div>
           </div>
