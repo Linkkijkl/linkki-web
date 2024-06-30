@@ -176,9 +176,7 @@ home = ["html", "rss", "api-sponsors"]
 [[languages.en.menus.main]]
     name = "Rules and guides"
     identifier = "menu.saannot"
-    # Just redirect to Finnish rules and guides for now
-    # Does the site require rules and guides translated to English?
-    url = "/yhdistys/säännöt/"
+    url = "/en/yhdistys/säännöt/"
     parent = "menu.yhdistys"
     weight = 1
 
