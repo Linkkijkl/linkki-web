@@ -2,6 +2,7 @@
 title = "Kattila"
 description = "subject association space"
 keywords = ["kattila", "subject association space"]
+url = "activities/kattila"
 +++
 
 {{< row >}}

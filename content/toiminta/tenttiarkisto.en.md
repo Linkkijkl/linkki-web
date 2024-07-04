@@ -2,10 +2,11 @@
 title = "Exam Archive"
 description = ""
 keywords = ["exam", "archive"]
+url = "activities/exam-archive"
 +++
 
 **Linkki Jyväskylä ry** maintains an exam archive of Mathematical Information
-Technology exams. It can be found physically from [Kattila](/toiminta/kattila) and
+Technology exams. It can be found physically from [Kattila](/en/activities/kattila) and
 scanned into a digital format in
 [this Drive share](https://drive.google.com/drive/folders/12xb5iER3Q23gaUnsyD_wJkzK056ijSs3).
 

@@ -2,12 +2,13 @@
 title = "Overall patches"
 description = ""
 keywords = ["overall", "patch", "patches"]
+url = "activities/overall-patches"
 +++
 
 # Overall patches sold by Linkki
 
 Get your own from [Kattila](/toiminta/kattila)!
-Available payment methods are Mobilepay and card payment. 1 pcs 3€ and 2pcs 5€ .
+Available payment methods are Mobilepay and card payment. 1pcs 3€ and 2pcs 5€ .
 
 {{< row >}}
 {{< column width=4 >}}
