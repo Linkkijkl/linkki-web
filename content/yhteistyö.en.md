@@ -2,6 +2,7 @@
 title = "Collaboration"
 description = ""
 keywords = ["company", "collaboration"]
+url = "collaboration"
 +++
 
 **Linkki Jyväskylä ry**, Linkki is a sizable student association for

@@ -2,6 +2,7 @@
 title = "Membership"
 description = "Membership"
 keywords = ["membership", "member", "benefits", "member benefits", "membership form"]
+url = "association/membership"
 +++
 
 {{< table-of-contents end=2 >}}

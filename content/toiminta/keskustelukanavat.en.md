@@ -1,7 +1,8 @@
 +++
-title = "Chats"
+title = "Chat"
 description = ""
 keywords = ["chat", "telegram", "irc", "matrix"]
+url = "activities/chat"
 +++
 
 

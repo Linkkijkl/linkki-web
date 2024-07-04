@@ -2,6 +2,7 @@
 title = "Rules and Guides"
 description = "Rules and guides"
 keywords = ["rules", "guides"]
+url = "association/rules"
 +++
 
 Unfortunately we don't have the resources to translate all our rules and guides
@@ -13,7 +14,7 @@ and the best of hopes in understanding it.
 
 # Wesite Information Policy
 
-The web page of Linkki Jyväskylä ry ([linkkijkl.fi]()) does not collect any data from its usage.
+The web page of Linkki Jyväskylä ry ([linkkijkl.fi]()) does not collect user data.
 
 
 # JYY’s Principles of a Safer Space
