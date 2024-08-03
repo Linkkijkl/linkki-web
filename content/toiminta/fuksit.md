@@ -8,6 +8,7 @@ Tervetuloa Jyväskylään opiskelemaan tietojenkäsittelytiedettä!
 Virallisen ohjeistuksen ja tämän sivun lisäksi kannattaa lukea
 matemaattis-luonnontieteellinen vaihtoehtoinen opinto-opas (VOpas),
 joka löytyy esimerkiksi [tästä](https://www.jyu.fi/fi/file/vopas2024).
+Esimerkiksi Linkin tutorien esittelyt löydät VOppaasta.
 
 "VOpas on ehkä merkittävin – joka tapauksessa menestyksekkäin kirja,
 jonka Jyväskylän Yliopiston matemaattis-luonnontieteellinen tiedekunta
