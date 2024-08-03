@@ -163,14 +163,14 @@ home = ["html", "rss", "api-sponsors"]
     name = "Yhteistyö"
     identifier = "menu.yhteistyö"
     url = "/yhteistyö/"
-    weight = 5
+    weight = 4
 
 
 [[languages.fi.menus.main]]
     name = "A href"
     identifier = "menu.ahref"
     url = "/ahref/"
-    weight = 6
+    weight = 5
 
 
 [languages.en.menus]
