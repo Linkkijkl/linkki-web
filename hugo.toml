@@ -152,17 +152,25 @@ home = ["html", "rss", "api-sponsors"]
 
 
 [[languages.fi.menus.main]]
+    name = "Uudelle opiskelijalle"
+    identifier = "menu.fuksit"
+    url = "/toiminta/fuksit/"
+    parent = "menu.toiminta"
+    weight = 8
+
+
+[[languages.fi.menus.main]]
     name = "Yhteistyö"
     identifier = "menu.yhteistyö"
     url = "/yhteistyö/"
-    weight = 4
+    weight = 5
 
 
 [[languages.fi.menus.main]]
     name = "A href"
     identifier = "menu.ahref"
     url = "/ahref/"
-    weight = 5
+    weight = 6
 
 
 [languages.en.menus]

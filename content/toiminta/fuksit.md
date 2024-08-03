@@ -1,24 +1,27 @@
 +++
-title = "Fuksit"
+title = "Uuden opiskelijan (fuksin) opas"
 description = ""
 keywords = ["fuksit"]
 +++
 
-# Uuden opiskelijan (fuksin) opas
-
 Tervetuloa Jyväskylään opiskelemaan tietojenkäsittelytiedettä!
+Virallisen ohjeistuksen ja tämän sivun lisäksi kannattaa lukea
+matemaattis-luonnontieteellinen vaihtoehtoinen opinto-opas (VOpas),
+joka löytyy esimerkiksi [tästä](https://www.jyu.fi/fi/file/vopas2024).
 
-Matemaattis-luonnontieteellinen vaihtoehtoinen opinto-opas (VOpas)
-löytyy esimerkiksi [tästä](https://www.jyu.fi/fi/file/vopas2024).
+"VOpas on ehkä merkittävin – joka tapauksessa menestyksekkäin kirja,
+jonka Jyväskylän Yliopiston matemaattis-luonnontieteellinen tiedekunta
+on koskaan julkaissut. Vaikka se sisältääkin epävarmuuksia,
+vanhanaikaisuuksia ja ehkä suoranaisia ristiriitoja, on se kuitenkin
+korvaamaton apu uuden fuksin hapuillessa elämänlankojaan
+korkeakouluelämän myllerryksessä."
 
 ## Lyhyt muistilista
 
 Muistakaa:
-- ottaa opiskelupaikka vastaan
-- ilmoittautua läsnäolevaksi
-- maksaa YTHS-maksu
-- hakea asuntoa
-- hakea tukia
+- ottaa opiskelupaikka vastaan ja ilmoittautua läsnäolevaksi Opintopolussa
+- maksaa YTHS-maksu ja hakea tukia OmaKelassa
+- hakea asuntoa esimerkiksi KOASilta tai Soihdulta
 - hankkia opiskelijakortti (Frank/Slice/Kide.app/Pivo/fyysinen)
 
 ## Opintojen alku
