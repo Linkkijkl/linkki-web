@@ -59,3 +59,9 @@ Take a look at open issues. From there you should find something to do.
 
 Try running `git submodule init && git submodule update` and make sure
 you have the extended edition of Hugo installed.
+
+### Do I benefit from contributing?
+
+Yes! If you make (a) useful contribution(s) to this repo, you may
+redeem a free Website Task Force overall patch from a board member in
+Kattila.
