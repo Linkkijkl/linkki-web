@@ -152,6 +152,14 @@ home = ["html", "rss", "api-sponsors"]
 
 
 [[languages.fi.menus.main]]
+    name = "Uudelle opiskelijalle"
+    identifier = "menu.fuksit"
+    url = "/toiminta/fuksit/"
+    parent = "menu.toiminta"
+    weight = 8
+
+
+[[languages.fi.menus.main]]
     name = "Yhteistyö"
     identifier = "menu.yhteistyö"
     url = "/yhteistyö/"
