@@ -66,6 +66,8 @@ säännöt sekä tavoitteet.
 
 # Jäsenedut
 
+Näyttämällä **LINKKI-JÄSENTARRAA** oston yhteydessä, saat käyttöösi seuraavat **JÄSENEDUT**. Jos sinulla ei ole **LINKKI-JÄSENTARRAA**, voit Linkin jäsenenä saada sellaisen **HALLITUSLAISELTA** tai digitaalisena Linkin [Kide.app-sivulta](https://kide.app/community/229fef27-0164-4835-a9da-f30d3aa08ff0/memberships).
+
 ## Antishop
 * 10% alennus normaalihintaisista myymälän tuotteista
 
@@ -97,7 +99,7 @@ Kaikki hinnat sisältävät kenkävuokran.
 * Kahvi tai tee 1€
 * Pieni limu 1€
 * Iso limu 2€
-* Sulami järrikerrosleipä 7,5€
+* Sulami jättikerrosleipä 7,5€
 * Ranskalaiset 3€
 * Talvikaudella kaakao 2€
 

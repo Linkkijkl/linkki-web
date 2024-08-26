@@ -42,6 +42,8 @@ Linkki has three kinds of memberships:
 
 # Membership benefits
 
+By showing the **LINKKI MEMBERSHIP STICKER** at purchase, you'll have access to the following **BENEFITS**. If you do not have a **LINKKI MEMBRESHIP STICKER**, you can acquire one from a **BOARD MEMBER** or digitally from Linkki's [Kide.app](https://kide.app/community/229fef27-0164-4835-a9da-f30d3aa08ff0/memberships) page.
+
 ## Antishop
 * 10% discount on all normal priced items in store
 
