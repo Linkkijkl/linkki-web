@@ -38,6 +38,7 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 
 {{< /column >}}
 {{< /row >}}
+
 {{< row >}}
 {{< column >}}
 
@@ -62,6 +63,7 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 
 {{< /column >}}
 {{< /row >}}
+
 {{< row >}}
 {{< column >}}
 
@@ -74,7 +76,9 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 {{< /column >}}
 {{< /row >}}
 
+
 # Yritys- ja yhteistyötiimi
+
 Yritys- ja yhteistyötiimin tehtävänä on vaalia yhdistyksen yhteistyökumppanuuksia, huolehtia että yhteistyökumppanuuksien sopimuksien molemmat osapuolet täyttävät yhteistyösopimuksien ehdot, sekä etsiä mahdollisia uusia kumppanuuksia.
 
 {{< row >}}
@@ -101,6 +105,7 @@ Yritys- ja yhteistyötiimin tehtävänä on vaalia yhdistyksen yhteistyökumppan
 
 {{< /column >}}
 {{< /row >}}
+
 {{< row>}}
 {{< column >}}
 
@@ -123,10 +128,11 @@ Yritys- ja yhteistyötiimin tehtävänä on vaalia yhdistyksen yhteistyökumppan
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
-
 {{< /row >}}
 
+
 # Projektitiimi
+
 Projektitiimi vastaa suurempien kokonaisuuksien ja tapahtumien, kuten esimerkiksi Jyväsmetron ja vuosijuhlien, suunnittelusta, koordinoimisesta sekä toteuttamisesta.
 
 {{< row >}}
@@ -156,6 +162,7 @@ Telegram: [**@Zualix**](https://t.me/Zualix) ja [**@lehtisolmu**](https://t.me/l
 
 
 # Tapahtumatiimi
+
 Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistyksen järjestämät kulttuuritilaisuudet, matkat, sekä muut tapahtumat. Tapahtumatiimin toiminta on kenties näkyvin osa yhdistyksen toimintaa.
 
 {{< row >}}
@@ -250,7 +257,9 @@ Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistykse
 {{< /column >}}
 {{< /row >}}
 
+
 # Hyvinvointitiimi
+
 Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnasta ja sosiaalipoliittisista kysymyksistä, kuten yhdenvertaisuudesta yhdistyksen toiminnassa. Tiimi tekee työtä ainejärjestön puolesta sen eteen, että jokaiselle on tarjolla turvallinen opiskeluympäristö, jossa jokaisella on oikeus opiskella kokematta häirintää, kiusaamista tai syrjintää.
 
 {{< row >}}
@@ -279,6 +288,7 @@ ja [**@taruksn**](https://t.me/taruksn)
 
 {{< /column >}}
 {{< /row >}}
+
 {{< row >}}
 {{< column >}}
 
@@ -294,7 +304,15 @@ ja [**@taruksn**](https://t.me/taruksn)
 {{< column >}}
 
 {{< img-thumb-cap >}}
-## Jaakko Siika-aho
+## Arttu Juntunen
+#### Fuksivastaava
+[**fuksivastaava@linkkijkl.fi**](mailto:fuksivastaava@linkkijkl.fi)
+
+[Telegram: **@JaxSuss**](https://t.me/JaxSuss)
+{{< /img-thumb-cap >}}
+
+{{< img-thumb-cap >}}
+## Arttu Juntunen
 #### Fuksivastaava
 [**fuksivastaava@linkkijkl.fi**](mailto:fuksivastaava@linkkijkl.fi)
 
@@ -303,6 +321,7 @@ ja [**@taruksn**](https://t.me/taruksn)
 
 {{< /column >}}
 {{< /row >}}
+
 {{< row >}}
 {{< column >}}
 
@@ -317,7 +336,9 @@ ja [**@taruksn**](https://t.me/taruksn)
 {{< /column >}}
 {{< /row >}}
 
+
 # Mediatiimi
+
 Mediatiimin tehtävänä on tiedottaa jäsenistöä yhdistyksen eri kanavissa kuten kotisivuilla, sosiaalisen median kanavissa, sekä sähköpostilla. Tiimi ylläpitää ja kehittää yhdistyksen verkkosivuja sekä tuottaa multimediaa yhdistyksen muiden tiimien tarpeisiin.
 
 {{< row >}}

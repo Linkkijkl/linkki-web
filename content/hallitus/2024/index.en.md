@@ -7,6 +7,7 @@ summary = " "
 url = "board/2024"
 +++
 
+
 # Administrative team
 
 {{< row >}}
@@ -33,6 +34,7 @@ url = "board/2024"
 
 {{< /column >}}
 {{< /row >}}
+
 {{< row >}}
 {{< column >}}
 
@@ -57,6 +59,7 @@ url = "board/2024"
 
 {{< /column >}}
 {{< /row >}}
+
 {{< row >}}
 {{< column >}}
 
@@ -68,6 +71,7 @@ url = "board/2024"
 
 {{< /column >}}
 {{< /row >}}
+
 
 # Corporational and Collaborational Team
 
@@ -95,6 +99,7 @@ url = "board/2024"
 
 {{< /column >}}
 {{< /row >}}
+
 {{< row>}}
 {{< column >}}
 
@@ -117,8 +122,8 @@ url = "board/2024"
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
-
 {{< /row >}}
+
 
 # Project Team
 
@@ -174,6 +179,7 @@ Telegram: [**@Zualix**](https://t.me/Zualix) ja [**@lehtisolmu**](https://t.me/l
 
 {{< /column >}}
 {{< /row >}}
+
 {{< row >}}
 {{< column >}}
 
@@ -211,6 +217,7 @@ Telegram: [**@Zualix**](https://t.me/Zualix) ja [**@lehtisolmu**](https://t.me/l
 
 {{< /column >}}
 {{< /row >}}
+
 {{< row >}}
 {{< column >}}
 
@@ -242,6 +249,7 @@ Telegram: [**@Zualix**](https://t.me/Zualix) ja [**@lehtisolmu**](https://t.me/l
 {{< /column >}}
 {{< /row >}}
 
+
 # Wellbeing Team
 
 {{< row >}}
@@ -270,6 +278,7 @@ ja [**@taruksn**](https://t.me/taruksn)
 
 {{< /column >}}
 {{< /row >}}
+
 {{< row >}}
 {{< column >}}
 
@@ -294,6 +303,7 @@ ja [**@taruksn**](https://t.me/taruksn)
 
 {{< /column >}}
 {{< /row >}}
+
 {{< row >}}
 {{< column >}}
 
@@ -307,6 +317,7 @@ ja [**@taruksn**](https://t.me/taruksn)
 
 {{< /column >}}
 {{< /row >}}
+
 
 # Media team
 
