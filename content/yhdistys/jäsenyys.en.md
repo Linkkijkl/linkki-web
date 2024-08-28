@@ -65,16 +65,17 @@ By showing the **LINKKI MEMBERSHIP STICKER** at purchase, you'll have access to 
 
 ## Teerenpeli
 * Teerenpeli brewery products on tap -15%
-* Teerenpeli schnapps: Mustikka (Blueberry) or Puolukka (Lingonberry) 4cl 3€
-* Drinks: MustikkaMuuli or Pulina 5€
-* Wine: red or white 12cl 4€
-* Bottle of wine 23€
+* Teerenpeli schnapps: Mustikka (Blueberry), Puolukka (Lingonberry) or
+  Salmari (salty licorice) 4cl 3,5€
+* Drinks: MustikkaMuuli or Pulina 6€
+* Wine: red or white 12cl 4,5€
+* Bottle of wine 24€
 * Coffee or tea 1€
-* Small soda 1€
-* Big soda 2€
-* Sulami sandwich 7,5€
-* Fries 3€
-* Hot chocolate in winter season 2€
+* Hot chocolate 2€
+* Small soda 1,5€
+* Big soda 2,5€
+* Sulami sandwich 8€
+* Fries 3,5€
 
 ## Karaoke Bar Helmi
 * Happy Hour prices for whole night from Tuesday to Thursday, and from Friday to Saturday until 10 pm
