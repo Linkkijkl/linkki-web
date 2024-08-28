@@ -150,11 +150,25 @@ Projektitiimi vastaa suurempien kokonaisuuksien ja tapahtumien, kuten esimerkiks
 {{< column >}}
 
 {{< img-thumb-cap >}}
-## Ossi Rantala ja Jami Virtanen
-#### Jyväsmetrovastaavat
+## Jami Virtanen
+#### Jyväsmetrovastaava
 [**projektipaallikko@jyvasmetro.fi**](mailto:projektipaallikko@jyvasmetro.fi)
 
-Telegram: [**@Zualix**](https://t.me/Zualix) ja [**@lehtisolmu**](https://t.me/lehtisolmu)
+[Telegram: **@lehtisolmu**](https://t.me/lehtisolmu)
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< /row >}}
+
+{{< row >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Ossi Rantala
+#### Jyväsmetrovastaava
+[**projektipaallikko@jyvasmetro.fi**](mailto:projektipaallikko@jyvasmetro.fi)
+
+[Telegram: **@Zualix**](https://t.me/Zualix)
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
@@ -189,6 +203,7 @@ Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistykse
 
 {{< /column >}}
 {{< /row >}}
+
 {{< row >}}
 {{< column >}}
 
@@ -226,6 +241,7 @@ Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistykse
 
 {{< /column >}}
 {{< /row >}}
+
 {{< row >}}
 {{< column >}}
 
@@ -278,12 +294,36 @@ Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnast
 {{< column >}}
 
 {{< img-thumb-cap >}}
-## Aino Sipola & Taru Nikkanen
-#### Kansainvälisyysvastaavat
+## Aino Sipola
+#### Kansainvälisyysvastaava
 [**kv@linkkijkl.fi**](mailto:kv@linkkijkl.fi)
 
 Telegram: [**@Aino_Sipola**](https://t.me/Aino_Sipola)
-ja [**@taruksn**](https://t.me/taruksn)
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< /row >}}
+
+{{< row >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Arttu Juntunen
+#### Fuksivastaava
+[**fuksivastaava@linkkijkl.fi**](mailto:fuksivastaava@linkkijkl.fi)
+
+[Telegram: **@Djuntunen**](https://t.me/Djuntunen)
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Taru Nikkanen
+#### Fuksivastaava & Kansainvälisyysvastaava
+[**fuksivastaava@linkkijkl.fi**](mailto:fuksivastaava@linkkijkl.fi)
+& [**kv@linkkijkl.fi**](mailto:kv@linkkijkl.fi)
+[Telegram: **@taruksn**](https://t.me/taruksn)
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
@@ -301,28 +341,6 @@ ja [**@taruksn**](https://t.me/taruksn)
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
-{{< column >}}
-
-{{< img-thumb-cap >}}
-## Arttu Juntunen
-#### Fuksivastaava
-[**fuksivastaava@linkkijkl.fi**](mailto:fuksivastaava@linkkijkl.fi)
-
-[Telegram: **@JaxSuss**](https://t.me/JaxSuss)
-{{< /img-thumb-cap >}}
-
-{{< img-thumb-cap >}}
-## Arttu Juntunen
-#### Fuksivastaava
-[**fuksivastaava@linkkijkl.fi**](mailto:fuksivastaava@linkkijkl.fi)
-
-[Telegram: **@JaxSuss**](https://t.me/JaxSuss)
-{{< /img-thumb-cap >}}
-
-{{< /column >}}
-{{< /row >}}
-
-{{< row >}}
 {{< column >}}
 
 {{< img-thumb-cap >}}
