@@ -80,6 +80,13 @@ home = ["html", "rss", "api-sponsors"]
     parent = "menu.yhdistys"
     weight = 4
 
+[[languages.fi.menus.main]]
+    name = "Kunniamaininnat"
+    identifier = "menu.kunniamaininnat"
+    url = "/yhdistys/kunniamaininnat/"
+    parent = "menu.yhdistys"
+    weight = 5
+
 
 [[languages.fi.menus.main]]
     name = "Pöytäkirjat"
@@ -211,6 +218,14 @@ home = ["html", "rss", "api-sponsors"]
     url = "/en/association/membership/"
     parent = "menu.yhdistys"
     weight = 4
+
+
+[[languages.en.menus.main]]
+    name = "Honorary mentions"
+    identifier = "menu.kunniamaininnat"
+    url = "/en/association/honorarymentions/"
+    parent = "menu.yhdistys"
+    weight = 5
 
 
 [[languages.en.menus.main]]
