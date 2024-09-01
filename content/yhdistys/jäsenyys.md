@@ -91,17 +91,17 @@ Kaikki hinnat sisältävät kenkävuokran.
 
 ## Teerenpeli
 
-* Teerenpelin panimon hanatuotteet -15%
-* Teerenpelin Mustikka tai Puolukka-snapsi 4cl 3€
-* Drinkit MustikkaMuuli tai Pulina 5€
-* Viini punainen tai valkoinen 12cl 4€
-* Koko pullo viiniä 23€
+* Teerenpelin Panimon hanatuotteet -15%
+* Teerenpelin Mustikka-, Puolukka- tai Salmari-snapsi 4cl 3,5€
+* Drinkit MustikkaMuuli tai Pulina 6€
+* Viini punainen tai valkoinen 12cl 4,5€
+* Koko pullo viiniä 24€
 * Kahvi tai tee 1€
-* Pieni limu 1€
-* Iso limu 2€
-* Sulami jättikerrosleipä 7,5€
-* Ranskalaiset 3€
-* Talvikaudella kaakao 2€
+* Kaakao 2€
+* Pieni limu 1,5€
+* Iso limu 2,5€
+* Sulami jättikerrosleipä 8€
+* Ranskalaiset 3,5€
 
 ## Karaoke Bar Helmi
 
