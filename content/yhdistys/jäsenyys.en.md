@@ -112,6 +112,6 @@ Valid Mon-Thu, not on weekends or during holiday periods, by showing a valid stu
 * Aura 0.4 tap 6.90 €
 * Happy Joe cider 0.3 L tap 6.90 €
 * Soda 0.5 tap 4.00 €
-* Student wine bottle 0.75 L Red/White 18.90 €
+* Student wine bottle 0.75 Red/White 18.90 €
 * 8, 12, 18 piece wing portions -10%
 * Combo which includes 10 wings and curly fries, choice of wing sauce, and blue cheese dip (also available as vegetarian) 16.90 €
