@@ -134,3 +134,12 @@ perjantaista lauantaihin klo 22 asti
   * Voimassa kaikkina päivinä.
   * Varaustapa: Vain ennakkovaraus netin kautta (jäsenyys todistettava vielä paikan päällä)
   * Alekoodi: **AJeFat23!**
+
+## Hook Jyväskylä
+Voimassa Ma-To, ei viikonloppuna eikä loma-aikoina, voimassa olevaa opiskelijakorttia näyttämällä:
+* Aura 0,4l hanasta 6,90 €
+* Happy Joe sidu 0,3l hanasta 6,90 €
+* Limu 0,5l hanasta 4,00 €
+* Opiskelija viini Plo 0,75l Punainen/ valkoinen 18,90 €
+* 8, 12, 18 kpl siipiannokset -10 %
+* Combo sis. 10 kpl siipeä ja kierteet, vapaavalintainen siipikastike sekä auradippi (myös vege) 16,90 €
