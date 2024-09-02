@@ -137,9 +137,9 @@ perjantaista lauantaihin klo 22 asti
 
 ## Hook Jyväskylä
 Voimassa Ma-To, ei viikonloppuna eikä loma-aikoina, voimassa olevaa opiskelijakorttia näyttämällä:
-* Aura 0,4 hanasta 6,90 €
-* Happy Joe sidu 0,3 hanasta 6,90 €
-* Limu 0,5 hanasta 4,00 €
-* Opiskelija viini Plo 0,75 Punainen/ valkoinen 18,90 €
+* Aura 0,4l hanasta 6,90 €
+* Happy Joe sidu 0,3l hanasta 6,90 €
+* Limu 0,5l hanasta 4,00 €
+* Opiskelija viini Plo 0,75l Punainen/ valkoinen 18,90 €
 * 8, 12, 18 kpl siipiannokset -10 %
 * Combo sis. 10 kpl siipeä ja kierteet, vapaavalintainen siipikastike sekä auradippi (myös vege) 16,90 €
