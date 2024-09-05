@@ -53,7 +53,7 @@ home = ["html", "rss", "api-sponsors"]
 [[languages.fi.menus.main]]
     name = "Säännöt ja ohjeet"
     identifier = "menu.saannot"
-    url = "/yhdistys/säännöt/"
+    url = "/säännöt/"
     parent = "menu.yhdistys"
     weight = 1
 
@@ -68,7 +68,7 @@ home = ["html", "rss", "api-sponsors"]
 [[languages.fi.menus.main]]
     name = "Järjestön historia"
     identifier = "menu.historia"
-    url = "/yhdistys/historia/"
+    url = "/historia/"
     parent = "menu.yhdistys"
     weight = 3
 
@@ -76,14 +76,14 @@ home = ["html", "rss", "api-sponsors"]
 [[languages.fi.menus.main]]
     name = "Jäsenyys"
     identifier = "menu.jäsenyys"
-    url = "/yhdistys/jäsenyys/"
+    url = "/jäsenyys/"
     parent = "menu.yhdistys"
     weight = 4
 
 [[languages.fi.menus.main]]
     name = "Kunniamaininnat"
     identifier = "menu.kunniamaininnat"
-    url = "/yhdistys/kunniamaininnat/"
+    url = "/kunniamaininnat/"
     parent = "menu.yhdistys"
     weight = 5
 
@@ -91,7 +91,7 @@ home = ["html", "rss", "api-sponsors"]
 [[languages.fi.menus.main]]
     name = "Pöytäkirjat"
     identifier = "menu.pöytäkirjat"
-    url = "/yhdistys/pöytäkirjat/"
+    url = "/pöytäkirjat/"
     parent = "menu.yhdistys"
     weight = 7
 
@@ -105,7 +105,7 @@ home = ["html", "rss", "api-sponsors"]
 [[languages.fi.menus.main]]
     name = "Tapahtumat"
     identifier = "menu.tapahtumat"
-    url = "/toiminta/tapahtumat/"
+    url = "/tapahtumat/"
     parent = "menu.toiminta"
     weight = 1
 
@@ -113,7 +113,7 @@ home = ["html", "rss", "api-sponsors"]
 [[languages.fi.menus.main]]
     name = "Kattila"
     identifier = "menu.kattila"
-    url = "/toiminta/kattila/"
+    url = "/kattila/"
     parent = "menu.toiminta"
     weight = 2
 
@@ -121,7 +121,7 @@ home = ["html", "rss", "api-sponsors"]
 [[languages.fi.menus.main]]
     name = "Tenttiarkisto"
     identifier = "menu.tenttiarkisto"
-    url = "/toiminta/tenttiarkisto/"
+    url = "/tenttiarkisto/"
     parent = "menu.toiminta"
     weight = 3
 
@@ -129,7 +129,7 @@ home = ["html", "rss", "api-sponsors"]
 [[languages.fi.menus.main]]
     name = "Laitteistovuokraus"
     identifier = "menu.vuokraus"
-    url = "/toiminta/vuokraus/"
+    url = "/laitteistovuokraus/"
     parent = "menu.toiminta"
     weight = 4
 
@@ -137,7 +137,7 @@ home = ["html", "rss", "api-sponsors"]
 [[languages.fi.menus.main]]
     name = "Haalarimerkit"
     identifier = "menu.haalarimerkit"
-    url = "/toiminta/haalarimerkit/"
+    url = "/haalarimerkit/"
     parent = "menu.toiminta"
     weight = 5
 
@@ -145,7 +145,7 @@ home = ["html", "rss", "api-sponsors"]
 [[languages.fi.menus.main]]
     name = "Keskustelukanavat"
     identifier = "menu.keskustelukanavat"
-    url = "/toiminta/keskustelukanavat/"
+    url = "/keskustelukanavat/"
     parent = "menu.toiminta"
     weight = 6
 
@@ -153,7 +153,7 @@ home = ["html", "rss", "api-sponsors"]
 [[languages.fi.menus.main]]
     name = "Lukupiiri"
     identifier = "menu.lukupiiri"
-    url = "/toiminta/lukupiiri/"
+    url = "/lukupiiri/"
     parent = "menu.toiminta"
     weight = 7
 
@@ -161,7 +161,7 @@ home = ["html", "rss", "api-sponsors"]
 [[languages.fi.menus.main]]
     name = "Uudelle opiskelijalle"
     identifier = "menu.fuksit"
-    url = "/toiminta/fuksit/"
+    url = "/fuksit/"
     parent = "menu.toiminta"
     weight = 8
 
@@ -191,7 +191,7 @@ home = ["html", "rss", "api-sponsors"]
 [[languages.en.menus.main]]
     name = "Rules and guides"
     identifier = "menu.saannot"
-    url = "/en/association/rules/"
+    url = "/en/rules/"
     parent = "menu.yhdistys"
     weight = 1
 
@@ -215,7 +215,7 @@ home = ["html", "rss", "api-sponsors"]
 [[languages.en.menus.main]]
     name = "Membership"
     identifier = "menu.jäsenyys"
-    url = "/en/association/membership/"
+    url = "/en/membership/"
     parent = "menu.yhdistys"
     weight = 4
 
@@ -223,7 +223,7 @@ home = ["html", "rss", "api-sponsors"]
 [[languages.en.menus.main]]
     name = "Honorary mentions"
     identifier = "menu.kunniamaininnat"
-    url = "/en/association/honorarymentions/"
+    url = "/en/honorary-mentions/"
     parent = "menu.yhdistys"
     weight = 5
 
@@ -231,7 +231,7 @@ home = ["html", "rss", "api-sponsors"]
 [[languages.en.menus.main]]
     name = "Board Minutes"
     identifier = "menu.pöytäkirjat"
-    url = "/en/association/minutes/"
+    url = "/en/minutes/"
     parent = "menu.yhdistys"
     weight = 7
 
@@ -245,7 +245,7 @@ home = ["html", "rss", "api-sponsors"]
 [[languages.en.menus.main]]
     name = "Events"
     identifier = "menu.tapahtumat"
-    url = "/en/activities/events/"
+    url = "/en/events/"
     parent = "menu.toiminta"
     weight = 1
 
@@ -253,7 +253,7 @@ home = ["html", "rss", "api-sponsors"]
 [[languages.en.menus.main]]
     name = "Kattila"
     identifier = "menu.kattila"
-    url = "/en/activities/kattila/"
+    url = "/en/kattila/"
     parent = "menu.toiminta"
     weight = 2
 
@@ -261,7 +261,7 @@ home = ["html", "rss", "api-sponsors"]
 [[languages.en.menus.main]]
     name = "Exam Archive"
     identifier = "menu.tenttiarkisto"
-    url = "/en/activities/exam-archive/"
+    url = "/en/exam-archive/"
     parent = "menu.toiminta"
     weight = 3
 
@@ -269,7 +269,7 @@ home = ["html", "rss", "api-sponsors"]
 [[languages.en.menus.main]]
     name = "Equipment Rental"
     identifier = "menu.vuokraus"
-    url = "/en/activities/equipment-rental/"
+    url = "/en/equipment-rental/"
     parent = "menu.toiminta"
     weight = 4
 
@@ -277,7 +277,7 @@ home = ["html", "rss", "api-sponsors"]
 [[languages.en.menus.main]]
     name = "Overall Patches"
     identifier = "menu.haalarimerkit"
-    url = "/en/activities/overall-patches/"
+    url = "/en/overall-patches/"
     parent = "menu.toiminta"
     weight = 5
 
@@ -285,7 +285,7 @@ home = ["html", "rss", "api-sponsors"]
 [[languages.en.menus.main]]
     name = "Chat"
     identifier = "menu.keskustelukanavat"
-    url = "/en/activities/chat/"
+    url = "/en/chat/"
     parent = "menu.toiminta"
     weight = 6
 
@@ -341,7 +341,7 @@ home = ["html", "rss", "api-sponsors"]
 
 [languages.fi.params]
     about_us = """
-            <a class="text-uppercase" href="/yhdistys/säännöt/#jäsenrekisteriseloste">
+            <a class="text-uppercase" href="/säännöt/#jäsenrekisteriseloste">
                 <strong>Tietosuojaseloste</strong>
             </a>
             <br/>
@@ -353,11 +353,11 @@ home = ["html", "rss", "api-sponsors"]
 
 [languages.en.params]
     about_us = """
-            <a class="text-uppercase" href="/en/association/rules">
+            <a class="text-uppercase" href="/en/rules">
                 <strong>Privacy policy</strong>
             </a>
             <br/>
-            <a class="text-uppercase" href="/en/association/rules">
+            <a class="text-uppercase" href="/en/rules">
                 <strong>Rules</strong>
             </a>
     """
