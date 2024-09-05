@@ -5,6 +5,7 @@ tags = ["a href", "magazine"]
 authors = ["Milla Koivuniemi", "Leo Toiminen", "Tinja Vaskelainen", "Artturi Lobski", "Leevi Leppälä", "Otto Jahnukainen", "Juho Siitari"]
 summary = " "
 banner = "/img/a-href/a-href-172.webp"
+url = "ahref/172"
 +++
 
-{{< embed-pdf url="./a-href-172.pdf" >}}
+{{< embed-pdf url="/ahref/172/a-href-172.pdf" >}}

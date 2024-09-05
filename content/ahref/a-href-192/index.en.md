@@ -5,6 +5,7 @@ tags = ["a href", "magazine"]
 authors = ["Jyrki Kokkola", "Otto Jahnukainen", "Juuso Koistinen", "Emilia Varonen"]
 summary = " "
 banner = "/img/a-href/a-href-192.webp"
+url = "ahref/192"
 +++
 
-{{< embed-pdf url="./a-href-192.pdf" >}}
+{{< embed-pdf url="/ahref/192/a-href-192.pdf" >}}

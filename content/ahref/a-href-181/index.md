@@ -5,6 +5,7 @@ tags = ["a href", "jäsenlehti"]
 authors = ["Nuutti Rantanen", "Juuso Koistinen", "Santeri Saarinen", "Otto Jahnukainen", "Santeri Saarinen", "Minna Kangaspuoskari"]
 summary = " "
 banner = "/img/a-href/a-href-181.webp"
+url = "ahref/181"
 +++
 
 {{< embed-pdf url="./a-href-181.pdf" >}}

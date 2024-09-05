@@ -5,6 +5,7 @@ tags = ["a href", "magazine"]
 authors = ["Juuso Koistinen", "Otto Jahnukainen", "Ville Isomöttönen", "Antti-Juhani Kaijanaho", "Antti-Jussi Lakanen", "Timo Männikkö", "Anneli Heimbürger", "Emilia Varonen", "Jyrki Kokkonen", "Leo Toiminen", "Jyrki Kokkonen"]
 summary = " "
 banner = "/img/a-href/a-href-183.webp"
+url = "ahref/183"
 +++
 
-{{< embed-pdf url="./a-href-183.pdf" >}}
+{{< embed-pdf url="/ahref/183/a-href-183.pdf" >}}

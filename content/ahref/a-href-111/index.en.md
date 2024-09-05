@@ -5,6 +5,7 @@ tags = ["a href", "magazine"]
 authors = ["Eetu Rantakangas", "Sauli Korhonen", "Ville Salonen", "Ilari Jalli", "Antti-Jussi Lakanen", "Jari Kuskelin", "Ville Lappalainen", "Jarkko Mäensivu", "Mikko Väänänen", "Mika Kivi", "Emma Lindfors", "Lauri Marttala", "Jaakko Junttila", "Miika Kalske", "Santtu Viitanen", "Simo Haatanen", "Mikko Punkari", "Kati Kukkonen", "Mikko Viitamäki", "Riku Rissanen", "Anna Linnakylä", "Tuomo Sipola"]
 summary = " "
 banner = "/img/a-href/a-href-111.webp"
+url = "ahref/111"
 +++
 
-{{< embed-pdf url="./a-href-111.pdf" >}}
+{{< embed-pdf url="/ahref/111/a-href-111.pdf" >}}

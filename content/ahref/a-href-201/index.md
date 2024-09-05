@@ -5,6 +5,7 @@ tags = ["a href", "jäsenlehti"]
 authors = ["Emilia Varonen", "Niko Sihvo", "Tuuli Veini", "Riina Kokkonen", 'Jari "Hape" Haapasaari', "Maisa Valkeinen", "Henrik Korhonen", 'Niko "Brandon" Sihvo', "Otto Virtanen", "Lauri Määttä", 'Ella "Lellu" Ilen', "Juuso Koistinen", "Emilia Varonen", "Jyrki Kokkola"]
 summary = " "
 banner = "/img/a-href/a-href-201.webp"
+url = "ahref/201"
 +++
 
 {{< embed-pdf url="./a-href-201.pdf" >}}
