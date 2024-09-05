@@ -175,8 +175,8 @@ home = ["html", "rss", "api-sponsors"]
 
 [[languages.fi.menus.main]]
     name = "A href"
-    identifier = "menu.ahref"
-    url = "/ahref/"
+    identifier = "menu.a-href"
+    url = "/a-href/"
     weight = 5
 
 
@@ -299,15 +299,15 @@ home = ["html", "rss", "api-sponsors"]
 
 [[languages.en.menus.main]]
     name = "A href"
-    identifier = "menu.ahref"
-    url = "/en/ahref/"
+    identifier = "menu.a-href"
+    url = "/en/a-href/"
     weight = 5
 
 
 [params]
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "blue"
-    mainSections = ["ahref", "hallitus"]
+    mainSections = ["a-href", "hallitus"]
     
     defaultKeywords = ["linkkijkl", "linkki", "jyväskylä"]
 
