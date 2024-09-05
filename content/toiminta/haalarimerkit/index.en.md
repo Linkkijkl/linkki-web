@@ -2,7 +2,7 @@
 title = "Overall patches"
 description = ""
 keywords = ["overall", "patch", "patches"]
-url = "activities/overall-patches"
+url = "overall-patches"
 +++
 
 # Overall patches sold by Linkki

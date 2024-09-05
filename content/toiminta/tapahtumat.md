@@ -2,6 +2,7 @@
 title = "Tapahtumat"
 description = ""
 keywords = ["tapahtumat", "kalenteri", "jyväsmetro", "metro", "instanssi", "kässäkerho"]
+url = "tapahtumat"
 +++
 
 # Jyväsmetro

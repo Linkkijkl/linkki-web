@@ -2,6 +2,7 @@
 title = "Haalarimerkit"
 description = ""
 keywords = ["haalarimerkit"]
+url = "haalarimerkit"
 +++
 
 # Linkin myymät haalarimerkit

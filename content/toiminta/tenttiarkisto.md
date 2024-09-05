@@ -2,6 +2,7 @@
 title = "Tenttiarkisto"
 description = ""
 keywords = ["tenttiarkisto"]
+url = "tenttiarkisto"
 +++
 
 **Linkki Jyväskylä ry** ylläpitää tenttiarkistoa tietotekniikan oppiaineen

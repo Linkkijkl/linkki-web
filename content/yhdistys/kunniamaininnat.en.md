@@ -2,7 +2,7 @@
 title = "Honorary mentions"
 description = "Honorary members, mentions and Linkeens of the year"
 keywords = ["honorary membership", "honorary mention"]
-url = "association/honorarymentions"
+url = "honorary-mentions"
 +++
 
 {{< table-of-contents >}}

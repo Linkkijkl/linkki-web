@@ -2,7 +2,7 @@
 title = "Exam Archive"
 description = ""
 keywords = ["exam", "archive"]
-url = "activities/exam-archive"
+url = "exam-archive"
 +++
 
 **Linkki Jyväskylä ry** maintains an exam archive of Mathematical Information

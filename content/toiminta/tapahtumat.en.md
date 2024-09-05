@@ -2,7 +2,7 @@
 title = "Events"
 description = ""
 keywords = ["events", "calendar", "jyväsmetro", "metro", "instanssi", "boardgames", "crafts club", "book club"]
-url = "activities/events"
+url = "events"
 +++
 
 # Jyväsmetro

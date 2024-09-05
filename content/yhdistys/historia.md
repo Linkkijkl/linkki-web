@@ -2,6 +2,7 @@
 title = "Historia"
 description = "Linkin historia"
 keywords = ["hallitus", "historia", "perustaminen"]
+url = "historia"
 +++
 
 # Perustaminen

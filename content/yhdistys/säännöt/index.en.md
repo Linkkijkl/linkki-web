@@ -2,7 +2,7 @@
 title = "Rules and Guides"
 description = "Rules and guides"
 keywords = ["rules", "guides"]
-url = "association/rules"
+url = "rules"
 +++
 
 Unfortunately we don't have the resources to translate all our rules and guides

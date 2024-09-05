@@ -2,6 +2,7 @@
 title = "Uuden opiskelijan (fuksin) opas"
 description = ""
 keywords = ["fuksit"]
+url = "fuksit"
 +++
 
 Tervetuloa Jyväskylään opiskelemaan tietojenkäsittelytiedettä!

@@ -2,6 +2,7 @@
 title = "Lukupiiri"
 description = ""
 keywords = ["tapahtumat", "lukupiiri"]
+url = "lukupiiri"
 +++
 
 Linkin lukupiiri kokoontuu n. kerran kuussa keskustelemaan yhdessä valitusta teoksesta enemmän tai vähemmän asiallisella otteella. Kokoontumisajat ja
