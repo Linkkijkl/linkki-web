@@ -2,6 +2,7 @@
 title = "Kattila"
 description = "Ainejärjestötila Kattila"
 keywords = ["kattila", "ainejärjestötila"]
+url = "kattila"
 +++
 
 {{< row >}}

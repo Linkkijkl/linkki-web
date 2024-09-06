@@ -2,7 +2,7 @@
 title = "Events"
 description = ""
 keywords = ["events", "calendar", "jyväsmetro", "metro", "instanssi", "boardgames", "crafts club", "book club"]
-url = "activities/events"
+url = "events"
 +++
 
 # Jyväsmetro
@@ -33,7 +33,7 @@ Our skilled regulars are happy to help you with your projects, should you be int
 
 # Book Club
 
-Avid readers of Linkki gather together monthly to discuss a predetermined book and its themes. Read more on the Book Club [homepage](/en/activities/book-club).
+Avid readers of Linkki gather together monthly to discuss a predetermined book and its themes. Read more on the Book Club [homepage](/en/book-club).
 
 # Event calendar
 {{< google_calendar "Y19nMmVxdDJhN3UxZmMxcGFoZTJvMGVjbTdhc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t" >}}

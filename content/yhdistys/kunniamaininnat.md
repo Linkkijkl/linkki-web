@@ -2,6 +2,7 @@
 title = "Kunniamaininnat"
 description = "Kunniajäsenet, -mainitut ja vuoden Linkkarit"
 keywords = ["kunniajäsenyys", "kunniamaininta"]
+url = "kunniamaininnat"
 +++
 
 {{< table-of-contents >}}

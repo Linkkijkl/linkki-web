@@ -2,7 +2,7 @@
 title = "Equipment Rental"
 description = ""
 keywords = ["rental"]
-url = "activities/equipment-rental"
+url = "equipment-rental"
 +++
 
 
