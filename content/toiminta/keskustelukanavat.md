@@ -2,6 +2,7 @@
 title = "Viestiryhmät"
 description = ""
 keywords = ["keskustelukanavat", "telegram", "irc", "matrix"]
+url = "keskustelukanavat"
 +++
 
 

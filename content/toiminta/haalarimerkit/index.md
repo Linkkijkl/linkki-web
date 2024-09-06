@@ -2,11 +2,12 @@
 title = "Haalarimerkit"
 description = ""
 keywords = ["haalarimerkit"]
+url = "haalarimerkit"
 +++
 
 # Linkin myymät haalarimerkit
 
-Hae omasi [Kattilasta](/toiminta/kattila)!
+Hae omasi [Kattilasta](/kattila/)!
 Maksutapoina toimii Mobilepay ja korttimaksu. 1kpl 3€ ja 2kpl 5€
 
 {{< row >}}
@@ -119,7 +120,7 @@ Maksutapoina toimii Mobilepay ja korttimaksu. 1kpl 3€ ja 2kpl 5€
 # Jämälaari
 
 Kasa merkkejä alennettuun hintaan 0.50€ kpl. Valikoima vaihtelee ja se on
-esillä [Kattilan](/toiminta/kattila/) seinällä.
+esillä [Kattilan](/kattila/) seinällä.
 
 {{< img-thumb-cap "merkit/jämälaari.webp" "x600" >}}
 {{< /img-thumb-cap >}}

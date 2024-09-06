@@ -2,12 +2,12 @@
 title = "Overall patches"
 description = ""
 keywords = ["overall", "patch", "patches"]
-url = "activities/overall-patches"
+url = "overall-patches"
 +++
 
 # Overall patches sold by Linkki
 
-Get your own from [Kattila](/toiminta/kattila)!
+Get your own from [Kattila](/en/kattila)!
 Available payment methods are Mobilepay and card payment. 1pcs 3€ and 2pcs 5€ .
 
 {{< row >}}
@@ -120,7 +120,7 @@ Available payment methods are Mobilepay and card payment. 1pcs 3€ and 2pcs 5�
 # Patches of past events
 
 A load of patches for discounted price of 0.5€ per patch. The selection
-changes and the current one is on display in [Kattila](/toiminta/kattila/).
+changes and the current one is on display in [Kattila](/en/kattila/).
 
 {{< img-thumb-cap "merkit/jämälaari.webp" "x600" >}}
 {{< /img-thumb-cap >}}

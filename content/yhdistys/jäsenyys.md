@@ -2,6 +2,7 @@
 title = "Jäsenyys"
 description = "Ainejärjestön jäsenyys"
 keywords = ["jäsenyys", "aktiivi", "jäsen", "jäsenedut", "lomake"]
+url = "jäsenyys"
 +++
 
 {{< table-of-contents end=2 >}}

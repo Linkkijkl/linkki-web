@@ -2,6 +2,7 @@
 title = "Laitteistovuokraus"
 description = ""
 keywords = ["laitteistovuokraus"]
+url = "laitteistovuokraus"
 +++
 
 
