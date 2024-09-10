@@ -3,7 +3,7 @@ title = "Hallitus 2024"
 date = "2024-01-01T00:00:00+02:00"
 description = "Linkin hallitus 2024"
 categories = ["hallitukset"]
-authors = ["Santeri Sormunen", "Oskari Lahtinen", "Lassi Karjalainen", "Vili Kärkkäinen", "Ossi Rantala", "Valtteri Hiltunen", "Viljami Töhönen", "Juho Kallijärvi", "Emma Järvinen", "Jami Virtanen", "Pekka Pihjalamaa", "Mortti Luhtala", "Aleksi Sulasalmi", "Jules Kuortti", "Veeti Kataja", "Jenna Tykkyläinen", "Veikko Havula", "Aina Seppänen", "Aino Sipola", "Johannes Horila", "Taru Nikkanen", "Toni Pietiläinen", "Jaakko Siika-aho", "Juho Ropanen", "Alexander Goldhill", "Lari Nurkka"]
+authors = ["Santeri Sormunen", "Oskari Lahtinen", "Lassi Karjalainen", "Vili Kärkkäinen", "Ossi Rantala", "Valtteri Hiltunen", "Viljami Töhönen", "Juho Kallijärvi", "Emma Järvinen", "Jami Virtanen", "Pekka Pihjalamaa", "Mortti Luhtala", "Aleksi Sulasalmi", "Jules Kuortti", "Veeti Kataja", "Jenna Tykkyläinen", "Veikko Havula", "Aina Seppänen", "Aino Sipola", "Johannes Horila", "Taru Nikkanen", "Toni Pietiläinen", "Jaakko Siika-aho", "Juho Ropanen", "Alexander Goldhill", "Lari Nurkka", "Mikael Garam", "Taro Kaatrasalo", "Myrsky Särekallio", "Valtteri Timmonen"]
 banner = "/img/hallitukset/hallitus2024.jpg"
 summary = " "
 +++
@@ -271,6 +271,14 @@ Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistykse
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Mikael Garam
+#### Tapahtumatiimiläinen
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
 {{< /row >}}
 
 
@@ -283,9 +291,8 @@ Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnast
 
 {{< img-thumb-cap "johannes-horila.jpg" "300x" >}}
 ## Johannes Horila
-#### Hyvinvointipäällikkö & Korkeakoulupoliittinen vastaava
+#### Hyvinvointipäällikkö
 [**hyvinvointi@linkkijkl.fi**](mailto:hyvinvointi@linkkijkl.fi)
-& [**kopo@linkkijkl.fi**](mailto:kopo@linkkijkl.fi)
 
 [Telegram: **@Johanneshor**](https://t.me/Johanneshor)
 {{< /img-thumb-cap >}}
@@ -354,6 +361,20 @@ Telegram: [**@Aino_Sipola**](https://t.me/Aino_Sipola)
 {{< /column >}}
 {{< /row >}}
 
+{{< row >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Taro Kaatrasalo
+#### Koulutuspoliittinen vastaava
+[**kopo@linkkijkl.fi**](mailto:kopo@linkkijkl.fi)
+
+[Telegram: **kaatrasalo](https://t.me/kaatrasalo)
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< /row >}}
+
 
 # Mediatiimi
 
@@ -379,6 +400,27 @@ Mediatiimin tehtävänä on tiedottaa jäsenistöä yhdistyksen eri kanavissa ku
 [**webmaster@linkkijkl.fi**](mailto:webmaster@linkkijkl.fi)
 
 [Telegram: **@lurppa**](https://t.me/lurppa)
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< /row >}}
+
+{{< row >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Myrsky Särekallio
+#### Mediatiimiläinen
+
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Valtteri Timmonen
+#### Mediatiimiläinen
+
 {{< /img-thumb-cap >}}
 
 {{< /column >}}

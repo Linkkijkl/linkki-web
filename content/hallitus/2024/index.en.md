@@ -1,7 +1,7 @@
 +++
 title = "Board of Directors 2024"
 date = "2024-01-01T00:00:00+02:00"
-authors = ["Santeri Sormunen", "Oskari Lahtinen", "Lassi Karjalainen", "Vili Kärkkäinen", "Ossi Rantala", "Valtteri Hiltunen", "Viljami Töhönen", "Juho Kallijärvi", "Emma Järvinen", "Jami Virtanen", "Pekka Pihjalamaa", "Mortti Luhtala", "Aleksi Sulasalmi", "Jules Kuortti", "Veeti Kataja", "Jenna Tykkyläinen", "Veikko Havula", "Aina Seppänen", "Aino Sipola", "Johannes Horila", "Taru Nikkanen", "Toni Pietiläinen", "Jaakko Siika-aho", "Juho Ropanen", "Alexander Goldhill", "Lari Nurkka"]
+authors = ["Santeri Sormunen", "Oskari Lahtinen", "Lassi Karjalainen", "Vili Kärkkäinen", "Ossi Rantala", "Valtteri Hiltunen", "Viljami Töhönen", "Juho Kallijärvi", "Emma Järvinen", "Jami Virtanen", "Pekka Pihjalamaa", "Mortti Luhtala", "Aleksi Sulasalmi", "Jules Kuortti", "Veeti Kataja", "Jenna Tykkyläinen", "Veikko Havula", "Aina Seppänen", "Aino Sipola", "Johannes Horila", "Taru Nikkanen", "Toni Pietiläinen", "Jaakko Siika-aho", "Juho Ropanen", "Alexander Goldhill", "Lari Nurkka", "Mikael Garam", "Taro Kaatrasalo", "Mysky Särekallio", "Valtteri Timmonen"]
 banner = "/img/hallitukset/hallitus2024.jpg"
 summary = " "
 url = "board/2024"
@@ -261,6 +261,14 @@ url = "board/2024"
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Mikael Garam
+#### Event Team Member
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
 {{< /row >}}
 
 
@@ -271,9 +279,8 @@ url = "board/2024"
 
 {{< img-thumb-cap "johannes-horila.jpg" "300x" >}}
 ## Johannes Horila
-#### Wellness and Educational Policy Coordinator
+#### Wellness Coordinator
 [**hyvinvointi@linkkijkl.fi**](mailto:hyvinvointi@linkkijkl.fi)
-& [**kopo@linkkijkl.fi**](mailto:kopo@linkkijkl.fi)
 
 [Telegram: **@Johanneshor**](https://t.me/Johanneshor)
 {{< /img-thumb-cap >}}
@@ -343,6 +350,20 @@ ja [**@taruksn**](https://t.me/taruksn)
 {{< /column >}}
 {{< /row >}}
 
+{{< row >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Taro Kaatrasalo
+#### Educational Policy Coordinator
+[**kopo@linkkijkl.fi**](mailto:kopo@linkkijkl.fi)
+
+[Telegram: **kaatrasalo](https://t.me/kaatrasalo)
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< /row >}}
+
 
 # Media team
 
@@ -366,6 +387,29 @@ ja [**@taruksn**](https://t.me/taruksn)
 [**webmaster@linkkijkl.fi**](mailto:webmaster@linkkijkl.fi)
 
 [Telegram: **@lurppa**](https://t.me/lurppa)
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< /row >}}
+
+{{< row >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Myrsky Särekallio
+#### Media Team Member
+
+[Telegram: **@myrskys**](https://t.me/myrskys)
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Valtteri Timmonen
+#### Media Team Member
+
+[Telegram: **@Valtteri_Timmonen**](https://t.me/Valtteri_Timmonen)
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
