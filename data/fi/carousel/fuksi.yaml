@@ -1,5 +1,6 @@
 weight: 2
 title: "Oletko uusi opiskelija?"
 description: >
-  <p>Fukseille tärkeää tietoa löytyy <a href="/fuksit/">täältä</a>.</p>
-image: "img/linkki.svg"
+  <p>Katso täältä uuden opiskelijan opas.</p>
+image: "img/linkkiukkeli-perus-istuu.webp"
+href: "/fuksit/"

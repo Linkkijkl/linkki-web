@@ -9,7 +9,8 @@
         "ghcr.io/devcontainers/features/hugo:1": {
             "extended": true
         },
-        "ghcr.io/devcontainers/features/node:1": {}
+        "ghcr.io/devcontainers/features/node:1": {},
+        "ghcr.io/devcontainers/features/git-lfs": {}
     },
     "forwardPorts": [
         1313

@@ -12,6 +12,10 @@
                 data-slide-speed="{{ default 2000 .Site.Params.CarouselHomepage.slide_speed }}"
                 data-pagination-speed="{{ default 1000 .Site.Params.CarouselHomepage.pagination_speed }}">
                 {{ range sort $data.carousel "weight" }}
+                {{/* don't render hidden carousel items */}}
+                {{ if default false .hide }}
+                    {{ continue }}
+                {{ end }}
                 <div class="item">
                     {{ if .href }}
                     <a href="{{ .href }}" target="_blank" title="{{ .title | safeHTML }}">
