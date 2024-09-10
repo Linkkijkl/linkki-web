@@ -358,7 +358,7 @@ ja [**@taruksn**](https://t.me/taruksn)
 #### Educational Policy Coordinator
 [**kopo@linkkijkl.fi**](mailto:kopo@linkkijkl.fi)
 
-[Telegram: **kaatrasalo](https://t.me/kaatrasalo)
+[Telegram: **@kaatrasalo**](https://t.me/kaatrasalo)
 {{< /img-thumb-cap >}}
 
 {{< /column >}}

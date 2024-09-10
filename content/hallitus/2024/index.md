@@ -369,7 +369,7 @@ Telegram: [**@Aino_Sipola**](https://t.me/Aino_Sipola)
 #### Koulutuspoliittinen vastaava
 [**kopo@linkkijkl.fi**](mailto:kopo@linkkijkl.fi)
 
-[Telegram: **kaatrasalo](https://t.me/kaatrasalo)
+[Telegram: **@kaatrasalo**](https://t.me/kaatrasalo)
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
