@@ -4,3 +4,4 @@ description: >
   <p>Katso täältä uuden opiskelijan opas.</p>
 image: "img/linkkiukkeli-perus-istuu.webp"
 href: "/fuksit/"
+hide: true
