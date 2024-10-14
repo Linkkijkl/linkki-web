@@ -117,6 +117,16 @@ Maksutapoina toimii Mobilepay ja korttimaksu. 1kpl 3€ ja 2kpl 5€
 
 {{< /row >}}
 
+{{< row >}}
+{{< column width=4 >}}
+
+{{< img-thumb-cap "merkit/kerhojar.webp" "x200" >}}
+
+#### Kerho.jar
+{{< /img-thumb-cap >}}
+{{< /column >}}
+{{< /row >}}
+
 # Jämälaari
 
 Kasa merkkejä alennettuun hintaan 0.50€ kpl. Valikoima vaihtelee ja se on

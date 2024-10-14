@@ -116,6 +116,16 @@ Available payment methods are Mobilepay and card payment. 1pcs 3â‚¬ and 2pcs 5â‚
 {{< /column >}}
 
 {{< /row >}}
+{{< row >}}
+
+{{< column width=4 >}}
+
+{{< img-thumb-cap "merkit/kerhojar.webp" "x200" >}}
+
+#### Kerho.jar
+{{< /img-thumb-cap >}}
+{{< /column >}}
+{{< /row >}}
 
 # Patches of past events
 
