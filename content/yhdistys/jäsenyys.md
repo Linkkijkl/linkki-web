@@ -112,29 +112,66 @@ perjantaista lauantaihin klo 22 asti
 * Linkki-juoma 6 €
 * Helmen karaoke -kabinetti arkipäivisin 50 € hintaan
 
-## Laajiksen kesäkausi
+## Laajis (31.10.2025 asti)
+
+### EDUT JA ALENNUKSET
+Alennukset koskevat normaalihintaisia palveluita/tuotteita (esim. alennusta ei saa HappyHour hinnoista). Alennuksia ei voi yhdistää muihin alennuksiin eivätkä ole voimassa ryhmävarauksiin.
+
+Edut ja alennukset ovat henkilökohtaisia ja vain ainejärjestön jäsenille, joilla on voimassa oleva
+opiskelijakortti.
+
+### Rinnelippu
+Alennus: 3 tunnin hissilippu 15€
+(ei sisällä *keycard -lippupohjaa)
+Voimassa arkipäivinä, läpi talvikauden (myös hiihtolomaviikoilla).
+Varaustapa: Paikan päältä
+
+### Laskettelu / Lumilauta vuokravälinesetti
+Alennus: välinevuokrasetti 15€ / vuokra-aika 3 tuntia
+Sisältää laskettelusukset tai lumilaudan + monot ja tarvittaessa sauvat (HUOM! Ei sisällä kypärää)
+Voimassa arkipäivinä, läpi talvikauden (myös hiihtolomaviikoilla).
+Varaustapa: Paikan päältä
+
+### Maastohiihto vuokravälinesetti
+Alennus: välinevuokrasetti 15€ / vuokra-aika 3 tuntia
+Sisältää maastohiihtosukset + monot ja sauvat
+Voimassa arkipäivinä, läpi talvikauden (myös hiihtolomaviikoilla).
+Varaustapa: Paikan päältä
+
+### Liukulumikengät / Lumikengät
+Alennus: välinevuokra 15€ / vuokra-aika 3 tuntia
+Sisältää liukulumikengät tai lumikengät ja sauvat
+Voimassa arkipäivinä, läpi talvikauden (myös hiihtolomaviikoilla).
+Varaustapa: Paikan päältä
+
+### Välinehuolto
+Alennus: -10% huollon normaalihinnoista
+Voimassa kaikkina päivinä.
+Varaustapa: Vain ennakkovaraus netin kautta: https://twice.shop/laajis/l/laajisvlinehuolto/shop, Alekoodi: HuoltoAJ24, jäsenyys todistettava vielä paikan päällä.
 
 ### Seikkailupuisto
-* Alennus: Seikkailulippu -20% / seikkailuaikaa max. 3 tuntia
-  * Voimassa kaikkina päivinä läpi seikkailukauden
-  * RAJAUKSET: Ei koske valonseikkailua eikä pikaseikkailua
-  * Varaustapa: Vain ennakkovaraus netin kautta (jäsenyys todistettava vielä paikan päällä)
-  * Alekoodi: **AJPuisto24!**
+Alennus: Seikkailulippu 20€ / seikkailuaikaa max. 3 tuntia
+Voimassa kaikkina päivinä läpi seikkailukauden.
+RAJAUKSET: Ei koske valonseikkailua
+Varaustapa: Paikan päältä
 
 ### Bikepark alamäkipyöräily
-* Alennus:  Bikepark paketti 50€ Ghost täysjousto -enduropyörällä / kesto 2 tuntia
-  * Sisältää hissilipun, vuokrapyörän ja suojavarusteet (ei sisällä *keycard -lippupohjaa)
-  * Voimassa kaikkina päivinä läpi bikepark kauden.
-  * Pyörämallin korotus 15€ (premium malleina mm. Commencal, Specialized, Production Privet).
-  * Varaustapa: Vain ennakkovaraus netin kautta (jäsenyys todistettava vielä paikan päällä)
-  * **HUOM!** vastoin alkuperäistä ohjetta, emme pysty tätä pakettia vielä laittamaan nettimyyntiin sellaisenaan. Eli toistaiseksi Bikepark kokeilupaketin saa tähän erikoishintaan varaamalla sen etukäteen puhelimitse vuokraamon numerosta 0207 436 437 tai sähköpostilla osoitteesta vuokraamo@laajis.fi
+Alennus: Bikepark paketti 50€ Ghost täysjousto -enduropyörällä / kesto 2 tuntia
+Sisältää hissilipun, vuokrapyörän ja suojavarusteet (ei sisällä *keycard -lippupohjaa)
+Voimassa kaikkina päivinä läpi bikepark kauden.
+Pyörämallin korotus 15€ (premium malleina mm. Commencal, Specialized, Production Privet).
+Varaustapa: Paikan päältä
 
 ### eFatbike vuokraus
-* Alennus: eFatbike vuokra 40€ / 2 tuntia
-  * Sisältää pyörän ja kypärän (ei sisällä kuluturvaa)
-  * Voimassa kaikkina päivinä.
-  * Varaustapa: Vain ennakkovaraus netin kautta (jäsenyys todistettava vielä paikan päällä)
-  * Alekoodi: **AJeFat23!**
+Alennus: eFatbike 2 tunnin vuokra -15€ normaalihinnasta
+Sisältää pyörän ja kypärän (ei sisällä kuluturvaa)
+Voimassa kaikkina päivinä.
+Varaustapa: Vain ennakkovaraus netin kautta: https://twice.shop/laajis/l/laajis/shop, Alekoodi: eFat24AJ, jäsenyys todistettava vielä paikan päällä.
+
+Hissilippu/bikepark -lippu ladataan Keycard-lippupohjalle, jota voidaan käyttää uudestaan ja se jää asiakkaalle. Keycard pohja käy myös useaan muuhun hiihtokeskukseen Suomessa ja Euroopassa. Keycard lippupohjan hinta sopimuksen tekohetkellä on 7€ (pidätämme oikeuden Keycardin hinnan muutokseen).
+
+### ALENNUSTEN LUNASTAMINEN
+Mikäli alennus vaatii ennakkovarauksen, Laajis toimittaa ainejärjestölle etukoodin ja linkin mistä etu lunastetaan. Ennakkovarauksen vaativissa alennuksissa etua ei saa paikan päältä mutta jäsenyys on kyettävä tunnistamaan sitä kysyttäessä.
 
 ## Hook Jyväskylä
 Voimassa Ma-To, ei viikonloppuna eikä loma-aikoina, voimassa olevaa opiskelijakorttia näyttämällä:
