@@ -117,7 +117,7 @@ Booking method: on the spot
 ### Equipment maintenance
 Discount: -10% off the normal maintenance prices
 Valid on all days.
-Booking method: advance booking only via the Internet: https://twice.shop/laajis/l/laajisvlinehuolto/shop, subcode: maintenanceAJ24, proof of membership still to be provided on the spot.
+Booking method: advance booking only via the Internet: https://twice.shop/laajis/l/laajisvlinehuolto/shop, subcode: HuoltoAJ24, proof of membership still to be provided on the spot.
 
 ### Adventure Park
 Discount: adventure ticket 20€ / adventure time max. Max. 3 hours
