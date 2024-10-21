@@ -27,9 +27,6 @@ The main task of the administrative team is to ensure and work towards complianc
 
 **Board Mentor** or "Old Weasel" is a former board member whose task is to support the current board and convey useful traditional knowledge.
 
-**Communicator** maintains mailing lists and acts as a contact person alongside the Chairperson.
-
-
 ### Corporational and Collaborationbal Team
 
 The task of the company and collaboration team is to nurture the association's partnerships, ensure that both parties of the partnership agreements fulfill the terms of the collaboration agreements, and seek possible new partners.
@@ -40,21 +37,20 @@ The task of the company and collaboration team is to nurture the association's p
 
 **TITOL Coordinator** is responsible for collaboration with TITOL.
 
-**Educational Policy Coordinator** is the voice between students and the faculty and acts as an advocate for students.
-
 
 ### Events Team
 
 The task of the events team is to ideate, organize, and execute cultural events, trips, and other events arranged by the association. The activities of the Events Team might be the most visible part of the association's activities.
 
-**Event Coordinator** handles events, with the assistance of their team members.
+**Event Coordinator** conceptualises and organises events.
 
+**Event Team Members** help event coordinator with organising events.
 
 ### Project Team
 
 The project team is responsible for the planning, coordination, and execution of larger events, such as Jyväsmetro and annual gala.
 
-**Project Coordinator**
+**Project Coordinator** coordinates the project teams.
 
 
 ### Wellbeing Team
@@ -68,6 +64,8 @@ The task of the wellbeing team is to take care of the welfare advocacy and socia
 **International Affairs Coordinator** serves as a contact person between international students, the faculty's international sector, and the student association.
 
 **Social Policy Coordinator** deals with issues such as student livelihood, housing, health care, and other welfare matters.
+
+**Educational Policy Coordinator** is the voice between students and the faculty and acts as an advocate for students.
 
 **Blood Deity** organizes blood donation days.
 
@@ -90,5 +88,6 @@ The task of the media team is to inform the members through various association'
 
 **Graphic Designer/Layout Designer** layouts the magazine A href.
 
+**Communicator** maintains mailing lists and acts as a contact person alongside the Chairperson.
 
 # Boards
