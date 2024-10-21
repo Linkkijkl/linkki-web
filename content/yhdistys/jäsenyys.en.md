@@ -83,29 +83,65 @@ By showing the **LINKKI MEMBERSHIP STICKER** at purchase, you'll have access to 
 * Linkki-drink 6 €
 * Right to book Helmi karaoke -cabinet during weekdays for 50 €
 
-## Laajis Summer Season
-(until 31.10.2024)
+## Laajis (until 31.10.2025)
+### BENEFITS AND DISCOUNTS
+Discounts apply to services/products at normal prices (e.g. no discount on HappyHour prices). Discounts cannot be combined with other discounts and are not valid for group bookings.
+
+Benefits and discounts are personal and only available to members of the subject association with a valid
+student card.
+
+### Slope ticket
+Discount: 3-hour lift ticket €15
+(does not include *keycard ticket base)
+Valid on weekdays, throughout the winter season (including ski holiday weeks).
+Booking method: on the spot
+
+### Skiing / Snowboard rental equipment set
+Discount: equipment rental set 15€ / rental time 3 hours
+Includes ski boots or snowboard + monos and, if necessary, poles (NOTE! Helmet not included)
+Valid on weekdays, throughout the winter season (also during skiing holiday weeks).
+Booking method: on the spot
+
+### Cross-country skiing rental equipment
+Discount: equipment rental set 15€ / rental time 3 hours
+Includes cross-country skiing skis + poles and poles
+Valid on weekdays, throughout the winter season (including skiing holiday weeks).
+Booking method: on the spot
+
+### Sliding boots / Snowshoes
+Discount: equipment rental 15€ / rental time 3 hours
+Includes sliding boots or snowshoes and poles
+Valid on weekdays, throughout the winter season (also during skiing holiday weeks).
+Booking method: on the spot
+
+### Equipment maintenance
+Discount: -10% off the normal maintenance prices
+Valid on all days.
+Booking method: advance booking only via the Internet: https://twice.shop/laajis/l/laajisvlinehuolto/shop, discount code: HuoltoAJ24, proof of membership still to be provided on the spot.
+
 ### Adventure Park
-* Discount: Adventure Ticket -20% / maximum adventure time 3 hours
-  * Valid every day throughout the adventure season
-  * RESTRICTIONS: Does not apply to the Light Adventure or Quick Adventure
-  * Booking method: Online advance booking only (membership must be proven on-site)
-  * Discount code: **AJPuisto24!**
+Discount: adventure ticket 20€ / adventure time max. Max. 3 hours
+Valid on all days throughout the adventure season.
+LIMITATIONS: Not applicable to light adventure
+Booking method: on the spot
 
-### Bike Park Downhill Biking
-* Discount: Bike Park Package 50€ with Ghost full-suspension enduro bike / duration 2 hours
-  * Includes lift ticket, rental bike, and protective gear (does not include *keycard ticket base)
-  * Valid every day throughout the bike park season.
-  * Bike model upgrade 15€ (premium models include Commencal, Specialized, Production Privet).
-  * Booking method: Online advance booking only (membership must be proven on-site)
-  * **NOTE!** Contrary to the original instructions, we are currently unable to sell this package online as is. For now, the Bike Park trial package at this special price can be reserved in advance by phone at 0207 436 437 or by email at vuokraamo@laajis.fi
+### Bikepark downhill cycling
+Discount: Bikepark package 50€ Ghost full suspension enduro bike / duration 2 hours
+Includes lift ticket, rental bike and protective equipment (does not include *keycard)
+Valid on all days throughout the bikepark season.
+Bike model surcharge 15€ (premium models include Commencal, Specialized, Production Privet).
+Booking method: on the spot
 
-### eFatbike Rental
-* Discount: eFatbike rental 40€ / 2 hours
-  * Includes bike and helmet
-  * Valid every day.
-  * Booking method: Online advance booking only (membership must be proven on-site)
-  * Discount code: **AJeFat23!**
+### eFatbike rental
+Discount: eFatbike 2 hours rental -15€ off the normal price.
+Includes bike and helmet (does not include insurance).
+Valid on all days.
+Booking method: only advance booking online: https://twice.shop/laajis/l/laajis/shop, discount code: eFat24AJ, proof of membership to be provided on the spot.
+
+The lift ticket/bikepark ticket is loaded onto a Keycard ticket base, which can be reused and remains with the customer. The Keycard base is also valid for several other ski resorts in Finland and Europe. The price of the Keycard ticket base at the time of contract is 7€ (we reserve the right to change the price of the Keycard).
+
+### REDEEMING DISCOUNTS
+If a discount requires a pre-booking, Laajis will provide the subject organisation with a code and a link to redeem the discount. For discounts requiring advance booking, the benefit is not applicable on the spot but the membership must be proven when requested.
 
 ## Hook Jyväskylä
 Valid Mon-Thu, not on weekends or during holiday periods, by showing a valid student card:
