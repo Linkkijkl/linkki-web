@@ -97,7 +97,7 @@ Yritys- ja yhteistyötiimin tehtävänä on vaalia yhdistyksen yhteistyökumppan
 
 {{< img-thumb-cap "lassi-karjalainen.jpg" "300x" >}}
 ## Lassi Karjalainen
-#### TEK- ja Loimu-yhteyshenkilö
+#### TEK-, Loimu- ja TiTOL-yhteyshenkilö
 [**sihteeri@linkkijkl.fi**](mailto:sihteeri@linkkijkl.fi)
 
 [Telegram: **@LKKarjalainen**](https://t.me/LKKarjalainen)

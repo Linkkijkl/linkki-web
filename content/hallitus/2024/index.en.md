@@ -91,7 +91,7 @@ url = "board/2024"
 
 {{< img-thumb-cap "lassi-karjalainen.jpg" "300x" >}}
 ## Lassi Karjalainen
-#### TEK and Loimu Coordinator
+#### TEK, Loimu and TiTOLg Coordinator
 [**sihteeri@linkkijkl.fi**](mailto:sihteeri@linkkijkl.fi)
 
 [Telegram: **@LKKarjalainen**](https://t.me/LKKarjalainen)
