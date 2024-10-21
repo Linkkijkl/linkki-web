@@ -117,7 +117,7 @@ Booking method: on the spot
 ### Equipment maintenance
 Discount: -10% off the normal maintenance prices
 Valid on all days.
-Booking method: advance booking only via the Internet: https://twice.shop/laajis/l/laajisvlinehuolto/shop, subcode: HuoltoAJ24, proof of membership still to be provided on the spot.
+Booking method: advance booking only via the Internet: https://twice.shop/laajis/l/laajisvlinehuolto/shop, discount code: HuoltoAJ24, proof of membership still to be provided on the spot.
 
 ### Adventure Park
 Discount: adventure ticket 20€ / adventure time max. Max. 3 hours
@@ -136,12 +136,12 @@ Booking method: on the spot
 Discount: eFatbike 2 hours rental -15€ off the normal price.
 Includes bike and helmet (does not include insurance).
 Valid on all days.
-Booking method: only advance booking online: https://twice.shop/laajis/l/laajis/shop, subcode: eFat24AJ, proof of membership to be provided on the spot.
+Booking method: only advance booking online: https://twice.shop/laajis/l/laajis/shop, discount code: eFat24AJ, proof of membership to be provided on the spot.
 
 The lift ticket/bikepark ticket is loaded onto a Keycard ticket base, which can be reused and remains with the customer. The Keycard base is also valid for several other ski resorts in Finland and Europe. The price of the Keycard ticket base at the time of contract is 7€ (we reserve the right to change the price of the Keycard).
 
 ### REDEEMING DISCOUNTS
-If a discount requires a pre-booking, Laajis will provide the subject organisation with a code and a link to redeem the discount. For discounts requiring advance booking, the benefit is not available on the spot but the membership must be identifiable when requested.
+If a discount requires a pre-booking, Laajis will provide the subject organisation with a code and a link to redeem the discount. For discounts requiring advance booking, the benefit is not applicable on the spot but the membership must be proven when requested.
 
 ## Hook Jyväskylä
 Valid Mon-Thu, not on weekends or during holiday periods, by showing a valid student card:
