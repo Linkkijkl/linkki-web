@@ -25,9 +25,9 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 
 **Rahastonhoitaja** hoitaa raha-asioita, kuten laskuja, kirjanpidon, tilinpäätöksen ja -tarkastuksen.
 
-**Hallitusmentori** tai “Vanha näätä” on menneen hallituksen jäsen, jonka tehtävänä on tukea nykyistä hallitusta ja välittää hyödyllistä perinnetietoa.
-
-**Tiedottaja** ylläpitää sähköpostilistoja ja toimii yhteyshenkilönä puheenjohtajan ohella.
+**Hallitusmentori** tai “Vanha näätä” on aktiivi, jonka tehtävänä on
+tukea nykyistä hallitusta ja välittää hyödyllistä perinnetietoa
+entisenä hallituksen jäsenenä.
 
 
 ### Yritys- ja yhteistyötiimi
@@ -40,21 +40,20 @@ Yritys- ja yhteistyötiimin tehtävänä on vaalia yhdistyksen yhteistyökumppan
 
 **TITOL-yhteyshenkilö** vastaa yhteistyöstä TITOLin kanssa.
 
-**Korkeakoulupoliittinen vastaava** on ääni opiskelijoiden ja tiedekunnan välillä, sekä toimii opiskelijoiden edunvalvojana.
-
 
 ### Tapahtumatiimi
 
 Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistyksen järjestämät kulttuuritilaisuudet, matkat, sekä muut tapahtumat. Tapahtumatiimin toiminta on kenties näkyvin osa yhdistyksen toimintaa.
 
-**Tapahtumapäällikkö** hoitaa tapahtumia, tiimiläiset auttavat tässä.
+**Tapahtumapäällikkö** ideoi ja järjestää tapahtumia.
 
+**Tapahtumatiimiläiset** avustavat tapahtumapäällikköä.
 
 ### Projektitiimi
 
 Projektitiimi vastaa suurempien kokonaisuuksien ja tapahtumien, kuten esimerkiksi Jyväsmetron ja vuosijuhlien, suunnittelusta, koordinoimisesta sekä toteuttamisesta.
 
-**Projektipäällikkö** 
+**Projektipäällikkö** koordinoi projektitiimien toimintaa.
 
 
 ### Hyvinvointitiimi
@@ -69,7 +68,9 @@ Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnast
 
 **Sosiaalipoliittisen vastaavan** toimenkuvaan kuuluu mm. opiskelijan toimeentulo, asumisasiat, terveydenhuolto ja muu hyvinvointi.
 
-**Verijumala** pitää verenluovutuspäiviä
+**Korkeakoulupoliittinen vastaava** on ääni opiskelijoiden ja tiedekunnan välillä, sekä toimii opiskelijoiden edunvalvojana.
+
+**Verijumala** pitää verenluovutuspäiviä.
 
 **Kattilakeisari** ylläpitää ainejärjestötilaamme Kattilaa (Ag B437).
 
@@ -89,5 +90,6 @@ Mediatiimin tehtävänä on tiedottaa jäsenistöä yhdistyksen eri kanavissa ku
 
 **Graafikko/taittaja** tekee taiton A href:ille.
 
+**Tiedottaja** ylläpitää sähköpostilistoja ja toimii yhteyshenkilönä puheenjohtajan ohella.
 
 # Hallitukset
