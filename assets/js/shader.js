@@ -108,6 +108,7 @@ window.addEventListener("DOMContentLoaded", async () => {
     const timeLocation = gl.getUniformLocation(shaderProgram, "u_time");
     const accentLocation = gl.getUniformLocation(shaderProgram, "u_primary_accent");
     darkModeLocation = gl.getUniformLocation(shaderProgram, "u_dark_mode");
+    const randomLocation = gl.getUniformLocation(shaderProgram, "u_random");
 
     const vao = gl.createVertexArray();
     gl.bindVertexArray(vao);
@@ -148,6 +149,7 @@ window.addEventListener("DOMContentLoaded", async () => {
     const pa = getPrimaryAccent();
     gl.uniform3f(accentLocation, pa[0] / 255.0, pa[1] / 255.0, pa[2] / 255.0);
     gl.uniform1i(darkModeLocation, isThemeDark());
+    gl.uniform1f(randomLocation, Math.random() * 1000.0);
 
     let timeTracker = 0.0;
     let startTime = document.timeline.currentTime;
