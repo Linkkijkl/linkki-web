@@ -548,3 +548,13 @@ Rekisterissä olevalla henkilöllä on oikeus pyytää häntä koskevien henkil�
 # JYYn turvallisemman tilan periaatteet
 
 {{< embed-pdf url="turvallisemman-tilan-periaatteet.pdf" >}}
+
+---
+
+# Kulunkorvaus
+
+Muut yhdistykselle esitetyt kulukorvaukset haetaan yhdistyksen [tilityskaavakkeella](https://drive.google.com/file/d/1Tym83HGM6TvHzFaXrCdjle8bOZGE65yB/view?usp=sharing). Tilityskaavake sekä siihen kuuluvat kuitit tulee toimittaa [rahastonhoitajalle](mailto:raha@linkkijkl.fi) kuukauden kuluessa kulun syntymisestä. Kulukorvaushakemukset hyväksyy joko hallituksen puheenjohtaja tai varapuheenjohtaja. Kukaan ei kuitenkaan voi hyväksyä omia kulukorvaushakemuksiaan.
+
+Matkakulut korvataan julkisen liikenteen (Linja-auto ja juna) osalta opiskelijahintaisten matkalippujen mukaan. Matka korvataan, mikäli se on suoritettu yhdistyksen tehtävien hoitamiseksi.
+
+Muiden kulkuneuvojen osalta matkakulut korvataan vain etukäteen sovituissa tapauksissa.
