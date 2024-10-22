@@ -4,6 +4,7 @@ precision highp float;
 uniform vec2 u_resolution;
 uniform float u_time;
 uniform vec3 u_primary_accent;
+uniform int u_dark_mode;
 
 out vec4 outColor;
 
@@ -130,7 +131,16 @@ void main() {
     vec3 ro = cameraPosition;
     vec3 screen = vec3(uv, ro.z + 1.0f);
     vec3 rd = normalize(screen - ro);
-    vec4 marchResult = vec4(rayMarch(ro, rd), 1);
+    vec3 marchResult = vec3(rayMarch(ro, rd));
 
-    outColor = marchResult;
+    // Start fade
+    vec3 fade_from;
+    if (u_dark_mode == 1) {
+        fade_from = vec3(0);
+    } else {
+        fade_from = u_primary_accent;
+    }
+    float fade = min(u_time * 0.3f, 1.0f);
+
+    outColor = vec4(mix(fade_from, marchResult, fade), 1.0);
 }
