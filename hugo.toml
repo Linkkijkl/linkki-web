@@ -80,12 +80,21 @@ home = ["html", "rss", "api-sponsors"]
     parent = "menu.yhdistys"
     weight = 4
 
+
+[[languages.fi.menus.main]]
+    name = "Jäsenedut"
+    identifier = "menu.jäsenedut"
+    url = "/jäsenedut/"
+    parent = "menu.yhdistys"
+    weight = 5
+
+
 [[languages.fi.menus.main]]
     name = "Kunniamaininnat"
     identifier = "menu.kunniamaininnat"
     url = "/kunniamaininnat/"
     parent = "menu.yhdistys"
-    weight = 5
+    weight = 6
 
 
 [[languages.fi.menus.main]]
@@ -221,11 +230,19 @@ home = ["html", "rss", "api-sponsors"]
 
 
 [[languages.en.menus.main]]
+    name = "Membership Benefits"
+    identifier = "menu.jäsenedut"
+    url = "/en/benefits/"
+    parent = "menu.yhdistys"
+    weight = 5
+
+
+[[languages.en.menus.main]]
     name = "Honorary mentions"
     identifier = "menu.kunniamaininnat"
     url = "/en/honorary-mentions/"
     parent = "menu.yhdistys"
-    weight = 5
+    weight = 6
 
 
 [[languages.en.menus.main]]
