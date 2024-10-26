@@ -40,4 +40,4 @@ Because our subject association space is free for all to use, we hope that you r
 
 {{< kahvikamera >}}
 
-You can check the status of the coffee cam in almost real time on the website, where you can also express your need for caffeine with the press of a button: [kattila.cafe](https://kattila.cafe/)
+You can check the status of the coffee cam in almost real time on the website, where you can also express your need for caffeine with the press of a button: [kattila.linkkijkl.fi](https://kattila.linkkijkl.fi).
