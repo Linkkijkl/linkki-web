@@ -1,7 +1,8 @@
 weight: 100
-title: "Parantamisen varaa?"
+title: "Website Task Force"
 description: >
-  <p>Tämän sivun koodit löytyvät Linkin GitHubista.
-  Erityisesti englanniksi kääntämiseen tarvittaisiin apua.</p>
-image: "img/github-mark-white.svg"
+  <p>Ammottaako Githubin aktiivisuus tyhjyyttään?
+  Onko haalareissasi tilaa hienolle merkille?
+  Liity verkkosivutiimiin!</p>
+image: "img/wtf.svg"
 href: "https://github.com/linkkijkl"
