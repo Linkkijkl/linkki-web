@@ -116,3 +116,7 @@ Valid Mon-Thu, not on weekends or during holiday periods, by showing a valid stu
 * Student wine bottle 0,75l Red/White 18.90 €
 * 8, 12, 18 piece wing portions -10%
 * Combo which includes 10 wings and curly fries, choice of wing sauce, and blue cheese dip (also available as vegetarian) 16.90 €
+
+## Huoltokukko
+* 20% discount from peripherals
+* 20-50€ discount from computers, depending on computer

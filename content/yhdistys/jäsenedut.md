@@ -121,3 +121,7 @@ Voimassa Ma-To, ei viikonloppuna eikä loma-aikoina, voimassa olevaa opiskelijak
 * Opiskelija viini Plo 0,75l Punainen/ valkoinen 18,90 €
 * 8, 12, 18 kpl siipiannokset -10 %
 * Combo sis. 10 kpl siipeä ja kierteet, vapaavalintainen siipikastike sekä auradippi (myös vege) 16,90 €
+
+## Huoltokukko
+* 20% alennus oheislaitteista
+* 20-50€ alennus tietokoneesta riippuen
