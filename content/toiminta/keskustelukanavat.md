@@ -16,7 +16,7 @@ Kanavayhteys on sillattuna ainejärjestön muiden viestintäkanavien
 kanssa, eli keskusteluun voi osallistua haluamaltaan
 alustalta. Keskustelu on sillattuna seuraaviin palveluihin:
 
-- **Telegram**: @linkkijkl
+- **Telegram**: [@linkkijkl](https://t.me/linkkijkl)
 - **Matrix**: #linkkijkl:hacklab.fi
 - **IRC**: #linkki.jkl IRCnetissä
 - **Discord**: https://discord.com/invite/f9c6y97
