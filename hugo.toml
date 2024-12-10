@@ -365,7 +365,7 @@ home = ["html", "rss", "api-sponsors"]
                 <strong>Tietosuojaseloste</strong>
             </a>
             <br/>
-            <a class="text-uppercase" href="/yhdistys/säännöt/">
+            <a class="text-uppercase" href="/säännöt/">
                 <strong>Säännöt</strong>
             </a>
     """
