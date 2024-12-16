@@ -280,6 +280,7 @@ Telegram: [**@Aino_Sipola**](https://t.me/Aino_Sipola)
 [**sopo@linkkijkl.fi**](mailto:sopo@linkkijkl.fi)
 
 [Telegram: **@M0salu**](https://t.me/M0salu)
+{{< /img-thumb-cap >}}
 {{< /column >}}
 {{< /row >}}
 
