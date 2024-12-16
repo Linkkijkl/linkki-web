@@ -73,6 +73,7 @@ Vuoden linkkari -äänestys suoritetaan vuosittain marraskuussa ja
 sähköpostilla sekä Linkin nettisivuilla. 
 
 Seuraavat henkilöt on valittu Vuoden linkkareiksi:
+- Alexander Goldhill 2024
 - Tinja Vaskelainen 2018
 - Sara Afflekt-Lazar 2017
 - Leevi Leppälä 2016
