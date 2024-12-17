@@ -14,12 +14,12 @@ url = "board/2025"
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "nn.jpg" "300x" >}}
-## N.N.
+{{< img-thumb-cap "oskari-lahtinen.jpg" "300x" >}}
+## Oskari Lahtinen
 #### Chairperson
 [**pj@linkkijkl.fi**](mailto:pj@linkkijkl.fi)
 
-[Telegram: **@nn**](https://t.me/nn)
+[Telegram: **@ikaros02**](https://t.me/ikaros02)
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
