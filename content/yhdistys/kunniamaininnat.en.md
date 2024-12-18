@@ -73,6 +73,7 @@ and the voting period lasts for 3 weeks. The vote will be announced to
 the members via email and the website of the association. 
 
 The following people have been chosen as Linkeens of the year:
+- Alexander Goldhill 2024
 - Tinja Vaskelainen 2018
 - Sara Afflekt-Lazar 2017
 - Leevi Leppälä 2016

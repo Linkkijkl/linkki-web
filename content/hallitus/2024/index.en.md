@@ -7,6 +7,7 @@ summary = " "
 url = "board/2024"
 +++
 
+![Hallitus 2024](/img/hallitukset/hallitus2024.jpg)
 
 # Administrative team
 
