@@ -8,7 +8,7 @@ url = "keskustelukanavat"
 
 **Linkki Jyväskylä ry**:n virallinen keskustelukanava sijaitsee
 [Telegram-palvelussa](https://t.me). Keskustelukanavalle voit liittyä 
-[tästä](https://t.me/linkkijkl) tai hakemalla @linkkijkl. Vastaavassa palvelussa löytyy myös
+hakemalla Telegrammin sovelluksesta @linkkijkl. Vastaavassa palvelussa löytyy myös
 keskustelukanavalle linkitetty tiedotuskanava, jonka saat tilattua halutessasi
 [tästä](https://t.me/linkkijkl_info) tai hakemalla @linkkijkl_info.
 
@@ -16,7 +16,7 @@ Kanavayhteys on sillattuna ainejärjestön muiden viestintäkanavien
 kanssa, eli keskusteluun voi osallistua haluamaltaan
 alustalta. Keskustelu on sillattuna seuraaviin palveluihin:
 
-- **Telegram**: [@linkkijkl](https://t.me/linkkijkl)
+- **Telegram**: @linkkijkl
 - **Matrix**: #linkkijkl:hacklab.fi
 - **IRC**: #linkki.jkl IRCnetissä
 - **Discord**: https://discord.com/invite/f9c6y97
