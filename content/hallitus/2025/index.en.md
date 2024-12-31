@@ -14,7 +14,7 @@ url = "board/2025"
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "oskari-lahtinen.jpg" "300x" >}}
+{{< img-thumb-cap "placeholder.png" "300x" >}}
 ## Oskari Lahtinen
 #### Chairperson
 [**pj@linkkijkl.fi**](mailto:pj@linkkijkl.fi)
@@ -25,7 +25,7 @@ url = "board/2025"
 {{< /column >}}
 {{< column >}}
 
-{{< img-thumb-cap "alexander-goldhill.jpg" "300x" >}}
+{{< img-thumb-cap "placeholder.png" "300x" >}}
 ## Alexander Goldhill
 #### Vice Chairperson
 [**vpj@linkkijkl.fi**](mailto:vpj@linkkijkl.fi)
@@ -39,7 +39,7 @@ url = "board/2025"
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "juho-ropanen.jpg" "300x" >}}
+{{< img-thumb-cap "placeholder.png" "300x" >}}
 ## Juho Ropanen
 #### Secretary
 [**sihteeri@linkkijkl.fi**](mailto:sihteeri@linkkijkl.fi)
@@ -50,7 +50,7 @@ url = "board/2025"
 {{< /column >}}
 {{< column >}}
 
-{{< img-thumb-cap "arttu-juntunen.jpg" "300x" >}}
+{{< img-thumb-cap "placeholder.png" "300x" >}}
 ## Arttu Juntunen
 #### Treasurer
 [**raha@linkkijkl.fi**](mailto:raha@linkkijkl.fi)
@@ -79,7 +79,7 @@ url = "board/2025"
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "santeri-sormunen.png" "300x" >}}
+{{< img-thumb-cap "placeholder.png" "300x" >}}
 ## Santeri Sormunen
 #### Corporational and Collaborational Coordinator
 [**yritys@linkkijkl.fi**](mailto:yritys@linkkijkl.fi)
@@ -90,7 +90,7 @@ url = "board/2025"
 {{< /column >}}
 {{< column >}}
 
-{{< img-thumb-cap "eero-kainumaa.jpg" "300x" >}}
+{{< img-thumb-cap "placeholder.png" "300x" >}}
 ## Eero Kainumaa
 #### Corporational and Collaborational Coordinator
 [**yritys@linkkijkl.fi**](mailto:yritys@linkkijkl.fi)
@@ -119,7 +119,7 @@ url = "board/2025"
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "pekka-pihlajamaa.jpg" "300x" >}}
+{{< img-thumb-cap "placeholder.png" "300x" >}}
 ## Pekka Pihlajamaa
 #### Project Manager
 [**projekti@linkkijkl.fi**](mailto:projekti@linkkijkl.fi)
@@ -147,7 +147,7 @@ url = "board/2025"
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "jenna-tykkyläinen.jpg" "300x" >}}
+{{< img-thumb-cap "placeholder.png" "300x" >}}
 ## Jenna Tykkyläinen
 #### Event Coordinator
 [**tapahtuma@linkkijkl.fi**](mailto:tapahtuma@linkkijkl.fi)
@@ -158,7 +158,7 @@ url = "board/2025"
 {{< /column >}}
 {{< column >}}
 
-{{< img-thumb-cap "aleksi-sulasalmi.jpg" "300x" >}}
+{{< img-thumb-cap "placeholder.png" "300x" >}}
 ## Aleksi Sulasalmi
 #### Event Coordinator
 [**tapahtuma@linkkijkl.fi**](mailto:tapahtuma@linkkijkl.fi)
@@ -195,7 +195,7 @@ url = "board/2025"
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "johannes-horila.jpg" "300x" >}}
+{{< img-thumb-cap "placeholder.png" "300x" >}}
 ## Johannes Horila
 #### Wellness Coordinator
 [**hyvinvointi@linkkijkl.fi**](mailto:hyvinvointi@linkkijkl.fi)
@@ -282,7 +282,7 @@ Telegram: [**@Aino_Sipola**](https://t.me/Aino_Sipola)
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "alexander-goldhill.jpg" "300x" >}}
+{{< img-thumb-cap "placeholder.png" "300x" >}}
 ## Daniel Lobko
 #### Media Coordinator
 [**media@linkkijkl.fi**](mailto:media@linkkijkl.fi)

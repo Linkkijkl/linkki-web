@@ -17,7 +17,7 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "oskari-lahtinen.jpg" "300x" >}}
+{{< img-thumb-cap "placeholder.png" "300x" >}}
 ## Oskari Lahtinen
 #### Puheenjohtaja
 [**pj@linkkijkl.fi**](mailto:pj@linkkijkl.fi)
@@ -28,7 +28,7 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 {{< /column >}}
 {{< column >}}
 
-{{< img-thumb-cap "alexander-goldhill.jpg" "300x" >}}
+{{< img-thumb-cap "placeholder.png" "300x" >}}
 ## Alexander Goldhill
 #### Varapuheenjohtaja
 [**vpj@linkkijkl.fi**](mailto:vpj@linkkijkl.fi)
@@ -42,7 +42,7 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "juho-ropanen.jpg" "300x" >}}
+{{< img-thumb-cap "placeholder.png" "300x" >}}
 ## Juho Ropanen
 #### Sihteeri
 [**sihteeri@linkkijkl.fi**](mailto:sihteeri@linkkijkl.fi)
@@ -53,7 +53,7 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 {{< /column >}}
 {{< column >}}
 
-{{< img-thumb-cap "arttu-juntunen.jpg" "300x" >}}
+{{< img-thumb-cap "placeholder.png" "300x" >}}
 ## Arttu Juntunen
 #### Rahastonhoitaja
 [**raha@linkkijkl.fi**](mailto:raha@linkkijkl.fi)
@@ -84,7 +84,7 @@ Yritys- ja yhteistyötiimin tehtävänä on vaalia yhdistyksen yhteistyökumppan
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "santeri-sormunen.png" "300x" >}}
+{{< img-thumb-cap "placeholder.png" "300x" >}}
 ## Santeri Sormunen
 #### Yritys- ja yhteistyöpäällikkö
 [**yritys@linkkijkl.fi**](mailto:yritys@linkkijkl.fi)
@@ -95,7 +95,7 @@ Yritys- ja yhteistyötiimin tehtävänä on vaalia yhdistyksen yhteistyökumppan
 {{< /column >}}
 {{< column >}}
 
-{{< img-thumb-cap "eero-kainumaa.png" "300x" >}}
+{{< img-thumb-cap "placeholder.png" "300x" >}}
 ## Eero Kainumaa
 #### Yritys- ja yhteistyöpäällikkö
 [**yritys@linkkijkl.fi**](mailto:yritys@linkkijkl.fi)
@@ -107,7 +107,7 @@ Yritys- ja yhteistyötiimin tehtävänä on vaalia yhdistyksen yhteistyökumppan
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "lassi-karjalainen.jpg" "300x" >}}
+{{< img-thumb-cap "placeholder.png" "300x" >}}
 ## Lassi Karjalainen
 #### TiTOL-yhteyshenkilö
 [**projekti@linkkijkl.fi**](mailto:projekti@linkkijkl.fi)
@@ -125,7 +125,7 @@ Projektitiimi vastaa suurempien kokonaisuuksien ja tapahtumien, kuten esimerkiks
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "pekka-pihlajamaa.jpg" "300x" >}}
+{{< img-thumb-cap "placeholder.png" "300x" >}}
 ## Pekka Pihlajamaa
 #### Projektipäällikkö
 [**projekti@linkkijkl.fi**](mailto:projekti@linkkijkl.fi)
@@ -136,7 +136,7 @@ Projektitiimi vastaa suurempien kokonaisuuksien ja tapahtumien, kuten esimerkiks
 {{< /column >}}
 {{< column >}}
 
-{{< img-thumb-cap "pekka-pihlajamaa.jpg" "300x" >}}
+{{< img-thumb-cap "placeholder.png" "300x" >}}
 ## Lassi Karjalainen
 #### Projektipäällikkö
 [**projekti@linkkijkl.fi**](mailto:projekti@linkkijkl.fi)
@@ -155,7 +155,7 @@ Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistykse
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "jenna-tykkyläinen.jpg" "300x" >}}
+{{< img-thumb-cap "placeholder.png" "300x" >}}
 ## Jenna Tykkyläinen
 #### Tapahtumapäällikkö
 [**tapahtuma@linkkijkl.fi**](mailto:tapahtuma@linkkijkl.fi)
@@ -166,7 +166,7 @@ Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistykse
 {{< /column >}}
 {{< column >}}
 
-{{< img-thumb-cap "aleksi-sulasalmi.jpg" "300x" >}}
+{{< img-thumb-cap "placeholder.png" "300x" >}}
 ## Aleksi Sulasalmi
 #### Tapahtumapäällikkö
 [**tapahtuma@linkkijkl.fi**](mailto:tapahtuma@linkkijkl.fi)
@@ -204,7 +204,7 @@ Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnast
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "johannes-horila.jpg" "300x" >}}
+{{< img-thumb-cap "placeholder.png" "300x" >}}
 ## Johannes Horila
 #### Hyvinvointipäällikkö
 [**hyvinvointi@linkkijkl.fi**](mailto:hyvinvointi@linkkijkl.fi)
@@ -292,7 +292,7 @@ Mediatiimin tehtävänä on tiedottaa jäsenistöä yhdistyksen eri kanavissa ku
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "alexander-goldhill.jpg" "300x" >}}
+{{< img-thumb-cap "placeholder.png" "300x" >}}
 ## Daniel Lobko
 #### Mediapäällikkö
 [**media@linkkijkl.fi**](mailto:media@linkkijkl.fi)
