@@ -82,6 +82,7 @@ url = "board/2025"
 {{< img-thumb-cap "placeholder.png" "200x" >}}
 ## Santeri Sormunen
 #### Corporational and Collaborational Coordinator
+#### TEK and Loimu Coordinator
 [**yritys@linkkijkl.fi**](mailto:yritys@linkkijkl.fi)
 
 [Telegram: **@Santtuz**](https://t.me/Santtuz)
@@ -244,7 +245,8 @@ Telegram: [**@Aino_Sipola**](https://t.me/Aino_Sipola)
 
 {{< img-thumb-cap >}}
 ## Toni Pietiläinen
-#### Kattila Emperor
+#### Educational Policy Coordinator & Kattila Emperor
+[**kopo@linkkijkl.fi**](mailto:kopo@linkkijkl.fi)
 [Telegram: **@dnttu**](https://t.me/dnttu)
 {{< /img-thumb-cap >}}
 

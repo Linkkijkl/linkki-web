@@ -87,6 +87,7 @@ Yritys- ja yhteistyötiimin tehtävänä on vaalia yhdistyksen yhteistyökumppan
 {{< img-thumb-cap "placeholder.png" "200x" >}}
 ## Santeri Sormunen
 #### Yritys- ja yhteistyöpäällikkö
+#### TEK- ja Loimu-yhteyshenkilö
 [**yritys@linkkijkl.fi**](mailto:yritys@linkkijkl.fi)
 
 [Telegram: **@Santtuz**](https://t.me/Santtuz)
@@ -254,7 +255,8 @@ Telegram: [**@Aino_Sipola**](https://t.me/Aino_Sipola)
 
 {{< img-thumb-cap >}}
 ## Toni Pietiläinen
-#### Kattilakeisari
+#### Koulutuspoliittinen vastaava & Kattilakeisari 
+[**kopo@linkkijkl.fi**](mailto:kopo@linkkijkl.fi)
 [Telegram: **@dnttu**](https://t.me/dnttu)
 {{< /img-thumb-cap >}}
 
@@ -282,6 +284,7 @@ Telegram: [**@Aino_Sipola**](https://t.me/Aino_Sipola)
 [Telegram: **@M0salu**](https://t.me/M0salu)
 {{< /img-thumb-cap >}}
 {{< /column >}}
+
 {{< /row >}}
 
 
