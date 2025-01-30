@@ -4,7 +4,7 @@ theme = ["hugo-embed-pdf-shortcode", "hugo-universal-theme"]
 enableInlineShortcodes = true
 
 # Number of posts per page
-paginate = 10
+pagination.pagerSize = 10
 
 # Don't pluralize title pages by default
 pluralizeListTitles = false
