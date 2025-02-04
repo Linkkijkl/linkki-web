@@ -186,14 +186,6 @@ Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistykse
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
-{{< column >}}
-
-{{< img-thumb-cap >}}
-## Mikael Garam
-#### Liikuntavastaava
-{{< /img-thumb-cap >}}
-
-{{< /column >}}
 {{< /row >}}
 
 

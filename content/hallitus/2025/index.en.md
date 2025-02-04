@@ -179,14 +179,6 @@ url = "board/2025"
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
-{{< column >}}
-
-{{< img-thumb-cap >}}
-## Mikael Garam
-#### Sports Coordinator
-{{< /img-thumb-cap >}}
-
-{{< /column >}}
 {{< /row >}}
 
 
