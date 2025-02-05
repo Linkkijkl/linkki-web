@@ -3,7 +3,7 @@ title = "Hallitus 2025"
 date = "2025-01-01T00:00:00+02:00"
 description = "Linkin hallitus 2025"
 categories = ["hallitukset"]
-authors = []
+authors = ["Oskari Lahtinen", "Alexander Goldhill", "Juho Ropanen", "Arttu Juntunen", "Santeri Sormunen", "Eero Kainumaa", "Lassi Karjalainen", "Pekka Pihjalamaa", "Jenna Tykkyläinen", "Aleksi Sulasalmi", "Aino Sipola", "Johannes Horila", "Taru Nikkanen", "Toni Pietiläinen", "Emma Järvinen", "Mortti Luhtala", "Daniel Lobko", "Lari Nurkka"]
 banner = "/img/hallitukset/hallitus2025.webp"
 summary = " "
 +++
