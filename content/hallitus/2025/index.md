@@ -3,12 +3,12 @@ title = "Hallitus 2025"
 date = "2025-01-01T00:00:00+02:00"
 description = "Linkin hallitus 2025"
 categories = ["hallitukset"]
-authors = []
-banner = "/img/hallitukset/hallitus2025.jpg"
+authors = ["Oskari Lahtinen", "Alexander Goldhill", "Juho Ropanen", "Arttu Juntunen", "Santeri Sormunen", "Eero Kainumaa", "Lassi Karjalainen", "Pekka Pihjalamaa", "Jenna Tykkyläinen", "Aleksi Sulasalmi", "Aino Sipola", "Johannes Horila", "Taru Nikkanen", "Toni Pietiläinen", "Emma Järvinen", "Mortti Luhtala", "Daniel Lobko", "Lari Nurkka"]
+banner = "/img/hallitukset/hallitus2025.webp"
 summary = " "
 +++
 
-![Hallitus 2025](/img/hallitukset/hallitus2025.jpg)
+![Hallitus 2025](/img/hallitukset/hallitus2025.webp)
 
 # Hallintotiimi
 
@@ -17,7 +17,7 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap "oskari.webp" "200x" >}}
 ## Oskari Lahtinen
 #### Puheenjohtaja
 [**pj@linkkijkl.fi**](mailto:pj@linkkijkl.fi)
@@ -28,7 +28,7 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 {{< /column >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap "alex.webp" "200x" >}}
 ## Alexander Goldhill
 #### Varapuheenjohtaja
 [**vpj@linkkijkl.fi**](mailto:vpj@linkkijkl.fi)
@@ -42,7 +42,7 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap "juho.webp" "200x" >}}
 ## Juho Ropanen
 #### Sihteeri
 [**sihteeri@linkkijkl.fi**](mailto:sihteeri@linkkijkl.fi)
@@ -53,7 +53,7 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 {{< /column >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap "arttu.webp" "200x" >}}
 ## Arttu Juntunen
 #### Rahastonhoitaja
 [**raha@linkkijkl.fi**](mailto:raha@linkkijkl.fi)
@@ -64,17 +64,6 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 {{< /column >}}
 {{< /row >}}
 
-{{< row >}}
-{{< column >}}
-
-{{< img-thumb-cap >}}
-## Ossi Rantala
-#### Hallitusmentori
-[Telegram: **@Zualix**](https://t.me/Zualix)
-{{< /img-thumb-cap >}}
-
-{{< /column >}}
-{{< /row >}}
 
 
 # Yritys- ja yhteistyötiimi
@@ -84,7 +73,7 @@ Yritys- ja yhteistyötiimin tehtävänä on vaalia yhdistyksen yhteistyökumppan
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap "santeri.webp" "200x" >}}
 ## Santeri Sormunen
 #### Yritys- ja yhteistyöpäällikkö
 #### TEK- ja Loimu-yhteyshenkilö
@@ -96,7 +85,7 @@ Yritys- ja yhteistyötiimin tehtävänä on vaalia yhdistyksen yhteistyökumppan
 {{< /column >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap "eero.webp" "200x" >}}
 ## Eero Kainumaa
 #### Yritys- ja yhteistyöpäällikkö
 [**yritys@linkkijkl.fi**](mailto:yritys@linkkijkl.fi)
@@ -108,7 +97,7 @@ Yritys- ja yhteistyötiimin tehtävänä on vaalia yhdistyksen yhteistyökumppan
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap "lassi.webp" "200x" >}}
 ## Lassi Karjalainen
 #### TiTOL-yhteyshenkilö
 [**projekti@linkkijkl.fi**](mailto:projekti@linkkijkl.fi)
@@ -126,7 +115,7 @@ Projektitiimi vastaa suurempien kokonaisuuksien ja tapahtumien, kuten esimerkiks
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap "pekka.webp" "200x" >}}
 ## Pekka Pihlajamaa
 #### Projektipäällikkö
 [**projekti@linkkijkl.fi**](mailto:projekti@linkkijkl.fi)
@@ -137,7 +126,7 @@ Projektitiimi vastaa suurempien kokonaisuuksien ja tapahtumien, kuten esimerkiks
 {{< /column >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap "lassi.webp" "200x" >}}
 ## Lassi Karjalainen
 #### Projektipäällikkö
 [**projekti@linkkijkl.fi**](mailto:projekti@linkkijkl.fi)
@@ -156,7 +145,7 @@ Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistykse
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap "jenna.webp" "200x" >}}
 ## Jenna Tykkyläinen
 #### Tapahtumapäällikkö
 [**tapahtuma@linkkijkl.fi**](mailto:tapahtuma@linkkijkl.fi)
@@ -167,7 +156,7 @@ Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistykse
 {{< /column >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap "aleksi.webp" "200x" >}}
 ## Aleksi Sulasalmi
 #### Tapahtumapäällikkö
 [**tapahtuma@linkkijkl.fi**](mailto:tapahtuma@linkkijkl.fi)
@@ -197,7 +186,7 @@ Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnast
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap "johannes.webp" "200x" >}}
 ## Johannes Horila
 #### Hyvinvointipäällikkö
 [**hyvinvointi@linkkijkl.fi**](mailto:hyvinvointi@linkkijkl.fi)
@@ -221,7 +210,7 @@ Telegram: [**@Aino_Sipola**](https://t.me/Aino_Sipola)
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap >}}
+{{< img-thumb-cap "arttu.webp" "200x" >}}
 ## Arttu Juntunen
 #### Fuksivastaava
 [**fuksivastaava@linkkijkl.fi**](mailto:fuksivastaava@linkkijkl.fi)
@@ -287,7 +276,7 @@ Mediatiimin tehtävänä on tiedottaa jäsenistöä yhdistyksen eri kanavissa ku
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap "dani.webp" "200x" >}}
 ## Daniel Lobko
 #### Mediapäällikkö
 [**media@linkkijkl.fi**](mailto:media@linkkijkl.fi)
