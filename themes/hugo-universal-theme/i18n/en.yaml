@@ -120,3 +120,6 @@
 
 - id: tableOfContents
   translation: Contents
+
+- id: invoicing
+  translation: Invoicing
