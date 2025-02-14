@@ -480,3 +480,6 @@ home = ["html", "rss", "api-sponsors"]
     categories = false
     tags = false
     search = true
+
+[params.footer.recent_posts]
+    enable = false
