@@ -21,6 +21,7 @@ $(function () {
   counters()
   demo()
   contactFormAjax()
+  masonries()
 })
 
 // Ajax contact
@@ -95,16 +96,6 @@ function sliderHomepage () {
 /* sliders */
 function sliders () {
   if ($('.owl-carousel').length) {
-    $('.customers').owlCarousel({
-      items: ($('.customers').attr('data-items') || 6),
-      slideSpeed: ($('.customers').attr('data-slide-speed') || 2000),
-      paginationSpeed: ($('.customers').attr('data-pagination-speed') || 1000),
-      autoPlay: $('.customers').attr('data-autoplay') === 'true',
-      itemsDesktopSmall: [990, 4],
-      itemsTablet: [768, 2],
-      itemsMobile: [480, 1]
-    })
-
     $('.testimonials').owlCarousel({
       items: ($('.testimonials').attr('data-items') || 4),
       slideSpeed: ($('.testimonials').attr('data-slide-speed') || 2000),
@@ -133,6 +124,14 @@ function sliders () {
       }
     })
   }
+}
+
+/* masonries */
+function masonries () {
+  $('.customers').masonry({
+    itemSelector: '.item',
+    percentPosition: true,
+  });
 }
 
 /* menu sliding */
