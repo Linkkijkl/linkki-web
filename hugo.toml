@@ -369,6 +369,16 @@ home = ["html", "rss", "api-sponsors"]
                 <strong>Säännöt</strong>
             </a>
     """
+    invoicing = """
+            <p class="text-uppercase">
+                Suosimme verkkolaskutusta!<br/>
+                <br/>
+                Verkkolaskuosoite: <strong>003721471784</strong><br/>
+                Operaattoritunnus: <strong>OKOYFIHH</strong><br/>
+                Välittäjä: <strong>OP Osuuskunta</strong><br/>
+                Sähköposti: <strong>raha@linkkijkl.fi</strong><br/>
+            </p>
+    """
 
 
 [languages.en.params]
@@ -380,6 +390,16 @@ home = ["html", "rss", "api-sponsors"]
             <a class="text-uppercase" href="/en/rules">
                 <strong>Rules</strong>
             </a>
+    """
+    invoicing = """
+            <p class="text-uppercase">
+                We prefer e-invoicing!<br/>
+                <br/>
+                E-billing address: <strong>003721471784</strong><br/>
+                Operator ID: <strong>OKOYFIHH</strong><br/>
+                Operator: <strong>OP Osuuskunta</strong><br/>
+                Email: <strong>raha@linkkijkl.fi</strong><br/>
+            </p>
     """
 
 
@@ -460,3 +480,6 @@ home = ["html", "rss", "api-sponsors"]
     categories = false
     tags = false
     search = true
+
+[params.footer.recent_posts]
+    enable = false

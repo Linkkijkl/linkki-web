@@ -120,3 +120,6 @@
 
 - id: tableOfContents
   translation: Sisältö
+
+- id: invoicing
+  translation: Laskutus

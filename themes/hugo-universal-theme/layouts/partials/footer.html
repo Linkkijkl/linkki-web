@@ -13,6 +13,18 @@
         <!-- /.col-md-4 -->
         {{ end }}
 
+        {{ if isset .Site.Params "invoicing" }}
+        <div class="col-md-4 col-sm-6">
+            <h4>{{ i18n "invoicing" }}</h4>
+
+            {{ .Site.Params.invoicing | safeHTML }}
+
+            <hr class="hidden-md hidden-lg hidden-sm">
+
+        </div>
+        <!-- /.col-md-4 -->
+        {{ end }}
+
         <div class="col-md-4 col-sm-6">
 
             {{ if isset .Site.Params "recent_posts" }}{{ if (default true .Site.Params.footer.recent_posts.enable) }}
@@ -37,7 +49,7 @@
                 {{ end }}
             </div>
 
-            <hr class="hidden-md hidden-lg">
+            <hr class="hidden-md hidden-lg hidden-sm">
             {{ end }}{{ end }}
 
         </div>
