@@ -1,6 +1,7 @@
 :root {
     /* All colors overridden to here for easier access */
     --primary-accent: #387dff;
+    --background2: #ddd;
     --navbar-border-top: #294d76;
     --button-border: #336194;
     --link-focus: #2f5a89;
@@ -155,4 +156,17 @@ figcaption :first-child {
 #TableOfContents > ol ol {
     list-style: disc;
     text-transform: none;
+}
+
+.customers .item {
+    margin: 0;
+    margin-bottom: 50px;
+}
+
+.bar.background-gray {
+    background-color: var(--background2);
+}
+
+.clients {
+    padding-bottom: 0;
 }
