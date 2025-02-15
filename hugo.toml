@@ -409,7 +409,7 @@ home = ["html", "rss", "api-sponsors"]
     # For more information take a look at the README.
     enable = true
     auto_play = true
-    pagination_speed = 1000
+    pagination_speed = 1500
 
 
 [params.carouselCustomers]
