@@ -21,7 +21,7 @@ Näyttämällä **LINKKI-JÄSENTARRAA** oston yhteydessä, saat käyttöösi seu
 ## DeLorean
 * -2€ listacocktaileista
 * Hanajuomat ja kaikki viinit -20%
-* Linkkariviinipullo 17€
+* Linkkariviinipullo 20€
 
 ## Jyväskylän kiipeilykeskus
 * Kertakäynti 8€

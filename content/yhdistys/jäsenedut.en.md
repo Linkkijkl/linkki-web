@@ -21,7 +21,7 @@ By showing the **LINKKI MEMBERSHIP STICKER** at purchase, you'll have access to 
 ## DeLorean
 * -2€ discount of list cocktails
 * Taps and wines -20%
-* Linkki wine bottle 17€
+* Linkki wine bottle 20€
 
 ## Jyväskylän kiipeilykeskus / Jyväskylä Climbing Centre
 * One session 8€ (incl. shoes)
