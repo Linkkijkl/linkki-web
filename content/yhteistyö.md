@@ -5,12 +5,12 @@ keywords = ["yritys", "yritykset", "yhteistyö"]
 +++
 
 **Linkki Jyväskylä ry** (puhekielessä Linkki) on Jyväskylän yliopiston
-tietotekniikan ja koulutusteknologian opiskelijoiden
-ainejärjestö. Järjestössä on yli 1000 jäsentä ja olemme yksi
+tietojenkäsittelytieteen ja koulutusteknologian opiskelijoiden
+ainejärjestö. Järjestössä on yli 2000 jäsentä ja olemme yksi
 yliopiston nopeimmin kasvavista ainejärjestöistä. Yhteistyö **Linkki
 Jyväskylä ry**:n kanssa antaa yritykselle oivan väylän päästä
-tutustumaan tulevaisuuden huippuosaajiin niin tietotekniikan kuin
-koulutusteknologian osa-alueilta.
+tutustumaan tulevaisuuden huippuosaajiin niin tietojenkäsittelytieteen
+kuin koulutusteknologian osa-alueilta.
 
 Lisätietoja yhteistyömahdollisuuksista saat lähettämällä sähköpostia
 suoraan yritys- ja yhteistyöpäälliköllemme (yritys@linkkijkl.fi).
@@ -23,7 +23,7 @@ Yritysvierailut, jotka kulkevat opiskelijapiireissä nimellä excursiot
 ovat yritykselle otollinen tilaisuus päästä esittelemään yrityksen
 toimintaa ja tiloja, sekä yritystä työnantajana. Yritysvierailuilla
 opiskelijat pääsevät aidosti tutustumaan yrityksiin ja sen
-työntekijöihin.
+työntekijöihin. Suuri osa jäsenistämme työllistyy jo opintojen aikana.
 
 ### Opiskelijahaalarit
 
