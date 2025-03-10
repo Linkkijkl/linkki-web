@@ -72,4 +72,4 @@ entitled to pre-agreed benefits.
 Our methods for collaboration are not limited to those listed above; we
 are always ready to develop new collaboration methods. If you have a new
 form of collaboration in mind, we are ready to develop it further together.
-Plase send a message to yritys@linkkijkl.fi .
+Please send a message to yritys@linkkijkl.fi .
