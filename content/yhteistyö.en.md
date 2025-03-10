@@ -6,12 +6,12 @@ url = "collaboration"
 +++
 
 **Linkki Jyväskylä ry**, Linkki is a sizable student association for
-Mathematical Information Tehnology, and Educational Technology majors
-and minors in University of Jyväskylä. The association has over 1000
+Computer Science and Educational Technology majors
+and minors in University of Jyväskylä. The association has over 2000
 members and we are amongst the fastest growing student associations in
 Jyväskylä. Collaboration with **Linkki Jyväskylä ry** provides companies
 with an excellent avenue to connect with future experts in both
-Information- and Educational Technology.
+Computer Science and Educational Technology.
 
 For more information on collaboration opportunities, please end an email
 directly to our Corporate and Partnership Manager (yritys@linkkijkl.fi).
@@ -24,7 +24,8 @@ directly to our Corporate and Partnership Manager (yritys@linkkijkl.fi).
 Company visits, known among students as excursions, provide companies with
 a great opportunity to showcase their operations and facilities, as well
 as themselves as employers. During these visits, students get an opportunity
-to genuinely know the companies and their employees.
+to genuinely know the companies and their employees. A lot of our
+members get employed during their studies.
 
 ### Student Overalls
 
@@ -71,4 +72,4 @@ entitled to pre-agreed benefits.
 Our methods for collaboration are not limited to those listed above; we
 are always ready to develop new collaboration methods. If you have a new
 form of collaboration in mind, we are ready to develop it further together.
-Plase send a message to yritys@linkkijkl.fi .
+Please send a message to yritys@linkkijkl.fi .
