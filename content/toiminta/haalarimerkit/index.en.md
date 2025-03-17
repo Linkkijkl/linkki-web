@@ -21,17 +21,16 @@ Available payment methods are Mobilepay and card payment. 1pcs 3‚Ç¨ and 2pcs 5‚Ç
 {{< /column>}}
 {{< column width=4 >}}
 
-{{< img-thumb-cap "merkit/java.webp" "x200" >}}
+{{< img-thumb-cap "merkit/kerhojar.webp" "x200" >}}
 
-#### Letsgo.jar
+#### Kerho.jar
 {{< /img-thumb-cap >}}
-
 {{< /column >}}
 {{< column width=4 >}}
 
 {{< img-thumb-cap "merkit/senor-developer.webp" "x200" >}}
 
-#### Senor developer
+#### Se√±or developer
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
@@ -49,7 +48,7 @@ Available payment methods are Mobilepay and card payment. 1pcs 3‚Ç¨ and 2pcs 5‚Ç
 
 {{< img-thumb-cap "merkit/viiden-nopan-kurssi.webp" "x200" >}}
 
-#### 5 sp course
+#### It was 5 ECTS course
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
@@ -93,7 +92,7 @@ Available payment methods are Mobilepay and card payment. 1pcs 3‚Ç¨ and 2pcs 5‚Ç
 
 {{< img-thumb-cap "merkit/ei-voi-tulla-darra.webp" "x200" >}}
 
-#### Can't get hung over
+#### Can't get hung over if you never stop drinking
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
@@ -117,14 +116,28 @@ Available payment methods are Mobilepay and card payment. 1pcs 3‚Ç¨ and 2pcs 5‚Ç
 
 {{< /row >}}
 {{< row >}}
-
 {{< column width=4 >}}
 
-{{< img-thumb-cap "merkit/kerhojar.webp" "x200" >}}
+{{< img-thumb-cap "merkit/komee.png" "x200" >}}
 
-#### Kerho.jar
+#### Handsome and good at coding
 {{< /img-thumb-cap >}}
 {{< /column >}}
+{{< column width=4 >}}
+
+{{< img-thumb-cap "merkit/haluankahvia.png" "x200" >}}
+
+#### I want coffee
+{{< /img-thumb-cap >}}
+{{< /column >}}
+{{< column width=4 >}}
+
+{{< img-thumb-cap "merkit/cattila.png" "x200" >}}
+
+#### cat space
+{{< /img-thumb-cap >}}
+{{< /column >}}
+
 {{< /row >}}
 
 # Patches of past events
