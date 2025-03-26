@@ -2,6 +2,7 @@
 title = "Uuden opiskelijan (fuksin) opas"
 description = ""
 keywords = ["fuksit"]
+url = "fuksit"
 +++
 
 Tervetuloa Jyväskylään opiskelemaan tietojenkäsittelytiedettä!
@@ -46,6 +47,6 @@ Linkki Jyväskylä ry (tuttavallisemmin Linkki) on
 tietojenkäsittelytieteen, tietotekniikan sekä koulutusteknologian
 pääaine-, sivuaine- ja jatko-opiskelijoiden ikioma
 ainejärjestö. Linkkiin liittyminen on ilmaista ja liittymällä saat
-edunvalvontaa, tapahtumia, [alennuksia yhteistyökumppaneilta](/yhdistys/jäsenyys/#jäsenedut)
-Linkki-tarralla sekä maksutonta kahvia [Kattilassa](/toiminta/kattila).
+edunvalvontaa, tapahtumia, [alennuksia yhteistyökumppaneilta](/jäsenyys/#jäsenedut)
+Linkki-tarralla sekä maksutonta kahvia [Kattilassa](/kattila/).
 Linkin hakulomakkeeseen löydät [etusivulta](/).

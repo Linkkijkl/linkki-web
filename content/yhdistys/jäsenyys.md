@@ -1,10 +1,9 @@
 +++
 title = "Jäsenyys"
 description = "Ainejärjestön jäsenyys"
-keywords = ["jäsenyys", "aktiivi", "jäsen", "jäsenedut", "lomake"]
+keywords = ["jäsenyys", "aktiivi", "jäsen", "lomake"]
+url = "jäsenyys"
 +++
-
-{{< table-of-contents end=2 >}}
 
 Ainejärjestön jäsenyys tarkoittaa perinteisesti elämänmittaisia
 kaverisuhteita ja juuri opiskelijan näköistä
@@ -63,72 +62,3 @@ säännöt sekä tavoitteet.
   kunniajäsenet syyskokouksessa 2015. Jäsenet voivat ilmoittaa
   ehdottamiaan kunniajäseniä yhdistyksen puheenjohtajalle
   sähköpostilla osoitteeseen pj@linkkijkl.fi.
-
-# Jäsenedut
-
-## Antishop
-* 10% alennus normaalihintaisista myymälän tuotteista
-
-## Club Escape
-* Hanaolut 0,3l 4,20 €
-* Hanasiideri 0,3l 4,90 €
-* Hanalonkero 0,3l 4.90 €
-* Linkki -drinkki 4,90 €
-
-## DeLorean
-* -2€ listacocktaileista
-* Hanajuomat ja kaikki viinit -20%
-* Linkkariviinipullo 17€
-
-## Jyväskylän kiipeilykeskus
-* Kertakäynti 8€
-* Viiden kerran sarjakortti 35€
-* Top Rope -kurssi + 5 harjoittelukertaa 55€ (sisältää valjasvuokran)
-
-Kaikki hinnat sisältävät kenkävuokran.
-
-## Teerenpeli
-
-* Teerenpelin panimon hanatuotteet -15%
-* Teerenpelin Mustikka tai Puolukka-snapsi 4cl 3€
-* Drinkit MustikkaMuuli tai Pulina 5€
-* Viini punainen tai valkoinen 12cl 4€
-* Koko pullo viiniä 23€
-* Kahvi tai tee 1€
-* Pieni limu 1€
-* Iso limu 2€
-* Sulami järrikerrosleipä 7,5€
-* Ranskalaiset 3€
-* Talvikaudella kaakao 2€
-
-## Karaoke Bar Helmi
-
-* Happy hour -hinnaston mukaiset hinnat tiistaista torstaihin koko illan, ja
-perjantaista lauantaihin klo 22 asti
-* Sisäänpääsy sekä narikkapalvelu ilmaiseksi
-* Linkki-juoma 6 €
-* Helmen karaoke -kabinetti arkipäivisin 50 € hintaan
-
-## Laajiksen kesäkausi
-
-### Seikkailupuisto
-* Alennus: Seikkailulippu -20% / seikkailuaikaa max. 3 tuntia
-  * Voimassa kaikkina päivinä läpi seikkailukauden
-  * RAJAUKSET: Ei koske valonseikkailua eikä pikaseikkailua
-  * Varaustapa: Vain ennakkovaraus netin kautta (jäsenyys todistettava vielä paikan päällä)
-  * Alekoodi: **AJPuisto24!**
-
-### Bikepark alamäkipyöräily
-* Alennus:  Bikepark paketti 50€ Ghost täysjousto -enduropyörällä / kesto 2 tuntia
-  * Sisältää hissilipun, vuokrapyörän ja suojavarusteet (ei sisällä *keycard -lippupohjaa)
-  * Voimassa kaikkina päivinä läpi bikepark kauden.
-  * Pyörämallin korotus 15€ (premium malleina mm. Commencal, Specialized, Production Privet).
-  * Varaustapa: Vain ennakkovaraus netin kautta (jäsenyys todistettava vielä paikan päällä)
-  * **HUOM!** vastoin alkuperäistä ohjetta, emme pysty tätä pakettia vielä laittamaan nettimyyntiin sellaisenaan. Eli toistaiseksi Bikepark kokeilupaketin saa tähän erikoishintaan varaamalla sen etukäteen puhelimitse vuokraamon numerosta 0207 436 437 tai sähköpostilla osoitteesta vuokraamo@laajis.fi
-
-### eFatbike vuokraus
-* Alennus: eFatbike vuokra 40€ / 2 tuntia
-  * Sisältää pyörän ja kypärän (ei sisällä kuluturvaa)
-  * Voimassa kaikkina päivinä.
-  * Varaustapa: Vain ennakkovaraus netin kautta (jäsenyys todistettava vielä paikan päällä)
-  * Alekoodi: **AJeFat23!**

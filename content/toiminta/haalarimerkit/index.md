@@ -2,11 +2,12 @@
 title = "Haalarimerkit"
 description = ""
 keywords = ["haalarimerkit"]
+url = "haalarimerkit"
 +++
 
 # Linkin myymät haalarimerkit
 
-Hae omasi [Kattilasta](/toiminta/kattila)!
+Hae omasi [Kattilasta](/kattila/)!
 Maksutapoina toimii Mobilepay ja korttimaksu. 1kpl 3€ ja 2kpl 5€
 
 {{< row >}}
@@ -20,11 +21,10 @@ Maksutapoina toimii Mobilepay ja korttimaksu. 1kpl 3€ ja 2kpl 5€
 {{< /column>}}
 {{< column width=4 >}}
 
-{{< img-thumb-cap "merkit/java.webp" "x200" >}}
+{{< img-thumb-cap "merkit/kerhojar.webp" "x200" >}}
 
-#### Letsgo.jar
+#### Kerho.jar
 {{< /img-thumb-cap >}}
-
 {{< /column >}}
 {{< column width=4 >}}
 
@@ -116,10 +116,35 @@ Maksutapoina toimii Mobilepay ja korttimaksu. 1kpl 3€ ja 2kpl 5€
 
 {{< /row >}}
 
+{{< row >}}
+{{< column width=4 >}}
+
+{{< img-thumb-cap "merkit/komee.png" "x200" >}}
+
+#### Komee ja hyvä koodaa
+{{< /img-thumb-cap >}}
+{{< /column >}}
+{{< column width=4 >}}
+
+{{< img-thumb-cap "merkit/haluankahvia.png" "x200" >}}
+
+#### Haluan kahvia
+{{< /img-thumb-cap >}}
+{{< /column >}}
+
+{{< column width=4 >}}
+{{< img-thumb-cap "merkit/cattila.png" "x200" >}}
+
+#### cat tila
+{{< /img-thumb-cap >}}
+{{< /column >}}
+
+{{< /row >}}
+
 # Jämälaari
 
 Kasa merkkejä alennettuun hintaan 0.50€ kpl. Valikoima vaihtelee ja se on
-esillä [Kattilan](/toiminta/kattila/) seinällä.
+esillä [Kattilan](/kattila/) seinällä.
 
 {{< img-thumb-cap "merkit/jämälaari.webp" "x600" >}}
 {{< /img-thumb-cap >}}

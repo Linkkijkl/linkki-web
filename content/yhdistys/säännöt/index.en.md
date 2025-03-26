@@ -2,7 +2,7 @@
 title = "Rules and Guides"
 description = "Rules and guides"
 keywords = ["rules", "guides"]
-url = "association/rules"
+url = "rules"
 +++
 
 Unfortunately we don't have the resources to translate all our rules and guides
@@ -19,4 +19,4 @@ The web page of Linkki Jyväskylä ry ([linkkijkl.fi]()) does not collect user d
 
 # JYY’s Principles of a Safer Space
 
-{{< embed-pdf url="/yhdistys/säännöt/principles-of-a-safer-space.pdf" >}}
+{{< embed-pdf url="/säännöt/principles-of-a-safer-space.pdf" >}}

@@ -1,11 +1,13 @@
 +++
 title = "Board of Directors 2024"
 date = "2024-01-01T00:00:00+02:00"
-authors = ["Santeri Sormunen", "Oskari Lahtinen", "Lassi Karjalainen", "Vili Kärkkäinen", "Ossi Rantala", "Valtteri Hiltunen", "Viljami Töhönen", "Juho Kallijärvi", "Emma Järvinen", "Jami Virtanen", "Pekka Pihjalamaa", "Mortti Luhtala", "Aleksi Sulasalmi", "Jules Kuortti", "Veeti Kataja", "Jenna Tykkyläinen", "Veikko Havula", "Aina Seppänen", "Aino Sipola", "Johannes Horila", "Taru Nikkanen", "Toni Pietiläinen", "Jaakko Siika-aho", "Juho Ropanen", "Alexander Goldhill", "Lari Nurkka"]
+authors = ["Santeri Sormunen", "Oskari Lahtinen", "Lassi Karjalainen", "Vili Kärkkäinen", "Ossi Rantala", "Valtteri Hiltunen", "Viljami Töhönen", "Juho Kallijärvi", "Emma Järvinen", "Jami Virtanen", "Pekka Pihjalamaa", "Mortti Luhtala", "Aleksi Sulasalmi", "Jules Kuortti", "Veeti Kataja", "Jenna Tykkyläinen", "Veikko Havula", "Aina Seppänen", "Aino Sipola", "Johannes Horila", "Taru Nikkanen", "Toni Pietiläinen", "Jaakko Siika-aho", "Juho Ropanen", "Alexander Goldhill", "Lari Nurkka", "Mikael Garam", "Taro Kaatrasalo", "Mysky Särekallio", "Valtteri Timmonen"]
 banner = "/img/hallitukset/hallitus2024.jpg"
 summary = " "
 url = "board/2024"
 +++
+
+![Hallitus 2024](/img/hallitukset/hallitus2024.jpg)
 
 # Administrative team
 
@@ -33,6 +35,7 @@ url = "board/2024"
 
 {{< /column >}}
 {{< /row >}}
+
 {{< row >}}
 {{< column >}}
 
@@ -57,6 +60,7 @@ url = "board/2024"
 
 {{< /column >}}
 {{< /row >}}
+
 {{< row >}}
 {{< column >}}
 
@@ -68,6 +72,7 @@ url = "board/2024"
 
 {{< /column >}}
 {{< /row >}}
+
 
 # Corporational and Collaborational Team
 
@@ -95,6 +100,7 @@ url = "board/2024"
 
 {{< /column >}}
 {{< /row >}}
+
 {{< row>}}
 {{< column >}}
 
@@ -117,8 +123,8 @@ url = "board/2024"
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
-
 {{< /row >}}
+
 
 # Project Team
 
@@ -137,11 +143,25 @@ url = "board/2024"
 {{< column >}}
 
 {{< img-thumb-cap >}}
-## Ossi Rantala ja Jami Virtanen
-#### Jyväsmetro Coordinators
+## Jami Virtanen
+#### Jyväsmetro Coordinator
 [**projektipaallikko@jyvasmetro.fi**](mailto:projektipaallikko@jyvasmetro.fi)
 
-Telegram: [**@Zualix**](https://t.me/Zualix) ja [**@lehtisolmu**](https://t.me/lehtisolmu)
+[Telegram: **@lehtisolmu**](https://t.me/lehtisolmu)
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< /row >}}
+
+{{< row >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Ossi Rantala
+#### Jyväsmetro Coordinator
+[**projektipaallikko@jyvasmetro.fi**](mailto:projektipaallikko@jyvasmetro.fi)
+
+[Telegram: **@Zualix**](https://t.me/Zualix)
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
@@ -174,6 +194,7 @@ Telegram: [**@Zualix**](https://t.me/Zualix) ja [**@lehtisolmu**](https://t.me/l
 
 {{< /column >}}
 {{< /row >}}
+
 {{< row >}}
 {{< column >}}
 
@@ -211,6 +232,7 @@ Telegram: [**@Zualix**](https://t.me/Zualix) ja [**@lehtisolmu**](https://t.me/l
 
 {{< /column >}}
 {{< /row >}}
+
 {{< row >}}
 {{< column >}}
 
@@ -240,7 +262,16 @@ Telegram: [**@Zualix**](https://t.me/Zualix) ja [**@lehtisolmu**](https://t.me/l
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Mikael Garam
+#### Event Team Member
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
 {{< /row >}}
+
 
 # Wellbeing Team
 
@@ -249,9 +280,8 @@ Telegram: [**@Zualix**](https://t.me/Zualix) ja [**@lehtisolmu**](https://t.me/l
 
 {{< img-thumb-cap "johannes-horila.jpg" "300x" >}}
 ## Johannes Horila
-#### Wellness and Educational Policy Coordinator
+#### Wellness Coordinator
 [**hyvinvointi@linkkijkl.fi**](mailto:hyvinvointi@linkkijkl.fi)
-& [**kopo@linkkijkl.fi**](mailto:kopo@linkkijkl.fi)
 
 [Telegram: **@Johanneshor**](https://t.me/Johanneshor)
 {{< /img-thumb-cap >}}
@@ -260,7 +290,7 @@ Telegram: [**@Zualix**](https://t.me/Zualix) ja [**@lehtisolmu**](https://t.me/l
 {{< column >}}
 
 {{< img-thumb-cap >}}
-## Aino Sipola & Taru Nikkanen
+## Aino Sipola
 #### International Affairs Coordinator
 [**kv@linkkijkl.fi**](mailto:kv@linkkijkl.fi)
 
@@ -270,6 +300,32 @@ ja [**@taruksn**](https://t.me/taruksn)
 
 {{< /column >}}
 {{< /row >}}
+
+{{< row >}}
+{{< column >}}
+{{< img-thumb-cap >}}
+## Arttu Juntunen
+#### Freshman Coordinator
+[**fuksivastaava@linkkijkl.fi**](mailto:fuksivastaava@linkkijkl.fi)
+
+[Telegram: **@Djuntunen**](https://t.me/Djuntunen)
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Taru Nikkanen
+#### Freshman Coordinator & International Affairs Coordinator
+[**fuksivastaava@linkkijkl.fi**](mailto:fuksivastaava@linkkijkl.fi)
+& [**kv@linkkijkl.fi**](mailto:kv@linkkijkl.fi)
+
+[Telegram: **@taruksn**](https://t.me/taruksn)
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< /row >}}
+
 {{< row >}}
 {{< column >}}
 
@@ -285,19 +341,6 @@ ja [**@taruksn**](https://t.me/taruksn)
 {{< column >}}
 
 {{< img-thumb-cap >}}
-## Jaakko Siika-aho
-#### Freshman Coordinator
-[**fuksivastaava@linkkijkl.fi**](mailto:fuksivastaava@linkkijkl.fi)
-
-[Telegram: **@JaxSuss**](https://t.me/JaxSuss)
-{{< /img-thumb-cap >}}
-
-{{< /column >}}
-{{< /row >}}
-{{< row >}}
-{{< column >}}
-
-{{< img-thumb-cap >}}
 ## Juho Ropanen
 #### Blood Deity
 [**verijumala@linkkijkl.fi**](mailto:verijumala@linkkijkl.fi)
@@ -307,6 +350,21 @@ ja [**@taruksn**](https://t.me/taruksn)
 
 {{< /column >}}
 {{< /row >}}
+
+{{< row >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Taro Kaatrasalo
+#### Educational Policy Coordinator
+[**kopo@linkkijkl.fi**](mailto:kopo@linkkijkl.fi)
+
+[Telegram: **@kaatrasalo**](https://t.me/kaatrasalo)
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< /row >}}
+
 
 # Media team
 
@@ -330,6 +388,29 @@ ja [**@taruksn**](https://t.me/taruksn)
 [**webmaster@linkkijkl.fi**](mailto:webmaster@linkkijkl.fi)
 
 [Telegram: **@lurppa**](https://t.me/lurppa)
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< /row >}}
+
+{{< row >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Myrsky Särekallio
+#### Media Team Member
+
+[Telegram: **@myrskys**](https://t.me/myrskys)
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Valtteri Timmonen
+#### Media Team Member
+
+[Telegram: **@Valtteri_Timmonen**](https://t.me/Valtteri_Timmonen)
 {{< /img-thumb-cap >}}
 
 {{< /column >}}

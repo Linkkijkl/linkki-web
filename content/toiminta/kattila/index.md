@@ -2,6 +2,7 @@
 title = "Kattila"
 description = "Ainejärjestötila Kattila"
 keywords = ["kattila", "ainejärjestötila"]
+url = "kattila"
 +++
 
 {{< row >}}
@@ -53,5 +54,5 @@ osataan myös jättää muille viihtyisään kuntoon!
 {{< kahvikamera >}}
 
 Kattilan kahvinkeittimen tilaa voit seurata lähes reaaliajassa
-sivustolla [kattila.cafe](https://kattila.cafe/). Voit myös ilmaista
+sivustolla [kattila.linkkijkl.fi](https://kattila.linkkijkl.fi). Voit myös ilmaista
 halukkuutesi kahvinjuontiin sivustolla olevalla painikkeella.

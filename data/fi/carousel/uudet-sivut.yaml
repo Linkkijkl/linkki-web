@@ -1,9 +1,6 @@
 weight: 1
-title: "Linkin uudet kotisivut"
+title: "Linkin kotisivut"
 description: >
-  <p>Tervetuloa!<br/>
-  <br/>
-  Kaikkea palautetta sivusta arvostetaan.
-  <a href="/hallitus/2024#webmaster">Yhdistyksen webmaster</a> osaa ohjata sen verkkosivutiimille.</p>
+  <p>Linkki Jyväskylä ry on vuonna 2006 perustettu tietotekniikan, tietojenkäsittelytieteen ja koulutusteknologian ainejärjestö.</p>
 image: "img/linkki.svg"
-#href: "https://ayy.lmao"
+#href: "/"

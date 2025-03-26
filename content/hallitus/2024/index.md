@@ -3,7 +3,7 @@ title = "Hallitus 2024"
 date = "2024-01-01T00:00:00+02:00"
 description = "Linkin hallitus 2024"
 categories = ["hallitukset"]
-authors = ["Santeri Sormunen", "Oskari Lahtinen", "Lassi Karjalainen", "Vili Kärkkäinen", "Ossi Rantala", "Valtteri Hiltunen", "Viljami Töhönen", "Juho Kallijärvi", "Emma Järvinen", "Jami Virtanen", "Pekka Pihjalamaa", "Mortti Luhtala", "Aleksi Sulasalmi", "Jules Kuortti", "Veeti Kataja", "Jenna Tykkyläinen", "Veikko Havula", "Aina Seppänen", "Aino Sipola", "Johannes Horila", "Taru Nikkanen", "Toni Pietiläinen", "Jaakko Siika-aho", "Juho Ropanen", "Alexander Goldhill", "Lari Nurkka"]
+authors = ["Santeri Sormunen", "Oskari Lahtinen", "Lassi Karjalainen", "Vili Kärkkäinen", "Ossi Rantala", "Valtteri Hiltunen", "Viljami Töhönen", "Juho Kallijärvi", "Emma Järvinen", "Jami Virtanen", "Pekka Pihjalamaa", "Mortti Luhtala", "Aleksi Sulasalmi", "Jules Kuortti", "Veeti Kataja", "Jenna Tykkyläinen", "Veikko Havula", "Aina Seppänen", "Aino Sipola", "Johannes Horila", "Taru Nikkanen", "Toni Pietiläinen", "Jaakko Siika-aho", "Juho Ropanen", "Alexander Goldhill", "Lari Nurkka", "Mikael Garam", "Taro Kaatrasalo", "Myrsky Särekallio", "Valtteri Timmonen"]
 banner = "/img/hallitukset/hallitus2024.jpg"
 summary = " "
 +++
@@ -38,6 +38,7 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 
 {{< /column >}}
 {{< /row >}}
+
 {{< row >}}
 {{< column >}}
 
@@ -62,6 +63,7 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 
 {{< /column >}}
 {{< /row >}}
+
 {{< row >}}
 {{< column >}}
 
@@ -74,7 +76,9 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 {{< /column >}}
 {{< /row >}}
 
+
 # Yritys- ja yhteistyötiimi
+
 Yritys- ja yhteistyötiimin tehtävänä on vaalia yhdistyksen yhteistyökumppanuuksia, huolehtia että yhteistyökumppanuuksien sopimuksien molemmat osapuolet täyttävät yhteistyösopimuksien ehdot, sekä etsiä mahdollisia uusia kumppanuuksia.
 
 {{< row >}}
@@ -101,6 +105,7 @@ Yritys- ja yhteistyötiimin tehtävänä on vaalia yhdistyksen yhteistyökumppan
 
 {{< /column >}}
 {{< /row >}}
+
 {{< row>}}
 {{< column >}}
 
@@ -123,10 +128,11 @@ Yritys- ja yhteistyötiimin tehtävänä on vaalia yhdistyksen yhteistyökumppan
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
-
 {{< /row >}}
 
+
 # Projektitiimi
+
 Projektitiimi vastaa suurempien kokonaisuuksien ja tapahtumien, kuten esimerkiksi Jyväsmetron ja vuosijuhlien, suunnittelusta, koordinoimisesta sekä toteuttamisesta.
 
 {{< row >}}
@@ -144,11 +150,25 @@ Projektitiimi vastaa suurempien kokonaisuuksien ja tapahtumien, kuten esimerkiks
 {{< column >}}
 
 {{< img-thumb-cap >}}
-## Ossi Rantala ja Jami Virtanen
-#### Jyväsmetrovastaavat
+## Jami Virtanen
+#### Jyväsmetrovastaava
 [**projektipaallikko@jyvasmetro.fi**](mailto:projektipaallikko@jyvasmetro.fi)
 
-Telegram: [**@Zualix**](https://t.me/Zualix) ja [**@lehtisolmu**](https://t.me/lehtisolmu)
+[Telegram: **@lehtisolmu**](https://t.me/lehtisolmu)
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< /row >}}
+
+{{< row >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Ossi Rantala
+#### Jyväsmetrovastaava
+[**projektipaallikko@jyvasmetro.fi**](mailto:projektipaallikko@jyvasmetro.fi)
+
+[Telegram: **@Zualix**](https://t.me/Zualix)
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
@@ -156,6 +176,7 @@ Telegram: [**@Zualix**](https://t.me/Zualix) ja [**@lehtisolmu**](https://t.me/l
 
 
 # Tapahtumatiimi
+
 Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistyksen järjestämät kulttuuritilaisuudet, matkat, sekä muut tapahtumat. Tapahtumatiimin toiminta on kenties näkyvin osa yhdistyksen toimintaa.
 
 {{< row >}}
@@ -182,6 +203,7 @@ Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistykse
 
 {{< /column >}}
 {{< /row >}}
+
 {{< row >}}
 {{< column >}}
 
@@ -219,6 +241,7 @@ Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistykse
 
 {{< /column >}}
 {{< /row >}}
+
 {{< row >}}
 {{< column >}}
 
@@ -248,9 +271,19 @@ Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistykse
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Mikael Garam
+#### Tapahtumatiimiläinen
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
 {{< /row >}}
 
+
 # Hyvinvointitiimi
+
 Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnasta ja sosiaalipoliittisista kysymyksistä, kuten yhdenvertaisuudesta yhdistyksen toiminnassa. Tiimi tekee työtä ainejärjestön puolesta sen eteen, että jokaiselle on tarjolla turvallinen opiskeluympäristö, jossa jokaisella on oikeus opiskella kokematta häirintää, kiusaamista tai syrjintää.
 
 {{< row >}}
@@ -258,9 +291,8 @@ Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnast
 
 {{< img-thumb-cap "johannes-horila.jpg" "300x" >}}
 ## Johannes Horila
-#### Hyvinvointipäällikkö & Korkeakoulupoliittinen vastaava
+#### Hyvinvointipäällikkö
 [**hyvinvointi@linkkijkl.fi**](mailto:hyvinvointi@linkkijkl.fi)
-& [**kopo@linkkijkl.fi**](mailto:kopo@linkkijkl.fi)
 
 [Telegram: **@Johanneshor**](https://t.me/Johanneshor)
 {{< /img-thumb-cap >}}
@@ -269,16 +301,41 @@ Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnast
 {{< column >}}
 
 {{< img-thumb-cap >}}
-## Aino Sipola & Taru Nikkanen
-#### Kansainvälisyysvastaavat
+## Aino Sipola
+#### Kansainvälisyysvastaava
 [**kv@linkkijkl.fi**](mailto:kv@linkkijkl.fi)
 
 Telegram: [**@Aino_Sipola**](https://t.me/Aino_Sipola)
-ja [**@taruksn**](https://t.me/taruksn)
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
 {{< /row >}}
+
+{{< row >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Arttu Juntunen
+#### Fuksivastaava
+[**fuksivastaava@linkkijkl.fi**](mailto:fuksivastaava@linkkijkl.fi)
+
+[Telegram: **@Djuntunen**](https://t.me/Djuntunen)
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Taru Nikkanen
+#### Fuksivastaava & Kansainvälisyysvastaava
+[**fuksivastaava@linkkijkl.fi**](mailto:fuksivastaava@linkkijkl.fi)
+& [**kv@linkkijkl.fi**](mailto:kv@linkkijkl.fi)
+[Telegram: **@taruksn**](https://t.me/taruksn)
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< /row >}}
+
 {{< row >}}
 {{< column >}}
 
@@ -294,19 +351,6 @@ ja [**@taruksn**](https://t.me/taruksn)
 {{< column >}}
 
 {{< img-thumb-cap >}}
-## Jaakko Siika-aho
-#### Fuksivastaava
-[**fuksivastaava@linkkijkl.fi**](mailto:fuksivastaava@linkkijkl.fi)
-
-[Telegram: **@JaxSuss**](https://t.me/JaxSuss)
-{{< /img-thumb-cap >}}
-
-{{< /column >}}
-{{< /row >}}
-{{< row >}}
-{{< column >}}
-
-{{< img-thumb-cap >}}
 ## Juho Ropanen
 #### Verijumala
 [**verijumala@linkkijkl.fi**](mailto:verijumala@linkkijkl.fi)
@@ -317,7 +361,23 @@ ja [**@taruksn**](https://t.me/taruksn)
 {{< /column >}}
 {{< /row >}}
 
+{{< row >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Taro Kaatrasalo
+#### Koulutuspoliittinen vastaava
+[**kopo@linkkijkl.fi**](mailto:kopo@linkkijkl.fi)
+
+[Telegram: **@kaatrasalo**](https://t.me/kaatrasalo)
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< /row >}}
+
+
 # Mediatiimi
+
 Mediatiimin tehtävänä on tiedottaa jäsenistöä yhdistyksen eri kanavissa kuten kotisivuilla, sosiaalisen median kanavissa, sekä sähköpostilla. Tiimi ylläpitää ja kehittää yhdistyksen verkkosivuja sekä tuottaa multimediaa yhdistyksen muiden tiimien tarpeisiin.
 
 {{< row >}}
@@ -340,6 +400,27 @@ Mediatiimin tehtävänä on tiedottaa jäsenistöä yhdistyksen eri kanavissa ku
 [**webmaster@linkkijkl.fi**](mailto:webmaster@linkkijkl.fi)
 
 [Telegram: **@lurppa**](https://t.me/lurppa)
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< /row >}}
+
+{{< row >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Myrsky Särekallio
+#### Mediatiimiläinen
+
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Valtteri Timmonen
+#### Mediatiimiläinen
+
 {{< /img-thumb-cap >}}
 
 {{< /column >}}

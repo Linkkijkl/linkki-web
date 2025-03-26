@@ -1,7 +1,8 @@
-weight: 3
-title: "Room for improvement?"
+weight: 100
+title: "Website Task Force"
 description: >
-  <p>The sources for this page can be found under Linkki's GitHub account.
-  Help is especially appreciated in translating the page into English.</p>
-image: "img/github-mark-white.svg"
+  <p>Does your Github profile need more activity?
+  Want a nice new patch for your overalls?
+  Join Linkki's Website Task Force!</p>
+image: "img/wtf.svg"
 href: "https://github.com/linkkijkl"
