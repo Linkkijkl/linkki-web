@@ -88,3 +88,7 @@ iframe {
 .pagefind-ui mark {
     background-color: #ffe600;
 }
+
+.box {
+    background: var(--background);
+}
