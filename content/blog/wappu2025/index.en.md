@@ -5,7 +5,7 @@ description = "Linkki's vappu events' save the date"
 authors = ["Linkki events team <3"]
 banner = "/img/blog/wappu2025.jpg"
 summary = "Linkki's vappu events' save the date"
-url = "blog/example"
+url = "blog/vappu2025"
 +++
 
 
