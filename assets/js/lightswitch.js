@@ -1,6 +1,6 @@
-let icon;
-let darkStyleObject;
-let darkStyleParent;
+let icon = null;
+let darkStyleObject = null;
+let darkStyleParent = null;
 
 const themeChangeEvent = new Event("onThemeChange");
 
@@ -38,12 +38,12 @@ const setDark = dark => {
     const ds = document.querySelector("#darkstyle");
     if (dark) {
         if (!ds) darkStyleParent.appendChild(darkStyleObject.cloneNode());
-        icon.className = "fas fa-2x fa-sun";
+        if (icon) icon.className = "fas fa-2x fa-sun";
         setLogoDark(true);
-    } 
+    }
     else {
         if (ds) ds.remove();
-        icon.className = "fas fa-2x fa-moon";
+        if (icon) icon.className = "fas fa-2x fa-moon";
         setLogoDark(false);
     }
     document.getRootNode().dispatchEvent(themeChangeEvent);
@@ -55,6 +55,7 @@ const toggle = () => setDark(!isThemeDark());
 
 const createButton = () => {
     const element = document.querySelector(".home-carousel .container, #heading-breadcrumbs .container");
+    if (element === null) return;
 
     icon = document.createElement("i");
     icon.className = "fas fa-2x " + (isThemeDark() ? "fa-sun" : "fa-moon");
@@ -62,7 +63,7 @@ const createButton = () => {
     let lightswitch = document.createElement("a");
     lightswitch.appendChild(icon);
     lightswitch.id = "lightswitch";
-    lightswitch.href = "#"
+    lightswitch.href = "#";
     lightswitch.onclick = (event) => {
         event.preventDefault();
         toggle();
