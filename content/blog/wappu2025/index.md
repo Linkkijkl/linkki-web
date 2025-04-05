@@ -185,7 +185,7 @@ poikkitieteellisten pannareiden kanssa! Tarjolla on tietenkin pannaria
 sekä muuta brunssiruokaa. Ilmoitathan ilmoittautuessa
 erityisruokavaliosi, jotta osaamme varata jokaiselle sopivaa ruokaa.
 
-Ilmoittautuminen tapahtumaan alkaa maanantaina 14.4. klo 12 ja päättyy
+Ilmoittautuminen tapahtumaan alkaa maanantaina 14.4. klo 14 ja päättyy
 tiistaina 22.4. Lipunmyynnin linkki päivitetään lähempänä.
 
 📍 **Paikka:** Lillukka, Kortepohja
@@ -235,6 +235,8 @@ pitämään hauskaa! 🤩
 **Miksi:** Koska uusien asioiden kokeilu on hauskaa
 
 **Mitä päälle:** Vaatteet, joissa on hyvä liikkua
+
+Ilmoittautuminen liikuntakokeiluun aukeaa maanantaina 14.4. klo 12.
 
 Linkki ilmoittautumiseen: 
 https://kide.app/events/8ae20ab2-5603-4792-b241-f1539aff4114
