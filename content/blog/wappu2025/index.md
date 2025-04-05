@@ -192,7 +192,7 @@ tiistaina 22.4. Lipunmyynnin linkki päivitetään lähempänä.
 
 🕛 **Aika:** Lauantaina 26.4. klo 12 alkaen
 
-💰 **Hinta:** Julkaistaan myöhemmin 
+💰 **Hinta:** 6€
 
 Huomioithan, että tapahtuma on holiton.
 
