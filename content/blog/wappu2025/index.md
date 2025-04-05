@@ -19,8 +19,11 @@ Nappaa postauksesta päivät talteen ja pidä huoli, että olet Linkin
 tiedotuskanavalla, sillä tarkemmat tiedot tapahtumista ja
 ilmoittautumisista tulee sinne lähipäivinä.
 
-Kuten aikaisemminkin, vappumerkin saa käymällä kuudessa (6) Linkin
-vapputapahtumassa. Vappupassin jaosta tiedotetaan myöhemmin.
+Kuten aikaisemminkin, vappumerkin saa keräämällä kuusi merkintää
+vappupassiin eri tapahtumista. Merkinnän voit pyytää tapahtumissa
+keneltä vain Linkin hallituslaiselta. Vappupassin voit noutaa Kattilasta
+14.4. alkaen tai vapputapahtumista.
+
 
 Stay tuned ja nähdään vapputapahtumissa!🫶🏻🥳
 
