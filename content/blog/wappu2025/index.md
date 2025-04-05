@@ -2,7 +2,7 @@
 title = "Linkin vappu 2025"
 date = "2025-03-26T00:00:00+02:00"
 description = "Linkin vapputapahtumat ja päivämäärät"
-authors = ["Linkin tapahtumatiimi <3"]
+authors = ["Linkin tapahtumatiimi <3", "Oskari Lahtinen", "Alexander Goldhill"]
 banner = "/img/blog/wappu2025.jpg"
 summary = "Linkin vapputapahtumat ja päivämäärät"
 url = "blog/vappu2025"
@@ -24,10 +24,10 @@ vappupassiin eri tapahtumista. Merkinnän voit pyytää tapahtumissa
 keneltä vain Linkin hallituslaiselta. Vappupassin voit noutaa Kattilasta
 14.4. alkaen tai vapputapahtumista.
 
-
-Stay tuned ja nähdään vapputapahtumissa!🫶🏻🥳
+Stay tuned ja nähdään vapputapahtumissa!
 
 ## 22.4. Heittokarnevaali
+
 Tarkentuu...
 
 ## 22.4. Cocktailkoulutus @ DeLorean
@@ -50,9 +50,9 @@ tapahtumaan alkaa tiistaina 8.4. klo 12 ja päättyy maanantaina 14.4.
 
 **Missä:** DeLorean
 
-**Milloin:** tiistaina 22.4. Klo 18 
+**Milloin:** tiistaina 22.4. Klo 18
 
-**Mitä maksaa:** 15€ 
+**Mitä maksaa:** 15€
 
 ## 23.4. Vappusota w/ Algo
 
@@ -88,11 +88,10 @@ kilpailuhenkeä! Tumma vaatetus voi antaa strategista etua… 👀
 Nähdään taistelukentällä! 🚀
 
 Lipunmyynti aukeaa torstaina 10.4. klo 12.
-Linkki ilmoittautumiseen: 
-https://kide.app/events/750c2a0e-73aa-4526-91f2-148f755a96b8
-
+Linkki ilmoittautumiseen: <https://kide.app/events/750c2a0e-73aa-4526-91f2-148f755a96b8>
 
 ## 24.4. JYVÄSMETRO
+
 Hyvä Linkkari! Jyväsmetro kulkee jälleen – oletko valmis hyppäämään kyytiin? 🚝💨
 
 📅 Päivämäärä: 24.4.2025
@@ -110,7 +109,7 @@ päättyy 13.4. klo 23.59! Lipun ostamalla varmistat paikkasi samalla
 linjalla muiden Linkkareiden kanssa – älä siis jää paitsi!
 Linkkareilla on kannat linjoille 5, 8, 12, 14 ja 22.
 
-Linkki lipunmyyntiin: https://kide.app/events/4795a076-5dbf-414b-ac6d-a388ba001fab 
+Linkki lipunmyyntiin: <https://kide.app/events/4795a076-5dbf-414b-ac6d-a388ba001fab>
 
 Linja 5: Abakus, JASTO, Linkki & Ynnä
 
@@ -122,7 +121,7 @@ Linja 14: Linkki, Magna, Nefa & Sturm und Drang
 
 Linja 22: Linkki, Magna, Radikaali & JIO
 
-Lisätietoa tapahtumasta osoitteesta jyvasmetro.fi tai Instagramissa @jyvasmetro 🚇✨
+Lisätietoa tapahtumasta osoitteesta [jyvasmetro.fi](https://www.jyvasmetro.fi) tai Instagramissa [@jyvasmetro](https://www.instagram.com/jyvasmetro/) 🚇✨
 Terveisin,
 Jyväsmetrotiimi
 
@@ -172,9 +171,7 @@ ilmaista. Ilmoittautuminen tapahtuu kide.app.issa maanantaina 7.4. klo
 
 **MUUTA HUOMIOITAVAA:** OPM
 
-Linkki lipunmyyntiin:
-https://kide.app/events/37f3ed34-9b5e-4aad-8845-1e62fd6b153e
-
+Linkki lipunmyyntiin: <https://kide.app/events/37f3ed34-9b5e-4aad-8845-1e62fd6b153e>
 
 ## 26.4. Vappupannarit w/ JPP
 
@@ -196,13 +193,14 @@ tiistaina 22.4. Lipunmyynnin linkki päivitetään lähempänä.
 
 Huomioithan, että tapahtuma on holiton.
 
-
 ## 27.4. Matlu-vappu
+
 Vappuna pelataan matlujen välinen pesisturnaus. Tarkemmat tiedot
 turnauksesta ja ilmoittautumisesta Linkin joukkueeseen päivitetään
 lähempänä.
 
 ## 28.4. Vappusitsit w/ Magna Carta
+
 Linkki sitsaa tämän vuoden vappusitsit Tilialla Magna Cartan kanssa
 maanantaina 28.4. klo 17 alkaen. Tarkemmat tiedot tapahtumasta
 päivitetään lähempänä.
@@ -210,9 +208,11 @@ päivitetään lähempänä.
 ## 29.4. Sopokopokahviapprot & liikuntakokeilu & One Direction -bileet
 
 ### Sopokopokahviapprot
+
 Tarkentuu...
 
 ### Liikuntakokeilu: Bouldering Linkki x Magna Carta 🧗‍♂️
+
 Haluaisitko kokeilla jotain uutta ja haastaa itsesi seinäkiipeilyn
 parissa? Nyt siihen on loistava tilaisuus! Linkki ja Magna järjestävät
 yhdessä bouldering-kokeilun, jossa pääset testaamaan tätä monipuolista
@@ -226,29 +226,29 @@ pitämään hauskaa! 🤩
 
 **TL;DR:**
 
-**Missä:** Jyväskylän kiipeilykeskus, Seminaarinmäki 15
+**Missä?:** Jyväskylän kiipeilykeskus, Seminaarinmäki 15
 
-**Milloin:** 29.4. klo 19:00-20:30
+**Milloin?:** 29.4. klo 19:00-20:30
 
-**Hinta:** 10 € (sis. kiipeilykengät ja ohjauksen)
+**Hinta?:** 10 € (sis. kiipeilykengät ja ohjauksen)
 
-**Miksi:** Koska uusien asioiden kokeilu on hauskaa
+**Miksi?:** Koska uusien asioiden kokeilu on hauskaa
 
-**Mitä päälle:** Vaatteet, joissa on hyvä liikkua
+**Mitä päälle?:** Vaatteet, joissa on hyvä liikkua
 
 Ilmoittautuminen liikuntakokeiluun aukeaa maanantaina 14.4. klo 12.
 
-Linkki ilmoittautumiseen: 
-https://kide.app/events/8ae20ab2-5603-4792-b241-f1539aff4114
+Linkki ilmoittautumiseen: <https://kide.app/events/8ae20ab2-5603-4792-b241-f1539aff4114>
 
 ### One Direction -bileet
-Hei kaikki 1D-fanit❤️ Nyt on aika tanssia, laulaa ja
+
+Hei kaikki 1D-fanit ❤️ Nyt on aika tanssia, laulaa ja
 uppoutua täysillä One Direction -nostalgiaan yhdessä
 poikkitieteellisesti🪩 Illan aikana soi pelkästään 1D:n parhaat hitit,
 ja tanssilattia on varattu meille, jotka emme koskaan päässeet
-keikalle – tai jotka haluamme elää sen uudelleen😎Mikäli et ole
+keikalle – tai jotka haluamme elää sen uudelleen. 😎 Mikäli et ole
 1D-tosifani toivomme silti näkevämme sinut fiilistelemässä tunnelmaa
-ja tutustumassa poikkitieteellisesti uusiin tuttavuuksiin💚
+ja tutustumassa poikkitieteellisesti uusiin tuttavuuksiin 💚
 
 Tule paikalle, tanssi sydämesi kyllyydestä ja huuda mukana jokaiseen
 kappaleeseen. Illan soundtrack on täynnä rakkaita klassikoita kuten
@@ -265,11 +265,16 @@ ainejärjestö kannasta ei hätää, yleinen lipunmyynti tapahtumaan alkaa
 14.4. klo 15.00.
 
 **TL;DR:**
-**MITÄ?** One Direction -musiikkia ja poikkitieteellisyyttä❤️
-**MISSÄ?** Freetime
-**MILLOIN?** 29.4. klo 22.00
-**MITÄ MAKSAA?** 3,5€
-**MITÄ PÄÄLLE?** Haalarit + 1D-merch tai oma suosikkityylisi 🤩
+
+**Mitä?** One Direction -musiikkia ja poikkitieteellisyyttä❤️
+
+**Missä?** Freetime
+
+**Milloin?** 29.4. klo 22.00
+
+**Mitä maksaa?** 3,5€
+
+**Mitä päälle?** Haalarit + 1D-merch tai oma suosikkityylisi 🤩
 
 Tapahtumassa noudatetaan Varkaat ry:n ilmoittautumisen pelisääntöjä,
 turvallisemman tilan periaatteita sekä tasa-arvo- ja
@@ -278,15 +283,16 @@ noudattamaan näitä koko tapahtuman ajan💚
 
 Mikäli koet tapahtumassa häirintää voit kääntyä Freetimen
 henkilökunnan puoleen tai olla matalalla kynnyksellä yhteydessä
-Varkaat ry:n hallituslaisiin tai sähköpostitse varkaat.edu@gmail.com.
+Varkaat ry:n hallituslaisiin tai sähköpostitse <varkaat.edu@gmail.com>.
 
-Linkki lipunmyyntiin: https://kide.app/events/eb1a3317-b5da-4930-92d5-623ff36ee7d1/tickets/60d70400-ce6b-4b4e-b590-0c1d13249a25
+Linkki lipunmyyntiin: <https://kide.app/events/eb1a3317-b5da-4930-92d5-623ff36ee7d1/tickets/60d70400-ce6b-4b4e-b590-0c1d13249a25>
 
 ## 30.4. Lounassitsit & vappusauna
+
 Linkin perinteiset lounassitsit järjestetään taas vappuaattona
 Kauppalaisseuran saunalla. Iltaa jatketaan yhdessä vappusaunan
 parissa. Tarkemmat tiedot vappuaatosta julkaistaan lähempänä.
 
 ## 1.5. Vappupiknik @ Harju
-Tarkentuu...
 
+Tarkentuu...
