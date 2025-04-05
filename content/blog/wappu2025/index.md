@@ -42,7 +42,7 @@ DeLoreanissa. Tapahtuma kustantaa 15 € ja pääset tekemään itse oman
 cocktailisi sekä kuulemaan yleisesti niiden tekemisestä. Tapahtumassa
 on mahdollista tehdä alkoholillinen cocktail TAI alkoholiton mocktail,
 eli tapahtumaan voi osallistua myös holittomana. Ilmoittautuminen
-tapahtumaan alkaa perjantaina 4.4. klo 12 ja päättyy maanantaina 14.4.
+tapahtumaan alkaa tiistaina 8.4. klo 12 ja päättyy maanantaina 14.4.
 
 **TL;DR:**
 
@@ -86,6 +86,11 @@ kilpailuhenkeä! Tumma vaatetus voi antaa strategista etua… 👀
 **Muuta?** Olethan paikalla 16:45, jolloin alkaa ohjeistus varsinaisia pelejä varten!
 
 Nähdään taistelukentällä! 🚀
+
+Lipunmyynti aukeaa torstaina 10.4. klo 12.
+Linkki ilmoittautumiseen: 
+https://kide.app/events/750c2a0e-73aa-4526-91f2-148f755a96b8
+
 
 ## 24.4. JYVÄSMETRO
 Hyvä Linkkari! Jyväsmetro kulkee jälleen – oletko valmis hyppäämään kyytiin? 🚝💨
