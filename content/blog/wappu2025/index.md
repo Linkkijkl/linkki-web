@@ -54,6 +54,9 @@ tapahtumaan alkaa tiistaina 8.4. klo 12 ja päättyy maanantaina 14.4.
 
 **Mitä maksaa:** 15€ 
 
+Ilmoittautuminen tapahtumaan:
+https://kide.app/events/c944286b-0863-448c-9ebb-9ee8e957ac94
+
 ## 23.4. Vappusota w/ Algo
 
 Algon ja Linkin vappusota Megazonessa ke 23.4.
@@ -210,7 +213,33 @@ päivitetään lähempänä.
 ## 29.4. Sopokopokahviapprot & liikuntakokeilu & One Direction -bileet
 
 ### Sopokopokahviapprot
-Tarkentuu...
+Tervetuloa SopoKopoKahviApproille!
+
+Approjen ideana on kiertää Mattilanniemen, Agoran ja Ylistön
+ainejärjestötiloissa viettäen samalla kuudet sopokopokahvit. Nyt on
+mahdollisuutesi tutustua ainejärjestötiloihin ja päästä juttelemaan
+sopojen ja kopojen kanssa mistä tahansa! Jokaisessa
+ainejärjestötilassa on lisäksi hyvinvointiin liityvää tekemistä,
+kahvia ja teetä sekä suolaista tai makeaa purtavaa!
+
+Appropassien haku tapahtuu Origon edustalla, eli MaD rakennuksen
+toisesta kerroksesta (MaD 242). Suoritusaikaa on klo 14.00 saakka,
+mutta upean haalarimerkin saat tulla hakemaan heti, kun 6/8 rasteista
+on suoritettu! Passien palautus ja haalarimerkin hakeminen tapahtuvat
+Origon edustalla.
+
+☕️MITÄ: SopoKopoKahviApprot 
+
+📅MILLOIN: tiistaina 29.4.klo: 10-14.00 
+
+📍MISSÄ: Ainejärjestötiloissa (Agora, Mattilanniemi ja Ylistö)
+
+💰HINTA: 2€
+
+🎟️ILMOITTAUTUMINEN: liput tulevat myyntiin 7.4. klo: 12.00 https://kide.app/events/d951b877-0b52-46c7-8a76-65a51f07f7da 
+
+🤗KEIDEN KANSSA: Ynnä, Syrre, Linkki, Radikaali, Algo, Dumppi, Pörssi ja Nano
+
 
 ### Liikuntakokeilu: Bouldering Linkki x Magna Carta 🧗‍♂️
 Haluaisitko kokeilla jotain uutta ja haastaa itsesi seinäkiipeilyn
