@@ -40,6 +40,10 @@ The training is on Tue 22.4. beginning at 18 o'clock in DeLoreanissa. The event 
 
 **Costs:** 15€
 
+Registration link:
+https://kide.app/events/c944286b-0863-448c-9ebb-9ee8e957ac94
+
+
 ## 23.4. Vappu scrum w/ Algo
 
 Algo and Linkki vappu scrum in Megazone Wed 23.4.
@@ -194,8 +198,32 @@ will be published in the near future.
 ## 29.4. Social and educational affairs coffee appro & sports experiment & One Direction -party
 
 ### Social and educational affairs coffee appro
+Welcome to SopoKopoCoffeeAppro!
 
-Awaiting further details...
+The idea of the event is to visit in Mattilanniemi's, Agora's and
+Ylistö's subject association rooms while enjoying six rounds of
+SopoKopo coffee. This is your chance to explore the organization
+spaces and chat with social and academic affairs representatives about
+anything! Each room will also have well-being-related activities,
+coffee and tea, as well as sweet or salty snacks.
+
+Appropass pickup will be in front of Origo, on the second floor of the
+MaD building (MaD 242). The event runs until 2 PM, but you can collect
+your overall patch as soon as you complete 6 out of 8 checkpoints!
+Pass returns and patch collection also take place in front of Origo.
+
+☕️WHAT: SopoKopoCoffeeAppro 
+
+📅WHEN: Tuesday, 29.4. at 10-14.00 
+
+📍WHERE: Student organization spaces (Agora, Mattilanniemi, and Ylistö)
+
+💰COST: 2€
+
+🎟️REGISTRATION: starts 7.4. at 12.00 https://kide.app/events/d951b877-0b52-46c7-8a76-65a51f07f7da 
+
+🤗WITH WHOM: Ynnä, Syrre, Linkki, Radikaali, Algo, Dumppi, Pörssi, and Nano
+
 
 ### Sports experiment: Bouldering Linkki x Magna Carta 🧗‍♂️
 
