@@ -123,3 +123,6 @@
 
 - id: invoicing
   translation: Laskutus
+
+- id: allRightsReserved
+  translation: "Kaikki oikeudet pidätetään"
