@@ -33,7 +33,7 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 #### Varapuheenjohtaja
 [**vpj@linkkijkl.fi**](mailto:vpj@linkkijkl.fi)
 
-[Telegram: **@alejgold_**](https://t.me/alejgold_)
+[Telegram: **@alejgold**](https://t.me/alejgold)
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
@@ -63,7 +63,6 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 
 {{< /column >}}
 {{< /row >}}
-
 
 
 # Yritys- ja yhteistyötiimi
@@ -137,7 +136,6 @@ Projektitiimi vastaa suurempien kokonaisuuksien ja tapahtumien, kuten esimerkiks
 {{< /column >}}
 {{< /row >}}
 
-
 # Tapahtumatiimi
 
 Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistyksen järjestämät kulttuuritilaisuudet, matkat, sekä muut tapahtumat. Tapahtumatiimin toiminta on kenties näkyvin osa yhdistyksen toimintaa.
@@ -177,7 +175,6 @@ Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistykse
 
 {{< /column >}}
 {{< /row >}}
-
 
 # Hyvinvointitiimi
 
@@ -236,7 +233,7 @@ Telegram: [**@Aino_Sipola**](https://t.me/Aino_Sipola)
 
 {{< img-thumb-cap >}}
 ## Toni Pietiläinen
-#### Koulutuspoliittinen vastaava & Kattilakeisari 
+#### Koulutuspoliittinen vastaava & Kattilakeisari
 [**kopo@linkkijkl.fi**](mailto:kopo@linkkijkl.fi)
 [Telegram: **@dnttu**](https://t.me/dnttu)
 {{< /img-thumb-cap >}}
@@ -267,7 +264,6 @@ Telegram: [**@Aino_Sipola**](https://t.me/Aino_Sipola)
 {{< /column >}}
 
 {{< /row >}}
-
 
 # Mediatiimi
 
