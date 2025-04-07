@@ -123,3 +123,6 @@
 
 - id: invoicing
   translation: Invoicing
+
+- id: allRightsReserved
+  translation: "All rights reserved"
