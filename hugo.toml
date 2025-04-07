@@ -370,7 +370,6 @@ home = ["html", "rss", "api-sponsors"]
             <a href="https://www.youtube.com/@LinkkiJyvaskylaRy"><i class='fab fa-2x fa-youtube'></i></a>
     """
     contact_url = ""
-    copyright = "Copyright (c) 2024, Linkki Jyväskylä ry; all rights reserved."
 
     logo_text = "Linkki Jyväskylä ry."
     logo = "img/logo/linkki-navbar.svg"
