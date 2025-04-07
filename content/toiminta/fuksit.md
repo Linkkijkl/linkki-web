@@ -20,6 +20,7 @@ Esimerkiksi Linkin tutorien esittelyt löydät VOppaasta.
 ## Lyhyt muistilista
 
 **Muistakaa**:
+
 - ottaa opiskelupaikka vastaan ja ilmoittautua läsnäolevaksi
 [Opintopolussa](https://opintopolku.fi)
 - maksaa YTHS-maksu ja hakea tukia [OmaKelassa](https://oma.kela.fi/)
@@ -34,19 +35,19 @@ Opintosi alkavat elokuun lopussa nimenhuutotilaisuudella
 Tätä seuraava nk. orientaatioviikko on täynnä
 sekä yliopiston, että ainejärjestön järjestämää ohjelmaa, jonka
 tarkoituksena on tutustuttaa juuri Sinut, uusi opiskelija,
-akateemiseen maailmaan. 
+akateemiseen maailmaan.
 
 ## Mikä ainejärjestö?
 
 Ainejärjestöt ovat kunkin oppiaineen opiskelijoista koostuvia
 yhdistyksiä, jotka tekevät edunvalvontaa, järjestävät erilaisia
 kulttuuri-, työelämä- ja huvitapahtumia sekä edistävät oppiaineen
-opiskelijoiden yhteisöllisyyttä ja työllistymistä. 
+opiskelijoiden yhteisöllisyyttä ja työllistymistä.
 
 Linkki Jyväskylä ry (tuttavallisemmin Linkki) on
 tietojenkäsittelytieteen, tietotekniikan sekä koulutusteknologian
 pääaine-, sivuaine- ja jatko-opiskelijoiden ikioma
 ainejärjestö. Linkkiin liittyminen on ilmaista ja liittymällä saat
-edunvalvontaa, tapahtumia, [alennuksia yhteistyökumppaneilta](/jäsenyys/#jäsenedut)
+edunvalvontaa, tapahtumia, [alennuksia yhteistyökumppaneilta](/jäsenedut/)
 Linkki-tarralla sekä maksutonta kahvia [Kattilassa](/kattila/).
 Linkin hakulomakkeeseen löydät [etusivulta](/).
