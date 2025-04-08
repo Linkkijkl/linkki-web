@@ -86,6 +86,8 @@ kilpailuhenkeä! Tumma vaatetus voi antaa strategista etua… 👀
 
 **Mitä mukaan?** Mukavat (mahdollisesti tummat) vaatteet ja matalapohjaiset kengät
 
+**Mitä maksaa?** 14.25€
+
 **Muuta?** Olethan paikalla 16:45, jolloin alkaa ohjeistus varsinaisia pelejä varten!
 
 Nähdään taistelukentällä! 🚀

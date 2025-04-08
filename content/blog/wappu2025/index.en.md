@@ -65,6 +65,8 @@ or indoor sports shoes), a t-shirt and trousers or a skirt, as well as a healthy
 
 **When?** Wed 23.4. at 16:45
 
+**Cost?** 14.25€
+
 **Equipment?** Comfortable (preferably dark) clothes and slim shoes
 
 **Other notes?** Be there at 16:45, when instructions for the games begin!
