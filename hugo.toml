@@ -384,7 +384,7 @@ home = ["html", "rss", "api-sponsors"]
     modified_by_url = "https://github.com/linkkijkl/linkki-web/graphs/contributors"
 
     # Prefetch theese domains from DNS
-    prefetch_domains = ["kattila.cafe"]
+    prefetch_domains = ["kattila.linkkijkl.fi"]
 
 
 [languages.fi.params]
