@@ -30,7 +30,7 @@ url = "board/2025"
 #### Vice Chairperson
 [**vpj@linkkijkl.fi**](mailto:vpj@linkkijkl.fi)
 
-[Telegram: **@alejgold_**](https://t.me/alejgold_)
+[Telegram: **@alejgold**](https://t.me/alejgold)
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
@@ -60,7 +60,6 @@ url = "board/2025"
 
 {{< /column >}}
 {{< /row >}}
-
 
 # Corporational and Collaborational Team
 
@@ -102,7 +101,6 @@ url = "board/2025"
 {{< /column >}}
 {{< /row >}}
 
-
 # Project Team
 
 {{< row >}}
@@ -129,7 +127,6 @@ url = "board/2025"
 
 {{< /column >}}
 {{< /row >}}
-
 
 # Event team
 
@@ -169,7 +166,6 @@ url = "board/2025"
 
 {{< /column >}}
 {{< /row >}}
-
 
 # Wellbeing Team
 
@@ -257,7 +253,6 @@ Telegram: [**@Aino_Sipola**](https://t.me/Aino_Sipola)
 
 {{< /column >}}
 {{< /row >}}
-
 
 # Media team
 
