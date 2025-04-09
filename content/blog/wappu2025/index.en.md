@@ -24,7 +24,23 @@ Stay tuned and see you at the events!
 
 ## 22.4. Throwing carneval
 
-Awaiting further details...
+This years vappu starts with 🔥**throwing carneval**🔥!
+
+Now is your chance to redirect your anger against computers in **laptop throwing💻**,
+**CD-ROM discus throw💿**, **PSU hammer throw🗲**, and with the main event of
+**🏃‍♀️‍➡️0,33l duathlon🏃‍➡️**.
+
+Please take your surplus computers or computer parts to the event if you have any lying around!
+
+**TL;DR:**
+
+**What:** Throwing carneval
+
+**Where:** Agora's backyard
+
+**Milloin:** tuesday 22.4. 15:00
+
+**Cost:** 0€!
 
 
 ## 22.4. Cocktail training @ DeLorean
