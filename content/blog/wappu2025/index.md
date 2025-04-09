@@ -26,6 +26,9 @@ keneltä vain Linkin hallituslaiselta. Vappupassin voit noutaa Kattilasta
 
 Stay tuned ja nähdään vapputapahtumissa!
 
+{{< table-of-contents start=2 end=2 >}}
+
+
 ## 22.4. Heittokarnevaali
 
 Vappu täräytetään käyntiin perinteisten 🔥**heittokarnevaalien**🔥 merkeissä!
@@ -34,7 +37,7 @@ Nyt on mahtava mahdollisuus purkaa turhaantumistasi tietotekniikkaan
 mm. **läppärinheitossa💻**, **romppukiekossa💿**, **virtalähdemoukarissa🗲** ja tapahtuman
 kruunaavassa **🏃‍♀️‍➡️0,33l duathlonissa🏃‍➡️**.
 
-Paikalle kannattaa tuoda vanhaa tietotekniikkarojua jos sitä löytyy!
+Paikalle kannattaa tuoda vanhaa tietotekniikkarojua jos sellaista sattuu löytymään!
 
 **TL;DR:**
 
@@ -45,8 +48,6 @@ Paikalle kannattaa tuoda vanhaa tietotekniikkarojua jos sitä löytyy!
 **Milloin:** tiistaina 22.4. Klo 15
 
 **Mitä maksaa:** 0€!
-
-
 
 
 ## 22.4. Cocktailkoulutus @ DeLorean
@@ -75,6 +76,7 @@ tapahtumaan alkaa tiistaina 8.4. klo 12 ja päättyy maanantaina 14.4.
 
 Ilmoittautuminen tapahtumaan:
 https://kide.app/events/c944286b-0863-448c-9ebb-9ee8e957ac94
+
 
 ## 23.4. Vappusota w/ Algo
 
@@ -113,6 +115,7 @@ Nähdään taistelukentällä! 🚀
 
 Lipunmyynti aukeaa torstaina 10.4. klo 12.
 Linkki ilmoittautumiseen: <https://kide.app/events/750c2a0e-73aa-4526-91f2-148f755a96b8>
+
 
 ## 24.4. JYVÄSMETRO
 
@@ -163,6 +166,7 @@ Jyväsmetrotiimi
 
 **🎉 Miksi?** Koska tätä tapahtumaa et halua missata – luvassa huikea ilta parhaassa seurassa!
 
+
 ## 25.4. TEK beerpong
 
 On aika selvittää TEK Beer Pongin todelliset taiturit, kun Dumppi,
@@ -197,6 +201,7 @@ ilmaista. Ilmoittautuminen tapahtuu kide.app.issa maanantaina 7.4. klo
 
 Linkki lipunmyyntiin: <https://kide.app/events/37f3ed34-9b5e-4aad-8845-1e62fd6b153e>
 
+
 ## 26.4. Vappupannarit w/ JPP
 
 Vapun aika on täynnä menoa ja meininkiä, mutta välillä on hyvä
@@ -217,17 +222,20 @@ tiistaina 22.4. Lipunmyynnin linkki päivitetään lähempänä.
 
 Huomioithan, että tapahtuma on holiton.
 
+
 ## 27.4. Matlu-vappu
 
 Vappuna pelataan matlujen välinen pesisturnaus. Tarkemmat tiedot
 turnauksesta ja ilmoittautumisesta Linkin joukkueeseen päivitetään
 lähempänä.
 
+
 ## 28.4. Vappusitsit w/ Magna Carta
 
 Linkki sitsaa tämän vuoden vappusitsit Tilialla Magna Cartan kanssa
 maanantaina 28.4. klo 17 alkaen. Tarkemmat tiedot tapahtumasta
 päivitetään lähempänä.
+
 
 ## 29.4. Sopokopokahviapprot & liikuntakokeilu & One Direction -bileet
 
@@ -259,6 +267,7 @@ Origon edustalla.
 
 🤗KEIDEN KANSSA: Ynnä, Syrre, Linkki, Radikaali, Algo, Dumppi, Pörssi ja Nano
 
+
 ### Liikuntakokeilu: Bouldering Linkki x Magna Carta 🧗‍♂️
 
 Haluaisitko kokeilla jotain uutta ja haastaa itsesi seinäkiipeilyn
@@ -287,6 +296,7 @@ pitämään hauskaa! 🤩
 Ilmoittautuminen liikuntakokeiluun aukeaa maanantaina 14.4. klo 12.
 
 Linkki ilmoittautumiseen: <https://kide.app/events/8ae20ab2-5603-4792-b241-f1539aff4114>
+
 
 ### One Direction -bileet
 

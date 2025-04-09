@@ -19,9 +19,13 @@ As in the past, you can get your Linkki's vappu overall patch by attending six (
 
 Stay tuned and see you at the events!
 
+{{< table-of-contents start=2 end=2 >}}
+
+
 ## 22.4. Throwing carneval
 
 Awaiting further details...
+
 
 ## 22.4. Cocktail training @ DeLorean
 
@@ -41,7 +45,7 @@ The training is on Tue 22.4. beginning at 18 o'clock in DeLoreanissa. The event 
 **Costs:** 15€
 
 Registration link:
-https://kide.app/events/c944286b-0863-448c-9ebb-9ee8e957ac94
+<https://kide.app/events/c944286b-0863-448c-9ebb-9ee8e957ac94>
 
 
 ## 23.4. Vappu scrum w/ Algo
@@ -75,6 +79,7 @@ See you on the battlefield! 🚀
 
 Ticket sales begin Thu 10.4. 12 o'clock.
 Registration link: <https://kide.app/events/750c2a0e-73aa-4526-91f2-148f755a96b8>
+
 
 ## 24.4. JYVÄSMETRO
 
@@ -130,6 +135,7 @@ Jyväskylä's surrounding areas
 **🎉 Why?** Because you don't eant to miss this - a great
 evening in the best company lies ahead!
 
+
 ## 25.4. TEK x Ekonomit beerpong
 
 It's time to find out who the true titans of TEK Beer Pong
@@ -163,6 +169,7 @@ Registration begins on 7.4. at 12:00.
 
 Registration link: <https://kide.app/events/37f3ed34-9b5e-4aad-8845-1e62fd6b153e>
 
+
 ## 26.4. Vappu pancakes w/ JPP
 
 Vappu is a time of business, buzz and madness, but sometimes
@@ -183,6 +190,7 @@ Registration begins Mon 14.4. at 14 o'clock and ends Tue 22.4. The registration 
 
 Notice, this event is alcohol-free.
 
+
 ## 27.4. STEM-vappu
 
 A traditional Finnish
@@ -191,11 +199,13 @@ tournament will be played between STEM organisations. Further
 information on the tournament and registration for Linkki's
 team will be updated in the near future.
 
+
 ## 28.4. Vappu sitsfest
 
 Linkki's vappu sitsfest will be organised at Tilia with Magna
 Carta on Mon 28.4. beginning 17 o'clock. Further information
 will be published in the near future.
+
 
 ## 29.4. Social and educational affairs coffee appro & sports experiment & One Direction -party
 
@@ -249,6 +259,7 @@ Registration opens Mon 14.4. at 12 o'clock.
 
 Registration link: <https://kide.app/events/8ae20ab2-5603-4792-b241-f1539aff4114>
 
+
 ### One Direction -party
 
 Hey all 1D-fans❤️ Now is the time to dance, sing and immerse completely into
@@ -289,9 +300,11 @@ employees or contact Varkaat ry's board members directly or by email at <varkaat
 
 Registration link: <https://kide.app/events/eb1a3317-b5da-4930-92d5-623ff36ee7d1/tickets/60d70400-ce6b-4b4e-b590-0c1d13249a25>
 
+
 ## 30.4. Lunch sitsfest & vappu sauna
 
 Linkki's traditional vappu-sitsfest will be organised again on vappu eve at the Kauppalaisseura sauna. The evening will be continued later with the vappu sauna. Further information will be published in the near future.
+
 
 ## 1.5. May Day picnic @ Harju
 
