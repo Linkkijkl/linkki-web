@@ -28,7 +28,26 @@ Stay tuned ja nähdään vapputapahtumissa!
 
 ## 22.4. Heittokarnevaali
 
-Tarkentuu...
+Vappu täräytetään käyntiin perinteisten 🔥**heittokarnevaalien**🔥 merkeissä!
+
+Nyt on mahtava mahdollisuus purkaa turhaantumistasi tietotekniikkaan
+mm. **läppärinheitossa💻**, **romppukiekossa💿**, **virtalähdemoukarissa🗲** ja tapahtuman
+kruunaavassa **🏃‍♀️‍➡️0,33l duathlonissa🏃‍➡️**.
+
+Paikalle kannattaa tuoda vanhaa tietotekniikkarojua jos sitä löytyy!
+
+**TL;DR:**
+
+**Mitä:** Heittokarnevaali
+
+**Missä:** Agoran piha
+
+**Milloin:** tiistaina 22.4. Klo 15
+
+**Mitä maksaa:** 0€!
+
+
+
 
 ## 22.4. Cocktailkoulutus @ DeLorean
 
