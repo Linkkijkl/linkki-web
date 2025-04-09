@@ -268,7 +268,7 @@ home = ["html", "rss", "api-sponsors"]
 
 
 [[languages.en.menus.main]]
-    name = "Activities"
+    name = "Activity"
     identifier = "menu.toiminta"
     weight = 2
 
@@ -328,6 +328,14 @@ home = ["html", "rss", "api-sponsors"]
 
 
 [[languages.en.menus.main]]
+    name = "New Students"
+    identifier = "menu.fuksit"
+    url = "/en/fuksit/"
+    parent = "menu.toiminta"
+    weight = 7
+
+
+[[languages.en.menus.main]]
     name = "Collaboration"
     identifier = "menu.yhteistyö"
     url = "/en/collaboration/"
@@ -354,7 +362,7 @@ home = ["html", "rss", "api-sponsors"]
     style = "blue"
     mainSections = ["blog", "a-href", "hallitus"]
 
-    
+
     defaultKeywords = ["linkkijkl", "linkki", "jyväskylä"]
 
     address = """
@@ -378,7 +386,7 @@ home = ["html", "rss", "api-sponsors"]
     # Format dates with Go's time formatting
     # https://pkg.go.dev/time
     date_format = "2.1.2006"
-    
+
     dropdown_mouse_over = false
 
     modified_by_url = "https://github.com/linkkijkl/linkki-web/graphs/contributors"
