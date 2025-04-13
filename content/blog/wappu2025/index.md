@@ -211,12 +211,16 @@ poikkitieteellisten pannareiden kanssa! Tarjolla on tietenkin pannaria
 sekä muuta brunssiruokaa. Ilmoitathan ilmoittautuessa
 erityisruokavaliosi, jotta osaamme varata jokaiselle sopivaa ruokaa.
 
-Ilmoittautuminen tapahtumaan alkaa maanantaina 14.4. klo 14 ja päättyy
-tiistaina 22.4. Lipunmyynnin linkki päivitetään lähempänä.
+Tapahtumassa on brunssin lisäksi mahdollisuus pelailla lautapelejä, joten voit napata oman lempipelisi mukaan!
+
+Ilmoittautuminen tapahtumaan alkaa maanantaina 14.4. klo 14 ja päättyy tiistaina 22.4.
+
+Lipunmyynnin linkki:
+https://kide.app/events/77d4a3df-e281-4b18-9ca6-a01929baa8f6
 
 📍 **Paikka:** Lillukka, Kortepohja
 
-🕛 **Aika:** Lauantaina 26.4. klo 12 alkaen
+🕛 **Aika:** Lauantaina 26.4. klo 12-15
 
 💰 **Hinta:** 6€
 
@@ -232,9 +236,53 @@ lähempänä.
 
 ## 28.4. Vappusitsit w/ Magna Carta
 
-Linkki sitsaa tämän vuoden vappusitsit Tilialla Magna Cartan kanssa
-maanantaina 28.4. klo 17 alkaen. Tarkemmat tiedot tapahtumasta
-päivitetään lähempänä.
+Vappu jo häämöttää, jonka vuoksi Magnan ja Linkin on aika sitsata yhdessä vappusitsien muodossa. Sitsien teemana on nurinkurisuus eli sitseillä tullaan tekemään asiat hieman eri tavalla kuin yleensä ja järjestys saattaa olla toisinpäin. Olisiko hassua, jos sitsit alkaisivatkin ”Helan går” -laulun sijasta Finlandialla? Tai kaikilla olisi vaatteet nurinpäin?
+
+Tule Magna x Linkki vappusitseille, jotta pääset kokemaan nurinkurisimmat sitsit koskaan!
+
+Vappusitsit järjestetään maanantaina 28.4. klo 17–21 Tilialla (T-rakennus),
+Seminaarinmäellä. 
+
+Tapahtuma on OPM (oma pullo mukaan) sekä ORM (oma ruoka mukaan) eli
+muistathan tuoda mukanasi omat juomat ja eväät sekä shottilasin
+holittomia alku- ja välishotteja varten (mikä tahansa astia käy
+shottilasiksi!). Tilialla ei ole mahdollista käyttää mikroa: suosi
+siis mahdollisesti sellaista ruokaa, jota ei tarvitse erikseen
+lämmittää! Ruokatauolla on lisäksi mahdollista käydä kaupassa tai
+tilata ruokaa.
+
+Lipunmyynti alkaa Kide.appissa tiistaina 15.4. klo 12 ja loppuu tiistaina 22.4. klo 23.55.
+Lipun hinta on 2,00 € ja se sisältää kaksi alkoholitonta shottia.
+
+Linkki lipunmyyntiin:
+https://kide.app/events/481b97ed-3e62-496c-9b88-83a5b44baa81
+
+Ostamalla lipun hyväksyt Magnan ilmoittautumisen pelisäännöt
+(https://www.magnacartary.com/events/) ja sitsikäytänteet
+(https://www.magnacartary.com/sitsiohjeet/) sekä sitoudut noudattamaan
+JYY:n turvallisemman tilan periaatteita
+(https://jyy.fi/wp-content/uploads/2022/04/JYYn-turvallisemman-tilan-periaatteet.pdf).
+Tapahtumassamme pätee turvallisemman tilan periaatteet ja määritämme
+jokaiseen tapahtumaan häirintäyhdyshenkilöt. Voit olla yhteydessä
+häirintäyhdyshenkilöihin niin turvallisuutta, syrjintää, häirintää
+kuin esteettömyyttäkin koskevissa asioissa tapahtuman aikana sekä
+milloin tahansa tapahtuman jälkeen.
+
+Häirintäyhdyshenkilöt:
+Faten El-idi (faten.k.a.el-idi@student.jyu.fi)
+Alexander Goldhill (alexander.goldhill@linkkijkl.fi)
+
+**MITÄ?** Magna x Linkki nurinkuriset vappusitsit
+
+**MISSÄ?** Tilialla (T-rakennus, Seminaarinmäki)
+
+**MILLOIN?** Maanantaina 28.4. klo 17–21
+
+**MITÄ MAKSAA?** 2,00 €
+
+**MITÄ PÄÄLLE?** Nurinkurinen asu eli mitä tahansa, mikä kuvastaa nurinkurisuuttasi + (halutessasi haalarit!)
+
+**MIKSI?** Koska vappu on parasta aikaa sitsata yhdessä muiden kanssa nurinkurisesti
 
 
 ## 29.4. Sopokopokahviapprot & liikuntakokeilu & One Direction -bileet
@@ -347,9 +395,26 @@ Linkki lipunmyyntiin: <https://kide.app/events/eb1a3317-b5da-4930-92d5-623ff36ee
 
 ## 30.4. Lounassitsit & vappusauna
 
-Linkin perinteiset lounassitsit järjestetään taas vappuaattona
-Kauppalaisseuran saunalla. Iltaa jatketaan yhdessä vappusaunan
-parissa. Tarkemmat tiedot vappuaatosta julkaistaan lähempänä.
+### Lounassitsit 
+Linkin perinteiset vappulounassitsit järjestetään tänä vuonna keskiviikkona 30.4. Kauppalaisseuran saunalla. Sitsit alkavat klo 12 - olethan ajoissa paikalla! Pukukoodi on haalarit ja vappu. Tapahtuma on OPM ja ORM, eli Oma Pullo ja Omat Ruuat mukaan! Lipun hinta on 5€ (sisältää vain paikan sitseille).
+
+Nämä sitsit poikkeavat normaaleista sitseistä, sillä luvassa on rentoa sitsaamista sekä esimerkiksi munkin syöntikilpailu!
+
+Sitsit järjestetään Kauppalaisseuran saunalla, missä pidetään illemmasta myös Vappusauna.
+Lipunmyynti alkaa torstaina 17.4. klo 12 ja loppuu tiistaina 22.4. klo 23:55, tai paikkojen täytyttyä. Olethan nopea, sillä paikkoja on vain rajoitettu määrä!
+
+Linkki lipunmyyntiin:
+https://kide.app/events/17b08ec4-ddfc-472c-a533-a3fcbe0c158f
+
+**📍 Paikka:** Kauppalaisseuran sauna
+**🕛 Aika:** Keskiviikkona 30.4. klo 12 alkaen
+**💰 Hinta:** 5€
+
+
+### Vappusauna
+Unon lakituksesta iltaa jatketaan yhdessä vappusaunan parissa
+Kauppalaisseuran saunalla. Tarkemmat tiedot vappuaatosta julkaistaan
+lähempänä.
 
 ## 1.5. Vappupiknik @ Harju
 
