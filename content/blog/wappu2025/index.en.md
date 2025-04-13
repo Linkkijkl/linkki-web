@@ -196,11 +196,16 @@ there will also be other staple bunch food. Please make sure
 to declare your diet and food allergies upon registration so
 we can ensure everyone gets proper foods reserved.
 
-Registration begins Mon 14.4. at 14 o'clock and ends Tue 22.4. The registration link will be added in the near future.
+In addition to brunch, there will be a chance to play board games, so you can grab your favourite game to play!
+
+Registration for the event starts on Monday 14 April at 14:00 and ends on Tuesday 22 April.
+
+Link to ticket sales:
+https://kide.app/events/77d4a3df-e281-4b18-9ca6-a01929baa8f6
 
 📍 **Place:** Lillukka, Kortepohja
 
-🕛 **Time:** Sat 26.4. beginning 12 o'clock
+🕛 **Time:** Sat 26.4. from 12 to 15
 
 💰 **Cost:** 6€
 
