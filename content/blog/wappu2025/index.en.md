@@ -201,7 +201,7 @@ In addition to brunch, there will be a chance to play board games, so you can gr
 Registration for the event starts on Monday 14 April at 14:00 and ends on Tuesday 22 April.
 
 Link to ticket sales:
-https://kide.app/events/77d4a3df-e281-4b18-9ca6-a01929baa8f6
+<https://kide.app/events/77d4a3df-e281-4b18-9ca6-a01929baa8f6>
 
 📍 **Place:** Lillukka, Kortepohja
 
@@ -223,10 +223,55 @@ team will be updated in the near future.
 
 ## 28.4. Vappu sitsfest
 
-Linkki's vappu sitsfest will be organised at Tilia with Magna
-Carta on Mon 28.4. beginning 17 o'clock. Further information
-will be published in the near future.
+Vappu is already just around the corner, which means it's time for Magna 
+and Linkki to have a Wappu-sitsfest together. This sitsfest's theme is
+topsy-turvy, so some things might be in a different order
+than usual. Wouldn't it be silly, if a sitsfest began with Finlandia
+instead of Helan Går? Or if everyone was wearing their clothes incorrectly?
 
+Join Magna and Linkki in this ludicrous sitsfest on 28.4. at 17-21 o'clock
+in Tilia, located within the T-building in the Seminaarinmäki area.
+
+This event is BYOB (bring your own beverage) and BYOF (bring your own 
+food), so please remember to bring your personal beverages and foods.
+A personal shot glass is also strongly advised, for use with potential
+half-time alcohol-free shots. Tilia has no possibility to use a microwave 
+oven, so prepare to bring yourself foods that do not need separate heating.
+It is possible to also run a shopping trip, or order food.
+
+Ticket sales begin Tue 15.4. at 12 o'clock and end Tue 22.4. at 23.55.
+Ticket price is 2,00€ and includes two alcohol-free shots.
+
+Registration link:
+<https://kide.app/events/481b97ed-3e62-496c-9b88-83a5b44baa81>
+
+By purchasing a ticket you agree to abide by:
+Magna's Rules for enrolling (<https://www.magnacartary.com/en/events/>)
+Magna's Sitsfest rules (<https://www.magnacartary.com/en/sitsiohjeet/>)
+JYY's priciples of a safer space (<https://jyy.fi/wp-content/uploads/2022/10/JYYs-Principles-of-a-Safer-Space.pdf>)
+
+This event operates by principles of a safer space, and we have designated 
+two harassment contact persons. You may be in contact with them during or 
+whenever after the event in matters concerning safety, discrimination, 
+harassment, and accessibility. Matters are handled with confidentiality.
+
+Harassment contact persons:
+Faten El-idi (faten.k.a.el-idi@student.jyu.fi)
+Alexander Goldhill (alexander.goldhill@linkkijkl.fi)
+
+**WHAT?** Magna x Linkki "Topsy-turvy" Vappu-sitsfest
+
+**WHERE?** Tilia (T-building, Seminaarinmäki)
+
+**WHEN?** Monday 28.4. at 17–21
+
+**COST?** 2,00 €
+
+**DRESS CODE?** A topsy-turvy outfit, so anything that shows your 
+out-of-whack nature (+ optionally overalls!)
+
+**WHY?** Because vappu is the best time to have a sitsfest with others all 
+upside-down and inside-out!
 
 ## 29.4. Social and educational affairs coffee appro & sports experiment & One Direction -party
 
@@ -253,7 +298,7 @@ Pass returns and patch collection also take place in front of Origo.
 
 💰COST: 2€
 
-🎟️REGISTRATION: starts 7.4. at 12.00 https://kide.app/events/d951b877-0b52-46c7-8a76-65a51f07f7da 
+🎟️REGISTRATION: starts 7.4. at 12.00 <https://kide.app/events/d951b877-0b52-46c7-8a76-65a51f07f7da>
 
 🤗WITH WHOM: Ynnä, Syrre, Linkki, Radikaali, Algo, Dumppi, Pörssi, and Nano
 
@@ -324,8 +369,35 @@ Registration link: <https://kide.app/events/eb1a3317-b5da-4930-92d5-623ff36ee7d1
 
 ## 30.4. Lunch sitsfest & vappu sauna
 
-Linkki's traditional vappu-sitsfest will be organised again on vappu eve at the Kauppalaisseura sauna. The evening will be continued later with the vappu sauna. Further information will be published in the near future.
+### Lunch sitsfest
 
+Linkki's traditional vappulunch-sitsfest will be organised again this year 
+on Wed 30.4. at the Kauppalaisseura sauna. The sitsfest begins at 12 
+o'clock, so be sure to arrive in a timely manner! Dresscode is overalls 
+and vappu. This event is BYOB (bring your own beverage) and BYOF (bring 
+your own food)! Ticket price is 5€.
+
+These sitsfest differ from the usual, since among usual relaxed sitsfest 
+activities there will be e.g. a vappumunkki eating contest!
+
+This sitsfest is organised at Kauppalaisseuran sauna, where further in the 
+evening there will be Vappusauna. Ticket sales being Thu 17.4. at 12 
+o'clock and end Tue 22.4. at 23:55, or when the event is fully reserved. 
+Be quick, there are only very limited spots!
+
+Registration link:
+<https://kide.app/events/17b08ec4-ddfc-472c-a533-a3fcbe0c158f>
+
+**📍 Place:** Kauppalaisseura sauna
+
+**🕛 Time:** Wednesday 30.4. at 12 o'clock forward
+
+**💰 Cost:** 5€
+
+### Vappusauna
+
+After Uno's crowning (with a hat), we will continue the evening with a 
+relaxing sauna evening at Kauppalaisseura sauna. Further information will be updated...
 
 ## 1.5. May Day picnic @ Harju
 

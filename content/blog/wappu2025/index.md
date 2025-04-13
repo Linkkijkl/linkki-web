@@ -75,7 +75,7 @@ tapahtumaan alkaa tiistaina 8.4. klo 12 ja päättyy maanantaina 14.4.
 **Mitä maksaa:** 15€
 
 Ilmoittautuminen tapahtumaan:
-https://kide.app/events/c944286b-0863-448c-9ebb-9ee8e957ac94
+<https://kide.app/events/c944286b-0863-448c-9ebb-9ee8e957ac94>
 
 
 ## 23.4. Vappusota w/ Algo
@@ -216,7 +216,7 @@ Tapahtumassa on brunssin lisäksi mahdollisuus pelailla lautapelejä, joten voit
 Ilmoittautuminen tapahtumaan alkaa maanantaina 14.4. klo 14 ja päättyy tiistaina 22.4.
 
 Lipunmyynnin linkki:
-https://kide.app/events/77d4a3df-e281-4b18-9ca6-a01929baa8f6
+<https://kide.app/events/77d4a3df-e281-4b18-9ca6-a01929baa8f6>
 
 📍 **Paikka:** Lillukka, Kortepohja
 
@@ -255,13 +255,13 @@ Lipunmyynti alkaa Kide.appissa tiistaina 15.4. klo 12 ja loppuu tiistaina 22.4. 
 Lipun hinta on 2,00 € ja se sisältää kaksi alkoholitonta shottia.
 
 Linkki lipunmyyntiin:
-https://kide.app/events/481b97ed-3e62-496c-9b88-83a5b44baa81
+<https://kide.app/events/481b97ed-3e62-496c-9b88-83a5b44baa81>
 
 Ostamalla lipun hyväksyt Magnan ilmoittautumisen pelisäännöt
-(https://www.magnacartary.com/events/) ja sitsikäytänteet
-(https://www.magnacartary.com/sitsiohjeet/) sekä sitoudut noudattamaan
+(<https://www.magnacartary.com/events/>) ja sitsikäytänteet
+(<https://www.magnacartary.com/sitsiohjeet/>) sekä sitoudut noudattamaan
 JYY:n turvallisemman tilan periaatteita
-(https://jyy.fi/wp-content/uploads/2022/04/JYYn-turvallisemman-tilan-periaatteet.pdf).
+(<https://jyy.fi/wp-content/uploads/2022/04/JYYn-turvallisemman-tilan-periaatteet.pdf>).
 Tapahtumassamme pätee turvallisemman tilan periaatteet ja määritämme
 jokaiseen tapahtumaan häirintäyhdyshenkilöt. Voit olla yhteydessä
 häirintäyhdyshenkilöihin niin turvallisuutta, syrjintää, häirintää
@@ -311,7 +311,7 @@ Origon edustalla.
 
 💰HINTA: 2€
 
-🎟️ILMOITTAUTUMINEN: liput tulevat myyntiin 7.4. klo: 12.00 https://kide.app/events/d951b877-0b52-46c7-8a76-65a51f07f7da 
+🎟️ILMOITTAUTUMINEN: liput tulevat myyntiin 7.4. klo: 12.00 <https://kide.app/events/d951b877-0b52-46c7-8a76-65a51f07f7da>
 
 🤗KEIDEN KANSSA: Ynnä, Syrre, Linkki, Radikaali, Algo, Dumppi, Pörssi ja Nano
 
@@ -396,6 +396,7 @@ Linkki lipunmyyntiin: <https://kide.app/events/eb1a3317-b5da-4930-92d5-623ff36ee
 ## 30.4. Lounassitsit & vappusauna
 
 ### Lounassitsit 
+
 Linkin perinteiset vappulounassitsit järjestetään tänä vuonna keskiviikkona 30.4. Kauppalaisseuran saunalla. Sitsit alkavat klo 12 - olethan ajoissa paikalla! Pukukoodi on haalarit ja vappu. Tapahtuma on OPM ja ORM, eli Oma Pullo ja Omat Ruuat mukaan! Lipun hinta on 5€ (sisältää vain paikan sitseille).
 
 Nämä sitsit poikkeavat normaaleista sitseistä, sillä luvassa on rentoa sitsaamista sekä esimerkiksi munkin syöntikilpailu!
@@ -404,14 +405,16 @@ Sitsit järjestetään Kauppalaisseuran saunalla, missä pidetään illemmasta m
 Lipunmyynti alkaa torstaina 17.4. klo 12 ja loppuu tiistaina 22.4. klo 23:55, tai paikkojen täytyttyä. Olethan nopea, sillä paikkoja on vain rajoitettu määrä!
 
 Linkki lipunmyyntiin:
-https://kide.app/events/17b08ec4-ddfc-472c-a533-a3fcbe0c158f
+<https://kide.app/events/17b08ec4-ddfc-472c-a533-a3fcbe0c158f>
 
 **📍 Paikka:** Kauppalaisseuran sauna
+
 **🕛 Aika:** Keskiviikkona 30.4. klo 12 alkaen
+
 **💰 Hinta:** 5€
 
-
 ### Vappusauna
+
 Unon lakituksesta iltaa jatketaan yhdessä vappusaunan parissa
 Kauppalaisseuran saunalla. Tarkemmat tiedot vappuaatosta julkaistaan
 lähempänä.
