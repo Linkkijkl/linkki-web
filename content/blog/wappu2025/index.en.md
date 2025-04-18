@@ -118,7 +118,10 @@ you are ensuring you are travelling with at least a handful
 of other Linkeens! Linkki has tickets on Lines 5, 8, 12, 14
 and 22.
 
-Registration link: <https://kide.app/events/4795a076-5dbf-414b-ac6d-a388ba001fab>
+Linkki's registration link: <https://kide.app/events/4795a076-5dbf-414b-ac6d-a388ba001fab>
+
+Common registration link: <https://kide.app/events/dd28ea32-b08d-4be5-ad2e-93b68f768311>
+
 
 Line 5: Abakus, JASTO, Linkki & Ynnä
 
