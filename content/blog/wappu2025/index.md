@@ -136,7 +136,10 @@ päättyy 13.4. klo 23.59! Lipun ostamalla varmistat paikkasi samalla
 linjalla muiden Linkkareiden kanssa – älä siis jää paitsi!
 Linkkareilla on kannat linjoille 5, 8, 12, 14 ja 22.
 
-Linkki lipunmyyntiin: <https://kide.app/events/4795a076-5dbf-414b-ac6d-a388ba001fab>
+Linkki Linkin lipunmyyntiin:
+<https://kide.app/events/4795a076-5dbf-414b-ac6d-a388ba001fab>
+
+Linkki yleiseen lipunmyyntiin: <https://kide.app/events/dd28ea32-b08d-4be5-ad2e-93b68f768311>
 
 Linja 5: Abakus, JASTO, Linkki & Ynnä
 
