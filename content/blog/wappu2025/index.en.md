@@ -2,7 +2,8 @@
 title = "Linkki's Vappu 2025"
 date = "2025-03-26T00:00:00+02:00"
 description = "Linkki's vappu events' save the date"
-authors = ["Linkki events team <3", "Oskari Lahtinen", "Alexander Goldhill"]
+authors = ["Linkki events team <3", "Oskari Lahtinen", "Lari Nurkka"]
+translators = ["Alexander Goldhill"]
 banner = "/img/blog/wappu2025.jpg"
 summary = "Linkki's vappu events' save the date"
 url = "blog/vappu2025"

@@ -58,6 +58,9 @@
 - id: authorBy
   translation: "Tekemässä"
 
+- id: translatedBy
+  translation: "Kääntänyt"
+
 - id: recentPosts
   translation: "Viimeisimmät päivitykset"
 
