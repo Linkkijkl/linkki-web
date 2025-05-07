@@ -118,12 +118,12 @@ home = ["html", "rss", "api-sponsors"]
     parent = "menu.toiminta"
     weight = 1
 
-[[languages.fi.menus.main]]
-    name = "Vappu 2025"
-    identifier = "menu.vappu"
-    url = "/blog/vappu2025"
-    parent = "menu.toiminta"
-    weight = 1
+#[[languages.fi.menus.main]]
+#    name = "Vappu 2025"
+#    identifier = "menu.vappu"
+#    url = "/blog/vappu2025"
+#    parent = "menu.toiminta"
+#    weight = 1
 
 [[languages.fi.menus.main]]
     name = "Kattila"
@@ -280,12 +280,12 @@ home = ["html", "rss", "api-sponsors"]
     parent = "menu.toiminta"
     weight = 1
 
-[[languages.en.menus.main]]
-    name = "Vappu 2025"
-    identifier = "menu.vappu"
-    url = "/en/blog/vappu2025"
-    parent = "menu.toiminta"
-    weight = 1
+#[[languages.en.menus.main]]
+#    name = "Vappu 2025"
+#    identifier = "menu.vappu"
+#    url = "/en/blog/vappu2025"
+#    parent = "menu.toiminta"
+#    weight = 1
 
 [[languages.en.menus.main]]
     name = "Kattila"
