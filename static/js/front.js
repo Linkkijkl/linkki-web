@@ -128,10 +128,24 @@ function sliders () {
 
 /* masonries */
 function masonries () {
-  $('.customers').masonry({
+  const customers = $('.customers').masonry({
     itemSelector: '.item',
     percentPosition: true,
   });
+
+  // Reload masonry after images load fully
+  let debounceTimeout = null;
+  const DEBOUNCE_TIME = 200;
+  for (const sponsor of $('.customers img')) {
+    sponsor.addEventListener('load', () => {
+      if (debounceTimeout) {
+        clearTimeout(debounceTimeout);
+      }
+      debounceTimeout = setTimeout(() => {
+        customers.masonry();
+      }, DEBOUNCE_TIME);
+    }, {once: true});
+  }
 }
 
 /* menu sliding */
