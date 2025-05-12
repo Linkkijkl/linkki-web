@@ -143,8 +143,8 @@ function masonries () {
       }
       debounceTimeout = setTimeout(() => {
         customers.masonry();
-      }, DEBOUNCE_TIME); 
-    });
+      }, DEBOUNCE_TIME);
+    }, {once: true});
   }
 }
 
