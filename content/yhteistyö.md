@@ -64,3 +64,31 @@ kehittämään yhteistyömuotojamme. Jos teillä on jokin uusi yhteistyömuoto, 
 kehittämään sitä yhdessä eteenpäin, laitathan viestiä osoitteeseen yritys@linkkijkl.fi
 
 # Yhteistyöpaketit
+
+## Media -paketti:
+- Hinta: 600 €
+- Web-näkyvyys, logo nettisivuille
+- Sähköpostiviestit jäsenkirjeessä 
+- Mainonta Instagram-kanavalla 
+- Mainonta jäsenille Telegram-kanavalla 
+- Logo ainejärjestötilan monitorille
+- Logo a hrefiin (ainejärjestön lehti, 1-4kpl/v)
+
+## Media + Haalari -paketti:
+- Hinta: 1100 € 
+- Haalareihin logo (1 erä, syksy)
+
+## Haalarilogot erikseen 1 erä (syksy):
+- (ks. Haalarikartta 2025)
+- Alaosa 500€
+- Yläosa 300€ 
+
+## Excursiot 
+- 500€/kpl, sovitaan erikseen
+
+## Lisäyhteistyö:
+- Printtimainos ainejärjestötilaan (yritys toimittaa) - 150 €
+- Isompi mainos/artikkeli a href 100/150€ (½ sivu tai yksi sivu)
+- Hackday: 400 €
+- Yksittäinen mainos-/rekryviesti somekanaviin 100 € / viesti
+
