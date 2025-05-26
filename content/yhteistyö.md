@@ -58,7 +58,7 @@ tukeminen on oiva tapa tulla tutuksi monille juhlijoille.
 
 Ensi vuonna ainejärjestömme täyttää 20 vuotta, joten aikomuksenamme on järjestää normaalia suuremmat juhlat. 
 Täten ollen olemme hakemassa juhlille tukijoita. Lisätietoja saa esimerkiksi [vuosijuhliemme nettisivuilta](https://www.vujut.linkkijkl.fi/) 
-tai sähköpostilla (tapahtuma@linkkijkl.fi).
+tai sähköpostilla tapahtuma@linkkijkl.fi.
 
 ## Linkki-tarra
 
@@ -103,4 +103,4 @@ kehittämään sitä yhdessä eteenpäin, laitathan viestiä osoitteeseen yritys
 
 # Haalarikartta
 
-Kysy lisätietoja (yritys@linkkijkl.fi).
+Kysy lisätietoja yritys@linkkijkl.fi.
