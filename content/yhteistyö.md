@@ -19,7 +19,7 @@ suoraan yritys- ja yhteistyöpäälliköllemme (yritys@linkkijkl.fi).
 
 ## Yritysvierailut
 
-Yritysvierailut, tutummin Excut, ovat yrityksille otollinen tilaisuus päästä 
+Yritysvierailut, tutummin excursiot, ovat yrityksille otollinen tilaisuus päästä 
 esittelemään yrityksen toimintaa ja tiloja, sekä yleisesti yritystä työnantajana.
 Yritysvierailuilla opiskelijat pääsevät aidosti tutustumaan yrityksiin ja sen työntekijöihin. 
 Suuri osa jäsenistämme työllistyy jo opintojen aikana.
@@ -39,17 +39,26 @@ tapahtumakävijöitä, joten yrityksen näkyvyys on varmasti taattu.
 
 ### Jyväsmetro
 
-Jyväsmetro on suurin Linkin järjestämistä vapputapahtumista. Tapahtuma on poikkitieteellinen, joten yrityksenne saa näkyvyyttä myös muillekin kuin Linkin jäsenistölle. Tapahtumasta saatte lisää infoa Jyväsmetron [nettisivuilta](https://www.jyvasmetro.fi/)
+Jyväsmetro on suurin Linkin järjestämistä tapahtumista ja yksi Jyväskylän suurimmista opiskelijatapahtumista. 
+Tapahtuma on poikkitieteellinen, joten yrityksenne saa näkyvyyttä myös muillekin kuin Linkin jäsenistölle. Tapahtumasta saatte 
+lisää infoa Jyväsmetron [nettisivuilta](https://www.jyvasmetro.fi/)
 
 ### Instanssi
 
-Digitaalisen tekemisen Instanssi on **Linkki Jyväskylä ry**:n järjestämä vuotuinen demopartytapahtuma, joka on matalan kynnyksen tapahtuma kaikille IT-alasta ja ohjelmoinnista kiinnostuneille. Yritysten on mahdollista tukea tapahtumaa sekä tulla paikan päälle puhujaksi, workshopin vetäjäksi tai esittelemään itseään ja yrityksensä toimintaa.
+Digitaalisen tekemisen festivaali Instanssi on **Linkki Jyväskylä ry**:n järjestämä vuotuinen demopartytapahtuma, 
+joka on matalan kynnyksen tapahtuma kaikille IT-alasta ja ohjelmoinnista kiinnostuneille. Yritysten 
+on mahdollista tukea tapahtumaa sekä tulla paikan päälle puhujaksi, workshopin vetäjäksi tai esittelemään 
+itseään ja yrityksensä toimintaa.
 
 ### Vuosijuhlat
 
-Perinteitä kunnioittaen **Linkki Jyväskylä ry** juhlii mennyttä vuottaan arvoikkailla vuosijuhlilla. Osallistujina ovat kaikki fukseistamme alumneihin, yhteistyökumppaneihin sekä kutsuvieraisiin. Vuosijuhlien tukeminen on oiva tapa tulla tutuksi monille juhlijoille.
+Perinteitä kunnioittaen **Linkki Jyväskylä ry** juhlii mennyttä vuottaan arvoikkailla vuosijuhlilla. 
+Osallistujina ovat kaikki fukseistamme alumneihin, yhteistyökumppaneihin sekä kutsuvieraisiin. Vuosijuhlien 
+tukeminen on oiva tapa tulla tutuksi monille juhlijoille.
 
-Ensi vuonna ainejärjestömme täyttää 20 vuotta, joten aikomuksenamme on järjestää normaalia suuremmat juhlat. Täten ollen olemme hakemassa juhlille tukijoita. Lisätietoja saa esimerkiksi [vuosijuhliemme nettisivuilta](https://www.vujut.linkkijkl.fi/) tai sähköpostilla (tapahtuma@linkkijkl.fi).
+Ensi vuonna ainejärjestömme täyttää 20 vuotta, joten aikomuksenamme on järjestää normaalia suuremmat juhlat. 
+Täten ollen olemme hakemassa juhlille tukijoita. Lisätietoja saa esimerkiksi [vuosijuhliemme nettisivuilta](https://www.vujut.linkkijkl.fi/) 
+tai sähköpostilla (tapahtuma@linkkijkl.fi).
 
 ## Linkki-tarra
 
@@ -92,3 +101,6 @@ kehittämään sitä yhdessä eteenpäin, laitathan viestiä osoitteeseen yritys
 - Hackday: 400 €
 - Yksittäinen mainos-/rekryviesti somekanaviin 100 € / viesti
 
+# Haalarikartta
+
+Kysy lisätietoja (yritys@linkkijkl.fi).
