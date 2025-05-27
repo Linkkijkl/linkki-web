@@ -17,59 +17,90 @@ suoraan yritys- ja yhteistyöpäälliköllemme (yritys@linkkijkl.fi).
 
 # YHTEISTYÖMUODOT
 
-### Yritysvierailut
+## Yritysvierailut
 
-Yritysvierailut, jotka kulkevat opiskelijapiireissä nimellä excursiot
-ovat yritykselle otollinen tilaisuus päästä esittelemään yrityksen
-toimintaa ja tiloja, sekä yritystä työnantajana. Yritysvierailuilla
-opiskelijat pääsevät aidosti tutustumaan yrityksiin ja sen
-työntekijöihin. Suuri osa jäsenistämme työllistyy jo opintojen aikana.
+Yritysvierailut, tutummin excursiot, ovat yrityksille otollinen tilaisuus päästä 
+esittelemään yrityksen toimintaa ja tiloja, sekä yleisesti yritystä työnantajana.
+Yritysvierailuilla opiskelijat pääsevät aidosti tutustumaan yrityksiin ja sen työntekijöihin. 
+Suuri osa jäsenistämme työllistyy jo opintojen aikana.
 
-### Opiskelijahaalarit
+## Opiskelijahaalarit
 
-Linkin haalarivärit ovat hieman normaaleista yksivärisistä poikkeavat,
-sillä linkkareiden haalarit ovat sini-mustat. Haalareita pidetään
-lähes kaikissa opiskelijatapahtumissa, joten haalarimainokset ovat
-oiva tapa näkyä myös muille kuin tietotekniikan
-opiskelijoille. Haalarimainos on yksi suosituimmista
-yhteistyötavoistamme.
+Opiskelijahaalarit ovat opiskelijan univormu. Niitä pidetään lähestulkoon kaikissa 
+opiskelijatapahtumissa, joten haalarimainokset ovat oiva tapa näkyä myös muille 
+tietojenkäsittelytieteen opiskelijoille. Linkin haalariväri on hieman muista eroava, 
+sillä linkkareiden haalarit ovat sinimustat. Haalarimainos on yksi suosituimmista 
+yhteistyömuodoistamme.
 
-### Tapahtumat
+## Tapahtumat
 
-Yksi yhteistyömuoto on osallistuminen Linkin tapahtumiin esimerkiksi
-pitämällä omaa ständiä Instanssi-tapahtumassa. Linkkarit ovat
-aktiivisia tapahtumakävijöitä, joten yrityksen näkyvyys on varmasti
-taattu.
+Yksi yhteistyömuoto on osallistuminen Linkin tapahtumiin. Linkkarit ovat aktiivisia 
+tapahtumakävijöitä, joten yrityksen näkyvyys on varmasti taattu.
 
-### Vuosijuhlatuki
+### Jyväsmetro
 
-Perinteitä kunnioittaen **Linkki Jyväskylä ry** juhlii mennyttä vuotta
-arvokkailla vuosijuhlilla. Osallistujina ovat kaikki fukseistamme
-alumneihin, yhteistyökumppaneihin sekä kutsuvieraisiin. Vuosijuhlien
-tukeminen on oiva tapa tulla tutuksi monille juhlijoille. Tarjoamme
-myös mahdollisuutta tulla paikan päälle puhumaan
-vierailijoille. Haemme tukijoita erityisesti nyt, sillä vuosijuhlat
-ovat jo melkein nurkan takana. Lisätietoja https://vujut.linkkijkl.fi/
-tai tapahtuma@linkkijkl.fi
+Jyväsmetro on suurin Linkin järjestämistä tapahtumista ja yksi Jyväskylän suurimmista opiskelijatapahtumista. 
+Tapahtuma on poikkitieteellinen, joten yrityksenne saa näkyvyyttä myös muillekin kuin Linkin jäsenistölle. Tapahtumasta saatte 
+lisää infoa Jyväsmetron [nettisivuilta](https://www.jyvasmetro.fi/)
 
-### Instanssituki
+### Instanssi
 
-Digitaalisen tekemisen Instanssi on **Linkki Jyväskylä ry**:n järjestämä
-vuotuinen demopartytapahtuma, joka on matalan kynnyksen tapahtuma
-kaikille IT-alasta ja ohjelmoinnista kiinnostuneille. Yritysten on
-mahdollista tukea tapahtumaa sekä tulla paikan päälle puhujaksi,
-workshopin vetäjäksi tai esittelemään itseään ja yrityksensä
-toimintaa.
+Digitaalisen tekemisen festivaali Instanssi on **Linkki Jyväskylä ry**:n järjestämä vuotuinen demopartytapahtuma, 
+joka on matalan kynnyksen tapahtuma kaikille IT-alasta ja ohjelmoinnista kiinnostuneille. Yritysten 
+on mahdollista tukea tapahtumaa sekä tulla paikan päälle puhujaksi, workshopin vetäjäksi tai esittelemään 
+itseään ja yrityksensä toimintaa.
 
-### Linkki-tarra
+### Vuosijuhlat
 
-Yritysten on mahdollista toimia yhteistyössä Linkin kanssa tarjoamalla
-etuja omista tuotteistaan tai palveluistaan. Esittämällä Linkki-tarraa
+Perinteitä kunnioittaen **Linkki Jyväskylä ry** juhlii mennyttä vuottaan arvoikkailla vuosijuhlilla. 
+Osallistujina ovat kaikki fukseistamme alumneihin, yhteistyökumppaneihin sekä kutsuvieraisiin. Vuosijuhlien 
+tukeminen on oiva tapa tulla tutuksi monille juhlijoille.
+
+Ensi vuonna ainejärjestömme täyttää 20 vuotta, joten aikomuksenamme on järjestää normaalia suuremmat juhlat. 
+Täten ollen olemme hakemassa juhlille tukijoita. Lisätietoja saa esimerkiksi [vuosijuhliemme nettisivuilta](https://www.vujut.linkkijkl.fi/) 
+tai sähköpostilla tapahtuma@linkkijkl.fi.
+
+## Linkki-tarra
+
+Yritysten on mahdollista toimia yhteistyössä Linkin kanssa tarjoamalla etuja omista 
+tuotteistaan tai palveluistaan. Esittämällä joko sähköistä tai fyysistä Linkki-tarraa 
 jäsenemme ovat oikeutettuja ennalta sovittuihin etuihin.
 
-### Muita yhteistyömuotoja
+## Muu yhteistyö
 
-Yhteistyömuotomme eivät ole rajoittuneet vain yllä oleviin vaan olemme
-aina valmiita kehittämään yhteistyömuotojamme. Jos teillä on jokin
-uusi yhteistyömuoto, olemme valmiita kehittämään sitä yhdessä
-eteenpäin, laitathan viestiä osoitteeseen yritys@linkkijkl.fi
+Yhteistyömuotomme eivät ole rajoittuneet vain yllä oleviin vaan olemme aina valmiita 
+kehittämään yhteistyömuotojamme. Jos teillä on jokin uusi yhteistyömuoto, olemme valmiita 
+kehittämään sitä yhdessä eteenpäin, laitathan viestiä osoitteeseen yritys@linkkijkl.fi
+
+# Yhteistyöpaketit
+
+## Media -paketti:
+- Hinta: 600 €
+- Web-näkyvyys, logo nettisivuille
+- Sähköpostiviestit jäsenkirjeessä 
+- Mainonta Instagram-kanavalla 
+- Mainonta jäsenille Telegram-kanavalla 
+- Logo ainejärjestötilan monitorille
+- Logo a hrefiin (ainejärjestön lehti, 1-4kpl/v)
+
+## Media + Haalari -paketti:
+- Hinta: 1100 € 
+- Haalareihin logo (1 erä, syksy)
+
+## Haalarilogot erikseen 1 erä (syksy):
+- (ks. Haalarikartta 2025)
+- Alaosa 500€
+- Yläosa 300€ 
+
+## Excursiot 
+- 500€/kpl, sovitaan erikseen
+
+## Lisäyhteistyö:
+- Printtimainos ainejärjestötilaan (yritys toimittaa) - 150 €
+- Isompi mainos/artikkeli a href 100/150€ (½ sivu tai yksi sivu)
+- Hackday: 400 €
+- Yksittäinen mainos-/rekryviesti somekanaviin 100 € / viesti
+
+# Haalarikartta
+
+Kysy lisätietoja yritys@linkkijkl.fi.
