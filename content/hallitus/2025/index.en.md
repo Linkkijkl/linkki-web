@@ -194,14 +194,13 @@ Telegram: [**@Aino_Sipola**](https://t.me/Aino_Sipola)
 
 {{< row >}}
 {{< column >}}
-{{< img-thumb-cap "arttu.webp" "200x" >}}
-## Arttu Juntunen
+{{< img-thumb-cap >}}
+## Juhana Lihavainen
 #### Freshman Coordinator
 [**fuksivastaava@linkkijkl.fi**](mailto:fuksivastaava@linkkijkl.fi)
 
-[Telegram: **@Djuntunen**](https://t.me/Djuntunen)
+[Telegram: **@juan4615**](https://t.me/juan4615)
 {{< /img-thumb-cap >}}
-
 {{< /column >}}
 {{< column >}}
 
