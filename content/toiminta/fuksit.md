@@ -7,7 +7,7 @@ url = "fuksit"
 
 Tervetuloa Jyväskylään opiskelemaan tietojenkäsittelytiedettä!
 Virallisen ohjeistuksen ja tämän sivun lisäksi kannattaa lukea
-[matemaattis-luonnontieteellinen vaihtoehtoinen opinto-opas (VOpas)](https://www.jyu.fi/fi/file/vopas2024).
+[matemaattis-luonnontieteellinen vaihtoehtoinen opinto-opas (VOpas)](https://www.jyu.fi/fi/file/vopas2025).
 Esimerkiksi Linkin tutorien esittelyt löydät VOppaasta.
 
 > "VOpas on ehkä merkittävin – joka tapauksessa menestyksekkäin kirja,
@@ -26,7 +26,7 @@ Esimerkiksi Linkin tutorien esittelyt löydät VOppaasta.
 - maksaa YTHS-maksu ja hakea tukia [OmaKelassa](https://oma.kela.fi/)
 - hakea asuntoa esimerkiksi [KOASilta](https://www.koas.fi/) tai
 [Soihdulta](https://soihtu.fi/asuminen/)
-- hankkia opiskelijakortti ([Frank](https://www.frank.fi/)/[Slice](https://slice.fi/fi)/[Kide.app](https://kide.app/student-card)/[Pivo](https://pivo.fi/palvelut/opiskelijakortti/)/[fyysinen](https://www.frank.fi/opiskelijakortti/))
+- hankkia opiskelijakortti ([Slice](https://slice.fi/fi)/[Kide.app](https://kide.app/student-card)/[Pivo](https://pivo.fi/palvelut/opiskelijakortti/)/[fyysinen](https://www.frank.fi/opiskelijakortti/))
 
 ## Opintojen alku
 
