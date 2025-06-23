@@ -23,7 +23,7 @@ with [an alternative study guide for STEM students](https://www.jyu.fi/fi/file/v
 - if you are eligible pay the FSHS-payment and apply for social benefits in [OmaKela](https://oma.kela.fi/)
 - apply for student accomodation from [KOAS](https://www.koas.fi/) or
 [Soihtu](https://soihtu.fi/asuminen/)
-- apply for a student ID [Slice](https://slice.fi/fi)/[Kide.app](https://kide.app/student-card)/[Pivo](https://pivo.fi/palvelut/opiskelijakortti/)/[physical](https://www.frank.fi/opiskelijakortti/))
+- apply for a student ID ([Slice](https://slice.fi/fi)/[Kide.app](https://kide.app/student-card)/[Pivo](https://pivo.fi/palvelut/opiskelijakortti/)/[physical](https://www.frank.fi/opiskelijakortti/))
 
 ## In the beginning
 
