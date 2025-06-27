@@ -7,7 +7,7 @@ url = "fuksit"
 
 Tervetuloa Jyväskylään opiskelemaan tietojenkäsittelytiedettä!
 Virallisen ohjeistuksen ja tämän sivun lisäksi kannattaa lukea
-[matemaattis-luonnontieteellinen vaihtoehtoinen opinto-opas (VOpas)](https://www.jyu.fi/fi/file/vopas2025).
+[matemaattis-luonnontieteellinen vaihtoehtoinen opinto-opas (VOpas)](https://www.jyu.fi/fi/file/vopas2025pdf).
 Esimerkiksi Linkin tutorien esittelyt löydät VOppaasta.
 
 > "VOpas on ehkä merkittävin – joka tapauksessa menestyksekkäin kirja,
