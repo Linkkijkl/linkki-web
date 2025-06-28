@@ -7,7 +7,9 @@ url = "fuksit"
 
 Warm welcome to Jyväskylä!
 Aside official guides and this page you can familiarize yourself
-with [an alternative study guide for STEM students](https://www.jyu.fi/fi/file/vopas2025), known as VOpas. This document is soon partially out of date, and is written entirely in Finnish.
+with [an alternative study guide for STEM
+students](https://www.jyu.fi/fi/file/vopas2025pdf), known as VOpas.
+This document is sadly written entirely in Finnish.
 
 > "VOpas is perhaps the most significant – in any case most successful
 > book, that Jyväskylän University's STEM faculty has ever published.
