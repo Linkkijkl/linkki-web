@@ -45,6 +45,8 @@ Jyväskylä ry.
 
 The following persons have been granted Linkki Jyväskylä ry honorary
 mention: 
+- Emma Järvinen 2025
+- Lari Nurkka 2025
 - Niko Muukkonen 2024
 - Aino Sipola 2024
 - Riina Kokkonen 2022
