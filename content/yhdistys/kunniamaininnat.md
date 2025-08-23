@@ -45,6 +45,8 @@ jäsenelle kunniamaininnan.
 
 Seuraaville henkilöille on myönnetty Linkki Jyväskylä ry:n
 kunniamaininta:
+- Emma Järvinen 2025
+- Lari Nurkka 2025
 - Niko Muukkonen 2024
 - Aino Sipola 2024
 - Riina Kokkonen 2022
