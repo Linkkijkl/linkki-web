@@ -271,7 +271,7 @@ Telegram: [**@Aino_Sipola**](https://t.me/Aino_Sipola)
 
 {{< img-thumb-cap >}}
 ## Lari Nurkka
-#### Webmaster
+#### Cloud Coordinator
 [**webmaster@linkkijkl.fi**](mailto:webmaster@linkkijkl.fi)
 
 [Telegram: **@lurppa**](https://t.me/lurppa)

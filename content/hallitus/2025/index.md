@@ -283,7 +283,7 @@ Mediatiimin tehtävänä on tiedottaa jäsenistöä yhdistyksen eri kanavissa ku
 
 {{< img-thumb-cap >}}
 ## Lari Nurkka
-#### Webmaster
+#### Pilvivastaava
 [**webmaster@linkkijkl.fi**](mailto:webmaster@linkkijkl.fi)
 
 [Telegram: **@lurppa**](https://t.me/lurppa)
