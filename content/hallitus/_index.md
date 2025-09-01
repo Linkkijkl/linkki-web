@@ -80,7 +80,7 @@ Mediatiimin tehtävänä on tiedottaa jäsenistöä yhdistyksen eri kanavissa ku
 
 **Mediapäällikkö** toimii linkkinä muun mediatiimin ja hallituksen välillä, ja tekee muiden pestien hommia tarpeen tullen.
 
-**Webmaster** ylläpitää nettisivuja sekä sähköpostialiaksia.
+**Pilvivastaava (aikaisemmin Webmaster)** vastaa pilven saatavuudesta ja laadusta, sekä ylläpitää järjestön verkkosivuja ja sähköpostialiaksia.
 
 **Päätoimittaja** on vastuussa ainejärjestölehti A href:istä.
 
