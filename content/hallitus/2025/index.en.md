@@ -233,7 +233,7 @@ Telegram: [**@Aino_Sipola**](https://t.me/Aino_Sipola)
 #### Blood Deity
 [**verijumala@linkkijkl.fi**](mailto:verijumala@linkkijkl.fi)
 
-[Telegram: **@emmayay**](https://t.me/emmayay)
+[Telegram: **@emmayayy**](https://t.me/emmayayy)
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
