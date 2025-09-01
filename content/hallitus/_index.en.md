@@ -78,7 +78,7 @@ The task of the media team is to inform the members through various association'
 
 **Media Coordinator** acts as a link between the rest of the media team and the board and performs other roles' tasks as necessary.
 
-**Webmaster** maintains the website and email aliases.
+**Cloud Coordinator (formerly Webmaster)** ensures the cloud service's adequacy, while also maintaining associations websites and email aliases.
 
 **Editor-in-Chief** is responsible for the subject association magazine [A href](/ahref).
 
