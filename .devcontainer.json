@@ -2,7 +2,11 @@
     "image": "mcr.microsoft.com/devcontainers/base:debian",
     "customizations": {
         "vscode": {
-            "extensions": ["budparr.language-hugo-vscode"]
+            "extensions": [
+                "budparr.language-hugo-vscode",
+                "be5invis.toml",
+                "dbaeumer.vscode-eslint"
+            ]
         }
     },
     "features": {
@@ -14,5 +18,6 @@
     },
     "forwardPorts": [
         1313
-    ]
+    ],
+    "postCreateCommand": "yarn"
 }

@@ -2,11 +2,15 @@ FROM alpine AS builder
 RUN apk update && apk add hugo npm
 # Install pagefind
 RUN npx pagefind --version
+# Install yarn
+RUN npx yarn --version
 # Copy site
 ADD . /source
 WORKDIR /source
-# Build with hugo
-RUN hugo
+# Fetch dependencies
+RUN npx yarn
+# Build site
+RUN hugo --minify
 # Build search index
 RUN npx pagefind --site public
 
