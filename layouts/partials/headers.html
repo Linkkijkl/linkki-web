@@ -27,11 +27,7 @@
 <link href="{{ "css/animate.css" | relURL }}" rel="stylesheet">
 
 <!-- Theme stylesheet, if possible do not edit this stylesheet -->
-{{ with .Site.Params.style }}
-  <link href="{{ "css/style" | relURL }}.{{ . }}.css" rel="stylesheet" id="theme-stylesheet">
-{{ else }}
-  <link href="{{ "css/style.default.css" | relURL }}" rel="stylesheet" id="theme-stylesheet">
-{{ end }}
+<link href="{{ "css/style.css" | relURL }}" rel="stylesheet" id="theme-stylesheet">
 
 <!-- Pagefind search -->
 <link href="/pagefind/pagefind-ui.css" rel="stylesheet">

@@ -359,9 +359,7 @@ home = ["html", "rss", "api-sponsors"]
 
 [params]
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "blue"
     mainSections = ["blog", "a-href", "hallitus"]
-
 
     defaultKeywords = ["linkkijkl", "linkki", "jyväskylä"]
 
