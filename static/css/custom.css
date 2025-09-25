@@ -170,3 +170,9 @@ figcaption :first-child {
 .clients {
     padding-bottom: 0;
 }
+
+.img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
