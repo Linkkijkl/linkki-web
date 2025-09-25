@@ -8,7 +8,7 @@ link_dir="assets/node"
 # Define dependencies#link node_modules/bootstrap/dist/js/bootstrap.bundle.min.js assets/node/bootstrap.bundle.min.js
 #link node_modules/bootstrap/dist/css/bootstrap.min.css assets/node/
 set -- \
-    node_modules/bootstrap/dist/js/bootstrap.min.js \
+    node_modules/bootstrap/dist/js/bootstrap.bundle.min.js \
     node_modules/bootstrap/dist/css/bootstrap.min.css \
     node_modules/owl-carousel-legacy/owl.carousel.min.js \
     node_modules/owl-carousel-legacy/css/owl.carousel.css \
@@ -26,4 +26,3 @@ for path in "$@"; do
     filename=$(basename "$path")
     link "$path" "$link_dir"/"$filename"
 done
-
