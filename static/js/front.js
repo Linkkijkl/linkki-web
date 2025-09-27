@@ -22,6 +22,7 @@ $(function () {
   demo()
   contactFormAjax()
   masonries()
+  search()
 })
 
 // Ajax contact
@@ -350,6 +351,23 @@ function productDetailSizes () {
   })
 }
 
+function search () {
+  const pagefind = document.querySelector("#pagefind");
+  const searchInput = document.querySelector(".pagefind-ui__search-input");
+  pagefind.addEventListener('focus', () => {
+    document.querySelectorAll('[data-hide-on-search]').forEach((elem) => {
+      elem.classList.add('search-hidden');
+    });
+  }, true);
+  pagefind.addEventListener('blur', () => {
+    document.querySelectorAll('[data-hide-on-search]').forEach((elem) => {
+      if (searchInput.value.length == 0) {
+        elem.classList.remove('search-hidden');
+      }
+    });
+  }, true); 
+}
+
 $.fn.alignElementsSameHeight = function () {
   $('.same-height-row').each(function () {
     var maxHeight = 0
@@ -397,3 +415,4 @@ $(window).resize(function () {
     windowWidth = newWindowWidth
   }
 })
+
