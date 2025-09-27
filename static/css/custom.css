@@ -303,3 +303,9 @@ figcaption :first-child {
         display: none;
     }
 }
+
+.navbar-toggler {
+    margin-right: 10px;
+    background-color: var(--background);
+    padding: 12px;
+}
