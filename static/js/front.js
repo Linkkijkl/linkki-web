@@ -352,20 +352,35 @@ function productDetailSizes () {
 }
 
 function search () {
-  const pagefind = document.querySelector("#pagefind");
-  const searchInput = document.querySelector(".pagefind-ui__search-input");
-  pagefind.addEventListener('focus', () => {
-    document.querySelectorAll('[data-hide-on-search]').forEach((elem) => {
-      elem.classList.add('search-hidden');
-    });
-  }, true);
-  pagefind.addEventListener('blur', () => {
-    document.querySelectorAll('[data-hide-on-search]').forEach((elem) => {
-      if (searchInput.value.length == 0) {
-        elem.classList.remove('search-hidden');
-      }
-    });
-  }, true); 
+  const searchInput = document.querySelector('.pagefind-ui__search-input');
+  const emptyButton = document.querySelector('.pagefind-ui__search-clear');
+  const hideClass = 'search-hidden';
+
+  let expanded = false;
+
+  const elemList = () => document.querySelectorAll('[data-hide-on-search]');
+
+  const expand = () => {
+    elemList().forEach((elem) => elem.classList.add(hideClass));
+    expanded = true;
+  };
+
+  const shrink = () => {
+    elemList().forEach((elem) => elem.classList.remove(hideClass));
+    expanded = false;
+  };
+
+  searchInput.addEventListener('input', () => {
+    if (searchInput.value.length == 0) {
+      shrink();
+    } else if (!expanded) {
+      expand();
+    }
+  });
+
+  emptyButton.addEventListener('click', () => {
+    shrink();
+  });
 }
 
 $.fn.alignElementsSameHeight = function () {
