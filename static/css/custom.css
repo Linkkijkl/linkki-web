@@ -164,7 +164,8 @@ figcaption :first-child {
 
 .customers .item {
     margin: 0;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
+    padding: 10px;
 }
 
 .bar.background-gray {
