@@ -370,10 +370,14 @@ function search () {
     expanded = false;
   };
 
+  const isInMobile = () =>
+    window.getComputedStyle(document.querySelector('.navbar-toggler')).display != 'none';
+
   searchInput.addEventListener('input', () => {
     if (searchInput.value.length == 0) {
       shrink();
-    } else if (!expanded) {
+    }
+    else if (!expanded && !isInMobile()) {
       expand();
     }
   });

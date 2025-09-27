@@ -1,12 +1,12 @@
 <nav class="navbar-default navbar navbar-expand-xl sticky-top">
-  <div class="container-xxl">
+  <div class="container-xxl p-0">
     <a class="navbar-brand" href="/">
       <img src="{{ .Site.Params.logo | relURL }}" alt="{{ .Title }} logo"/>
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="navbar-collapse collapse" id="navigation">
+    <div class="navbar-collapse collapse p-0" id="navigation">
       <ul class="nav navbar-nav navbar-right align-items-end ms-auto mb-lg-0">
         {{ $current := . }}
 
@@ -46,7 +46,7 @@
           {{ $lang_to_language_display:= dict "fi" "suomeksi" "en" "In English"}}
           {{ range $lang, $lang_display := $lang_to_language_display }}
             {{ with eq $translations.Language.Lang $lang }}
-              <li class="dropdown" data-hide-on-search>
+              <li class="nav-item dropdown" data-hide-on-search>
                 <a class="nav-link" href="{{ $translations.RelPermalink }}">{{ $lang_display }}</a>
               </li>
             {{ end }}
