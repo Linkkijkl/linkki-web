@@ -19,6 +19,14 @@ jobs:
       - name: Fill git lfs files with dummy data
         uses: linkkijkl/lfs-dummy-clone-action@main
 
+      - name: Setup Node
+        uses: actions/setup-node@v3
+
+      - name: Fetch and link dependencies
+        uses: borales/actions-yarn@v4
+        with:
+          cmd: install
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:

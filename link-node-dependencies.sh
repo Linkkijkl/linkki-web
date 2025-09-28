@@ -5,8 +5,7 @@
 
 link_dir="assets/node"
 
-# Define dependencies#link node_modules/bootstrap/dist/js/bootstrap.bundle.min.js assets/node/bootstrap.bundle.min.js
-#link node_modules/bootstrap/dist/css/bootstrap.min.css assets/node/
+# Define dependencies
 set -- \
     node_modules/bootstrap/dist/js/bootstrap.bundle.min.js \
     node_modules/bootstrap/dist/css/bootstrap.min.css \
