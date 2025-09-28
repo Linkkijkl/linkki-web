@@ -67,3 +67,7 @@
 	min-height: 150px;
 	background: url(AjaxLoader.gif) no-repeat center center
 }
+
+.owl-theme .owl-item {
+	border-style: none;
+}

@@ -1,0 +1,22 @@
+{
+  "name": "linkki-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Linkkijkl/linkki-web",
+  "author": "Linkki Jyväskylä ry",
+  "license": "UNLICENSED",
+  "private": false,
+  "scripts": {
+    "postinstall": "./link-node-dependencies.sh"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "bootstrap": "^5.3.8",
+    "jquery": "^3.7.1",
+    "jquery-waypoints": "^2.0.5",
+    "jquery.cookie": "^1.4.1",
+    "jquery.counterup": "^2.1.0",
+    "masonry-layout": "^4.2.2",
+    "owl-carousel-legacy": "^1.3.3"
+  }
+}

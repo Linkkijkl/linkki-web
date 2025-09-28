@@ -13,22 +13,31 @@ First:
 
 After this there are a few options:
 
-1. Use Devcontainers (easiest if you have Docker already installed)
+1. Use Devcontainers (best option for Windows)
+
+    The Devcontainer configured for this project has all tools required for developing already installed.
+    Devcontainers are available for [many IDEs](https://containers.dev/supporting) but this guide focues on VSCode.
+
     - Install [Docker](https://docs.docker.com/), [Visual Studio Code](https://code.visualstudio.com/)
-and [Devcontainers VSCode plugin](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
-    - Open this repository in VSCode and there should be a popup asking if you want to reopen the project in a container. Do that.
+    and [Devcontainers VSCode plugin](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+    - Open this repository in VSCode. A popup should open asking if you want to reopen the project in a container. Do that.
     - When inside a container, open a terminal inside VSCode (`Ctrl` + `Shift` + `P`, search for `create new terminal`) and run `hugo server`.
 
-2. Install Hugo locally
-    - Install [Hugo extended edition](https://gohugo.io/)
+2. Use local development tools (in Unix compatible environments, like Linux or MacOS)
+    - Install [Hugo extended edition](https://gohugo.io/) and [Yarn package manager](https://yarnpkg.com/)
+    - Run `yarn` in project root to pull js and css dependencies
     - Run `hugo server` and you should be good to go 🎉
-    - Or optionally, on some supported Unix based environments _(currently MacOS, Debian and Fedora)_, you can just run `startup.sh`.
-    - Install [npm](https://nodejs.org) if you want to get search working
+
+
+### Pitfalls
+
+- Hugo server watches for changes in code, and your changes should automatically show up in your browser when they are made. However, sometimes when editing css and js, you should hit `Ctrl` + `Shift` + `r` in browser to get your changes to show up.
+- Devcontainers can stop letting traffic to reach inside container, when Hugo server has not been running, while the browser tab with development site was still open. This somehow floods the devcontainer with websocket requests. Rebuilding the container, which restarts devcontainers, should fix this issue.
 
 
 ### Building Search Indexes
 
-To get search working locally, run `hugo` at least once, and then `npx pagefind --site public` in the projects root directory.
+To get search working locally, run `hugo` at least once, and then `npx pagefind --site public` in projects root directory.
 
 
 ## Building and Running With [Docker](https://www.docker.com/)
@@ -57,8 +66,7 @@ Take a look at open issues. From there you should find something to do.
 
 ### `hugo server` fails after git pull:
 
-Try running `git submodule init && git submodule update` and make sure
-you have the extended edition of Hugo installed.
+Try running `git submodule init && git submodule update && yarn`, and make sure you have the extended edition of Hugo installed.
 
 ### Do I benefit from contributing?
 
