@@ -309,3 +309,7 @@ figcaption :first-child {
     background-color: var(--background);
     padding: 12px;
 }
+
+.background-image-fixed-2 > .container {
+    position: relative;
+}
