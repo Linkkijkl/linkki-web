@@ -27,9 +27,6 @@
 <!-- CSS animations  -->
 <link href="{{ "css/animate.css" | relURL }}" rel="stylesheet">
 
-<!-- Pagefind search -->
-{{/*  <link href="/pagefind/pagefind-ui.css" rel="stylesheet">  */}}
-
 <!-- Stylesheets -->
 <link href="{{ "css/style.css" | relURL }}?{{ now.Unix }}" rel="stylesheet" id="theme-stylesheet">
 <link href="{{ "css/custom.css" | relURL }}?{{ now.Unix }}" rel="stylesheet">
@@ -47,11 +44,9 @@
 <link rel="shortcut icon" href="{{ "img/favicon.ico" | relURL }}" type="image/x-icon" />
 <link rel="apple-touch-icon" href="{{ "img/apple-touch-icon.png" | relURL }}" />
 
-<!-- Owl carousel CSS -->
-{{ $owl := resources.Get "node/owl.carousel.css" }}
-<link rel="stylesheet" href="{{ $owl.Permalink }}">
-<!-- Custom owl carousel theming -->
-<link href="{{ "css/owl.theme.css" | relURL }}?{{ now.Unix }}" rel="stylesheet">
+<!-- Glider.js -->
+{{ $glider := resources.Get "node/glider.min.css" }}
+<link rel="stylesheet" href="{{ $glider.Permalink }}">
 
 <!-- RSS feed -->
 <link rel="alternate" href="{{ "/index.xml" | absURL }}" type="application/rss+xml" title="{{ .Site.Title }}">

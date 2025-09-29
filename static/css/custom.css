@@ -38,11 +38,6 @@
     padding: 0;
 }
 
-/* Disable theme background images*/
-.home-carousel {
-    background: none;
-}
-
 /* Shader background */
 #shader {
     background-color: var(--primary-accent);
@@ -325,4 +320,11 @@ figcaption :first-child {
 .dropdown-menu.show {
     max-height: 300px;
     opacity: 1;
+}
+
+/* Home carousel */
+.glider {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    scrollbar-width: none;
 }

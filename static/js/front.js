@@ -9,25 +9,40 @@ window.addEventListener('DOMContentLoaded', () => {
 
 
 const sliders = () => {
-  if ($('.owl-carousel').length) {
-    $('.homepage').owlCarousel({
-      navigation: false, // Show next and prev buttons
-      navigationText: ['<i class="fas fa-angle-left"></i>', '<i class="fas fa-angle-right"></i>'],
-      slideSpeed: ($('.homepage').attr('data-slide-speed') || 2000),
-      paginationSpeed: ($('.homepage').attr('data-pagination-speed') || 1000),
-      autoPlay: ($('.homepage').attr('data-autoplay') || 'true') === 'true',
-      stopOnHover: true,
-      singleItem: true,
-      lazyLoad: false,
-      addClassActive: true,
-    })
+  const gliderElement = document.querySelector('.glider');
+  const itemCount = gliderElement.children.length;
+  const glider = new Glider(gliderElement, {
+    slidesToShow: 1,
+    draggable: true,
+    scrollLock: true,
+    rewind: true,
+    duration: 3,
+  });
+
+  // Autoscroll
+  let i = 0;
+  let scrolled = false;
+  let mouseOnTop = false;
+  gliderElement.addEventListener('mousedown', () => scrolled = true);
+  gliderElement.addEventListener('mouseenter', () => mouseOnTop = true);
+  gliderElement.addEventListener('mouseleave', () => mouseOnTop = false);
+  function autoplay() {
+    // Stop if carousel was moved by user
+    if (scrolled) return;
+
+    // Skip if mouse is over element
+    if (!mouseOnTop) {
+      glider.scrollItem(i % itemCount, false);
+      i += 1;
+    }
+    setTimeout(autoplay, 6000);
   }
+  autoplay();
 };
 
 
 const masonries = () => {
-  const customersElement = document.querySelector('.customers');
-  const customers = customersElement.masonry({
+  const customers = new Masonry('.customers', {
     itemSelector: '.item',
     percentPosition: true,
   });
@@ -42,7 +57,7 @@ const masonries = () => {
         clearTimeout(debounceTimeout);
       }
       debounceTimeout = setTimeout(() => {
-        customers.masonry();
+        customers.layout();
       }, DEBOUNCE_TIME);
     }, {once: true});
   }
@@ -50,6 +65,9 @@ const masonries = () => {
 
 
 const search = () => {
+  // Initialize pagefind
+  new PagefindUI({ element: "#pagefind", showSubResults: true });
+
   const searchInput = document.querySelector('.pagefind-ui__search-input');
   const emptyButton = document.querySelector('.pagefind-ui__search-clear');
   const hideClass = 'search-hidden';
@@ -83,7 +101,4 @@ const search = () => {
   emptyButton.addEventListener('click', () => {
     shrink();
   });
-
-  // Initialize pagefind
-  new PagefindUI({ element: "#pagefind", showSubResults: true });
 };

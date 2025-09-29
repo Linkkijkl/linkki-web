@@ -12,6 +12,7 @@
   "dependencies": {
     "animate.css": "^4.1.1",
     "bootstrap": "^5.3.8",
+    "glider-js": "^1.7.9",
     "jquery": "^3.7.1",
     "jquery-waypoints": "^2.0.5",
     "jquery.cookie": "^1.4.1",
