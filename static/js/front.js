@@ -1,15 +1,14 @@
 /* global $this: true */
 /* eslint no-unused-vars: ["error", { "varsIgnorePattern": "animationsSlider" }] */
 
-$(function () {
-  sliders()
-  menuSliding()
-  masonries()
-  search()
-})
+window.addEventListener('DOMContentLoaded', () => {
+  sliders();
+  masonries();
+  search();
+});
 
-/* sliders */
-function sliders () {
+
+const sliders = () => {
   if ($('.owl-carousel').length) {
     $('.homepage').owlCarousel({
       navigation: false, // Show next and prev buttons
@@ -21,20 +20,14 @@ function sliders () {
       singleItem: true,
       lazyLoad: false,
       addClassActive: true,
-      afterInit: function () {
-        // animationsSlider()
-      },
-      afterMove: function () {
-        // animationsSlider()
-      }
     })
   }
-}
+};
 
 
-/* masonries */
-function masonries () {
-  const customers = $('.customers').masonry({
+const masonries = () => {
+  const customersElement = document.querySelector('.customers');
+  const customers = customersElement.masonry({
     itemSelector: '.item',
     percentPosition: true,
   });
@@ -42,7 +35,8 @@ function masonries () {
   // Reload masonry after images load fully
   let debounceTimeout = null;
   const DEBOUNCE_TIME = 200;
-  for (const sponsor of $('.customers img')) {
+  const images = document.querySelectorAll('.customers img');
+  for (const sponsor of images) {
     sponsor.addEventListener('load', () => {
       if (debounceTimeout) {
         clearTimeout(debounceTimeout);
@@ -52,30 +46,10 @@ function masonries () {
       }, DEBOUNCE_TIME);
     }, {once: true});
   }
-}
-
-/* menu sliding */
-function menuSliding () {
-  $('.dropdown').on('show.bs.dropdown', function () {
-    if ($(window).width() > 750) {
-      $(this).find('.dropdown-menu').first().stop(true, true).slideDown()
-    } else {
-      $(this).find('.dropdown-menu').first().stop(true, true).show()
-    }
-  })
-
-  $('.dropdown').on('hide.bs.dropdown', function () {
-    if ($(window).width() > 750) {
-      $(this).find('.dropdown-menu').first().stop(true, true).slideUp()
-    } else {
-      $(this).find('.dropdown-menu').first().stop(true, true).hide()
-    }
-  })
-}
+};
 
 
-
-function search () {
+const search = () => {
   const searchInput = document.querySelector('.pagefind-ui__search-input');
   const emptyButton = document.querySelector('.pagefind-ui__search-clear');
   const hideClass = 'search-hidden';
@@ -109,4 +83,7 @@ function search () {
   emptyButton.addEventListener('click', () => {
     shrink();
   });
-}
+
+  // Initialize pagefind
+  new PagefindUI({ element: "#pagefind", showSubResults: true });
+};

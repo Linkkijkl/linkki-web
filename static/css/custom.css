@@ -313,3 +313,16 @@ figcaption :first-child {
 .background-image-fixed-2 > .container {
     position: relative;
 }
+
+/* Animated dropdown */
+.dropdown-menu {
+    transition: all 0.3s;
+    max-height: 0;
+    display: block;
+    opacity: 0;
+}
+
+.dropdown-menu.show {
+    max-height: 300px;
+    opacity: 1;
+}
