@@ -24,9 +24,6 @@
 {{ $bootstrap := resources.Get "node/bootstrap.min.css" }}
 <link rel="stylesheet" href="{{ $bootstrap.Permalink }}">
 
-<!-- CSS animations  -->
-<link href="{{ "css/animate.css" | relURL }}" rel="stylesheet">
-
 <!-- Stylesheets -->
 <link href="{{ "css/style.css" | relURL }}?{{ now.Unix }}" rel="stylesheet" id="theme-stylesheet">
 <link href="{{ "css/custom.css" | relURL }}?{{ now.Unix }}" rel="stylesheet">

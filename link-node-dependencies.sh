@@ -11,10 +11,6 @@ set -- \
     node_modules/bootstrap/dist/css/bootstrap.min.css \
     node_modules/glider-js/glider.min.js \
     node_modules/glider-js/glider.min.css \
-    node_modules/jquery/dist/jquery.min.js \
-    node_modules/jquery.cookie/jquery.cookie.js \
-    node_modules/jquery-waypoints/waypoints.min.js \
-    node_modules/jquery.counterup/jquery.counterup.min.js \
     node_modules/masonry-layout/dist/masonry.pkgd.min.js
 
 
