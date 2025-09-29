@@ -17,15 +17,19 @@ const sliders = () => {
     scrollLock: true,
     rewind: true,
     duration: 3,
+    dots: '.dots',
   });
 
   // Autoscroll
   let i = 0;
   let scrolled = false;
   let mouseOnTop = false;
+
   gliderElement.addEventListener('mousedown', () => scrolled = true);
+  document.querySelector('.dots').addEventListener('mousedown', () => scrolled = true);
   gliderElement.addEventListener('mouseenter', () => mouseOnTop = true);
   gliderElement.addEventListener('mouseleave', () => mouseOnTop = false);
+
   function autoplay() {
     // Stop if carousel was moved by user
     if (scrolled) return;

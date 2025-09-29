@@ -16,22 +16,26 @@
                     {{ if .href }}
                     <a href="{{ .href }}" target="_blank" title="{{ .title | safeHTML }}">
                     {{ end }}
-                        <div class="row">
-                            <div class="col-sm-5 right">
-                                <h1>{{ .title | safeHTML }}</h1>
-                                {{ .description | safeHTML }}
-                            </div>
-                            <div class="col-sm-7">
-                                <img class="img-responsive center-block" src="{{ .image | relURL }}" alt="">
-                            </div>
+                    <div class="row">
+                        <div class="col-sm-5 right">
+                            <h1>{{ .title | safeHTML }}</h1>
+                            {{ .description | safeHTML }}
                         </div>
+                        <div class="col-sm-7">
+                            <img class="img-responsive center-block" src="{{ .image | relURL }}" alt="">
+                        </div>
+                    </div>
                     {{ if .href }}
                     </a>
                     {{ end }}
                 </div>
                 {{ end }}
             </div>
-            <!-- /.project owl-slider -->
+            <div role="tablist" class="dots">
+                {{ range (len $data.carousel) }}
+                <button class="glider-dot" data-index="{{ . }}" aria-label="Page {{ . }}" role="tab"></button>
+                {{ end }}
+            </div>
         </div>
     </div>
 </section>
