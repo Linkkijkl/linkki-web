@@ -2,8 +2,8 @@
   <div class="container-xxl p-0">
     <a class="navbar-brand" href="/">
       <img class="logo" src="{{ .Site.Params.logo | relURL }}" alt="{{ .Title }} logo"/>
-      <img class="logo-text" src="{{ .Site.Params.logo_text | relURL }}" alt="{{ .Title }}"/>
-      <img class="logo-text" src="{{ .Site.Params.logo_text_condenced | relURL }}" alt="{{ .Title }}"/>
+      <img class="logo-text d-none d-sm-block d-md-block d-lg-none d-xl-block d-xxl-block" src="{{ .Site.Params.logo_text | relURL }}" alt="{{ .Title }}"/>
+      <img class="logo-text small-logo-text d-block d-sm-none d-md-none d-lg-block d-xl-none d-xxl-none" src="{{ .Site.Params.logo_text_condenced | relURL }}" alt="{{ .Title }}"/>
     </a>
     <button class="navbar-toggler btn-template-main" type="button" data-bs-toggle="collapse" data-bs-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
       <span class="sr-only">Piilota / näytä navigointi</span>

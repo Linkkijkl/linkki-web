@@ -313,3 +313,11 @@ figcaption :first-child {
 .background-image-fixed-2 > .container {
     position: relative;
 }
+
+.navbar-brand {
+    display: flex;
+
+    .small-logo-text {
+        margin-left: 5px;
+    }
+}
