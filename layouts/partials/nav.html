@@ -1,7 +1,9 @@
-<nav class="navbar-default navbar navbar-expand-xl sticky-top">
+<nav class="navbar-default navbar navbar-expand-lg sticky-top">
   <div class="container-xxl p-0">
     <a class="navbar-brand" href="/">
-      <img src="{{ .Site.Params.logo | relURL }}" alt="{{ .Title }} logo"/>
+      <img class="logo" src="{{ .Site.Params.logo | relURL }}" alt="{{ .Title }} logo"/>
+      <img class="logo-text" src="{{ .Site.Params.logo_text | relURL }}" alt="{{ .Title }}"/>
+      <img class="logo-text" src="{{ .Site.Params.logo_text_condenced | relURL }}" alt="{{ .Title }}"/>
     </a>
     <button class="navbar-toggler btn-template-main" type="button" data-bs-toggle="collapse" data-bs-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
       <span class="sr-only">Piilota / näytä navigointi</span>

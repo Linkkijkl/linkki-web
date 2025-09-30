@@ -97,7 +97,7 @@
       <style
    id="style1">
          #text1 {
-            fill: #ddd;
+            fill: #000;
          }
     </style>
       <g
