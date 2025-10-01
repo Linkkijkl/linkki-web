@@ -5,7 +5,27 @@ window.addEventListener('DOMContentLoaded', () => {
   sliders();
   masonries();
   search();
+  debugToggler();
 });
+
+
+/* Temporary style toggler */
+const debugToggler = () => {
+  let parent = null;
+  let element = null;
+  document.addEventListener('keydown', (event) => {
+    if (event.key == 'ArrowRight') {
+      if (parent) {
+        parent.insertBefore(element, parent.firstChild);
+        parent = null;
+        return;
+      }
+      element = document.getElementById('theme-stylesheet');
+      parent = element.parentNode;
+      element.remove();
+    }
+  })
+}; 
 
 
 const sliders = () => {
