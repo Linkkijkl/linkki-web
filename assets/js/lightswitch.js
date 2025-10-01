@@ -19,7 +19,7 @@ const isThemeDark = () => {
  * @param {boolean} dark 
  */
 const setLogoDark = (dark) => {
-    for (const logo of document.querySelectorAll(".navbar-brand img")) {
+    for (const logo of document.querySelectorAll(".navbar-brand .logo-text")) {
         for (const suffix of ["-dark.svg", "-light.svg", ".svg"]) {
             if (logo.src.endsWith(suffix)) {
                 logo.src = `${logo.src.replace(suffix, "")}${dark ? "-dark.svg" : "-light.svg"}`;

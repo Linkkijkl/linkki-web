@@ -309,6 +309,14 @@ figcaption :first-child {
     position: relative;
 }
 
+.navbar-brand {
+    display: flex;
+
+    .small-logo-text {
+        margin-left: 5px;
+    }
+}
+
 /* Animated dropdown */
 .dropdown-menu {
     transition: all 0.3s;

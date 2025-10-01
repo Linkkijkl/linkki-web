@@ -3,23 +3,16 @@
  * @param {String} festive 
  */
 const setFestive = (festive) => {
-    // logo.svg -> logo-${festive}.svg
-    // logo-dark.svg -> logo-${festive}-dark.svg
-    // logo-light.svg -> logo-${festive}-light.svg
-    for (const logo of document.querySelectorAll(".navbar-brand img")) {
-        for (const suffix of ["-dark.svg", "-light.svg", ".svg"]) {
-            if (logo.src.endsWith(suffix)) {
-                logo.src = `${logo.src.replace(suffix, "")}-${festive}${suffix}`;
-                break;
-            }
-        }
+    for (const logo of document.querySelectorAll(".navbar-brand .logo")) {
+        const suffix = ".svg";
+        logo.src = `${logo.src.replace(suffix, "")}-${festive}${suffix}`;
     }
 }
 
 
 document.addEventListener("DOMContentLoaded", () => {
     const date = new Date();
-    const month = date.getMonth() + 1; // Javascript's month starts from 0 and ends in 11
+    const month = date.getMonth() + 1; // Javascript's months start from 0 and end in 11
     const day = date.getDate();
 
     // Ylioppilaslakki

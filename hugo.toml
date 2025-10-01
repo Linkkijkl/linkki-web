@@ -377,9 +377,9 @@ home = ["html", "rss", "api-sponsors"]
     """
     contact_url = ""
 
-    logo_text = "Linkki Jyväskylä ry."
-    logo = "img/logo/linkki-navbar.svg"
-    logo_small = "img/logo/linkki-navbar.svg"
+    logo_text = "img/logo/linkki-navbar.svg"
+    logo_text_condenced = "img/logo/linkki-navbar-condenced.svg"
+    logo = "img/logo/linkki-logo-simple.svg"
 
     # Format dates with Go's time formatting
     # https://pkg.go.dev/time
