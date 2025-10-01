@@ -1,20 +1,11 @@
-{{ $jquery := resources.Get "node/jquery.min.js"}}
-<script src="{{ $jquery.Permalink }}" ></script>
 {{ $bootstrap := resources.Get "node/bootstrap.bundle.min.js"}}
 <script src="{{ $bootstrap.Permalink }}"></script>
 
-{{ $cookie := resources.Get "node/jquery.cookie.js" }}
-<script src="{{ $cookie.Permalink }}"></script>
-{{ $waypoints := resources.Get "node/waypoints.min.js" }}
-<script src="{{ $waypoints.Permalink }}"></script>
-{{ $counterup := resources.Get "node/jquery.counterup.min.js" }}
-<script src="{{ $counterup.Permalink }}"></script>
-<!--<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-parallax/1.1.3/jquery-parallax.js"></script>-->
 <script src="{{ "js/front.js" | relURL }}"></script>
 
-<!-- owl carousel -->
-{{ $owl := resources.Get "node/owl.carousel.min.js" }}
-<script src="{{ $owl.Permalink }}"></script>
+<!-- Glider.js -->
+{{ $glider := resources.Get "node/glider.min.js" }}
+<script src="{{ $glider.Permalink }}"></script>
 
 <!-- load all scripts from assets/js dir -->
 {{ range resources.Match "/js/*.js" }}
