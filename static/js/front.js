@@ -5,31 +5,13 @@ window.addEventListener('DOMContentLoaded', () => {
   sliders();
   masonries();
   search();
-  debugToggler();
 });
-
-
-/* Temporary style toggler */
-const debugToggler = () => {
-  let parent = null;
-  let element = null;
-  document.addEventListener('keydown', (event) => {
-    if (event.key == 'ArrowRight') {
-      if (parent) {
-        parent.insertBefore(element, parent.firstChild);
-        parent = null;
-        return;
-      }
-      element = document.getElementById('theme-stylesheet');
-      parent = element.parentNode;
-      element.remove();
-    }
-  })
-}; 
 
 
 const sliders = () => {
   const gliderElement = document.querySelector('.glider');
+  if (!gliderElement) return;
+
   const itemCount = gliderElement.children.length;
   const glider = new Glider(gliderElement, {
     slidesToShow: 1,
@@ -66,7 +48,10 @@ const sliders = () => {
 
 
 const masonries = () => {
-  const customers = new Masonry('.customers', {
+  let masonryElement = document.querySelector('.customers');
+  if (!masonryElement) return;
+
+  const customers = new Masonry(masonryElement, {
     itemSelector: '.item',
     percentPosition: true,
   });
