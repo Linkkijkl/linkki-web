@@ -27,8 +27,44 @@
 <!-- Stylesheets -->
 {{/* Uncomment following line to enable original style for inspiration */}}
 {{/*<link href="{{ "css/original-style.css" | relURL }}?{{ now.Unix }}" rel="stylesheet">*/}}
-<link href="{{ "css/style.css" | relURL }}?{{ now.Unix }}" rel="stylesheet" id="theme-stylesheet">
-<link href="{{ "css/dark.css" | relURL }}?{{ now.Unix }}" rel="stylesheet" media="(prefers-color-scheme: dark)" id="darkstyle">
+{{ with resources.Get "sass/main.scss" }}
+  {{ $opts := dict
+    "enableSourceMap" hugo.IsDevelopment
+    "outputStyle" (cond hugo.IsDevelopment "expanded" "compressed")
+    "targetPath" "css/main.css"
+    "transpiler" "libsass"
+    "vars" site.Params.styles
+    "includePaths" (slice "node_modules/bootstrap/scss")
+  }}
+  {{ with . | toCSS $opts }}
+    {{ if hugo.IsDevelopment }}
+      <link rel="stylesheet" href="{{ .RelPermalink }}?{{ now.Unix }}" id="theme-stylesheet">
+    {{ else }}
+      {{ with . | fingerprint }}
+        <link rel="stylesheet" href="{{ .RelPermalink }}?{{ now.Unix }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" id="theme-stylesheet">
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ with resources.Get "sass/dark.scss" }}
+  {{ $opts := dict
+    "enableSourceMap" hugo.IsDevelopment
+    "outputStyle" (cond hugo.IsDevelopment "expanded" "compressed")
+    "targetPath" "css/dark.css"
+    "transpiler" "libsass"
+    "vars" site.Params.styles
+    "includePaths" (slice "node_modules/bootstrap/scss")
+  }}
+  {{ with . | toCSS $opts }}
+    {{ if hugo.IsDevelopment }}
+      <link rel="stylesheet" href="{{ .RelPermalink }}?{{ now.Unix }}" media="(prefers-color-scheme: dark)" id="darkstyle">
+    {{ else }}
+      {{ with . | fingerprint }}
+        <link rel="stylesheet" href="{{ .RelPermalink }}?{{ now.Unix }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" media="(prefers-color-scheme: dark)" id="darkstyle">
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
 
 <!-- Responsivity for older IE -->
 {{ `
