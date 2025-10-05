@@ -32,6 +32,9 @@ jobs:
         with:
           extended: true
 
+      - name: Setup Dart-sass
+      - uses: dw-labs-org/dart-sass-gha@v1
+
       - name: Build
         run: | 
           hugo

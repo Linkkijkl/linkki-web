@@ -14,10 +14,11 @@
             "extended": true
         },
         "ghcr.io/devcontainers/features/node:1": {},
-        "ghcr.io/devcontainers/features/git-lfs": {}
+        "ghcr.io/devcontainers/features/git-lfs": {},
+        "ghcr.io/prplecake/devcontainer-features/dart-sass:1": {}
     },
     "forwardPorts": [
         1313
     ],
-    "postCreateCommand": "yarn"
+    "postCreateCommand": "yarn && yes | npx pagefind --site public"
 }

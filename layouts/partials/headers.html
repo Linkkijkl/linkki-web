@@ -32,7 +32,7 @@
     "enableSourceMap" hugo.IsDevelopment
     "outputStyle" (cond hugo.IsDevelopment "expanded" "compressed")
     "targetPath" "css/main.css"
-    "transpiler" "libsass"
+    "transpiler" "dartsass"
     "vars" site.Params.styles
     "includePaths" (slice "node_modules/bootstrap/scss")
   }}
@@ -51,7 +51,7 @@
     "enableSourceMap" hugo.IsDevelopment
     "outputStyle" (cond hugo.IsDevelopment "expanded" "compressed")
     "targetPath" "css/dark.css"
-    "transpiler" "libsass"
+    "transpiler" "dartsass"
     "vars" site.Params.styles
     "includePaths" (slice "node_modules/bootstrap/scss")
   }}

@@ -1,5 +1,5 @@
 FROM alpine AS builder
-RUN apk update && apk add hugo npm
+RUN apk update && apk add hugo npm dart-sass
 # Install pagefind
 RUN npx pagefind --version
 # Install yarn
