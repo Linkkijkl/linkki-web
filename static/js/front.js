@@ -5,6 +5,7 @@ window.addEventListener('DOMContentLoaded', () => {
   sliders();
   masonries();
   search();
+  scrollffset();
 });
 
 
@@ -110,4 +111,16 @@ const search = () => {
   emptyButton.addEventListener('click', () => {
     shrink();
   });
+};
+
+
+// Set page scroll offset for #-links
+const scrollffset = () => {
+    // Get navbar height
+    const navbar = document.querySelector('.navbar');
+    const bottomLocation = navbar.getBoundingClientRect().bottom;
+
+    // Set scroll offset based on navbar size
+    const stylesheet = document.querySelector("#theme-stylesheet").sheet;
+    stylesheet.insertRule(`:target { scroll-margin-top: ${bottomLocation}px; }`);
 };
