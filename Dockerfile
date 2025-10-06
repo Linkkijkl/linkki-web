@@ -1,5 +1,6 @@
 FROM alpine AS builder
-RUN apk update && apk add hugo npm dart-sass
+RUN apk update && apk add hugo npm
+RUN apk add dart-sass --repository=https://dl-cdn.alpinelinux.org/alpine/edge/testing
 # Install pagefind
 RUN npx pagefind --version
 # Install yarn
