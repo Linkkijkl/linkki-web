@@ -1,0 +1,48 @@
+@use 'base';
+
+.btn {
+    margin-bottom: 2em;
+}
+
+.btn {
+    font-weight: 700;
+    font-family: base.$font-stack;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    padding: 6px 12px;
+    font-size: 13px;
+    line-height: 1.42857143;
+    border-radius: 0;
+}
+
+.btn-template-transparent-black:hover,
+.btn-template-transparent-black:focus,
+.btn-template-transparent-black:active,
+.btn-template-transparent-black.active {
+	background: #fff;
+	color: #000;
+	border-color: #fff;
+}
+
+.btn-template-transparent-black:hover,
+.btn-template-transparent-black:focus,
+.btn-template-transparent-black:active,
+.btn-template-transparent-black.active,
+.open > .dropdown-toggle.btn-template-transparent-black {
+	color: #ffffff;
+	background-color: rgba(0, 0, 0, 0);
+	border-color: #e0e0e0;
+}
+
+.btn-template-transparent-black {
+	color: #ffffff;
+	background-color: transparent;
+	border-color: #ffffff;
+}
+
+.btn-lg {
+	padding: 10px 16px;
+	font-size: 14px;
+	line-height: 1.33;
+	border-radius: 0;
+}

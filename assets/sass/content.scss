@@ -1,0 +1,56 @@
+// For content pages i.e. anything which has to do with only pages other than index
+
+#heading-breadcrumbs {
+	padding: 20px 0;
+	margin-bottom: 40px;
+    background: none;
+    background-color: var(--primary-accent);
+}
+
+#heading-breadcrumbs h1 {
+	text-transform: uppercase;
+	font-weight: 700;
+	letter-spacing: 0.08em;
+    color: #fff;
+    font-size: 3em;
+}
+
+#heading-breadcrumbs a {
+    color: #fff;
+}
+
+#heading-breadcrumbs .container,
+#heading-breadcrumbs {
+    position: relative;
+}
+
+#post-content h1,
+#content h1 {
+    display: table;
+    border-bottom: solid 5px var(--primary-accent);
+    line-height: 1.1;
+    margin-bottom: 0.5em;
+    padding-bottom: 10px;
+    vertical-align: middle;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+}
+
+#post-content {
+    font-size: 1.1em;
+}
+
+#TableOfContents {
+    font-weight: 800;
+    margin-bottom: 2em;
+}
+
+#TableOfContents > ol {
+    list-style: decimal;
+    text-transform: uppercase;
+}
+
+#TableOfContents > ol ol {
+    list-style: disc;
+    text-transform: none;
+}

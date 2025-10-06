@@ -1,0 +1,120 @@
+// Shader background
+#shader {
+    background-color: var(--primary-accent);
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+// Google calendar theming
+.google-calendar {
+    padding: 2em 0;
+    height: 600px;
+    width: 100%;
+}
+
+.home-content #blog-post {
+    text-align: center;
+}
+
+.home-carousel {
+    a {
+        color: #fff;
+    }
+
+    .container {
+        position: relative;
+    }
+}
+
+.background-image-fixed-2 > .container {
+    position: relative;
+}
+
+// Home carousel
+.glider {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    scrollbar-width: none;
+}
+
+.home-carousel h1,
+.home-carousel h2,
+.home-carousel h3,
+.home-carousel p
+.home-carousel ul {
+	color: #fff;
+}
+
+.home-carousel h1 {
+	font-weight: 700;
+	text-transform: uppercase;
+	font-size: 46px;
+	letter-spacing: 0.08em;
+}
+
+.home-carousel ul, .home-carousel p {
+	font-size: 18px;
+	font-weight: 700;
+	padding: 0;
+	text-transform: uppercase;
+	letter-spacing: 0.10em;
+}
+
+.home-carousel {
+    position: relative;
+}
+
+.bar .dark-mask {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: #000;
+	opacity: 0.3;
+	filter: alpha(opacity=30);
+}
+
+.bar.background-image-fixed-2 {
+	background: url('../img/fixed-background-2.jpg') center top no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.bar {
+	position: relative;
+	background: var(--primary-accent);
+	padding: 60px 0;
+}
+
+.bar.color-white h1,
+.bar.color-white h2,
+.bar.color-white h3,
+.bar.color-white h4,
+.bar.color-white h5,
+.bar.color-white h6,
+.bar.color-white p {
+	color: #fff;
+}
+
+.bar.background-white {
+	background: #fff;
+}
+
+.bar.background-gray {
+    background-color: var(--background2);
+}
+
+.customers .item {
+    margin: 0;
+    margin-bottom: 30px;
+    padding: 10px;
+	list-style-type: none;
+	text-align: center;
+	margin: 0 20px;
+}
+
+.clients {
+    padding-bottom: 0;
+}
