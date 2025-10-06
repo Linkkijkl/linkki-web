@@ -19,22 +19,5 @@ jobs:
       - name: Fill git lfs files with dummy data
         uses: linkkijkl/lfs-dummy-clone-action@main
 
-      - name: Setup Node
-        uses: actions/setup-node@v3
-
-      - name: Fetch and link dependencies
-        uses: borales/actions-yarn@v4
-        with:
-          cmd: install
-
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          extended: true
-
-      - name: Setup Dart-sass
-      - uses: dw-labs-org/dart-sass-gha@v1
-
-      - name: Build
-        run: | 
-          hugo
+      - name: Build Docker Image
+        run: docker build -t linkki-web:latest .
