@@ -20,5 +20,5 @@
     "forwardPorts": [
         1313
     ],
-    "postCreateCommand": "yarn && yes | npx pagefind --site public"
+    "postCreateCommand": "git submodule init && git submodule update && yarn && hugo && yes | npx pagefind --site public"
 }
