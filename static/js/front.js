@@ -5,11 +5,14 @@ window.addEventListener('DOMContentLoaded', () => {
   sliders();
   masonries();
   search();
+  scrollffset();
 });
 
 
 const sliders = () => {
   const gliderElement = document.querySelector('.glider');
+  if (!gliderElement) return;
+
   const itemCount = gliderElement.children.length;
   const glider = new Glider(gliderElement, {
     slidesToShow: 1,
@@ -46,7 +49,10 @@ const sliders = () => {
 
 
 const masonries = () => {
-  const customers = new Masonry('.customers', {
+  let masonryElement = document.querySelector('.customers');
+  if (!masonryElement) return;
+
+  const customers = new Masonry(masonryElement, {
     itemSelector: '.item',
     percentPosition: true,
   });
@@ -105,4 +111,16 @@ const search = () => {
   emptyButton.addEventListener('click', () => {
     shrink();
   });
+};
+
+
+// Set page scroll offset for #-links
+const scrollffset = () => {
+    // Get navbar height
+    const navbar = document.querySelector('.navbar');
+    const bottomLocation = navbar.getBoundingClientRect().bottom;
+
+    // Set scroll offset based on navbar size
+    const stylesheet = document.querySelector("#theme-stylesheet").sheet;
+    stylesheet.insertRule(`:target { scroll-margin-top: ${bottomLocation}px; }`);
 };

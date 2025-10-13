@@ -1,6 +1,4 @@
-/*
-This style sheet will be applied when user requests dark color theme
-*/
+// This will be applied on top of base theme when dark color scheme is enabled
 
 :root {
     --background: #181818;
@@ -89,7 +87,7 @@ iframe {
     background: var(--background);
 }
 
-.pagefind-ui  mark {
+.pagefind-ui mark {
     background-color: #ffe600;
 }
 

@@ -1,4 +1,4 @@
-baseURL = 'https://linkkijkl.fi/'
+baseURL = ''
 title = 'Linkki Jyväskylä ry.'
 theme = ["hugo-embed-pdf-shortcode"]
 enableInlineShortcodes = true
