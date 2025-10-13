@@ -125,11 +125,22 @@ Available payment methods are Mobilepay and card payment. 1pcs 3â‚¬ and 2pcs 5â‚
 {{< /column >}}
 {{< column width=4 >}}
 
+{{< img-thumb-cap "merkit/kaunis.webp" "x200" >}}
+
+#### Beautiful and good at coding
+{{< /img-thumb-cap >}}
+{{< /column >}}
+
+{{< column width=4 >}}
+
 {{< img-thumb-cap "merkit/haluankahvia.png" "x200" >}}
 
 #### I want coffee
 {{< /img-thumb-cap >}}
 {{< /column >}}
+{{< /row >}}
+
+{{< row >}}
 {{< column width=4 >}}
 
 {{< img-thumb-cap "merkit/cattila.png" "x200" >}}

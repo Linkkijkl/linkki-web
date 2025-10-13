@@ -126,12 +126,22 @@ Maksutapoina toimii Mobilepay ja korttimaksu. 1kpl 3€ ja 2kpl 5€
 {{< /column >}}
 {{< column width=4 >}}
 
+{{< img-thumb-cap "merkit/kaunis.webp" "x200" >}}
+
+#### Kaunis ja hyvä koodaa
+{{< /img-thumb-cap >}}
+{{< /column >}}
+
+{{< column width=4 >}}
+
 {{< img-thumb-cap "merkit/haluankahvia.png" "x200" >}}
 
 #### Haluan kahvia
 {{< /img-thumb-cap >}}
 {{< /column >}}
+{{< /row >}}
 
+{{< row >}}
 {{< column width=4 >}}
 {{< img-thumb-cap "merkit/cattila.png" "x200" >}}
 
