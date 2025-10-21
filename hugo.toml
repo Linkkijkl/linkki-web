@@ -9,9 +9,6 @@ pagination.pagerSize = 10
 # Don't pluralize title pages by default
 pluralizeListTitles = false
 
-# Enable search widget
-widgets.search = true
-
 staticDir = ["static"]
 
 # https://gohugo.io/content-management/multilingual/
@@ -497,7 +494,7 @@ home = ["html", "rss", "api-sponsors"]
 
 
 [languages.fi.params.recent_posts]
-    title = "Viimeisimmät päivitykset"
+    title = "Uusimmat päivitykset"
 
 
 [languages.en.params.recent_posts]

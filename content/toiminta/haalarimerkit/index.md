@@ -26,24 +26,7 @@ Maksutapoina toimii Mobilepay ja korttimaksu. 1kpl 3€ ja 2kpl 5€
 #### Kerho.jar
 {{< /img-thumb-cap >}}
 {{< /column >}}
-{{< column width=4 >}}
 
-{{< img-thumb-cap "merkit/senor-developer.webp" "x200" >}}
-
-#### Senor developer
-{{< /img-thumb-cap >}}
-
-{{< /column >}}
-{{< /row >}}
-{{< row >}}
-{{< column width=4 >}}
-
-{{< img-thumb-cap "merkit/linkinpark.webp" "x200" >}}
-
-#### Linkinpark
-{{< /img-thumb-cap >}}
-
-{{< /column >}}
 {{< column width=4 >}}
 
 {{< img-thumb-cap "merkit/viiden-nopan-kurssi.webp" "x200" >}}
@@ -60,8 +43,7 @@ Maksutapoina toimii Mobilepay ja korttimaksu. 1kpl 3€ ja 2kpl 5€
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
-{{< /row >}}
-{{< row >}}
+
 {{< column width=4 >}}
 
 {{< img-thumb-cap "merkit/älä-paina.webp" "x200" >}}
@@ -78,32 +60,6 @@ Maksutapoina toimii Mobilepay ja korttimaksu. 1kpl 3€ ja 2kpl 5€
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
-{{< column width=4 >}}
-
-{{< img-thumb-cap "merkit/vaaravyöhyke.webp" "x200" >}}
-
-#### Vaaravyöhyke
-{{< /img-thumb-cap >}}
-
-{{< /column >}}
-{{< /row >}}
-{{< row >}}
-{{< column width=4 >}}
-
-{{< img-thumb-cap "merkit/ei-voi-tulla-darra.webp" "x200" >}}
-
-#### Ei voi tulla darra
-{{< /img-thumb-cap >}}
-
-{{< /column >}}
-{{< column width=4 >}}
-
-{{< img-thumb-cap "merkit/lanit.webp" "x200" >}}
-
-#### Lanit
-{{< /img-thumb-cap >}}
-
-{{< /column >}}
 
 {{< column width=4 >}}
 
@@ -114,9 +70,6 @@ Maksutapoina toimii Mobilepay ja korttimaksu. 1kpl 3€ ja 2kpl 5€
 
 {{< /column >}}
 
-{{< /row >}}
-
-{{< row >}}
 {{< column width=4 >}}
 
 {{< img-thumb-cap "merkit/komee.png" "x200" >}}
@@ -139,9 +92,7 @@ Maksutapoina toimii Mobilepay ja korttimaksu. 1kpl 3€ ja 2kpl 5€
 #### Haluan kahvia
 {{< /img-thumb-cap >}}
 {{< /column >}}
-{{< /row >}}
 
-{{< row >}}
 {{< column width=4 >}}
 {{< img-thumb-cap "merkit/cattila.png" "x200" >}}
 
@@ -153,8 +104,7 @@ Maksutapoina toimii Mobilepay ja korttimaksu. 1kpl 3€ ja 2kpl 5€
 
 # Jämälaari
 
-Kasa merkkejä alennettuun hintaan 0.50€ kpl. Valikoima vaihtelee ja se on
-esillä [Kattilan](/kattila/) seinällä.
+Kasa merkkejä alennettuun hintaan 0.50€ kpl. Valikoima vaihtelee.
 
 {{< img-thumb-cap "merkit/jämälaari.webp" "x600" >}}
 {{< /img-thumb-cap >}}

@@ -26,24 +26,7 @@ Available payment methods are Mobilepay and card payment. 1pcs 3€ and 2pcs 5�
 #### Kerho.jar
 {{< /img-thumb-cap >}}
 {{< /column >}}
-{{< column width=4 >}}
 
-{{< img-thumb-cap "merkit/senor-developer.webp" "x200" >}}
-
-#### Señor developer
-{{< /img-thumb-cap >}}
-
-{{< /column >}}
-{{< /row >}}
-{{< row >}}
-{{< column width=4 >}}
-
-{{< img-thumb-cap "merkit/linkinpark.webp" "x200" >}}
-
-#### Linkinpark
-{{< /img-thumb-cap >}}
-
-{{< /column >}}
 {{< column width=4 >}}
 
 {{< img-thumb-cap "merkit/viiden-nopan-kurssi.webp" "x200" >}}
@@ -60,8 +43,7 @@ Available payment methods are Mobilepay and card payment. 1pcs 3€ and 2pcs 5�
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
-{{< /row >}}
-{{< row >}}
+
 {{< column width=4 >}}
 
 {{< img-thumb-cap "merkit/älä-paina.webp" "x200" >}}
@@ -78,32 +60,6 @@ Available payment methods are Mobilepay and card payment. 1pcs 3€ and 2pcs 5�
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
-{{< column width=4 >}}
-
-{{< img-thumb-cap "merkit/vaaravyöhyke.webp" "x200" >}}
-
-#### Danger Zone
-{{< /img-thumb-cap >}}
-
-{{< /column >}}
-{{< /row >}}
-{{< row >}}
-{{< column width=4 >}}
-
-{{< img-thumb-cap "merkit/ei-voi-tulla-darra.webp" "x200" >}}
-
-#### Can't get hung over if you never stop drinking
-{{< /img-thumb-cap >}}
-
-{{< /column >}}
-{{< column width=4 >}}
-
-{{< img-thumb-cap "merkit/lanit.webp" "x200" >}}
-
-#### Lan party
-{{< /img-thumb-cap >}}
-
-{{< /column >}}
 
 {{< column width=4 >}}
 
@@ -114,8 +70,6 @@ Available payment methods are Mobilepay and card payment. 1pcs 3€ and 2pcs 5�
 
 {{< /column >}}
 
-{{< /row >}}
-{{< row >}}
 {{< column width=4 >}}
 
 {{< img-thumb-cap "merkit/komee.png" "x200" >}}
@@ -138,9 +92,7 @@ Available payment methods are Mobilepay and card payment. 1pcs 3€ and 2pcs 5�
 #### I want coffee
 {{< /img-thumb-cap >}}
 {{< /column >}}
-{{< /row >}}
 
-{{< row >}}
 {{< column width=4 >}}
 
 {{< img-thumb-cap "merkit/cattila.png" "x200" >}}
@@ -153,8 +105,7 @@ Available payment methods are Mobilepay and card payment. 1pcs 3€ and 2pcs 5�
 
 # Patches of past events
 
-A load of patches for discounted price of 0.5€ per patch. The selection
-changes and the current one is on display in [Kattila](/en/kattila/).
+A load of patches for discounted price of 0.5€ per patch. Availability may vary.
 
 {{< img-thumb-cap "merkit/jämälaari.webp" "x600" >}}
 {{< /img-thumb-cap >}}
