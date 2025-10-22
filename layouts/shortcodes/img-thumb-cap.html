@@ -3,6 +3,9 @@
 <figure>
     {{ if and $image $size }}
         {{ $imageoriginal := .Page.Resources.GetMatch $image }}
+        {{ if not $imageoriginal }}
+            {{ fmt.Errorf "%q not found!" $image  }}
+        {{ end }}
         {{ $imagethumbnail := $imageoriginal.Resize $size }}
         <a href="{{ $imageoriginal.RelPermalink }}">
             <img src="{{ $imagethumbnail.RelPermalink }}">
