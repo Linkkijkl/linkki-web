@@ -5,9 +5,6 @@ keywords = ["laitteistovuokraus"]
 url = "laitteistovuokraus"
 +++
 
-
-# Laitteistovuokraus
-
 **Linkki Jyväskylä ry**:ltä on mahdollisuus vuokrata erilaista
 laitteistoa.
 
