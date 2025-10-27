@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://linkkijkl.fi'
 title = 'Linkki Jyväskylä ry.'
 theme = ["hugo-embed-pdf-shortcode"]
 enableInlineShortcodes = true
@@ -362,7 +362,7 @@ home = ["html", "rss", "api-sponsors"]
 
     address = """
             <p class="text-uppercase"><strong>Linkki Jyväskylä ry (2147178-4)</strong><br/>
-            Opiskelijatila Kattila (Agora, Ag B437)<br/>
+            Opiskelijatila Kattila (Agora, Ag B102)<br/>
             PL 35, 40014 Jyväskylän yliopisto<br/><br/>
             <a href="mailto:hallitus@linkkijkl.fi">hallitus@linkkijkl.fi</a></p><br/>
             <a href="https://t.me/linkkijkl_info"><i class='fab fa-2x fa-telegram'></i></a>
@@ -432,22 +432,6 @@ home = ["html", "rss", "api-sponsors"]
                 Email: <strong>raha@linkkijkl.fi</strong><br/>
             </p>
     """
-
-
-[params.carouselHomepage]
-    # All carousel items are defined in their own files. You can find example items
-    # at 'exampleSite/data/carousel'.
-    # For more information take a look at the README.
-    enable = true
-    auto_play = true
-    pagination_speed = 1500
-
-
-[params.carouselCustomers]
-    auto_play = true
-    items = 6
-    pagination_speed = 1000
-
 
 [params.clients]
     enable = true
