@@ -5,36 +5,43 @@ description = ""
 
 <div id="content" class="home-content">
     <div class="container">
-        <div class="col-md-3">
-            <img src="/img/linkki.svg" class="img-responsive center-block" alt="Linkki's logo"/>
-        </div>
-        <div class="col-md-9">
-            <h1>Welcome to Linkki's Homepage</h1>
-            <p>
-                <strong>Linkki Jyväskylä ry</strong>, more commonly known as Linkki, is a sizeable
-                student association for Computer Science, Mathematical Information Technology, and
-                Educational Technology majors and minors in <a href="https://www.jyu.fi/en">University of Jyväskylä</a>. Association was
-                founded back in 2006 and it operates in the Faculty of Information Technology,
-                within the <a href="https://jyy.fi/en/student-union-university-jyvaskyla/">Student
-                Union of the University of Jyväskylä</a>.
-            </p>
-            <p>
-                The purpose of the association is to promote its members' studies, hobbies, and common interests, as well as
-                safeguard their rights as students. You can find more information in the <a href="/säännöt#linkki-jyväskylä-ryn-säännöt">rules section (in Finnish)</a>.
-            </p>
-            <p>
-                <a href="/en/membership">Linkki's membership</a> is free and lifelong, and anyone studying the above-mentioned study programmes
-                can apply. Membership allows you to enjoy, among other things, Linkki's <a href="/en/benefits">membership benefits</a> and
-                free coffee at <a href="/en/kattila">Kattila</a>. You can find the membership application form below.
-            </p>
-        </div>
-        <div class="col-md-3"></div>
-        <div class="col-md-9">
-            <h1>Event Calendar</h1>
-        </div>
-        <div class="col-md-12" id="blog-post">
-            {{< google_calendar "Y19nMmVxdDJhN3UxZmMxcGFoZTJvMGVjbTdhc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t" >}}
-            {{< button "Add Calendar" "https://calendar.google.com/calendar/u/2?cid=Y19nMmVxdDJhN3UxZmMxcGFoZTJvMGVjbTdhc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t" >}}
+        <div class="row">
+            <div class="col-md-3">
+                <img src="/img/linkki.svg" class="img-responsive center-block" alt="Linkki's logo"/>
+            </div>
+            <div class="col-md-9">
+                <h1>Welcome to Linkki's Homepage</h1>
+                <p>
+                    <strong>Linkki Jyväskylä ry</strong>, more commonly known as Linkki, is a sizeable
+                    student association for Computer Science, Mathematical Information Technology, and
+                    Educational Technology majors and minors in <a href="https://www.jyu.fi/en">University of Jyväskylä</a>. Association was
+                    founded back in 2006 and it operates in the Faculty of Information Technology,
+                    within the <a href="https://jyy.fi/en/student-union-university-jyvaskyla/">Student
+                    Union of the University of Jyväskylä</a>.
+                </p>
+                <p>
+                    The purpose of the association is to promote its members' studies, hobbies, and common interests, as well as
+                    safeguard their rights as students. You can find more information in the <a href="/säännöt#linkki-jyväskylä-ryn-säännöt">rules section (in Finnish)</a>.
+                </p>
+                <p>
+                    <a href="/en/membership">Linkki's membership</a> is free and lifelong, and anyone studying the above-mentioned study programmes
+                    can apply. Membership allows you to enjoy, among other things, Linkki's <a href="/en/benefits">membership benefits</a> and
+                    free coffee at <a href="/en/kattila">Kattila</a>.
+                </p>
+                <p class="text-center text-lg-start">
+                    <a href="https://forms.gle/ZRYsBxLazFVM111Q8" class="btn btn-template-main btn-lg">
+                        Application form
+                    </a>
+                </p>
+                <div class="col-md-3"></div>
+                <div class="col-md-9">
+                    <h1>Event Calendar</h1>
+                </div>
+            </div>
+            <div class="col-12" id="blog-post">
+                {{< google_calendar "Y19nMmVxdDJhN3UxZmMxcGFoZTJvMGVjbTdhc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t" >}}
+                {{< button "Add to your calendar" "https://calendar.google.com/calendar/u/2?cid=Y19nMmVxdDJhN3UxZmMxcGFoZTJvMGVjbTdhc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t" >}}
+            </div>            
         </div>
     </div>
 </div>

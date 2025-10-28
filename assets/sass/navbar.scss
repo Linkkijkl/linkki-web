@@ -34,6 +34,7 @@
 .navbar-nav > li > a {
     padding-top: 21px;
     padding-bottom: 21px;
+    padding-right: 2em;
 }
 
 .navbar-toggler {
@@ -59,6 +60,14 @@
 .navbar-nav .nav-link {
     padding-right: var(--bs-navbar-nav-link-padding-x);
     padding-left: var(--bs-navbar-nav-link-padding-x);
+}
+
+.navbar-collapse .nav-link {
+    padding-right: 2em;
+}
+
+.navbar-collapse #pagefind {
+    padding-right: 0.5em;
 }
 
 .navbar ul.nav > li > a {

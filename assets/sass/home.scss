@@ -85,7 +85,7 @@
 .bar {
 	position: relative;
 	background: var(--primary-accent);
-	padding: 60px 0;
+	padding: 30px 0;
 }
 
 .bar.color-white h1,
@@ -112,7 +112,11 @@
     padding: 10px;
 	list-style-type: none;
 	text-align: center;
-	margin: 0 20px;
+
+	> a {
+		display: inline-block;
+		width: 100%; // Fixes svg sponsor images
+	}
 }
 
 .clients {

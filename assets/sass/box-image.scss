@@ -16,10 +16,6 @@
 	padding: 0 20px;
 }
 
-.box-image-text {
-	text-align: center;
-}
-
 .box-image-text:hover .text {
     position: absolute;
     transform: translate(0, 100%);
@@ -69,4 +65,11 @@
 	letter-spacing: 0.08em;
 	font-weight: 300;
 	font-size: 12px;
+}
+
+.box-image-text .image {
+	width: 100%;
+	img {
+		width: 100%;
+	}
 }
