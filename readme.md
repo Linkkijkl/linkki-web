@@ -44,7 +44,7 @@ After this there are a few options:
 This is how the site is deployed in production.
 
 ```shell
-docker build -t linkki-web .
+docker build --pull -t linkki-web .
 docker run -p 127.0.0.1:8080:8080 linkki-web
 ```
 

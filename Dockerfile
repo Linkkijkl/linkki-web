@@ -16,5 +16,6 @@ RUN hugo --minify
 RUN npx pagefind --site public
 
 FROM nginx:alpine
+RUN mkdir -p /tmp/cache/tmp
 COPY --from=builder /source/public /usr/share/nginx/html
 COPY nginx.conf /etc/nginx/nginx.conf

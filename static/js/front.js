@@ -10,6 +10,7 @@ window.addEventListener('DOMContentLoaded', () => {
   prefetcher();
   shaders();
   festive();
+  events();
 });
 
 
@@ -444,4 +445,47 @@ const prefetcher = () => {
       document.head.appendChild(elem);
     }, { once: true });
   });
+};
+
+/**
+ * Updates upcoming events
+ */
+const events = async () => {
+  const eventDiv = document.querySelector("#events");
+  if (!eventDiv) return;
+  const icalFetch = await fetch("https://linkkijkl.fi/api/calendar.ics");
+  const icalData = await icalFetch.text();
+  const parsed = ICAL.parse(icalData);
+  const rawEvents = parsed[2];
+  const events = rawEvents
+    .filter(a => a[0] == "vevent")
+    .map(a => {
+      const vevent = a[1];
+      let r = {};
+      vevent.forEach((b) => {
+        switch (b[0]) {
+          case "dtstart":
+            r["start"] = new Date(b[3]);
+            break;
+          case "dtend":
+            r["end"] = new Date(b[3]);
+            break;
+          case "location":
+            r["location"] = b[3];
+            break;
+          case "summary":
+            r["summary"] = b[3];
+            break;
+          case "description":
+            r["description"] = b[3];
+            break;
+          case "last-modified":
+            r["last-modified"] = new Date(b[3]);
+            break;
+        }
+      });
+      return r;
+    })
+    .filter(event => event.end > new Date());
+  console.log(events);
 };
