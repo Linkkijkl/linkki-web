@@ -1,16 +1,12 @@
 {{ $bootstrap := resources.Get "node/bootstrap.bundle.min.js"}}
 <script src="{{ $bootstrap.Permalink }}"></script>
 
+<!-- main Javascript -->
 <script src="{{ "js/front.js" | relURL }}"></script>
 
 <!-- Glider.js -->
 {{ $glider := resources.Get "node/glider.min.js" }}
 <script src="{{ $glider.Permalink }}"></script>
-
-<!-- load all scripts from assets/js dir -->
-{{ range resources.Match "/js/*.js" }}
-<script src="{{ .RelPermalink }}" ></script>
-{{ end }}
 
 <!-- load all scripts from page resources (in same dir as content file) -->
 {{ range .Page.Resources.Match "*.js" }}
