@@ -453,11 +453,13 @@ const prefetcher = () => {
 const events = async () => {
   const eventDiv = document.querySelector("#events");
   if (!eventDiv) return;
+
   const icalFetch = await fetch("https://linkkijkl.fi/api/calendar.ics");
   const icalData = await icalFetch.text();
   const parsed = ICAL.parse(icalData);
   const rawEvents = parsed[2];
-  const events = rawEvents
+
+  rawEvents
     .filter(a => a[0] == "vevent")
     .map(a => {
       const vevent = a[1];
@@ -486,6 +488,58 @@ const events = async () => {
       });
       return r;
     })
-    .filter(event => event.end > new Date());
-  console.log(events);
+    .filter(event => event.end > new Date())
+    .sort((a, b) => a.start - b.start)
+    .slice(0, 6)
+    .forEach((event) => {
+      const eventElement = document.createElement("div");
+      eventElement.classList.add("col-md-6");
+      eventElement.classList.add("col-xl-4")
+      eventElement.classList.add("event");
+      eventDiv.appendChild(eventElement);
+
+      const titleElement = document.createElement("h3");
+      titleElement.textContent = event.summary;
+      eventElement.appendChild(titleElement);
+
+      const formatMinutes = (minutes) => `${length < 10 ? "0" : ""}${minutes.toString()}`;
+
+      const isDayEvent = event.start.getUTCHours() == 0;
+      const isMultiDayEvent = (event.start.getUTCDay() + 1) % 7 == event.end.getUTCDay();
+      const startTime = `${event.start.getHours()}:${formatMinutes(event.start.getMinutes())}`
+      const endTime = `${event.end.getHours()}:${formatMinutes(event.end.getMinutes())}`
+      const dateElement = document.createElement("p");
+      dateElement.classList.add("date");
+
+      let dateString;
+      if (isDayEvent) {
+        if (isMultiDayEvent) {
+          dateString = `${event.start.toLocaleDateString()} - ${event.end.toLocaleDateString()}`;
+        } else {
+          dateString = event.start.toLocaleDateString();
+        }
+      } else {
+        if (isMultiDayEvent) {
+          dateString = `${event.start.toLocaleDateString()} ${startTime} - ${event.end.toLocaleDateString()} ${startTime}`;
+        } else {
+          dateString = `${event.start.toLocaleDateString()} ${startTime} - ${endTime}`;
+        }
+      }
+      dateElement.textContent = dateString;
+      eventElement.appendChild(dateElement);
+
+      if ("location" in event) {
+        const locationElement = document.createElement("p");
+        locationElement.classList.add("location");
+        locationElement.textContent = event.location;
+        eventElement.appendChild(locationElement);
+      }
+
+      if ("description" in event) {
+        const descriptionElement = document.createElement("p");
+        descriptionElement.classList.add("description");
+        descriptionElement.textContent = event.description;
+        eventElement.appendChild(descriptionElement);
+      }
+    });
 };
