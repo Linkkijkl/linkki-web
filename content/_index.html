@@ -35,7 +35,16 @@ description = ""
                 <div class="heading text-center">
                     <h1>Tulevat tapahtumat</h1>
                 </div>
-                <div id="events" class="row"></div>
+                <div id="events" class="row">
+                    <div class="loading-indicator">
+                        <h2>Ladataan tapahtumia...</h2>
+                        <img src="/img/logo/linkki-logo-simple.svg" class="throbber" alt="Content loading indicator"/>
+                    </div>
+                    <div class="text-center">
+                        <h2 class="no-events" hidden>Ei tulevia tapahtumia 🙁</h2>
+                        <h2 class="error-events" hidden>Virhe ladattaessa tapahtumia 🙁</h2>
+                    </div>
+                </div>
                 <p class="text-center">
                     {{< button "Tilaa tapahtumakalenteri" "https://calendar.google.com/calendar/u/2?cid=Y19nMmVxdDJhN3UxZmMxcGFoZTJvMGVjbTdhc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t" >}}
                 </p>

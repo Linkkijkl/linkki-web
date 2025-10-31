@@ -453,13 +453,26 @@ const prefetcher = () => {
 const events = async () => {
   const eventDiv = document.querySelector("#events");
   if (!eventDiv) return;
+  const loadingElement = eventDiv.querySelector(".loading-indicator");
+  const errorElement = eventDiv.querySelector(".error-events");
+  const noEventsElement = eventDiv.querySelector(".no-events");
+  if (!loadingElement || !errorElement || !noEventsElement) return;
 
-  const icalFetch = await fetch("https://linkkijkl.fi/api/calendar.ics");
-  const icalData = await icalFetch.text();
-  const parsed = ICAL.parse(icalData);
-  const rawEvents = parsed[2];
+  let rawEvents;
+  try {
+    const icalFetch = await fetch("https://linkkijkl.fi/api/calendar.ics");
+    const icalData = await icalFetch.text();
+    const parsed = ICAL.parse(icalData);
+    rawEvents = parsed[2];
+  } catch (error) {
+    errorElement.removeAttribute("hidden");
+  } finally {
+    // Remove throbber
+    loadingElement.remove();
+  }
 
-  rawEvents
+  // Append events
+  const events = rawEvents
     .filter(a => a[0] == "vevent")
     .map(a => {
       const vevent = a[1];
@@ -545,4 +558,8 @@ const events = async () => {
         eventElement.appendChild(descriptionElement);
       }
     });
+  
+  if (events.length == 0) {
+    noEventsElement.removeAttribute("hidden");
+  }
 };

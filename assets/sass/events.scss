@@ -25,3 +25,30 @@
 .event:last-child {
     margin-bottom: 2em;
 }
+
+.loading-indicator {
+    text-align: center;
+    padding-bottom: 1em;
+}
+
+.throbber {
+    width: 100px;
+    animation-name: spin;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes spin {
+    0% {
+        transform: scaleX(1.0);
+    }
+
+    50% {
+        transform: scaleX(-1.0);
+    }
+
+    100% {
+        transform: scaleX(1.0);
+    }
+}
