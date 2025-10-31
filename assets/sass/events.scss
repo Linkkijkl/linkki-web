@@ -4,7 +4,8 @@
     border-color: var(--primary-accent);
     border-width: 1px;
     padding: 1em;
-    margin: 5px;
+    margin-top: 0.8em;
+    margin-bottom: 0.8em;
 
     h3,
     .date,
@@ -22,9 +23,6 @@
     }
 }
 
-.event:last-child {
-    margin-bottom: 2em;
-}
 
 .loading-indicator {
     text-align: center;

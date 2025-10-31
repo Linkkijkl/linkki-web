@@ -503,62 +503,65 @@ const events = async () => {
     })
     .filter(event => event.end > new Date())
     .sort((a, b) => a.start - b.start)
-    .slice(0, 6)
-    .forEach((event) => {
-      const containerElement = document.createElement("div");
-      containerElement.classList.add("col-md-6");
-      containerElement.classList.add("col-xl-4")
-      eventDiv.appendChild(containerElement);
+    .slice(0, 6);
+  for (const event of events) {
+    const containerElement = document.createElement("div");
+    containerElement.classList.add("col-md-6");
+    containerElement.classList.add("col-xl-4")
+    eventDiv.appendChild(containerElement);
 
-      const eventElement = document.createElement("div");
-      eventElement.classList.add("event");
-      containerElement.appendChild(eventElement);
+    const eventElement = document.createElement("div");
+    eventElement.classList.add("event");
+    containerElement.appendChild(eventElement);
 
-      const titleElement = document.createElement("h3");
-      titleElement.textContent = event.summary;
-      eventElement.appendChild(titleElement);
+    const titleElement = document.createElement("h3");
+    titleElement.textContent = event.summary;
+    eventElement.appendChild(titleElement);
 
-      const formatMinutes = (minutes) => `${length < 10 ? "0" : ""}${minutes.toString()}`;
+    const formatMinutes = (minutes) => `${length < 10 ? "0" : ""}${minutes.toString()}`;
 
-      const isDayEvent = event.start.getUTCHours() == 0;
-      const isMultiDayEvent = (event.start.getUTCDay() + 1) % 7 == event.end.getUTCDay();
-      const startTime = `${event.start.getHours()}:${formatMinutes(event.start.getMinutes())}`
-      const endTime = `${event.end.getHours()}:${formatMinutes(event.end.getMinutes())}`
-      const dateElement = document.createElement("p");
-      dateElement.classList.add("date");
+    const isDayEvent = event.start.getUTCHours() == 0;
+    // Future colleaque: if an event is exactly one week long, it will display as one day event. Fix the
+    // following line if necessary :)
+    const isMultiDayEvent = isDayEvent && (event.start.getUTCDay() + 1) % 7 != event.end.getUTCDay()
+                            || !isDayEvent && event.start.getDay() != event.end.getDay();
+    const startTime = `${event.start.getHours()}:${formatMinutes(event.start.getMinutes())}`
+    const endTime = `${event.end.getHours()}:${formatMinutes(event.end.getMinutes())}`
+    const dateElement = document.createElement("p");
+    dateElement.classList.add("date");
 
-      let dateString;
-      if (isDayEvent) {
-        if (isMultiDayEvent) {
-          dateString = `${event.start.toLocaleDateString()} - ${event.end.toLocaleDateString()}`;
-        } else {
-          dateString = event.start.toLocaleDateString();
-        }
+    let dateString;
+    if (isDayEvent) {
+      if (isMultiDayEvent) {
+        event.end.setDate(event.end.getDate() - 1);
+        dateString = `${event.start.toLocaleDateString()} - ${event.end.toLocaleDateString()}`;
       } else {
-        if (isMultiDayEvent) {
-          dateString = `${event.start.toLocaleDateString()} ${startTime} - ${event.end.toLocaleDateString()} ${startTime}`;
-        } else {
-          dateString = `${event.start.toLocaleDateString()} ${startTime} - ${endTime}`;
-        }
+        dateString = event.start.toLocaleDateString();
       }
-      dateElement.textContent = dateString;
-      eventElement.appendChild(dateElement);
+    } else {
+      if (isMultiDayEvent) {
+        dateString = `${event.start.toLocaleDateString()} ${startTime} - ${event.end.toLocaleDateString()} ${endTime}`;
+      } else {
+        dateString = `${event.start.toLocaleDateString()} ${startTime} - ${endTime}`;
+      }
+    }
+    dateElement.textContent = dateString;
+    eventElement.appendChild(dateElement);
 
-      if ("location" in event) {
-        const locationElement = document.createElement("p");
-        locationElement.classList.add("location");
-        locationElement.textContent = event.location;
-        eventElement.appendChild(locationElement);
-      }
+    if ("location" in event) {
+      const locationElement = document.createElement("p");
+      locationElement.classList.add("location");
+      locationElement.textContent = event.location;
+      eventElement.appendChild(locationElement);
+    }
 
-      if ("description" in event) {
-        const descriptionElement = document.createElement("p");
-        descriptionElement.classList.add("description");
-        descriptionElement.textContent = event.description;
-        eventElement.appendChild(descriptionElement);
-      }
-    });
-  
+    if ("description" in event) {
+      const descriptionElement = document.createElement("p");
+      descriptionElement.classList.add("description");
+      descriptionElement.textContent = event.description;
+      eventElement.appendChild(descriptionElement);
+    }
+  };
   if (events.length == 0) {
     noEventsElement.removeAttribute("hidden");
   }
