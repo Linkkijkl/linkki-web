@@ -492,11 +492,14 @@ const events = async () => {
     .sort((a, b) => a.start - b.start)
     .slice(0, 6)
     .forEach((event) => {
+      const containerElement = document.createElement("div");
+      containerElement.classList.add("col-md-6");
+      containerElement.classList.add("col-xl-4")
+      eventDiv.appendChild(containerElement);
+
       const eventElement = document.createElement("div");
-      eventElement.classList.add("col-md-6");
-      eventElement.classList.add("col-xl-4")
       eventElement.classList.add("event");
-      eventDiv.appendChild(eventElement);
+      containerElement.appendChild(eventElement);
 
       const titleElement = document.createElement("h3");
       titleElement.textContent = event.summary;

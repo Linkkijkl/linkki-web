@@ -1,0 +1,27 @@
+.event {
+    border-style: solid;
+    border-radius: 5px;
+    border-color: var(--primary-accent);
+    border-width: 1px;
+    padding: 1em;
+    margin: 5px;
+
+    h3,
+    .date,
+    .location {
+        margin: 0;
+    }
+
+    .date,
+    .location {
+        color: var(--bs-secondary-color);
+    }
+
+    .description {
+        margin-top: 1em;
+    }
+}
+
+.event:last-child {
+    margin-bottom: 2em;
+}
