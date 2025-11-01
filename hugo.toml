@@ -11,7 +11,6 @@ pluralizeListTitles = false
 
 staticDir = ["static"]
 
-# https://gohugo.io/content-management/multilingual/
 defaultContentLanguage = 'fi'
 [languages]
 
@@ -38,7 +37,6 @@ home = ["html", "rss", "api-sponsors"]
         mediaType = "application/json"
         baseName = "api/sponsors"
         isPlainText = true
-
 
 [languages.fi.menus]
 

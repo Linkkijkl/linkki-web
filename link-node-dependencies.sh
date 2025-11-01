@@ -11,7 +11,8 @@ set -- \
     node_modules/bootstrap/dist/css/bootstrap.min.css \
     node_modules/glider-js/glider.min.js \
     node_modules/glider-js/glider.min.css \
-    node_modules/masonry-layout/dist/masonry.pkgd.min.js
+    node_modules/masonry-layout/dist/masonry.pkgd.min.js \
+    node_modules/ical.js/dist/ical.es5.min.cjs
 
 
 # Clear previous links and make sure link directory exists
