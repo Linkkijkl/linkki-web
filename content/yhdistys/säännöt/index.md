@@ -251,7 +251,7 @@ Oikeus laskujen maksamiseen on rahastonhoitajalla. Kukaan ei voi hyväksyä itse
 
 #### 6 § Hankinnat
 
-Yhdistyksen puheenjohtajalla on oikeus tehdä yhdistykselle hankintoja ja sitoumuksia kahteensataan (200) euroon saakka. Hankinnat ja sitoumukset tulee saattaa hallituksen kokoukseen hyväksyttäväksi kuukausittain.
+Yhdistyksen puheenjohtajalla on oikeus tehdä yhdistykselle hankintoja ja sitoumuksia siihen summaan saakka, joka vastaa Opinkiven saunan vuokraa sisältäen paljun JYY:n jäsenille, tai kahteensataanviiteenkymmeneen (250) euroon saakka. Hankinnat ja sitoumukset tulee saattaa hallituksen kokoukseen hyväksyttäväksi kuukausittain.
 
 #### 7 § Kirjanpito
 
@@ -307,7 +307,7 @@ Toiminnantarkastajat laativat tarkastuskertomuksen, jossa mainitaan heidän saam
 
 #### 12 § Ohjesäännön voimassaolo ja muuttaminen
 
-Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 6.3.2017 ja kohtaa 4§ on muokattu yhdistyksen kokouksesa 19.11.2018 ja se on voimassa toistaiseksi. ja se on voimassa toistaiseksi. Tämän ohjesäännön muuttamisesta päättää yhdistyksen kokous yksinkertaisella äänten enemmistöllä.
+Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 6.3.2017, kohtaa 4§ on muokattu yhdistyksen kokouksesa 19.11.2018 ja kohtaa 6§ on muokattu yhdistyksen kokouksessa 30.10.2025 ja se on voimassa toistaiseksi. Tämän ohjesäännön muuttamisesta päättää yhdistyksen kokous yksinkertaisella äänten enemmistöllä.
 
 
 ---
@@ -315,24 +315,25 @@ Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 6.3.2017 ja kohtaa 4
 
 # {{% wrap "Juh/la/nau/ha/oh/je/sään/tö" %}}
 
-**1§** Linkki Jyväskylä ry:llä on juhlanauha, jota käytetään ylioppilaskuntanauhan tavoin akateemisissa juhlatilaisuuksissa ja yhdistystä edustettaessa.
+**1§** Linkki Jyväskylä ry:llä on ainejärjestönauha, joita käytetään ylioppilaskuntanauhan tavoin akateemisissa juhlatilaisuuksissa ja yhdistystä edustaessa. Jokaisella yhdistyksen jäsenellä on ainejärjestönauhan käyttöoikeus ja nauhan voi ostaa suoraan yhdistykseltä.
 
-**2§** Juhlanauha on 45 mm leveä ja sen värit ovat sininen ja hopea. Nauhan mitat ovat ylhäältä alas lukien 25 mm ja 20 mm. Värit ovat järjestyksessä sininen-hopea.
+**2§** Ainejärjestönauha on 30 mm leveä ja sen värit ovat järjestyksessä sininen ja hopea. Nauhan mitat ovat ylhäältä alas lukien 22 mm ja 8 mm. 
 
-**3§** Nauhan käyttöoikeus on Linkki Jyväskylä ry:n hallituksella ja kunniajäsenillä. Juhlanauhan käyttöoikeus elinikäinen ja juhlanauha luovutetaan veloituksetta.
+**3§** Ainejärjestönauhaa kannetaan siten, että frakkia tai tummaa pukua käytettäessä nauha kulkee oikealta olkapäältä rinnan yli vasemmalle lantiolle, hopeinen väri alaspäin. Ainejärjestönauha kulkee frakkia käyttäessä liivin alla ja tummaa pukua käyttäessä liivin ja solmion päällä. Iltapukua käyttäessä ainejärjestönauha taitellaan ruusukkeeksi siten, että harmaa väri jää taitellessa vasemmalle puolelle. Tällöin ruusuke asetetaan vasemmalle puolen rintaa siten, että harmaa väri jää alaspäin. Ainejärjestönauha ei saa koskea paljasta ihoa.
 
-**4§** Juhlanauhaa kannetaan siten, että se kulkee oikealta olkapäältä rinnan yli vasemmalle lantiolle, hopeinen väri alhaalla. Miehet kantavat juhlanauhaa juhlapuvussa (frakki) liivin alla ja tummassa puvussa liivin ja solmion päällä. Naiset voivat kantaa juhlanauhaa taiteltuna ruusukkeena vasemmalla puolella rintaa. Juhlanauha ei saa koskettaa paljasta ihoa
+**4§** Linkki Jyväskylä ry:n hallituksen jäsenillä sekä kunniajäsenillä on oikeus käyttää ansionauhaa, jonka leveys on 45mm ja sen värit ovat järjestyksessä sininen ja hopea. Nauhan mitat ovat ylhäältä alas 25mm ja 20mm. Ansionauhan käyttöoikeus on elinikäinen ja ansionauha luovutetaan veloituksetta.
 
-**5§** Käytettäessä juhlanauhaa tulee muun pukeutumisen olla tilaisuuden ja nauhan arvolle sopivaa.
+**5§** Käytettäessä ainejärjestö- tai ansionauhaa tulee muun pukeutumisen olla tilaisuuden ja nauhan arvolle sopivaa.
 
-**6§** Linkki Jyväskylä ry:n omissa tilaisuuksissa juhlanauhaa kannetaan ylimpänä, jos kantajalla on myös muiden organisaatioiden nauhoja. Muissa tilaisuuksissa noudatetaan soveltuvia ohjesääntöjä.
+**6§** Linkki Jyväskylä ry:n omissa tilaisuuksissa ainejärjestönauhaa kannetaan ylimpänä, mikäli kantajalla on myös muiden organisaatioiden nauhoja. Istuvalla hallituksella ansionauha tulee aina olla ylimpänä, mikäli kantajalla on myös muiden organisaatioiden nauhoja.
 
-**7§** Juhlanauhan kanssa on oikeus kantaa Linkin kultaista ansiomerkkiä. Ansiomerkki on Linkin tunnuksen muotoinen (halkaisija 28 mm) kullattu pinssi. Miehet kantavat merkkiä siten, että se on kiinnitetty juhlanauhaan keskelle rintaa vaakasuoraan. Naiset kantavat merkkiä keskellä juhlanauhasta taiteltua ruusuketta. Ansiomerkin käyttöoikeus juhlanauhassa on elinikäinen.
+**7§** Ansionauhan kanssa on oikeus kantaa Linkin kultaista ansiomerkkiä. Ansiomerkki on Linkin tunnuksen muotoinen (halkaisija 28 mm) kullattu pinssi. Frakkia tai tummaa pukua käytettäessä merkkiä kannetaan siten, että se on kiinnitetty ansionauhaan keskelle rintaa vaakasuoraan. Iltapukua käytettäessä merkkiä kannetaan keskellä ansionauhasta taiteltua ruusuketta. Ansiomerkin käyttöoikeus ansionauhassa on elinikäinen.
 
-**8§** Kunniajäsenillä on oikeus käyttää juhlanauhan kanssa Linkin kunniamerkkiä. Kunniamerkki on Linkin tunnuksen muotoinen (halkaisija 42 mm) kullattu pinssi. Miehet kantavat merkkiä siten, että se on kiinnitetty juhlanauhaan keskelle rintaa vaakasuoraan. Naiset kantavat merkkiä keskellä juhlanauhasta taiteltua ruusuketta. Kunniamerkin käyttöoikeus juhlanauhassa on elinikäinen
+**8§** Kunniajäsenillä on oikeus käyttää ansionauhan kanssa Linkin kunniamerkkiä. Kunniamerkki on Linkin tunnuksen muotoinen (halkaisija 42 mm) kullattu pinssi. Frakkia tai tummaa pukua käytettäessä merkkiä kannetaan siten, että se on kiinnitetty ansionauhaan keskelle rintaa vaakasuoraan. Iltapukua käytettäessä merkkiä kannetaan keskellä ansionauhasta taiteltua ruusuketta. Kunniamerkin käyttöoikeus ansionauhassa on elinikäinen.
 
-**9§** Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 6.3.2017 ja muokattu kohtaa 3§ yhdistyksen ylimääräisessä kokouksessa 24.1.2018 ja se on voimassa toistaiseksi. Tämän ohjesäännön muuttamisesta päättää yhdistyksen kokous yksinkertaisella äänten enemmistöllä.
+**9§** Mikäli jäsenellä on useampi yhdistyksen ansiomerkeistä, kiinnitetään ne ansionauhaan seuraavassa järjestyksessä ylhäältä alaspäin: kunniamerkki, kultainen ansiomerkki, hopeinen ansiomerkki. Ansiomerkit tulee asettaa nauhaan siten, että ne keskittyvät keskikohtaan riippumatta ansiomerkkien määrästä. Ruusuketta käytettäessä mikäli kantajalla on kunniamerkki, vain kunniamerkki kiinnitetään ruusukkeeseen ja mahdolliset ansiomerkit kiinnitetään ruusukkeen alapuolelle keskitetysti siten, että vasemmalla on kultainen ansiomerkki ja oikealla hopeinen ansiomerkki. Mikäli kantajalla on kaksi ansiomerkkiä, niin kultainen asetetaan ruusukkeeseen ja hopeinen ruusukkeen alapuolelle keskitetysti.
 
+**10§** Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 6.3.2017 ja muokattu kohtaa 4§ yhdistyksen ylimääräisessä kokouksessa 24.1.2018 ja uudistettu yhdistyksen kokouksessa 30.10.2025 ja se on voimassa toistaiseksi. Tämän ohjesäännön muuttamisesta päättää yhdistyksen kokous yksinkertaisella äänten enemmistöllä.
 
 ---
 
@@ -389,25 +390,15 @@ Hallituksen tulee huolehtia siitä, että hallituksen toimintaa ja rooleja on es
 
 Hallituksen tulee järjestää vähintään kaksi (2) tapahtumaa, jossa hallituksen toimintaa esitellään, joilla mainostetaan hallitukseen hakemista ja joissa yhdistyksen jäsenet pääsevät tutustumaan hakijoihin etukäteen.
 
-Hallitus järjestää haastattelut hallitushakijoille, joissa on paikalla haastattelijoina yhdistyksen puheenjohtaja ja puheenjohtajaksi hakevat henkilöt, sekä haastateltava henkilö.
-
 #### 3 § Hakijoiden toiminta hakuprosessissa
 
-Hallitushakijoiden tulee täyttää hallituksen sähköinen hakulomake määräaikaan mennessä. Täyttämällä lomakkeen hakija ilmoittaa olevansa käytettävissä hallitukseen. Mikäli hakija muuttaa mieltään on hakijan ilmoitettava siitä yhdistyksen puheenjohtajalle viipymättä tai kokouksessa kokouksen puheenjohtajalle.
+Hallitushakijoiden on toivottua täyttää hallituksen sähköinen hakulomake määräaikaan mennessä. Täyttämällä lomakkeen hakija ilmoittaa olevansa käytettävissä hallitukseen. Mikäli hakija muuttaa mieltään, on hakijan ilmoitettava siitä yhdistyksen puheenjohtajalle viipymättä tai kokouksessa kokouksen puheenjohtajalle.
 
-Hakijoiden haastattelujen perusteella puheenjohtajaehdokkaat muodostavat oman listansa tulevan hallituksen kokoonpanosta.
+Hakijalla on myös oikeus nousta ehdolle yhdistyksen kokouksessa. Paikalla olevat hakijat haastatellaan kokouksessa, mikäli se koetaan tarkoituksenmukaiseksi.
 
-Puheenjohtajaehdokkaat ilmoittavat valitsemilleen hakijoille valinnastaan listalleen, ja pyytävät tältä suostumuksen listalleen osallistumisesta ennen syyskokousta.
+#### 4 § Ohjesäännön voimassaolo ja muuttaminen
 
-Hakijalla on myös oikeus nousta ehdolle yhdistyksen kokouksessa, jolloin puheenjohtajaehdokkaat saavat miettiä listansa uudelleen, mikäli kokevat siihen tarvetta.
-
-#### 4 § Toiminta syyskokouksessa
-
-Hallitus valitaan kokouksen puheenjohtajalle jätettävien listojen perusteella.  Puheenjohtajaksi valitun hakijan on jätettävä oma listansa kokouksen puheenjohtajalle.
-
-#### 5 § Ohjesäännön voimassaolo ja muuttaminen
-
-Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 19.11.2018 ja se on voimassa toistaiseksi. Tämän ohjesäännön muuttamisesta päättää yhdistyksen kokous yksinkertaisella äänten enemmistöllä.
+Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 19.11.2018, sitä on uudistettu yhdistyksen kokouksessa 30.10.2025 ja se on voimassa toistaiseksi. Tämän ohjesäännön muuttamisesta päättää yhdistyksen kokous yksinkertaisella äänten enemmistöllä.
 
 
 ---
