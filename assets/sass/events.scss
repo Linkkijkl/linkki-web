@@ -13,16 +13,27 @@
         margin: 0;
     }
 
-    .date,
+    .date {
+        color: var(--bs-secondary-color);
+    }
+    
     .location {
         color: var(--bs-secondary-color);
+        text-decoration: underline;
     }
 
     .description {
         margin-top: 1em;
+        max-height: 7em;
+        overflow: hidden;
+        transition: all 0.5s;
+        scrollbar-width: none;
+    }
+
+    .shown {
+        overflow: auto;
     }
 }
-
 
 .loading-indicator {
     text-align: center;

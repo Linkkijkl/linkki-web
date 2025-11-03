@@ -459,16 +459,42 @@ const events = async () => {
   if (!loadingElement || !errorElement || !noEventsElement) return;
 
   let rawEvents;
+  let spaces;
   try {
     const icalFetch = await fetch("https://linkkijkl.fi/api/calendar.ics");
     const icalData = await icalFetch.text();
     const parsed = ICAL.parse(icalData);
     rawEvents = parsed[2];
+
+    const spacesFetch = await fetch("https://navi.jyu.fi/api/spaces");
+    const unprocessedSpaces = await spacesFetch.json();
+
+    spaces = unprocessedSpaces.items
+      .filter((space) => "spaceLabel" in space && space.spaceLabel != "")
+      .map((space) => {
+        return {
+          "spaceLabel": space.spaceLabel,
+          "id": space.id
+        }
+      });
   } catch (error) {
     errorElement.removeAttribute("hidden");
   } finally {
     // Remove throbber
     loadingElement.remove();
+  }
+
+  /**
+   * Searches navi.jyu.fi spaces for given space
+   * @returns null if not found, otherwise link to correct space in navi.jyu.fi
+   */
+  const naviLink = (searchTerm) => {
+    for (const space of spaces) {
+      if (searchTerm.includes(space.spaceLabel)) {
+        return `https://navi.jyu.fi/space/${space.id}`;
+      }
+    }
+    return null;
   }
 
   // Append events
@@ -524,7 +550,7 @@ const events = async () => {
     // Future colleaque: if an event is exactly one week long, it will display as one day event. Fix the
     // following line if necessary :)
     const isMultiDayEvent = isDayEvent && (event.start.getUTCDay() + 1) % 7 != event.end.getUTCDay()
-                            || !isDayEvent && event.start.getDay() != event.end.getDay();
+      || !isDayEvent && event.start.getDay() != event.end.getDay();
     const startTime = `${event.start.getHours()}:${formatMinutes(event.start.getMinutes())}`
     const endTime = `${event.end.getHours()}:${formatMinutes(event.end.getMinutes())}`
     const dateElement = document.createElement("p");
@@ -549,17 +575,53 @@ const events = async () => {
     eventElement.appendChild(dateElement);
 
     if ("location" in event) {
-      const locationElement = document.createElement("p");
+      const locationElement = document.createElement("a");
       locationElement.classList.add("location");
       locationElement.textContent = event.location;
+      locationElement.target = "_blank";
+      const linkToNavi = naviLink(event.location);
+      if (linkToNavi) {
+        locationElement.href = linkToNavi;
+      } else {
+        const encodedLocation = encodeURIComponent(event.location);
+        locationElement.href = `https://www.google.com/maps/search/?api=1&query=${encodedLocation}`
+      }
       eventElement.appendChild(locationElement);
     }
 
     if ("description" in event) {
       const descriptionElement = document.createElement("p");
       descriptionElement.classList.add("description");
-      descriptionElement.textContent = event.description;
+      descriptionElement.innerHTML = event.description;
       eventElement.appendChild(descriptionElement);
+
+      // Add see more button to overflowing event elements
+      if (descriptionElement.scrollHeight > descriptionElement.clientHeight) {
+        const centeringElement = document.createElement("div");
+        centeringElement.classList.add("text-center");
+        eventElement.appendChild(centeringElement);
+
+        const readMoreButton = document.createElement("a");
+        readMoreButton.href = "javascript:void(0)";
+        readMoreButton.classList.add("see-more");
+        const localizedReadMore = eventDiv.getAttribute("data-read-more");
+        const localizedReadLess = eventDiv.getAttribute("data-read-less");
+        readMoreButton.textContent = localizedReadMore;
+        let open = false;
+        readMoreButton.addEventListener("click", () => {
+          if (open) {
+            readMoreButton.textContent = localizedReadMore;
+            descriptionElement.classList.remove("shown");
+            descriptionElement.style.maxHeight = null;
+          } else {
+            readMoreButton.textContent = localizedReadLess;
+            descriptionElement.classList.add("shown");
+            descriptionElement.style.maxHeight = `${descriptionElement.scrollHeight}px`;
+          }
+          open = !open;
+        });
+        centeringElement.appendChild(readMoreButton);
+      }
     }
   };
   if (events.length == 0) {
