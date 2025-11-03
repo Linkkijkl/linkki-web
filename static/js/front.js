@@ -578,6 +578,7 @@ const events = async () => {
       const locationElement = document.createElement("a");
       locationElement.classList.add("location");
       locationElement.textContent = event.location;
+      locationElement.target = "_blank";
       const linkToNavi = naviLink(event.location);
       if (linkToNavi) {
         locationElement.href = linkToNavi;
