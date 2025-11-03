@@ -459,16 +459,42 @@ const events = async () => {
   if (!loadingElement || !errorElement || !noEventsElement) return;
 
   let rawEvents;
+  let spaces;
   try {
     const icalFetch = await fetch("https://linkkijkl.fi/api/calendar.ics");
     const icalData = await icalFetch.text();
     const parsed = ICAL.parse(icalData);
     rawEvents = parsed[2];
+
+    const spacesFetch = await fetch("https://navi.jyu.fi/api/spaces");
+    const unprocessedSpaces = await spacesFetch.json();
+    
+    spaces = unprocessedSpaces.items
+      .filter((space) => "spaceLabel" in space && space.spaceLabel != "")
+      .map((space) => {
+        return {
+          "spaceLabel": space.spaceLabel,
+          "id": space.id
+        }
+      });
   } catch (error) {
     errorElement.removeAttribute("hidden");
   } finally {
     // Remove throbber
     loadingElement.remove();
+  }
+
+  /**
+   * Searches navi.jyu.fi spaces for given space
+   * @returns null if not found, otherwise link to correct space in navi.jyu.fi
+   */
+  const naviLink = (searchTerm) => {
+    for (const space of spaces) {
+      if (searchTerm.includes(space.spaceLabel)) {
+        return `https://navi.jyu.fi/space/${space.id}`;
+      }
+    }
+    return null;
   }
 
   // Append events
@@ -552,9 +578,13 @@ const events = async () => {
       const locationElement = document.createElement("a");
       locationElement.classList.add("location");
       locationElement.textContent = event.location;
-      const encodedLocation = encodeURIComponent(event.location);
-      console.log(encodedLocation);
-      locationElement.href = `https://www.google.com/maps/search/?api=1&query=${encodedLocation}`
+      const linkToNavi = naviLink(event.location);
+      if (linkToNavi) {
+        locationElement.href = linkToNavi;
+      } else {
+        const encodedLocation = encodeURIComponent(event.location);
+        locationElement.href = `https://www.google.com/maps/search/?api=1&query=${encodedLocation}`
+      }    
       eventElement.appendChild(locationElement);
     }
 
