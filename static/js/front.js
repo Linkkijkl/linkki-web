@@ -558,8 +558,25 @@ const events = async () => {
     if ("description" in event) {
       const descriptionElement = document.createElement("p");
       descriptionElement.classList.add("description");
-      descriptionElement.textContent = event.description;
+      descriptionElement.innerHTML = event.description;
       eventElement.appendChild(descriptionElement);
+
+      // Add see more button to overflowing event elements
+      if (descriptionElement.scrollHeight > descriptionElement.clientHeight) {
+        const centeringElement = document.createElement("div");
+        centeringElement.classList.add("text-center");
+        eventElement.appendChild(centeringElement);
+
+        const seeMoreButton = document.createElement("a");
+        seeMoreButton.href = "javascript:void(0)";
+        seeMoreButton.classList.add("see-more");
+        seeMoreButton.textContent = "Lue lisää";
+        seeMoreButton.addEventListener("click", () => {
+          descriptionElement.classList.add("shown");
+          centeringElement.remove();
+        });
+        centeringElement.appendChild(seeMoreButton);
+      }
     }
   };
   if (events.length == 0) {
