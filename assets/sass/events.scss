@@ -26,13 +26,12 @@
         margin-top: 1em;
         max-height: 7em;
         overflow: hidden;
+        transition: all 0.5s;
+        scrollbar-width: none;
     }
 
     .shown {
-        max-height: 5000px;
         overflow: auto;
-        transition: all 3s;
-        scrollbar-width: none;
     }
 }
 

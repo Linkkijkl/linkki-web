@@ -468,7 +468,7 @@ const events = async () => {
 
     const spacesFetch = await fetch("https://navi.jyu.fi/api/spaces");
     const unprocessedSpaces = await spacesFetch.json();
-    
+
     spaces = unprocessedSpaces.items
       .filter((space) => "spaceLabel" in space && space.spaceLabel != "")
       .map((space) => {
@@ -550,7 +550,7 @@ const events = async () => {
     // Future colleaque: if an event is exactly one week long, it will display as one day event. Fix the
     // following line if necessary :)
     const isMultiDayEvent = isDayEvent && (event.start.getUTCDay() + 1) % 7 != event.end.getUTCDay()
-                            || !isDayEvent && event.start.getDay() != event.end.getDay();
+      || !isDayEvent && event.start.getDay() != event.end.getDay();
     const startTime = `${event.start.getHours()}:${formatMinutes(event.start.getMinutes())}`
     const endTime = `${event.end.getHours()}:${formatMinutes(event.end.getMinutes())}`
     const dateElement = document.createElement("p");
@@ -584,7 +584,7 @@ const events = async () => {
       } else {
         const encodedLocation = encodeURIComponent(event.location);
         locationElement.href = `https://www.google.com/maps/search/?api=1&query=${encodedLocation}`
-      }    
+      }
       eventElement.appendChild(locationElement);
     }
 
@@ -603,11 +603,21 @@ const events = async () => {
         const readMoreButton = document.createElement("a");
         readMoreButton.href = "javascript:void(0)";
         readMoreButton.classList.add("see-more");
-        const localizedText = eventDiv.getAttribute("data-read-more");
-        readMoreButton.textContent = localizedText;
+        const localizedReadMore = eventDiv.getAttribute("data-read-more");
+        const localizedReadLess = eventDiv.getAttribute("data-read-less");
+        readMoreButton.textContent = localizedReadMore;
+        let open = false;
         readMoreButton.addEventListener("click", () => {
-          descriptionElement.classList.add("shown");
-          centeringElement.remove();
+          if (open) {
+            readMoreButton.textContent = localizedReadMore;
+            descriptionElement.classList.remove("shown");
+            descriptionElement.style.maxHeight = null;
+          } else {
+            readMoreButton.textContent = localizedReadLess;
+            descriptionElement.classList.add("shown");
+            descriptionElement.style.maxHeight = `${descriptionElement.scrollHeight}px`;
+          }
+          open = !open;
         });
         centeringElement.appendChild(readMoreButton);
       }
