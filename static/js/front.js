@@ -552,7 +552,9 @@ const events = async () => {
       const locationElement = document.createElement("a");
       locationElement.classList.add("location");
       locationElement.textContent = event.location;
-      locationElement.href = "https"
+      const encodedLocation = encodeURIComponent(event.location);
+      console.log(encodedLocation);
+      locationElement.href = `https://www.google.com/maps/search/?api=1&query=${encodedLocation}`
       eventElement.appendChild(locationElement);
     }
 
