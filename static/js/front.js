@@ -549,9 +549,10 @@ const events = async () => {
     eventElement.appendChild(dateElement);
 
     if ("location" in event) {
-      const locationElement = document.createElement("p");
+      const locationElement = document.createElement("a");
       locationElement.classList.add("location");
       locationElement.textContent = event.location;
+      locationElement.href = "https"
       eventElement.appendChild(locationElement);
     }
 
@@ -567,15 +568,16 @@ const events = async () => {
         centeringElement.classList.add("text-center");
         eventElement.appendChild(centeringElement);
 
-        const seeMoreButton = document.createElement("a");
-        seeMoreButton.href = "javascript:void(0)";
-        seeMoreButton.classList.add("see-more");
-        seeMoreButton.textContent = "Lue lisää";
-        seeMoreButton.addEventListener("click", () => {
+        const readMoreButton = document.createElement("a");
+        readMoreButton.href = "javascript:void(0)";
+        readMoreButton.classList.add("see-more");
+        const localizedText = eventDiv.getAttribute("data-read-more");
+        readMoreButton.textContent = localizedText;
+        readMoreButton.addEventListener("click", () => {
           descriptionElement.classList.add("shown");
           centeringElement.remove();
         });
-        centeringElement.appendChild(seeMoreButton);
+        centeringElement.appendChild(readMoreButton);
       }
     }
   };
