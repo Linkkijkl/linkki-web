@@ -458,79 +458,19 @@ const events = async () => {
   const noEventsElement = eventDiv.querySelector(".no-events");
   if (!loadingElement || !errorElement || !noEventsElement) return;
 
-  let rawEvents;
-  let spaces;
+  let upcoming_events;
   try {
-    const icalFetch = await fetch("https://linkkijkl.fi/api/calendar.ics");
-    const icalData = await icalFetch.text();
-    const parsed = ICAL.parse(icalData);
-    rawEvents = parsed[2];
-
-    const spacesFetch = await fetch("https://navi.jyu.fi/api/spaces");
-    const unprocessedSpaces = await spacesFetch.json();
-
-    spaces = unprocessedSpaces.items
-      .filter((space) => "spaceLabel" in space && space.spaceLabel != "")
-      .map((space) => {
-        return {
-          "spaceLabel": space.spaceLabel,
-          "id": space.id
-        }
-      });
+    upcoming_events = await fetch("https://api.linkkijkl.fi/events").then(a => a.json());
   } catch (error) {
+    // Display error
     errorElement.removeAttribute("hidden");
   } finally {
     // Remove throbber
     loadingElement.remove();
   }
 
-  /**
-   * Searches navi.jyu.fi spaces for given space
-   * @returns null if not found, otherwise link to correct space in navi.jyu.fi
-   */
-  const naviLink = (searchTerm) => {
-    for (const space of spaces) {
-      if (searchTerm.includes(space.spaceLabel)) {
-        return `https://navi.jyu.fi/space/${space.id}`;
-      }
-    }
-    return null;
-  }
-
-  // Append events
-  const events = rawEvents
-    .filter(a => a[0] == "vevent")
-    .map(a => {
-      const vevent = a[1];
-      let r = {};
-      vevent.forEach((b) => {
-        switch (b[0]) {
-          case "dtstart":
-            r["start"] = new Date(b[3]);
-            break;
-          case "dtend":
-            r["end"] = new Date(b[3]);
-            break;
-          case "location":
-            r["location"] = b[3];
-            break;
-          case "summary":
-            r["summary"] = b[3];
-            break;
-          case "description":
-            r["description"] = b[3];
-            break;
-          case "last-modified":
-            r["last-modified"] = new Date(b[3]);
-            break;
-        }
-      });
-      return r;
-    })
-    .filter(event => event.end > new Date())
-    .sort((a, b) => a.start - b.start)
-    .slice(0, 6);
-  for (const event of events) {
+  // Add fetched events to page
+  for (const event of upcoming_events) {
     const containerElement = document.createElement("div");
     containerElement.classList.add("col-md-6");
     containerElement.classList.add("col-xl-4")
@@ -544,48 +484,17 @@ const events = async () => {
     titleElement.textContent = event.summary;
     eventElement.appendChild(titleElement);
 
-    const formatMinutes = (minutes) => `${length < 10 ? "0" : ""}${minutes.toString()}`;
-
-    const isDayEvent = event.start.getUTCHours() == 0;
-    // Future colleaque: if an event is exactly one week long, it will display as one day event. Fix the
-    // following line if necessary :)
-    const isMultiDayEvent = isDayEvent && (event.start.getUTCDay() + 1) % 7 != event.end.getUTCDay()
-      || !isDayEvent && event.start.getDay() != event.end.getDay();
-    const startTime = `${event.start.getHours()}:${formatMinutes(event.start.getMinutes())}`
-    const endTime = `${event.end.getHours()}:${formatMinutes(event.end.getMinutes())}`
     const dateElement = document.createElement("p");
     dateElement.classList.add("date");
-
-    let dateString;
-    if (isDayEvent) {
-      if (isMultiDayEvent) {
-        event.end.setDate(event.end.getDate() - 1);
-        dateString = `${event.start.toLocaleDateString()} - ${event.end.toLocaleDateString()}`;
-      } else {
-        dateString = event.start.toLocaleDateString();
-      }
-    } else {
-      if (isMultiDayEvent) {
-        dateString = `${event.start.toLocaleDateString()} ${startTime} - ${event.end.toLocaleDateString()} ${endTime}`;
-      } else {
-        dateString = `${event.start.toLocaleDateString()} ${startTime} - ${endTime}`;
-      }
-    }
-    dateElement.textContent = dateString;
+    dateElement.textContent = event.date;
     eventElement.appendChild(dateElement);
 
     if ("location" in event) {
       const locationElement = document.createElement("a");
       locationElement.classList.add("location");
-      locationElement.textContent = event.location;
+      locationElement.textContent = event.location.string;
       locationElement.target = "_blank";
-      const linkToNavi = naviLink(event.location);
-      if (linkToNavi) {
-        locationElement.href = linkToNavi;
-      } else {
-        const encodedLocation = encodeURIComponent(event.location);
-        locationElement.href = `https://www.google.com/maps/search/?api=1&query=${encodedLocation}`
-      }
+      locationElement.href = event.location.url;
       eventElement.appendChild(locationElement);
     }
 
@@ -595,7 +504,7 @@ const events = async () => {
       descriptionElement.innerHTML = event.description;
       eventElement.appendChild(descriptionElement);
 
-      // Add see more button to overflowing event elements
+      // Add read more button to overflowing event elements
       if (descriptionElement.scrollHeight > descriptionElement.clientHeight) {
         const centeringElement = document.createElement("div");
         centeringElement.classList.add("text-center");
@@ -624,7 +533,9 @@ const events = async () => {
       }
     }
   };
-  if (events.length == 0) {
+
+  // Display "no upcoming events" if applicable
+  if (upcoming_events.length == 0) {
     noEventsElement.removeAttribute("hidden");
   }
 };
