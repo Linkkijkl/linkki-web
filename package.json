@@ -12,7 +12,6 @@
   "dependencies": {
     "bootstrap": "^5.3.8",
     "glider-js": "^1.7.9",
-    "ical.js": "^2.2.1",
     "masonry-layout": "^4.2.2"
   }
 }
