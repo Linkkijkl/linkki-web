@@ -61,9 +61,20 @@
 	letter-spacing: 0.10em;
 }
 
+.home-carousel a:hover {
+	color: #fff;
+	text-decoration: none;
+}
+
 .home-carousel {
     position: relative;
 }
+
+a#lightswitch:focus {
+	color: #fff;
+}
+
+// end Home carousel
 
 .bar .dark-mask {
 	position: absolute;
