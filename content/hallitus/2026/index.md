@@ -37,9 +37,6 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
-{{< /row >}}
-
-{{< row >}}
 {{< column >}}
 
 {{< img-thumb-cap "placeholder.png" "200x" >}}
@@ -147,8 +144,6 @@ Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnast
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
-{{< /row >}}
-{{< row >}}
 {{< column >}}
 {{< img-thumb-cap >}}
 ## Oskari Lahtinen
