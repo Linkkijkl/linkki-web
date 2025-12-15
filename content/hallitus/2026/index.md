@@ -74,6 +74,15 @@ Yritys- ja yhteistyötiimin tehtävänä on vaalia yhdistyksen yhteistyökumppan
 #### TEK- ja Loimu-yhteyshenkilö
 [**yritys@linkkijkl.fi**](mailto:yritys@linkkijkl.fi)
 
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Lassi Jääskeläinen
+#### Yritystiimiläinen
+[**lassi.jaaskelainen@linkkijkl.fi**](mailto:lassi.jaaskelainen@linkkijkl.fi)
 
 {{< /img-thumb-cap >}}
 
@@ -125,6 +134,32 @@ Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistykse
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Antton Kharine
+#### Tapahtumatiimiläinen
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Eetu Norta
+#### Tapahtumatiimiläinen
+[Telegram: **@Nortsi0**](https://t.me/Nortsi0)
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Nico Kääriäinen
+#### Pelipiirivastaava
+[Telegram: **@nicovsk**](https://t.me/nicovsk)
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
 {{< /row >}}
 
 
@@ -148,6 +183,7 @@ Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnast
 {{< img-thumb-cap >}}
 ## Oskari Lahtinen
 #### Koulutuspoliittinen vastaava
+#### TiTOL-yhteyshenkilö
 [**kopo@linkkijkl.fi**](mailto:kopo@linkkijkl.fi)
 
 [Telegram: **@ikaros02**](https://t.me/ikaros02)
@@ -162,6 +198,27 @@ Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnast
 [Telegram: **@M0salu**](https://t.me/M0salu)
 {{< /img-thumb-cap >}}
 {{< /column >}}
+
+{{< column >}}
+{{< img-thumb-cap >}}
+## Juhana Lihavainen
+#### Sosiaalipoliittinen vastaava
+[**fuksivastaava@linkkijkl.fi**](mailto:fuksivastaava@linkkijkl.fi)
+
+[Telegram: **@juan4615**](https://t.me/juan4615)
+{{< /img-thumb-cap >}}
+{{< /column >}}
+
+{{< column >}}
+{{< img-thumb-cap >}}
+## Urho Laurinen
+#### Verijumala
+[**verijumala@linkkijkl.fi**](mailto:verijumala@linkkijkl.fi)
+
+[Telegram: **@Urlsql**](https://t.me/Urlsql)
+{{< /img-thumb-cap >}}
+{{< /column >}}
+
 {{< /row >}}
 
 # Mediatiimi
