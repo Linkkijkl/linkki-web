@@ -1,8 +1,7 @@
-weight: 2
-title: "Metro came and went!"
+weight: 3
+title: "Metro came and went..."
 description: >
-  <p>One of the most memorable student events in Jyväskylä was held again on the 24th April.
-  Thank you, on behalf of the entire Jyväsmetro team!</p>
+  <p>But it will come back 23.4. Click here for info!</p>
 image: "img/jyväsmetro-transparent.png"
 href: "https://jyvasmetro.fi"
-hide: true
+hide: false
