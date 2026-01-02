@@ -184,6 +184,8 @@ Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnast
 ## Oskari Lahtinen
 #### Koulutuspoliittinen vastaava
 #### TiTOL-yhteyshenkilö
+#### Hallituksen mentori eli vanha näätä
+#### Haalarivastaava
 [**kopo@linkkijkl.fi**](mailto:kopo@linkkijkl.fi)
 
 [Telegram: **@ikaros02**](https://t.me/ikaros02)
@@ -201,11 +203,13 @@ Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnast
 
 {{< column >}}
 {{< img-thumb-cap >}}
-## Juhana Lihavainen
-#### Sosiaalipoliittinen vastaava
+## Valtteri Hiltunen
+#### Fuksivastaava
+#### Kv-vastaava
 [**fuksivastaava@linkkijkl.fi**](mailto:fuksivastaava@linkkijkl.fi)
+[**kv@linkkijkl.fi**](mailto:kv@linkkijkl.fi)
 
-[Telegram: **@juan4615**](https://t.me/juan4615)
+[Telegram: **@luigipunk**](https://t.me/luigipunk)
 {{< /img-thumb-cap >}}
 {{< /column >}}
 
@@ -237,4 +241,18 @@ Mediatiimin tehtävänä on tiedottaa jäsenistöä yhdistyksen eri kanavissa ku
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
+{{< column >}}
+{{< img-thumb-cap >}}
+## Emma Järvinen
+#### Somevastaava
+{{< /img-thumb-cap >}}
+{{< /column >}}
+
+{{< column >}}
+{{< img-thumb-cap >}}
+## Taru Nikkanen
+#### Somevastaava
+{{< /img-thumb-cap >}}
+{{< /column >}}
+
 {{< /row >}}
