@@ -3,7 +3,7 @@ title = "Hallitus 2026"
 date = "2026-01-01T00:00:00+02:00"
 description = "Linkin hallitus 2026"
 categories = ["hallitukset"]
-authors = ["Johannes Horila", "Jenna Tykkyläinen", "Ilkka Sario", "Lari Nurkka", "Olavi Lahtinen", "Anton Turpeinen", "Santeri Sormunen", "Lauri Leppänen", "Joonas Niemi", "Juho Ropanen", "Mortti Luhtala", "Oskari Lahtinen"]
+authors = ["Johannes Horila", "Jenna Tykkyläinen", "Ilkka Sario", "Lari Nurkka", "Olavi Lahtinen", "Anton Turpeinen", "Santeri Sormunen", "Lauri Leppänen", "Joonas Niemi", "Juho Ropanen", "Mortti Luhtala", "Oskari Lahtinen", "Valtteri Hiltunen", "Urho Laurinen", "Emma Järvinen", "Taru Nikkanen", "Aino Sipola", "Antton Kharine", "Eetu Norta", "Nico Kääriäinen", "Lassi Jääskeläinen", "Toni Pietiläinen", "Lassi Karjalainen"]
 banner = "/img/hallitukset/hallitus2026.webp"
 summary = " "
 +++
@@ -59,6 +59,18 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
+
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Lassi Karjalainen
+#### Nakkimestari
+
+[Telegram: **@LKKarjalainen**](https://t.me/LKKarjalainen)
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+
 {{< /row >}}
 
 # Yritys- ja yhteistyötiimi
@@ -160,6 +172,15 @@ Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistykse
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Aino Sipola
+#### Käsityövastaava
+[Telegram: **@Aino_Sipola**](https://t.me/Aino_Sipola)
+{{< /img-thumb-cap >}}
+{{< /column >}}
+
 {{< /row >}}
 
 
@@ -189,6 +210,17 @@ Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnast
 [Telegram: **@ikaros02**](https://t.me/ikaros02)
 {{< /img-thumb-cap >}}
 {{< /column >}}
+
+{{< column >}}
+{{< img-thumb-cap >}}
+## Toni Pietiläinen
+#### Kyber-koulutuspoliittinen vastaava
+[**kopo@linkkijkl.fi**](mailto:kopo@linkkijkl.fi)
+
+[Telegram: **@dnttu**](https://t.me/dnttu)
+{{< /img-thumb-cap >}}
+{{< /column >}}
+
 {{< column >}}
 {{< img-thumb-cap >}}
 ## Mortti Luhtala
@@ -201,11 +233,22 @@ Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnast
 
 {{< column >}}
 {{< img-thumb-cap >}}
-## Juhana Lihavainen
-#### Sosiaalipoliittinen vastaava
-[**fuksivastaava@linkkijkl.fi**](mailto:fuksivastaava@linkkijkl.fi)
+## Valtteri Hiltunen
+#### Fuksivastaava & Kansainvälisyysvastaava
+[**fuksivastaava@linkkijkl.fi**](mailto:kv@linkkijkl.fi)
+[**kv@linkkijkl.fi**](mailto:kv@linkkijkl.fi)
 
-[Telegram: **@juan4615**](https://t.me/juan4615)
+[Telegram: **@luigipunk**](https://t.me/luigipunk)
+{{< /img-thumb-cap >}}
+{{< /column >}}
+
+{{< column >}}
+{{< img-thumb-cap >}}
+## Aino Sipola
+#### Ympäristövastaava
+[**ymparisto@linkkijkl.fi**](mailto:ymparisto@linkkijkl.fi)
+
+[Telegram: **@Aino_Sipola**](https://t.me/Aino_Sipola)
 {{< /img-thumb-cap >}}
 {{< /column >}}
 
@@ -237,4 +280,25 @@ Mediatiimin tehtävänä on tiedottaa jäsenistöä yhdistyksen eri kanavissa ku
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
+
+{{< column >}}
+{{< img-thumb-cap >}}
+## Emma Järvinen
+#### Some- & mediavastaava
+[**some@linkkijkl.fi**](mailto:some@linkkijkl.fi)
+
+[Telegram: **@Emmayayy**](https://t.me/Emmayayy)
+{{< /img-thumb-cap >}}
+{{< /column >}}
+
+{{< column >}}
+{{< img-thumb-cap >}}
+## Taru Nikkanen
+#### Some- & mediavastaava
+[**some@linkkijkl.fi**](mailto:some@linkkijkl.fi)
+
+[Telegram: **@taruksn**](https://t.me/taruksn)
+{{< /img-thumb-cap >}}
+{{< /column >}}
+
 {{< /row >}}
