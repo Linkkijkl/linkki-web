@@ -92,7 +92,7 @@ url = "board/2025"
 
 {{< img-thumb-cap >}}
 ## Lassi Karjalainen
-#### TITOL Coordinator
+#### TiTOL Coordinator
 [**projekti@linkkijkl.fi**](mailto:projekti@linkkijkl.fi)
 
 [Telegram: **@LKKarjalainen**](https://t.me/LKKarjalainen)
