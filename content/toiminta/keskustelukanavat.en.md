@@ -15,7 +15,7 @@ you can join from the platform you prefer. Our current channels are
 located in:
 
 - **Telegram**: @linkkijkl
-- **Matrix**: #linkkijkl:hacklab.fi
+- **Matrix**: #linkki:hacklab.fi
 - **IRC**: #linkki.jkl IRCnetissä
 - **Discord**: https://discord.com/invite/f9c6y97
 
