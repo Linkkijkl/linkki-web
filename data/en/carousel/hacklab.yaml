@@ -1,0 +1,8 @@
+weight: 5
+title: "Hacklab JKL"
+description: >
+  <p>Come and get to know the local makerspace Hacklab Jyväskylä!
+  Regular opening hours are tuesdays 18-20 and Saturdays 15-19.</p>
+image: "/img/hacklab-jkl-logo.svg"
+href: "https://jyväskylä.hacklab.fi/"
+hide: false

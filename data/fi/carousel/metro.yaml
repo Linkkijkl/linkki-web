@@ -1,7 +1,7 @@
-weight: 2
-title: "Metro kulki taas jälleen!"
+weight: 3
+title: "Jyväsmetro"
 description: >
-  <p>Yksi Jyväskylän parhaista opiskelijatapahtumista kulki jälleen 24.4.2025. Kiitos koko tiimin puolesta!</p>
+  <p>Vapun nopein tapahtuma kulkee jälleen 23.4.2026 Katso tästä lisätietoja!</p>
 image: "img/jyväsmetro-transparent.png"
 href: "https://jyvasmetro.fi"
-hide: true
+hide: false

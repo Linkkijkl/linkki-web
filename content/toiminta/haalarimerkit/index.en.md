@@ -19,6 +19,15 @@ Available payment methods are Mobilepay and card payment. 1pcs 3â‚¬ and 2pcs 5â‚
 {{< /img-thumb-cap >}}
 
 {{< /column>}}
+
+{{< column width=4 >}}
+{{< img-thumb-cap "merkit/limki.jpg" "x200" >}}
+
+#### Limki
+{{< /img-thumb-cap >}}
+{{< /column>}}
+
+
 {{< column width=4 >}}
 
 {{< img-thumb-cap "merkit/kerhojar.webp" "x200" >}}

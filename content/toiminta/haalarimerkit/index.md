@@ -19,6 +19,14 @@ Maksutapoina toimii Mobilepay ja korttimaksu. 1kpl 3€ ja 2kpl 5€
 {{< /img-thumb-cap >}}
 
 {{< /column>}}
+
+{{< column width=4 >}}
+{{< img-thumb-cap "merkit/limki.jpg" "x200" >}}
+
+#### Limki
+{{< /img-thumb-cap >}}
+{{< /column>}}
+
 {{< column width=4 >}}
 
 {{< img-thumb-cap "merkit/kerhojar.webp" "x200" >}}
