@@ -1,25 +1,22 @@
 +++
-title = "Hallitus 2026"
+title = "Board of Directors 2026"
 date = "2026-01-01T00:00:00+02:00"
-description = "Linkin hallitus 2026"
-categories = ["hallitukset"]
 authors = ["Johannes Horila", "Jenna Tykkyläinen", "Ilkka Sario", "Lari Nurkka", "Olavi Lahtinen", "Anton Turpeinen", "Santeri Sormunen", "Lauri Leppänen", "Joonas Niemi", "Juho Ropanen", "Mortti Luhtala", "Oskari Lahtinen", "Valtteri Hiltunen", "Urho Laurinen", "Emma Järvinen", "Taru Nikkanen", "Aino Sipola", "Antton Kharine", "Eetu Norta", "Nico Kääriäinen", "Lassi Jääskeläinen", "Toni Pietiläinen", "Lassi Karjalainen"]
 banner = "/img/hallitukset/hallitus2026.webp"
 summary = " "
+url = "board/2026"
 +++
 
 ![Hallitus 2026](/img/hallitukset/hallitus2026.webp)
 
-# Hallintotiimi
-
-Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen puolesta, että yhdistyksen toiminnassa noudatetaan lainsäädäntöä, kuten **yhdistyslakia**. Tiimissä tehdään työtä, että kokoukset järjestetään lain vaatimilla edellytyksillä ja huolehditaan talouden seurannasta, sekä budjetoinnista. Tiimi toimii enemmän hallinnollisessa, sekä koordinoivassa roolissa. Tiimin jäsenet osallistuvat tarvittaessa myös muiden tiimien toimintaan.
+# Administrative team
 
 {{< row >}}
 {{< column >}}
 
 {{< img-thumb-cap "placeholder.png" "200x" >}}
 ## Johannes Horila
-#### Puheenjohtaja
+#### Chairperson
 [**pj@linkkijkl.fi**](mailto:pj@linkkijkl.fi)
 
 [Telegram: **@Johanneshor**](https://t.me/Johanneshor)
@@ -30,7 +27,7 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 
 {{< img-thumb-cap "placeholder.png" "200x" >}}
 ## Jenna Tykkyläinen
-#### Varapuheenjohtaja
+#### Vice Chairperson
 [**vpj@linkkijkl.fi**](mailto:vpj@linkkijkl.fi)
 
 [Telegram: **@jennatykkylainen**](https://t.me/jennatykkylainen)
@@ -41,7 +38,7 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 
 {{< img-thumb-cap "placeholder.png" "200x" >}}
 ## Lari Nurkka
-#### Sihteeri
+#### Secretary
 [**sihteeri@linkkijkl.fi**](mailto:sihteeri@linkkijkl.fi)
 
 [Telegram: **@lurppa**](https://t.me/lurppa)
@@ -52,7 +49,7 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 
 {{< img-thumb-cap "placeholder.png" "200x" >}}
 ## Ilkka Sario
-#### Rahastonhoitaja
+#### Treasurer
 [**raha@linkkijkl.fi**](mailto:raha@linkkijkl.fi)
 
 [Telegram: **@sarionilkka**](https://t.me/sarionilkka)
@@ -64,7 +61,7 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 
 {{< img-thumb-cap >}}
 ## Lassi Karjalainen
-#### Nakkimestari
+#### Sausage Master
 
 [Telegram: **@LKKarjalainen**](https://t.me/LKKarjalainen)
 {{< /img-thumb-cap >}}
@@ -73,17 +70,15 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 
 {{< /row >}}
 
-# Yritys- ja yhteistyötiimi
-
-Yritys- ja yhteistyötiimin tehtävänä on vaalia yhdistyksen yhteistyökumppanuuksia, huolehtia että yhteistyökumppanuuksien sopimuksien molemmat osapuolet täyttävät yhteistyösopimuksien ehdot, sekä etsiä mahdollisia uusia kumppanuuksia.
+# Corporational and Collaborational Team
 
 {{< row >}}
 {{< column >}}
 
 {{< img-thumb-cap "placeholder.png" "200x" >}}
 ## Joonas Niemi
-#### Yritys- ja yhteistyöpäällikkö
-#### TEK- ja Loimu-yhteyshenkilö
+#### Corporational and Collaborational Coordinator
+#### TEK and Loimu Coordinator
 [**yritys@linkkijkl.fi**](mailto:yritys@linkkijkl.fi)
 
 {{< /img-thumb-cap >}}
@@ -93,7 +88,7 @@ Yritys- ja yhteistyötiimin tehtävänä on vaalia yhdistyksen yhteistyökumppan
 
 {{< img-thumb-cap >}}
 ## Lassi Jääskeläinen
-#### Yritystiimiläinen
+#### Corporational and Collaborational Team Member
 [**lassi.jaaskelainen@linkkijkl.fi**](mailto:lassi.jaaskelainen@linkkijkl.fi)
 
 {{< /img-thumb-cap >}}
@@ -101,16 +96,14 @@ Yritys- ja yhteistyötiimin tehtävänä on vaalia yhdistyksen yhteistyökumppan
 {{< /column >}}
 {{< /row >}}
 
-# Projektitiimi
-
-Projektitiimi vastaa suurempien kokonaisuuksien ja tapahtumien, kuten esimerkiksi Jyväsmetron ja vuosijuhlien, suunnittelusta, koordinoimisesta sekä toteuttamisesta.
+# Project Team
 
 {{< row >}}
 {{< column >}}
 
 {{< img-thumb-cap "placeholder.png" "200x" >}}
 ## Santeri Sormunen
-#### Projektipäällikkö
+#### Project Manager
 [**projekti@linkkijkl.fi**](mailto:projekti@linkkijkl.fi)
 
 [Telegram: **@Santtuz**](https://t.me/Santtuz)
@@ -119,16 +112,14 @@ Projektitiimi vastaa suurempien kokonaisuuksien ja tapahtumien, kuten esimerkiks
 {{< /column >}}
 {{< /row >}}
 
-# Tapahtumatiimi
-
-Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistyksen järjestämät kulttuuritilaisuudet, matkat, sekä muut tapahtumat. Tapahtumatiimin toiminta on kenties näkyvin osa yhdistyksen toimintaa.
+# Event Team
 
 {{< row >}}
 {{< column >}}
 
 {{< img-thumb-cap "placeholder.png" "200x" >}}
 ## Olavi Lahtinen
-#### Tapahtumapäällikkö
+#### Event Coordinator
 [**tapahtuma@linkkijkl.fi**](mailto:tapahtuma@linkkijkl.fi)
 
 [Telegram: **@zzuol**](https://t.me/zzuol)
@@ -139,7 +130,7 @@ Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistykse
 
 {{< img-thumb-cap "placeholder.png" "200x" >}}
 ## Anton Turpeinen
-#### Tapahtumapäällikkö
+#### Event Coordinator
 [**tapahtuma@linkkijkl.fi**](mailto:tapahtuma@linkkijkl.fi)
 
 [Telegram: **@AntzaBoi**](https://t.me/AntzaBoi)
@@ -150,7 +141,7 @@ Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistykse
 
 {{< img-thumb-cap >}}
 ## Antton Kharine
-#### Tapahtumatiimiläinen
+#### Event Team Member
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
@@ -158,7 +149,7 @@ Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistykse
 
 {{< img-thumb-cap >}}
 ## Eetu Norta
-#### Tapahtumatiimiläinen
+#### Event Team Member
 [Telegram: **@Nortsi0**](https://t.me/Nortsi0)
 {{< /img-thumb-cap >}}
 
@@ -167,7 +158,7 @@ Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistykse
 
 {{< img-thumb-cap >}}
 ## Nico Kääriäinen
-#### Pelipiirivastaava
+#### Game Club Coordinator
 [Telegram: **@nicovsk**](https://t.me/nicovsk)
 {{< /img-thumb-cap >}}
 
@@ -176,7 +167,7 @@ Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistykse
 
 {{< img-thumb-cap >}}
 ## Aino Sipola
-#### Käsityövastaava
+#### Crafts Coordinator
 [Telegram: **@Aino_Sipola**](https://t.me/Aino_Sipola)
 {{< /img-thumb-cap >}}
 {{< /column >}}
@@ -184,16 +175,14 @@ Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistykse
 {{< /row >}}
 
 
-# Hyvinvointitiimi
-
-Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnasta ja sosiaalipoliittisista kysymyksistä, kuten yhdenvertaisuudesta yhdistyksen toiminnassa. Tiimi tekee työtä ainejärjestön puolesta sen eteen, että jokaiselle on tarjolla turvallinen opiskeluympäristö, jossa jokaisella on oikeus opiskella kokematta häirintää, kiusaamista tai syrjintää.
+# Wellbeing Team
 
 {{< row >}}
 {{< column >}}
 
 {{< img-thumb-cap "placeholder.png" "200x" >}}
 ## Lauri Leppänen
-#### Hyvinvointipäällikkö
+#### Wellness Coordinator
 [**hyvinvointi@linkkijkl.fi**](mailto:hyvinvointi@linkkijkl.fi)
 
 [Telegram: **@Larpaattori**](https://t.me/Larpaattori)
@@ -203,10 +192,8 @@ Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnast
 {{< column >}}
 {{< img-thumb-cap >}}
 ## Oskari Lahtinen
-#### Koulutuspoliittinen vastaava
-#### TiTOL-yhteyshenkilö
-#### Hallituksen mentori eli vanha näätä
-#### Haalarivastaava
+#### Educational Policy Coordinator
+#### TiTOL Coordinator
 [**kopo@linkkijkl.fi**](mailto:kopo@linkkijkl.fi)
 
 [Telegram: **@ikaros02**](https://t.me/ikaros02)
@@ -216,7 +203,7 @@ Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnast
 {{< column >}}
 {{< img-thumb-cap >}}
 ## Toni Pietiläinen
-#### Kyber-koulutuspoliittinen vastaava
+#### Cyber Security Educational Policy Coordinator
 [**kopo@linkkijkl.fi**](mailto:kopo@linkkijkl.fi)
 
 [Telegram: **@dnttu**](https://t.me/dnttu)
@@ -226,7 +213,7 @@ Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnast
 {{< column >}}
 {{< img-thumb-cap >}}
 ## Mortti Luhtala
-#### Sosiaalipoliittinen vastaava
+#### Social Affairs Coordinator
 [**sopo@linkkijkl.fi**](mailto:sopo@linkkijkl.fi)
 
 [Telegram: **@M0salu**](https://t.me/M0salu)
@@ -236,7 +223,7 @@ Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnast
 {{< column >}}
 {{< img-thumb-cap >}}
 ## Valtteri Hiltunen
-#### Fuksivastaava & Kansainvälisyysvastaava
+#### Freshman Coordinator & International Affairs Coordinator
 [**fuksivastaava@linkkijkl.fi**](mailto:kv@linkkijkl.fi)
 [**kv@linkkijkl.fi**](mailto:kv@linkkijkl.fi)
 
@@ -247,7 +234,7 @@ Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnast
 {{< column >}}
 {{< img-thumb-cap >}}
 ## Aino Sipola
-#### Ympäristövastaava
+#### Environmental Affairs Coordinator
 [**ymparisto@linkkijkl.fi**](mailto:ymparisto@linkkijkl.fi)
 
 [Telegram: **@Aino_Sipola**](https://t.me/Aino_Sipola)
@@ -257,7 +244,7 @@ Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnast
 {{< column >}}
 {{< img-thumb-cap >}}
 ## Urho Laurinen
-#### Verijumala
+#### Blood Deity
 [**verijumala@linkkijkl.fi**](mailto:verijumala@linkkijkl.fi)
 
 [Telegram: **@Urlsql**](https://t.me/Urlsql)
@@ -266,16 +253,14 @@ Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnast
 
 {{< /row >}}
 
-# Mediatiimi
-
-Mediatiimin tehtävänä on tiedottaa jäsenistöä yhdistyksen eri kanavissa kuten kotisivuilla, sosiaalisen median kanavissa, sekä sähköpostilla. Tiimi ylläpitää ja kehittää yhdistyksen verkkosivuja sekä tuottaa multimediaa yhdistyksen muiden tiimien tarpeisiin.
+# Media Team
 
 {{< row >}}
 {{< column >}}
 
 {{< img-thumb-cap "placeholder.png" "200x" >}}
 ## Juho Ropanen
-#### Mediapäällikkö
+#### Media Coordinator
 [**media@linkkijkl.fi**](mailto:media@linkkijkl.fi)
 
 [Telegram: **@el_ropanen**](https://t.me/el_ropanen)
@@ -286,7 +271,7 @@ Mediatiimin tehtävänä on tiedottaa jäsenistöä yhdistyksen eri kanavissa ku
 {{< column >}}
 {{< img-thumb-cap >}}
 ## Emma Järvinen
-#### Somevastaava
+#### Social Media Coordniator
 [**some@linkkijkl.fi**](mailto:some@linkkijkl.fi)
 
 [Telegram: **@Emmayayy**](https://t.me/Emmayayy)
@@ -296,7 +281,7 @@ Mediatiimin tehtävänä on tiedottaa jäsenistöä yhdistyksen eri kanavissa ku
 {{< column >}}
 {{< img-thumb-cap >}}
 ## Taru Nikkanen
-#### Somevastaava
+#### Social Media Coordinator
 [**some@linkkijkl.fi**](mailto:some@linkkijkl.fi)
 
 [Telegram: **@taruksn**](https://t.me/taruksn)
