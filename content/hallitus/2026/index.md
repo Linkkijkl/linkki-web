@@ -22,7 +22,7 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 #### Puheenjohtaja
 [**pj@linkkijkl.fi**](mailto:pj@linkkijkl.fi)
 
-[Telegram: **@Johanneshor**](https://t.me/Johanneshor)
+[Telegram: **@PirkkaJeesus**](https://t.me/PirkkaJeesus)
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
@@ -42,8 +42,8 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 {{< img-thumb-cap "placeholder.png" "200x" >}}
 ## Lari Nurkka
 #### Sihteeri
+#### TiTOL-yhteyshenkilö
 [**sihteeri@linkkijkl.fi**](mailto:sihteeri@linkkijkl.fi)
-
 [Telegram: **@lurppa**](https://t.me/lurppa)
 {{< /img-thumb-cap >}}
 
@@ -56,17 +56,6 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 [**raha@linkkijkl.fi**](mailto:raha@linkkijkl.fi)
 
 [Telegram: **@sarionilkka**](https://t.me/sarionilkka)
-{{< /img-thumb-cap >}}
-
-{{< /column >}}
-
-{{< column >}}
-
-{{< img-thumb-cap >}}
-## Lassi Karjalainen
-#### Nakkimestari
-
-[Telegram: **@LKKarjalainen**](https://t.me/LKKarjalainen)
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
@@ -114,6 +103,17 @@ Projektitiimi vastaa suurempien kokonaisuuksien ja tapahtumien, kuten esimerkiks
 [**projekti@linkkijkl.fi**](mailto:projekti@linkkijkl.fi)
 
 [Telegram: **@Santtuz**](https://t.me/Santtuz)
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< column >}}
+
+{{< img-thumb-cap "placeholder.png" "200x" >}}
+## Jami Virtanen
+#### Vuosijuhlakoordinaattori
+[**vujut@linkkijkl.fi**](mailto:vujut@linkkijkl.fi)
+
+[Telegram: **@lehtisolmu**](https://t.me/lehtisolmu)
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
@@ -172,12 +172,20 @@ Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistykse
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
-{{< column >}}
 
+{{< column >}}
 {{< img-thumb-cap >}}
 ## Aino Sipola
 #### Käsityövastaava
 [Telegram: **@Aino_Sipola**](https://t.me/Aino_Sipola)
+{{< /img-thumb-cap >}}
+{{< /column >}}
+
+{{< column >}}
+{{< img-thumb-cap >}}
+## Lassi Karjalainen
+#### Nakkimestari
+[Telegram: **@LKKarjalainen**](https://t.me/LKKarjalainen)
 {{< /img-thumb-cap >}}
 {{< /column >}}
 
@@ -204,7 +212,6 @@ Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnast
 {{< img-thumb-cap >}}
 ## Oskari Lahtinen
 #### Koulutuspoliittinen vastaava
-#### TiTOL-yhteyshenkilö
 #### Hallituksen mentori eli vanha näätä
 #### Haalarivastaava
 [**kopo@linkkijkl.fi**](mailto:kopo@linkkijkl.fi)
