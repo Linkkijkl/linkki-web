@@ -41,6 +41,13 @@ By showing the **LINKKI MEMBERSHIP STICKER** at purchase, you'll have access to 
 * Big soda 2,5€
 * Sulami sandwich 8€
 * Fries 3,5€
+* Teerenpeli burger with 100g steak 10€
+* Teerenpeli vegan burger 10€
+* Teerenpeli halloumi burger 10€
+* Dips 1€/dip
+  * Blue cheese
+  * Garlic
+  * Sriracha
 
 ## Karaoke Bar Helmi
 * Happy Hour prices for whole night from Tuesday to Thursday, and from Friday to Saturday until 10 pm

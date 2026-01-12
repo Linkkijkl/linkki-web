@@ -42,6 +42,13 @@ Kaikki hinnat sisältävät kenkävuokran.
 * Iso limu 2,5€
 * Sulami jättikerrosleipä 8€
 * Ranskalaiset 3,5€
+* Teerenburger 100g pihvillä 10€
+* Teeren vegeburger 10€
+* Teeren halloumiburger 10€
+* Dipit 1€/kpl
+  * Aura
+  * Valkosipuli
+  * Sriracha
 
 ## Karaoke Bar Helmi
 * Happy hour -hinnaston mukaiset hinnat tiistaista torstaihin koko illan, ja

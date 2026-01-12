@@ -22,7 +22,7 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 #### Puheenjohtaja
 [**pj@linkkijkl.fi**](mailto:pj@linkkijkl.fi)
 
-[Telegram: **@Johanneshor**](https://t.me/Johanneshor)
+[Telegram: **@PirkkaJeesus**](https://t.me/PirkkaJeesus)
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
@@ -42,6 +42,7 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 {{< img-thumb-cap "placeholder.png" "200x" >}}
 ## Lari Nurkka
 #### Sihteeri
+#### TiTOL-yhteyshenkilö
 [**sihteeri@linkkijkl.fi**](mailto:sihteeri@linkkijkl.fi)
 
 [Telegram: **@lurppa**](https://t.me/lurppa)
@@ -183,7 +184,6 @@ Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnast
 {{< img-thumb-cap >}}
 ## Oskari Lahtinen
 #### Koulutuspoliittinen vastaava
-#### TiTOL-yhteyshenkilö
 #### Hallituksen mentori eli vanha näätä
 #### Haalarivastaava
 [**kopo@linkkijkl.fi**](mailto:kopo@linkkijkl.fi)
