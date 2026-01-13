@@ -19,7 +19,7 @@ url = "board/2026"
 #### Chairperson
 [**pj@linkkijkl.fi**](mailto:pj@linkkijkl.fi)
 
-[Telegram: **@Johanneshor**](https://t.me/Johanneshor)
+[Telegram: **@PirkkaJeesus**](https://t.me/PirkkaJeesus)
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
@@ -39,6 +39,7 @@ url = "board/2026"
 {{< img-thumb-cap "placeholder.png" "200x" >}}
 ## Lari Nurkka
 #### Secretary
+#### TiTOL Coordinator
 [**sihteeri@linkkijkl.fi**](mailto:sihteeri@linkkijkl.fi)
 
 [Telegram: **@lurppa**](https://t.me/lurppa)
@@ -53,17 +54,6 @@ url = "board/2026"
 [**raha@linkkijkl.fi**](mailto:raha@linkkijkl.fi)
 
 [Telegram: **@sarionilkka**](https://t.me/sarionilkka)
-{{< /img-thumb-cap >}}
-
-{{< /column >}}
-
-{{< column >}}
-
-{{< img-thumb-cap >}}
-## Lassi Karjalainen
-#### Sausage Master
-
-[Telegram: **@LKKarjalainen**](https://t.me/LKKarjalainen)
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
@@ -107,6 +97,17 @@ url = "board/2026"
 [**projekti@linkkijkl.fi**](mailto:projekti@linkkijkl.fi)
 
 [Telegram: **@Santtuz**](https://t.me/Santtuz)
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+{{< column >}}
+
+{{< img-thumb-cap "placeholder.png" "200x" >}}
+## Jami Virtanen
+#### Anniversary Coordinator
+[**vujut@linkkijkl.fi**](mailto:vujut@linkkijkl.fi)
+
+[Telegram: **@lehtisolmu**](https://t.me/lehtisolmu)
 {{< /img-thumb-cap >}}
 
 {{< /column >}}
@@ -172,6 +173,17 @@ url = "board/2026"
 {{< /img-thumb-cap >}}
 {{< /column >}}
 
+{{< column >}}
+
+{{< img-thumb-cap >}}
+## Lassi Karjalainen
+#### Sausage Master
+
+[Telegram: **@LKKarjalainen**](https://t.me/LKKarjalainen)
+{{< /img-thumb-cap >}}
+
+{{< /column >}}
+
 {{< /row >}}
 
 
@@ -193,7 +205,6 @@ url = "board/2026"
 {{< img-thumb-cap >}}
 ## Oskari Lahtinen
 #### Educational Policy Coordinator
-#### TiTOL Coordinator
 [**kopo@linkkijkl.fi**](mailto:kopo@linkkijkl.fi)
 
 [Telegram: **@ikaros02**](https://t.me/ikaros02)
