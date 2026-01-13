@@ -1,10 +1,17 @@
-FROM ghcr.io/gohugoio/hugo:latest AS dependencies
-WORKDIR /build
-RUN --mount=type=bind,source=package.json,target=package.json \
-    --mount=type=bind,source=link-node-dependencies.sh,target=link-node-dependencies.sh \
-    npx yarn
+FROM ghcr.io/gohugoio/hugo:latest
 
-FROM ghcr.io/gohugoio/hugo:latest AS runner
+USER root:root
+RUN npm install -g yarn pagefind
+USER 1000:1000
+
+RUN echo -e \
+"#!/bin/sh \n \
+[ ! -x \"link-node-dependencies.sh\" ] && echo \"No sources found. Remember to mount them to /project\" && exit 1 \n \
+yarn \n \
+hugo \n \
+pagefind --site public \n \
+hugo server --bind 0.0.0.0" > /tmp/entrypoint.sh
+RUN chmod +x /tmp/entrypoint.sh
+
 WORKDIR /project
-COPY --link --from=dependencies /build/assets/node/ /project/assets/node/
-ENTRYPOINT [ "hugo", "server" ]
+ENTRYPOINT [ "/tmp/entrypoint.sh" ]
