@@ -1,0 +1,5 @@
+/.github
+/public
+/resources
+.devcontainer.json
+.git*

@@ -3,11 +3,11 @@ services:
     build:
       context: .
       dockerfile: dev.Dockerfile
-    container_name: linkki-web
-    restart: unless-stopped
-    develop:
-      watch:
-        - path: .
-          action: rebuild
+    container_name: dev-linkki-web
+    volumes:
+      - .:/project
     ports:
       - "8080:8080"
+
+volumes:
+  project:
