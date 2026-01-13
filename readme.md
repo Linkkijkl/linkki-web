@@ -32,6 +32,13 @@ After this there are a few options:
     - `npx pagefind --site public` to build search indexes
     - `hugo server` and you should be good to go 🎉
 
+3. Use Docker compose
+
+    - Install [Docker](https://docs.docker.com/)
+    - Run `docker compose up --build --watch`
+    - Open [localhost:8080](http://localhost:8080)
+    - When you are finished developing run `docker compose down`
+    
 
 ### Pitfalls
 

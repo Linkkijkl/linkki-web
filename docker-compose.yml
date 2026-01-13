@@ -1,0 +1,13 @@
+services:
+  dev-linkki-web:
+    build:
+      context: .
+      dockerfile: dev.Dockerfile
+    container_name: linkki-web
+    restart: unless-stopped
+    develop:
+      watch:
+        - path: .
+          action: rebuild
+    ports:
+      - "8080:8080"
