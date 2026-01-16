@@ -1,0 +1,80 @@
+@use 'base';
+
+body {
+    //font-family: var(--bs-body-font-family);
+    //font-size: var(--bs-body-font-size);
+    font-weight: var(--bs-body-font-weight);
+    //line-height: var(--bs-body-line-height);
+    //color: var(--bs-body-color);
+    text-align: var(--bs-body-text-align);
+    background-color: var(--bs-body-bg);
+	
+	font-family: base.$font-stack;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555555;
+}
+
+#content {
+    font-size: 1.1em;
+}
+
+a {
+	color: var(--primary-accent);
+	text-decoration: none;
+}
+
+a:hover, a:focus {
+	color: var(--link-focus);
+	text-decoration: underline;
+}
+
+a:hover {
+	--bs-link-color-rgb: var(--bs-link-hover-color-rgb);
+}
+
+h1, .h1, h2, .h2, h3, .h3 {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: base.$font-stack;
+    font-weight: 900;
+    line-height: 1.1;
+    color: #333333;
+}
+
+.heading h1,
+.heading h2,
+.heading h3,
+.heading h4,
+.heading h5 {
+	display: inline-block;
+	border-bottom: solid 5px var(--primary-accent);
+	line-height: 1.1;
+	margin-bottom: 0;
+	padding-bottom: 10px;
+	vertical-align: middle;
+	text-transform: uppercase;
+	letter-spacing: 0.06em;
+}
+
+.heading {
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+p.text-muted {
+    font-size: inherit;
+}
+
+.text-uppercase {
+	text-transform: uppercase;
+	letter-spacing: 0.08em;
+}
+
+p.lead {
+	margin-bottom: 40px;
+}

@@ -1,0 +1,63 @@
+.event {
+    border-style: solid;
+    border-radius: 5px;
+    border-color: var(--primary-accent);
+    border-width: 1px;
+    padding: 1em;
+    margin-top: 0.8em;
+    margin-bottom: 0.8em;
+
+    h3,
+    .date,
+    .location {
+        margin: 0;
+    }
+
+    .date {
+        color: var(--bs-secondary-color);
+    }
+    
+    .location {
+        color: var(--bs-secondary-color);
+        text-decoration: underline;
+    }
+
+    .description {
+        margin-top: 1em;
+        max-height: 7em;
+        overflow: hidden;
+        transition: all 0.5s;
+        scrollbar-width: none;
+    }
+
+    .shown {
+        overflow: auto;
+    }
+}
+
+.loading-indicator {
+    text-align: center;
+    padding-bottom: 1em;
+}
+
+.throbber {
+    width: 100px;
+    animation-name: spin;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes spin {
+    0% {
+        transform: scaleX(1.0);
+    }
+
+    50% {
+        transform: scaleX(-1.0);
+    }
+
+    100% {
+        transform: scaleX(1.0);
+    }
+}

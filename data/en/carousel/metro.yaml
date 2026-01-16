@@ -1,7 +1,7 @@
-weight: 2
-title: "Metro will soon operate again!"
+weight: 3
+title: "Metro came and went..."
 description: >
-  <p>One of the most memorable student events in Jyväskylä will be held again in April 24th.
-  Are you ready?</p>
+  <p>But it will come back 23.4. Click here for info!</p>
 image: "img/jyväsmetro-transparent.png"
 href: "https://jyvasmetro.fi"
+hide: false

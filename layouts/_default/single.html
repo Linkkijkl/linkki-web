@@ -30,6 +30,9 @@
                             {{ if isset .Params "authors" }}
 			      {{ i18n "authorBy" }} {{ range $index, $author := .Params.authors }}{{ if $index }}, {{ end }}<a href="{{ (printf "%s/%s" ("authors" | relLangURL) ($author | urlize)) }}">{{ $author }}</a>{{ end }}
                             {{ end }}
+                            {{ if isset .Params "translators" }}
+			      {{ i18n "translatedBy" }} {{ range $index, $author := .Params.translators }}{{ if $index }}, {{ end }}<a href="{{ (printf "%s/%s" ("authors" | relLangURL) ($author | urlize)) }}">{{ $author }}</a>{{ end }}
+                            {{ end }}
                             {{ if and .Params.author .Params.date }} | {{ end }}
                             {{ if .Params.date }}
                               {{ $createdAt := .Date.Format .Site.Params.date_format }}

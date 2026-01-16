@@ -1,4 +1,13 @@
 .DS_Store
+
+# Hugo
 public/
 .hugo_build.lock
 resources/
+
+# Yarn (npm)
+yarn.lock
+node_modules/
+
+# Node modules linking directory (see link-node-dependencies.sh)
+assets/node/

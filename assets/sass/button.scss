@@ -1,0 +1,96 @@
+@use 'base';
+
+.btn {
+    font-weight: 700;
+    font-family: base.$font-stack;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    padding: 6px 12px;
+    font-size: 13px;
+    line-height: 1.42857143;
+    border-radius: 0;
+    margin-bottom: 2em;
+}
+
+.btn-lg {
+	padding: 10px 16px;
+	font-size: 14px;
+	line-height: 1.33;
+	border-radius: 0;
+}
+
+.btn-template-main {
+	color: var(--primary-accent);
+	background-color: #ffffff;
+	border-color: var(--primary-accent);
+}
+
+.btn-template-main:hover,
+.btn-template-main:focus,
+.btn-template-main:active,
+.btn-template-main.active {
+	background: var(--primary-accent);
+	color: #ffffff;
+	border-color: var(--primary-accent);
+}
+
+.btn-template-main:hover,
+.btn-template-main:focus,
+.btn-template-main:active,
+.btn-template-main.active,
+.open > .dropdown-toggle.btn-template-main {
+	color: var(--primary-accent);
+	background-color: #e6e6e6;
+	border-color: var(--button-border);
+}
+
+.btn-template-transparent-primary {
+	color: #ffffff;
+	background-color: transparent;
+	border-color: #ffffff;
+}
+
+.btn-template-transparent-primary:hover,
+.btn-template-transparent-primary:focus,
+.btn-template-transparent-primary:active,
+.btn-template-transparent-primary.active,
+.open > .dropdown-toggle.btn-template-transparent-primary {
+	color: #ffffff;
+	background-color: rgba(0, 0, 0, 0);
+	border-color: #e0e0e0;
+}
+
+.btn-template-transparent-primary:hover,
+.btn-template-transparent-primary:focus,
+.btn-template-transparent-primary:active,
+.btn-template-transparent-primary.active {
+	background: #fff;
+	color: var(--primary-accent);
+	border-color: #fff;
+}
+
+
+.btn-template-transparent-black {
+	color: #ffffff;
+	background-color: transparent;
+	border-color: #ffffff;
+}
+
+.btn-template-transparent-black:hover,
+.btn-template-transparent-black:focus,
+.btn-template-transparent-black:active,
+.btn-template-transparent-black.active {
+	background: #fff;
+	color: #000;
+	border-color: #fff;
+}
+
+.btn-template-transparent-black:hover,
+.btn-template-transparent-black:focus,
+.btn-template-transparent-black:active,
+.btn-template-transparent-black.active,
+.open > .dropdown-toggle.btn-template-transparent-black {
+	color: #ffffff;
+	background-color: rgba(0, 0, 0, 0);
+	border-color: #e0e0e0;
+}

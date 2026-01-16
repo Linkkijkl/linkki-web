@@ -2,7 +2,8 @@
 title = "Linkin vappu 2025"
 date = "2025-03-26T00:00:00+02:00"
 description = "Linkin vapputapahtumat ja päivämäärät"
-authors = ["Linkin tapahtumatiimi <3", "Oskari Lahtinen", "Alexander Goldhill"]
+authors = ["Linkin tapahtumatiimi <3", "Oskari Lahtinen", "Lari Nurkka"]
+translators = ["Alexander Goldhill"]
 banner = "/img/blog/wappu2025.jpg"
 summary = "Linkin vapputapahtumat ja päivämäärät"
 url = "blog/vappu2025"

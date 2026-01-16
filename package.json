@@ -1,0 +1,17 @@
+{
+  "name": "linkki-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Linkkijkl/linkki-web",
+  "author": "Linkki Jyväskylä ry",
+  "license": "UNLICENSED",
+  "private": false,
+  "scripts": {
+    "postinstall": "./link-node-dependencies.sh"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "glider-js": "^1.7.9",
+    "masonry-layout": "^4.2.2"
+  }
+}

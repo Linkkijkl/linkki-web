@@ -12,16 +12,44 @@ description = ""
             <div class="col-md-9">
                 <h1>Tervetuloa Linkin kotisivuille</h1>
                 <p>
-                    <strong>Linkki Jyväskylä ry</strong>, eli puhekielessä Linkki on vuonna 2006 perustettu Jyväskylän yliopiston
+                    <strong>Linkki Jyväskylä ry</strong>, eli puhekielessä Linkki, on vuonna 2006 perustettu <a href="https://www.jyu.fi">Jyväskylän yliopiston</a>
                     informaatioteknologian tiedekunnassa toimiva tietotekniikan, tietojenkäsittelytieteen ja
                     koulutusteknologian pääaine-, sivuaine- sekä jatko-opiskelijoiden ainejärjestö.
                 </p>
+                <p>
+                    Yhdistyksen tarkoituksena on edistää jäsentensä opintoja, harrastuksia ja yhteisiä etuja, sekä
+                    huolehtia heidän oikeuksistaan opiskelijoina. Lisätietoja löydät sivujen <a href="/säännöt#linkki-jyväskylä-ryn-säännöt">säännöt-osiosta</a>.
+                </p>
+                <p>
+                    <a href="/jäsenyys">Linkin jäsenyys</a> on ilmaista ja ikuista, ja sitä voi hakea kuka vain yllä mainittuja opintokokonaisuuksia
+                    opiskeleva. Jäsenyydellä pääset nauttimaan muunmuassa Linkin <a href="/jäsenedut">jäseneduista</a> ja
+                    <a href="/kattila">Kattilan</a> ilmaisesta kahvista.
+                </p>
+                <p class="text-center text-lg-start">
+                    <a href="https://forms.gle/ZRYsBxLazFVM111Q8" class="btn btn-template-main btn-lg">
+                        Avaa liittymislomake
+                    </a>
+                </p>
             </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12" id="blog-post">
-                {{< google_calendar "Y19nMmVxdDJhN3UxZmMxcGFoZTJvMGVjbTdhc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t" >}}
-                {{< button "Tilaa kalenteri" "https://calendar.google.com/calendar/u/2?cid=Y19nMmVxdDJhN3UxZmMxcGFoZTJvMGVjbTdhc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t" >}}
+            <div class="col-12">
+                <div class="heading text-center">
+                    <h1>Tulevat tapahtumat</h1>
+                </div>
+                <div id="events" class="row" data-read-more="Lue lisää" data-read-less="Lue vähemmän">
+                    <div class="loading-indicator">
+                        <h2>Ladataan tapahtumia...</h2>
+                        <img src="/img/logo/linkki-logo-simple.svg" class="throbber" alt="Content loading indicator"/>
+                    </div>
+                    <div class="text-center">
+                        <h2 class="no-events" hidden>Ei tulevia tapahtumia 🙁</h2>
+                        <h2 class="error-events" hidden>Virhe ladattaessa tapahtumia 🙁</h2>
+                    </div>
+                </div>
+                <div class="mt-2">
+                    <p class="text-center">
+                        {{< button "Tilaa tapahtumakalenteri" "https://calendar.google.com/calendar/u/2?cid=Y19nMmVxdDJhN3UxZmMxcGFoZTJvMGVjbTdhc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t" >}}
+                    </p>
+                </div>
             </div>
         </div>
     </div>

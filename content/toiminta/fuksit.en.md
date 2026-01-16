@@ -7,15 +7,16 @@ url = "fuksit"
 
 Warm welcome to Jyväskylä!
 Aside official guides and this page you can familiarize yourself
-with [an alternative study guide for STEM students](https://www.jyu.fi/fi/file/vopas2024), known as VOpas. This document is soon partially out of date, and is written entirely in Finnish.
+with [an alternative study guide for STEM
+students](https://www.jyu.fi/fi/file/vopas2025pdf), known as VOpas.
+This document is sadly written entirely in Finnish.
 
-> "VOpas is perhaps the most significant – in any case most successful book,
-> that Jyväskylän University's STEM faculty
-> has ever published. Even though it contains encertainties,
-> old-fashionednesses and full-on contradictions, it
-> has provided an irreprodicble aid in new students'
-> lives, who are thrown amidst higher education while
-> while fumbling the very threads of their lives."
+> "VOpas is perhaps the most significant – in any case most successful
+> book, that Jyväskylän University's STEM faculty has ever published.
+> Even though it contains encertainties, old-fashionednesses and
+> full-on contradictions, it has provided an irreplaceable aid in new
+> students' lives, who are thrown amidst higher education while while
+> fumbling the very threads of their lives."
 
 ## Brief reminders
 
@@ -24,7 +25,7 @@ with [an alternative study guide for STEM students](https://www.jyu.fi/fi/file/v
 - if you are eligible pay the FSHS-payment and apply for social benefits in [OmaKela](https://oma.kela.fi/)
 - apply for student accomodation from [KOAS](https://www.koas.fi/) or
 [Soihtu](https://soihtu.fi/asuminen/)
-- apply for a student ID ([Frank](https://www.frank.fi/)/[Slice](https://slice.fi/fi)/[Kide.app](https://kide.app/student-card)/[Pivo](https://pivo.fi/palvelut/opiskelijakortti/)/[physical](https://www.frank.fi/opiskelijakortti/))
+- apply for a student ID ([Slice](https://slice.fi/fi)/[Kide.app](https://kide.app/student-card)/[Pivo](https://pivo.fi/palvelut/opiskelijakortti/)/[physical](https://www.frank.fi/opiskelijakortti/))
 
 ## In the beginning
 

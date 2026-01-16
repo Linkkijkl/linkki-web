@@ -6,27 +6,27 @@ url = "kattila"
 +++
 
 {{< row >}}
-{{< column >}}
 
-{{< img-thumb-cap "kattila_ovi.webp" "400x" >}}
+{{< img-thumb-cap "kattila-full.webp" "400x" >}}
 {{< /img-thumb-cap >}}
 
-{{< /column >}}
-{{< column >}}
-
-{{< img-thumb-cap "Kattila_Full.png" "400x" >}}
-{{< /img-thumb-cap >}}
-
-{{< /column >}}
 {{< /row >}}
 
-Tule tutustumaan ainejärjestötila ”Kattilaan” Agoran
-B-siiven 4. kerrokseen (Ag B437). Jaamme tilan tieto- ja
+Tule tutustumaan ainejärjestötila Kattilaan Agoran
+B-siiven 1. kerroksen väestönsuojatilaan (AgB102). Jaamme tilan tieto- ja
 ohjelmistotekniikan killan Algo ry:n kanssa. Ainejärjestötilasta
 löytyy mahdollisuudet kahvin-, tai teenkeittoon, viihtyisät sohvat,
 videopelejä, tietokoneita sekä kurssimateriaalia.
 
 Tilassa on myös istuvan hallituksen postilokerot.
+
+{{< row >}}
+
+{{< img-thumb-cap "kattila_ovi.webp" "600x" >}}
+Kattilan sisäänkäynti
+{{< /img-thumb-cap >}}
+
+{{< /row >}}
 
 # {{< wrap "Kat/ti/la/päi/vys/tyk/set" >}}
 

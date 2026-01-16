@@ -58,6 +58,9 @@
 - id: authorBy
   translation: "By"
 
+- id: translatedBy
+  translation: "Translated by"
+
 - id: recentPosts
   translation: "Recent posts"
 

@@ -4,4 +4,4 @@ description: >
   <p>See Linkki's vappu events here!</p>
 image: "img/blog/wappu2025carousel.png"
 href: "/en/blog/vappu2025"
-hide: false
+hide: true

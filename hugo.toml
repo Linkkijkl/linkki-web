@@ -1,4 +1,4 @@
-baseURL = 'https://linkkijkl.fi/'
+baseURL = 'https://linkkijkl.fi'
 title = 'Linkki Jyväskylä ry.'
 theme = ["hugo-embed-pdf-shortcode"]
 enableInlineShortcodes = true
@@ -9,12 +9,8 @@ pagination.pagerSize = 10
 # Don't pluralize title pages by default
 pluralizeListTitles = false
 
-# Enable search widget
-widgets.search = true
-
 staticDir = ["static"]
 
-# https://gohugo.io/content-management/multilingual/
 defaultContentLanguage = 'fi'
 [languages]
 
@@ -41,7 +37,6 @@ home = ["html", "rss", "api-sponsors"]
         mediaType = "application/json"
         baseName = "api/sponsors"
         isPlainText = true
-
 
 [languages.fi.menus]
 
@@ -118,12 +113,12 @@ home = ["html", "rss", "api-sponsors"]
     parent = "menu.toiminta"
     weight = 1
 
-[[languages.fi.menus.main]]
-    name = "Vappu 2025"
-    identifier = "menu.vappu"
-    url = "/blog/vappu2025"
-    parent = "menu.toiminta"
-    weight = 1
+#[[languages.fi.menus.main]]
+#    name = "Vappu 2025"
+#    identifier = "menu.vappu"
+#    url = "/blog/vappu2025"
+#    parent = "menu.toiminta"
+#    weight = 1
 
 [[languages.fi.menus.main]]
     name = "Kattila"
@@ -280,12 +275,12 @@ home = ["html", "rss", "api-sponsors"]
     parent = "menu.toiminta"
     weight = 1
 
-[[languages.en.menus.main]]
-    name = "Vappu 2025"
-    identifier = "menu.vappu"
-    url = "/en/blog/vappu2025"
-    parent = "menu.toiminta"
-    weight = 1
+#[[languages.en.menus.main]]
+#    name = "Vappu 2025"
+#    identifier = "menu.vappu"
+#    url = "/en/blog/vappu2025"
+#    parent = "menu.toiminta"
+#    weight = 1
 
 [[languages.en.menus.main]]
     name = "Kattila"
@@ -328,11 +323,19 @@ home = ["html", "rss", "api-sponsors"]
 
 
 [[languages.en.menus.main]]
+    name = "Book club"
+    identifier = "menu.lukupiiri"
+    url = "/book-club/"
+    parent = "menu.toiminta"
+    weight = 7
+
+
+[[languages.en.menus.main]]
     name = "New Students"
     identifier = "menu.fuksit"
     url = "/en/fuksit/"
     parent = "menu.toiminta"
-    weight = 7
+    weight = 8
 
 
 [[languages.en.menus.main]]
@@ -359,15 +362,13 @@ home = ["html", "rss", "api-sponsors"]
 
 [params]
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "blue"
     mainSections = ["blog", "a-href", "hallitus"]
-
 
     defaultKeywords = ["linkkijkl", "linkki", "jyväskylä"]
 
     address = """
             <p class="text-uppercase"><strong>Linkki Jyväskylä ry (2147178-4)</strong><br/>
-            Opiskelijatila Kattila (Agora, Ag B437)<br/>
+            Opiskelijatila Kattila (Agora, Ag B102)<br/>
             PL 35, 40014 Jyväskylän yliopisto<br/><br/>
             <a href="mailto:hallitus@linkkijkl.fi">hallitus@linkkijkl.fi</a></p><br/>
             <a href="https://t.me/linkkijkl_info"><i class='fab fa-2x fa-telegram'></i></a>
@@ -379,9 +380,9 @@ home = ["html", "rss", "api-sponsors"]
     """
     contact_url = ""
 
-    logo_text = "Linkki Jyväskylä ry."
-    logo = "img/logo/linkki-navbar.svg"
-    logo_small = "img/logo/linkki-navbar.svg"
+    logo_text = "img/logo/linkki-navbar.svg"
+    logo_text_condenced = "img/logo/linkki-navbar-condenced.svg"
+    logo = "img/logo/linkki-logo-simple.svg"
 
     # Format dates with Go's time formatting
     # https://pkg.go.dev/time
@@ -438,22 +439,6 @@ home = ["html", "rss", "api-sponsors"]
             </p>
     """
 
-
-[params.carouselHomepage]
-    # All carousel items are defined in their own files. You can find example items
-    # at 'exampleSite/data/carousel'.
-    # For more information take a look at the README.
-    enable = true
-    auto_play = true
-    pagination_speed = 1500
-
-
-[params.carouselCustomers]
-    auto_play = true
-    items = 6
-    pagination_speed = 1000
-
-
 [params.clients]
     enable = true
     # All clients are defined in their own files. You can find example items
@@ -499,7 +484,7 @@ home = ["html", "rss", "api-sponsors"]
 
 
 [languages.fi.params.recent_posts]
-    title = "Viimeisimmät päivitykset"
+    title = "Uusimmat päivitykset"
 
 
 [languages.en.params.recent_posts]

@@ -17,7 +17,7 @@
             <div class="row">
                 {{ $posts := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
                 {{ range first 4 $posts.Pages }}
-                <div class="col-md-3 col-sm-6">
+                <div class="col-md-6 col-lg-3">
                     <div class="box-image-text blog">
                         <div class="top">
                             <div class="image" style="overflow:hidden">
@@ -37,10 +37,14 @@
 
                         <div class="content">
                             <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-                            <p class="author-category">
+                            <p class="author-category">{{/*  
 			    {{ if isset .Params "authors" }}
 			      {{ i18n "authorBy" }} {{ range $index, $author := .Params.authors }}{{ if $index }}, {{ end }}<a href="{{ (printf "%s/%s" ("authors" | relLangURL) ($author | urlize)) }}">{{ $author }}</a>{{ end }}
                             {{ end }}
+                {{ if isset .Params "translators" }}
+                  {{ i18n "translatedBy" }} {{ range $index, $author := .Params.translators }}{{ if $index }}, {{ end }}<a href="{{ (printf "%s/%s" ("authors" | relLangURL) ($author | urlize)) }}">{{ $author }}</a>{{ end }}
+                            {{ end }}
+                  */}}
                             {{ if .Params.date }}
                                 {{ $createdAt := .Date.Format .Site.Params.date_format }}
                                 {{ range $index, $month := slice "January" "February" "March" "April" "May" "June" "July" "August" "September" "October" "November" "December" }}

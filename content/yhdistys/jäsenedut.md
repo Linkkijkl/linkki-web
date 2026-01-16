@@ -31,7 +31,6 @@ Näyttämällä **LINKKI-JÄSENTARRAA** oston yhteydessä, saat käyttöösi seu
 Kaikki hinnat sisältävät kenkävuokran.
 
 ## Teerenpeli
-
 * Teerenpelin Panimon hanatuotteet -15%
 * Teerenpelin Mustikka-, Puolukka- tai Salmari-snapsi 4cl 3,5€
 * Drinkit MustikkaMuuli tai Pulina 6€
@@ -43,75 +42,20 @@ Kaikki hinnat sisältävät kenkävuokran.
 * Iso limu 2,5€
 * Sulami jättikerrosleipä 8€
 * Ranskalaiset 3,5€
+* Teerenburger 100g pihvillä 10€
+* Teeren vegeburger 10€
+* Teeren halloumiburger 10€
+* Dipit 1€/kpl
+  * Aura
+  * Valkosipuli
+  * Sriracha
 
 ## Karaoke Bar Helmi
-
 * Happy hour -hinnaston mukaiset hinnat tiistaista torstaihin koko illan, ja
 perjantaista lauantaihin klo 22 asti
 * Sisäänpääsy sekä narikkapalvelu ilmaiseksi
 * Linkki-juoma 6 €
 * Helmen karaoke -kabinetti arkipäivisin 50 € hintaan
-
-## Laajis (31.10.2025 asti)
-
-#### EDUT JA ALENNUKSET
-Alennukset koskevat normaalihintaisia palveluita/tuotteita (esim. alennusta ei saa HappyHour hinnoista). Alennuksia ei voi yhdistää muihin alennuksiin eivätkä ole voimassa ryhmävarauksiin.
-
-Edut ja alennukset ovat henkilökohtaisia ja vain ainejärjestön jäsenille, joilla on voimassa oleva
-opiskelijakortti.
-
-#### Rinnelippu
-Alennus: 3 tunnin hissilippu 15€
-(ei sisällä *keycard -lippupohjaa)
-Voimassa arkipäivinä, läpi talvikauden (myös hiihtolomaviikoilla).
-Varaustapa: Paikan päältä
-
-#### Laskettelu / Lumilauta vuokravälinesetti
-Alennus: välinevuokrasetti 15€ / vuokra-aika 3 tuntia
-Sisältää laskettelusukset tai lumilaudan + monot ja tarvittaessa sauvat (HUOM! Ei sisällä kypärää)
-Voimassa arkipäivinä, läpi talvikauden (myös hiihtolomaviikoilla).
-Varaustapa: Paikan päältä
-
-#### Maastohiihto vuokravälinesetti
-Alennus: välinevuokrasetti 15€ / vuokra-aika 3 tuntia
-Sisältää maastohiihtosukset + monot ja sauvat
-Voimassa arkipäivinä, läpi talvikauden (myös hiihtolomaviikoilla).
-Varaustapa: Paikan päältä
-
-#### Liukulumikengät / Lumikengät
-Alennus: välinevuokra 15€ / vuokra-aika 3 tuntia
-Sisältää liukulumikengät tai lumikengät ja sauvat
-Voimassa arkipäivinä, läpi talvikauden (myös hiihtolomaviikoilla).
-Varaustapa: Paikan päältä
-
-#### Välinehuolto
-Alennus: -10% huollon normaalihinnoista
-Voimassa kaikkina päivinä.
-Varaustapa: Vain ennakkovaraus netin kautta: https://twice.shop/laajis/l/laajisvlinehuolto/shop, Alekoodi: HuoltoAJ24, jäsenyys todistettava vielä paikan päällä.
-
-#### Seikkailupuisto
-Alennus: Seikkailulippu 20€ / seikkailuaikaa max. 3 tuntia
-Voimassa kaikkina päivinä läpi seikkailukauden.
-RAJAUKSET: Ei koske valonseikkailua
-Varaustapa: Paikan päältä
-
-#### Bikepark alamäkipyöräily
-Alennus: Bikepark paketti 50€ Ghost täysjousto -enduropyörällä / kesto 2 tuntia
-Sisältää hissilipun, vuokrapyörän ja suojavarusteet (ei sisällä *keycard -lippupohjaa)
-Voimassa kaikkina päivinä läpi bikepark kauden.
-Pyörämallin korotus 15€ (premium malleina mm. Commencal, Specialized, Production Privet).
-Varaustapa: Paikan päältä
-
-#### eFatbike vuokraus
-Alennus: eFatbike 2 tunnin vuokra -15€ normaalihinnasta
-Sisältää pyörän ja kypärän (ei sisällä kuluturvaa)
-Voimassa kaikkina päivinä.
-Varaustapa: Vain ennakkovaraus netin kautta: https://twice.shop/laajis/l/laajis/shop, Alekoodi: eFat24AJ, jäsenyys todistettava vielä paikan päällä.
-
-Hissilippu/bikepark -lippu ladataan Keycard-lippupohjalle, jota voidaan käyttää uudestaan ja se jää asiakkaalle. Keycard pohja käy myös useaan muuhun hiihtokeskukseen Suomessa ja Euroopassa. Keycard lippupohjan hinta sopimuksen tekohetkellä on 7€ (pidätämme oikeuden Keycardin hinnan muutokseen).
-
-#### ALENNUSTEN LUNASTAMINEN
-Mikäli alennus vaatii ennakkovarauksen, Laajis toimittaa ainejärjestölle etukoodin ja linkin mistä etu lunastetaan. Ennakkovarauksen vaativissa alennuksissa etua ei saa paikan päältä mutta jäsenyys on kyettävä tunnistamaan sitä kysyttäessä.
 
 ## Hook Jyväskylä
 Voimassa Ma-To, ei viikonloppuna eikä loma-aikoina, voimassa olevaa opiskelijakorttia näyttämällä:
@@ -121,7 +65,3 @@ Voimassa Ma-To, ei viikonloppuna eikä loma-aikoina, voimassa olevaa opiskelijak
 * Opiskelija viini Plo 0,75l Punainen/ valkoinen 18,90 €
 * 8, 12, 18 kpl siipiannokset -10 %
 * Combo sis. 10 kpl siipeä ja kierteet, vapaavalintainen siipikastike sekä auradippi (myös vege) 16,90 €
-
-## Huoltokukko
-* 20% alennus oheislaitteista
-* 20-50€ alennus tietokoneesta riippuen

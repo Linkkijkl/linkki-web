@@ -1,0 +1,16 @@
+services:
+  dev-linkki-web:
+    build:
+      context: .
+      dockerfile: dev.Dockerfile
+    container_name: dev-linkki-web
+    develop:
+      watch:
+        - action: rebuild
+          path: package.json
+        - action: rebuild
+          path: link-node-dependencies.sh
+    volumes:
+      - .:/project
+    ports:
+      - "1313:1313"

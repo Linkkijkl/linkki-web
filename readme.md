@@ -13,22 +13,37 @@ First:
 
 After this there are a few options:
 
-1. Use Devcontainers (easiest if you have Docker already installed)
-    - Install [Docker](https://docs.docker.com/), [Visual Studio Code](https://code.visualstudio.com/)
-and [Devcontainers VSCode plugin](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
-    - Open this repository in VSCode and there should be a popup asking if you want to reopen the project in a container. Do that.
-    - When inside a container, open a terminal inside VSCode (`Ctrl` + `Shift` + `P`, search for `create new terminal`) and run `hugo server`.
+1. Use Devcontainers (best option for Windows)
 
-2. Install Hugo locally
-    - Install [Hugo extended edition](https://gohugo.io/)
-    - Run `hugo server` and you should be good to go 🎉
-    - Or optionally, on some supported Unix based environments _(currently MacOS, Debian and Fedora)_, you can just run `startup.sh`.
-    - Install [npm](https://nodejs.org) if you want to get search working
+    The Devcontainer configured for this project has all tools required for developing to it installed for you.
+    Devcontainers are available for [many IDEs](https://containers.dev/supporting) but this guide focues on using [Visual Studio Code](https://code.visualstudio.com/).
 
+    - Install [Docker](https://docs.docker.com/), [VSCode](https://code.visualstudio.com/)
+    and [Devcontainers VSCode plugin](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+    - Open this repository in VSCode. A popup should open asking if you want to reopen the project in a container. Do that.
+    - When the container is running, open a terminal in VSCode (`Ctrl` + `Shift` + `P`, search for `create new terminal`) and run `hugo server`.
 
-### Building Search Indexes
+2. Use local development tools (in Unix compatible environments, like Linux or MacOS)
+    - Install [Hugo extended edition](https://gohugo.io/), [Yarn package manager](https://yarnpkg.com/) and [Dart Sass](https://sass-lang.com/dart-sass/).
 
-To get search working locally, run `hugo` at least once, and then `npx pagefind --site public` in the projects root directory.
+    Then in project root run
+
+    - `yarn` to pull js and css dependencies
+    - `npx pagefind --site public` to build search indexes
+    - `hugo server` and you should be good to go 🎉
+
+3. Use Docker compose
+
+    - Install [Docker](https://docs.docker.com/)
+    - Run `docker compose up --build --watch`
+    - Open [localhost:8080](http://localhost:8080)
+    - When you are finished developing run `docker compose down`
+    
+
+### Pitfalls
+
+- Hugo server watches for changes in code, and they should automatically show up in browser when made. However, sometimes when editing css and js, you should hit `Ctrl` + `Shift` + `R` in browser to get them showing up.
+- Devcontainers can stop allowing network traffic to go trough fully. Git inside will fail to reach remote, your browser won't be able to load pages from `hugo server` correctly, etc. Rebuild container to fix these weird issues. I've noticed this tends to happen when browser tab has been left open with development site when `hugo server` inside the container is no longer running.
 
 
 ## Building and Running With [Docker](https://www.docker.com/)
@@ -36,7 +51,7 @@ To get search working locally, run `hugo` at least once, and then `npx pagefind 
 This is how the site is deployed in production.
 
 ```shell
-docker build -t linkki-web .
+docker build --pull -t linkki-web .
 docker run -p 127.0.0.1:8080:8080 linkki-web
 ```
 
@@ -57,8 +72,7 @@ Take a look at open issues. From there you should find something to do.
 
 ### `hugo server` fails after git pull:
 
-Try running `git submodule init && git submodule update` and make sure
-you have the extended edition of Hugo installed.
+Try running `git submodule init && git submodule update && yarn`, and make sure you have the extended edition of Hugo installed.
 
 ### Do I benefit from contributing?
 

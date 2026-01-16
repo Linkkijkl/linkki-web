@@ -5,7 +5,6 @@ keywords = ["rental"]
 url = "equipment-rental"
 +++
 
-
 It's possible to rent equipment from **Linkki Jyväskylä ry**. 
 
 The renter is required to check the rented equipment for defects before

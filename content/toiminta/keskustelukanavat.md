@@ -17,7 +17,7 @@ kanssa, eli keskusteluun voi osallistua haluamaltaan
 alustalta. Keskustelu on sillattuna seuraaviin palveluihin:
 
 - **Telegram**: @linkkijkl
-- **Matrix**: #linkkijkl:hacklab.fi
+- **Matrix**: #linkki:hacklab.fi
 - **IRC**: #linkki.jkl IRCnetissä
 - **Discord**: https://discord.com/invite/f9c6y97
 
