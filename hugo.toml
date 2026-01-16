@@ -323,11 +323,19 @@ home = ["html", "rss", "api-sponsors"]
 
 
 [[languages.en.menus.main]]
+    name = "Book club"
+    identifier = "menu.lukupiiri"
+    url = "/book-club/"
+    parent = "menu.toiminta"
+    weight = 7
+
+
+[[languages.en.menus.main]]
     name = "New Students"
     identifier = "menu.fuksit"
     url = "/en/fuksit/"
     parent = "menu.toiminta"
-    weight = 7
+    weight = 8
 
 
 [[languages.en.menus.main]]
