@@ -456,6 +456,7 @@ const events = async () => {
   const loadingElement = eventDiv.querySelector(".loading-indicator");
   const errorElement = eventDiv.querySelector(".error-events");
   const noEventsElement = eventDiv.querySelector(".no-events");
+  const loadMoreElement = document.getElementById("load-more-events");
   if (!loadingElement || !errorElement || !noEventsElement) return;
 
   let upcoming_events;
@@ -470,10 +471,29 @@ const events = async () => {
   }
 
   // Add fetched events to page
+  const MAX_EVENTS = 6;
+  let current_event_n = 0;
+  let some_events_hidden = false;
   for (const event of upcoming_events) {
+    current_event_n += 1;
+
     const containerElement = document.createElement("div");
     containerElement.classList.add("col-md-6");
-    containerElement.classList.add("col-xl-4")
+    containerElement.classList.add("col-xl-4");
+    containerElement.classList.add("event-container");
+    if (current_event_n > MAX_EVENTS) {
+      containerElement.classList.add("event-hidden");
+      if (!some_events_hidden) {
+        some_events_hidden = true;
+        loadMoreElement.classList.remove("event-hidden");
+        loadMoreElement.addEventListener("click", () => {
+          loadMoreElement.classList.add("event-hidden");
+          for (const container of document.querySelectorAll(".event-container.event-hidden")) {
+            container.classList.remove("event-hidden");
+          }
+        });
+      }
+    }
     eventDiv.appendChild(containerElement);
 
     const eventElement = document.createElement("div");
