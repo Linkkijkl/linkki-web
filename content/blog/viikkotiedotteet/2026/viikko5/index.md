@@ -6,7 +6,7 @@ authors = ["Linkin mediatiimi"]
 translators = ["Tiedottaja"]
 banner = "/img/blog/viikkotiedote.jpg"
 summary = "Linkin viikkotiedote "
-url = "blog/viikkotiedote"
+url = "blog/viikkotiedotteet/2026/viikko5"
 +++
 
 # Ilmoitusasiaa
