@@ -1,5 +1,5 @@
 +++
-title = "Linkin viikkotiedote"
+title = "Viikko 5"
 date = "2026-01-26T00:00:00+02:00"
 description = "Linkin viikkotiedote"
 authors = ["Linkin mediatiimi"]
