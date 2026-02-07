@@ -63,3 +63,46 @@ Valid Mon-Thu, not on weekends or during holiday periods, by showing a valid stu
 * Student wine bottle 0,75l Red/White 18.90 €
 * 8, 12, 18 piece wing portions -10%
 * Combo which includes 10 wings and curly fries, choice of wing sauce, and blue cheese dip (also available as vegetarian) 16.90 €
+
+## Laajavuori
+* Slope ticket
+  * 3 hour lift ticket 15€ (not including *KeyCard -base ticket)
+  * Valid on weekdays throughout the winter season (including winter break week)
+  * Reservation method: on site
+* Skiing / Snowboard equipment set
+  * Equipment set 15€ / rental period 3 hours
+  * Includes Standard-level skis or snowboard + skiing shoes and ski poles if neede (doesn't include helmet)
+  * Valid on weekdays throughout the winter season (including winter break week)
+  * Reservation method: on site
+* Cross-country skiing equipment set
+  * Equipment set 15€ / rental period 3 hours
+  * Includes cross-country skis + ski boots and ski poles
+  * Valid on weekdays throughout the winter season (including winter break week)
+  * Reservation method: on site
+* Snowshoes
+  * Equipment rental 15€ / rental period 3 hours
+  * Includes snowshoes and poles
+  * Valid on weekdays throughout the winter season (including winter break week)
+  * Reservation method: on site
+* Equipement maintenance
+  * 10% off of normal maintenance prices
+  * Valid throughout winter season
+  * Reservation method: on site or preorder via [website](https://twice.shop/laajis/l/laajisvlinehuolto/)
+    * Discount code: AJhuolto25, association membership must still be verified on site
+* Adventure park
+  * Adventure ticket 20€ / maximum of 3 hours of adventure time
+  * Valid all throughout adventure season
+    * LIMITS: Does not apply to Valon seikkailu
+  * Reservation method: on site
+* Bikepark downhill biking
+  * Bikepark package 49€ including Ghost full suspension enduro bike / duration 2 hours
+  * Includes lift pass, rental bike and safety gear (not including *KeyCard -base ticket)
+  * Valid throughout bikepark season
+  * Bike model upgrade 15€ (premium models e.g. Commencal, Specialized, Production Privet)
+  * Reservation method: on site
+* eFatbiken rental
+  * eFatbike 2 hour rental 15€ off normal price
+  * Includes bike and helmet (Doesn't include consumer protection)
+  * Valid throughout the year
+  * Reservation method: on site or preorder in [website](https://twice.shop/laajis/l/laajis/shop)
+    * Discount code: AJeFat25, association membership must still be verified on site

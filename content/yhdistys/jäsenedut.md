@@ -65,3 +65,47 @@ Voimassa Ma-To, ei viikonloppuna eikä loma-aikoina, voimassa olevaa opiskelijak
 * Opiskelija viini Plo 0,75l Punainen/ valkoinen 18,90 €
 * 8, 12, 18 kpl siipiannokset -10 %
 * Combo sis. 10 kpl siipeä ja kierteet, vapaavalintainen siipikastike sekä auradippi (myös vege) 16,90 €
+
+## Laajavuori
+
+* Rinnelippu
+  * 3:n tunnin hissilippu 15€ (ei sisällä *KeyCard -lippupohjaa)
+  * Voimassa arkipäivinä, läpi talvikauden (myös hiihtolomaviikoilla)
+  * Varaustapa: Paikan päältä
+* Laskettelu / Lumilauta vuokravälinesetti
+  * Välinevuokrasetti 15€ / vuokra-aika 3 tuntia
+  * Sisältää standard tason laskettelusukset tai lumilaudan + monot ja tarvittaessa sauvat (ei sisällä kypärää)
+  * Voimassa arkipäivinä, läpi talvikauden (myös hiihtolomaviikoilla)
+  * Varaustapa: Paikan päältä
+* Maastohiihto vuokravälinesetti
+  * Välinevuokrasetti 15€ / vuokra-aika 3 tuntia
+  * Sisältää maastohiihtosukset + monot ja sauvat
+  * Voimassa arkipäivinä, läpi talvikauden (myös hiihtolomaviikoilla)
+  * Varaustapa: Paikan päältä
+* Liukulumikengät / Lumikengät
+  * Välinevuokra 15€ / vuokra-aika 3 tuntia
+  * Sisältää liukulumikengät tai lumikengät ja sauvat
+  * Voimassa arkipäivinä, läpi talvikauden (myös hiihtolomaviikoilla)
+  * Varaustapa: Paikan päältä
+* Välinehuolto
+  * -10% huollon normaalihinnoista
+  * Voimassa koko talvikauden
+  * Varaustapa: Paikan päältä tai ennakkovaraus [netin](https://twice.shop/laajis/l/laajisvlinehuolto/) kautta
+    * Alekoodi: AJhuolto25, jäsenyys todistettava vielä paikan päällä
+* Seikkailupuisto
+  * Seikkailulippu 20€ / seikkailuaikaa max. 3 tuntia
+  * Voimassa kaikkina päivinä läpi seikkailukauden
+    * RAJAUKSET: Ei koske Valon seikkailua
+  * Varaustapa: Paikan päältä
+* Bikepark alamäkipyöräily 
+  * Bikepark paketti 49€ Ghost täysjousto -enduropyörällä / kesto 2 tuntia
+  * Sisältää hissilipun, vuokrapyörän ja suojavarusteet (ei sisällä *KeyCard -lippupohjaa)
+  * Voimassa kaikkina päivinä läpi bikepark kauden
+  * Pyörämallin korotus 15€ (premium malleina mm. Commencal, Specialized, Production Privet)
+  * Varaustapa: Paikan päältä
+* eFatbiken vuokraus
+  * eFatbike 2 tunnin vuokra -15€ normaalihinnasta
+  * Sisältää pyörän ja kypärän (ei sisällä kuluturvaa)
+  * Voimassa kaikkina päivinä
+  * Varaustapa: Paikan päältä tai ennakkovaraus [netin](https://twice.shop/laajis/l/laajis/shop)
+    * Alekoodi: AJeFat25, jäsenyys todistettava vielä paikan päällä
