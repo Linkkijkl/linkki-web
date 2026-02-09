@@ -544,7 +544,7 @@ Rekisterissä olevalla henkilöllä on oikeus pyytää häntä koskevien henkil�
 
 # Kulunkorvaus
 
-Muut yhdistykselle esitetyt kulukorvaukset haetaan yhdistyksen [tilityskaavakkeella](https://drive.google.com/file/d/1dequGZ3_Tmhb13jADXGVrtfGjt1waKvu/view?usp=sharing). Tilityskaavake sekä siihen kuuluvat kuitit tulee toimittaa [rahastonhoitajalle](mailto:raha@linkkijkl.fi) kuukauden kuluessa kulun syntymisestä. Kulukorvaushakemukset hyväksyy joko hallituksen puheenjohtaja tai varapuheenjohtaja. Kukaan ei kuitenkaan voi hyväksyä omia kulukorvaushakemuksiaan.
+Muut yhdistykselle esitetyt kulukorvaukset haetaan yhdistyksen [tilityskaavakkeella](https://drive.google.com/file/d/1dxkP2hg_Fh2wNhBKu6MEf0MZ852-d_fh/view?usp=sharing). Tilityskaavake sekä siihen kuuluvat kuitit tulee toimittaa [rahastonhoitajalle](mailto:raha@linkkijkl.fi) kuukauden kuluessa kulun syntymisestä. Kulukorvaushakemukset hyväksyy joko hallituksen puheenjohtaja tai varapuheenjohtaja. Kukaan ei kuitenkaan voi hyväksyä omia kulukorvaushakemuksiaan.
 
 Matkakulut korvataan julkisen liikenteen (Linja-auto ja juna) osalta opiskelijahintaisten matkalippujen mukaan. Matka korvataan, mikäli se on suoritettu yhdistyksen tehtävien hoitamiseksi.
 
