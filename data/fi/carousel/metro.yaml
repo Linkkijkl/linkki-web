@@ -1,7 +1,9 @@
 weight: 3
 title: "Jyväsmetro"
 description: >
-  <p>Vapun nopein tapahtuma kulkee jälleen 23.4.2026 Katso tästä lisätietoja!</p>
+  <p>Vapun nopein tapahtuma kulkee jälleen 23.4.2026!
+  <br/>
+  <br/>Katso lisätiedot osoitteesta jyväsmetro.fi.</p>
 image: "img/jyväsmetro-transparent.png"
 href: "https://jyvasmetro.fi"
 hide: false
