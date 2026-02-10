@@ -26,8 +26,12 @@
                         <div data-pagefind-body>
                             {{ .Content }}
                         </div>
-
-                        {{ $paginator := .Paginate (where .Data.Pages "Type" "in" .Site.Params.mainSections) }}
+                        {{ $paginator := "" }}
+                        {{ if .Param "all-posts" }}
+                        {{ $paginator = .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+                        {{ else }}
+                        {{ $paginator = .Paginate (where .Data.Pages "Type" "in" .Site.Params.mainSections) }}
+                        {{ end }}
                         {{ range $paginator.Pages }}
                         <section class="post">
                             <div class="row">
