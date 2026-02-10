@@ -16,13 +16,13 @@
                     {{ if .href }}
                     <a href="{{ .href }}" target="_blank" title="{{ .title | safeHTML }}">
                     {{ end }}
-                    <div class="row">
-                        <div class="col-sm-5 text-center text-sm-end">
+                    <div class="d-flex align-items-center">
+                        <div class="col-sm-5 text-center text-sm-end carousel-column">
                             <h1>{{ .title | safeHTML }}</h1>
                             {{ .description | safeHTML }}
                         </div>
                         <div class="col-sm-7">
-                            <img class="img-responsive center-block" src="{{ .image | relURL }}" alt="">
+                            <img class="img-responsive center-block carousel-column" src="{{ .image | relURL }}" alt="">
                         </div>
                     </div>
                     {{ if .href }}
