@@ -55,3 +55,25 @@
     list-style: disc;
     text-transform: none;
 }
+
+ul.pager {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-weight: 600;
+    font-size: 1.5em;
+    .previous {
+        padding-left: 10%;
+    }
+    .next {
+        padding-right: 10%;
+    }
+    .disabled {
+        pointer-events: none;
+        opacity: .5;
+        a {
+            color: grey;
+        }
+    }
+}
