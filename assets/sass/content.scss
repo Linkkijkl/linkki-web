@@ -58,20 +58,38 @@
 
 ul.pager {
     list-style: none;
+
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+
     font-weight: 600;
     font-size: 1.5em;
-    .previous {
+    margin-top: 2em;
+
+/*     .previous {
         padding-left: 10%;
     }
+
     .next {
         padding-right: 10%;
+    } */
+
+    .spacer {
+        flex-grow: 3;
+        height: 0;
+        border-top-style: dotted;
+        border-color: gray;
+        border-width: 4px;
+        margin-left: 0.7em;
+        margin-right: 0.7em;
     }
+
     .disabled {
         pointer-events: none;
         opacity: .5;
+
         a {
             color: grey;
         }

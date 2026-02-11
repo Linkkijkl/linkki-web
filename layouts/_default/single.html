@@ -56,9 +56,13 @@
                             <li class="previous disabled"><a href="#">&larr; {{ i18n "newer" }}</a></li>
                             {{ end }}
 
+                            <div class="spacer"></div>
+                            
                             {{ with site.Param "all_listing" }}
                             <li><a href="{{ . }} ">{{ i18n "allPages" }}</a></li>
                             {{ end }}
+
+                            <div class="spacer"></div>
                             
                             {{ with .Prev }}
                             <li class="next"><a href="{{ .RelPermalink }}">{{ i18n "older" }} &rarr;</a></li>
