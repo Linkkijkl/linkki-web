@@ -74,6 +74,14 @@ a#lightswitch:focus {
 	color: #fff;
 }
 
+.home-carousel .glider-dot {
+	background-color: grey;
+}
+
+.home-carousel .glider-dot.active {
+	background-color: var(--primary-accent);
+}
+
 // end Home carousel
 
 .bar .dark-mask {

@@ -36,7 +36,7 @@ const sliders = async () => {
     draggable: true,
     scrollLock: true,
     rewind: true,
-    duration: 3,
+    duration: 2,
     dots: '.dots',
   });
 
@@ -45,7 +45,8 @@ const sliders = async () => {
   let scrolled = false;
   let mouseOnTop = false;
 
-  gliderElement.addEventListener('mousedown', () => scrolled = true);
+  gliderElement.addEventListener('click', () => scrolled = true);
+  gliderElement.addEventListener('scroll', () => scrolled = true);
   document.querySelector('.dots').addEventListener('mousedown', () => scrolled = true);
   gliderElement.addEventListener('mouseenter', () => mouseOnTop = true);
   gliderElement.addEventListener('mouseleave', () => mouseOnTop = false);
