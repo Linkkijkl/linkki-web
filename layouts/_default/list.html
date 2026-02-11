@@ -26,8 +26,12 @@
                         <div data-pagefind-body>
                             {{ .Content }}
                         </div>
-
-                        {{ $paginator := .Paginate (where .Data.Pages "Type" "in" .Site.Params.mainSections) }}
+                        {{ $paginator := "" }}
+                        {{ if .Param "all-posts" }}
+                        {{ $paginator = .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+                        {{ else }}
+                        {{ $paginator = .Paginate (where .Data.Pages "Type" "in" .Site.Params.mainSections) }}
+                        {{ end }}
                         {{ range $paginator.Pages }}
                         <section class="post">
                             <div class="row">
@@ -90,6 +94,14 @@
                             <li class="previous disabled"><a href="#">&larr; {{ i18n "newer" }}</a></li>
                             {{ end }}
 
+                            <div class="spacer"></div>
+                            
+                            {{ with site.Param "all_listing" }}
+                            <li><a href="{{ . }} ">{{ i18n "allPages" }}</a></li>
+                            {{ end }}
+
+                            <div class="spacer"></div>
+                            
                             {{ if .Paginator.HasNext }}
                             <li class="next"><a href="{{ .Paginator.Next.URL | relURL }}">{{ i18n "older" }} &rarr;</a></li>
                             {{ else }}

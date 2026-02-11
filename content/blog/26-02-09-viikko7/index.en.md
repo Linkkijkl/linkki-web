@@ -1,12 +1,12 @@
 +++
-title = "Week 7"
+title = "Info for Week 7"
 date = "2026-02-09T00:00:00+02:00"
 description = "Linkki's weekly info"
-authors = ["Linkki's media team"]
-translators = ["Tiedottaja"]
+authors = ["Juho Ropanen"]
 banner = "/img/blog/viikkotiedote.jpg"
 summary = "Linkki's weekly info for week 7"
-url = "blog/weeklyinfo/2026/week7"
+url = "weeklyinfo/2026/week7"
+categories = ["weekly info's"]
 +++
 
 

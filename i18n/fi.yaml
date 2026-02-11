@@ -73,6 +73,9 @@
 - id: older
   translation: "Vanhempi"
 
+- id: allPages
+  translation: "Kaikki" 
+
 - id: publishedOn
   translation: ""
 

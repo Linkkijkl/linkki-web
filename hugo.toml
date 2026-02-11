@@ -416,6 +416,7 @@ home = ["html", "rss", "api-sponsors"]
                 Sähköposti: <strong>raha@linkkijkl.fi</strong><br/>
             </p>
     """
+    all_listing = "/postaukset"
 
 
 [languages.en.params]
@@ -438,6 +439,7 @@ home = ["html", "rss", "api-sponsors"]
                 Email: <strong>raha@linkkijkl.fi</strong><br/>
             </p>
     """
+    all_listing = "/updates"
 
 [params.clients]
     enable = true

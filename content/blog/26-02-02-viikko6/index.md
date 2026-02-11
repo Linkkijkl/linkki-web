@@ -1,12 +1,12 @@
 +++
-title = "Viikko 6"
+title = "Viikkotiedote viikolle 6"
 date = "2026-02-02T00:00:00+02:00"
 description = "Linkin viikkotiedote"
-authors = ["Linkin mediatiimi"]
-translators = ["Tiedottaja"]
+authors = ["Juho Ropanen"]
 banner = "/img/blog/viikkotiedote.jpg"
 summary = "Linkin viikkotiedote viikolle 6"
-url = "blog/viikkotiedotteet/2026/viikko6"
+url = "viikkotiedotteet/2026/viikko6"
+categories = ["viikkotiedotteet"]
 +++
 
 # Ilmoitusasiaa
