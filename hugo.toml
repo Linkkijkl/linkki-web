@@ -61,9 +61,9 @@ home = ["html", "rss", "api-sponsors"]
 
 
 [[languages.fi.menus.main]]
-    name = "Järjestön historia"
-    identifier = "menu.historia"
-    url = "/historia/"
+    name = "LinkkiWiki"
+    identifier = "menu.wiki"
+    url = "https://wiki.linkkijkl.fi"
     parent = "menu.yhdistys"
     weight = 3
 
