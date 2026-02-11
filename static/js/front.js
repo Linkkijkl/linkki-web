@@ -1,20 +1,32 @@
 /* global $this: true */
 /* eslint no-unused-vars: ["error", { "varsIgnorePattern": "animationsSlider" }] */
 
-window.addEventListener('DOMContentLoaded', () => {
-  sliders();
-  masonries();
-  search();
-  scrollffset();
-  theme();
-  prefetcher();
-  shaders();
-  festive();
-  events();
+window.addEventListener('DOMContentLoaded', async () => {
+  await theme();
+  await Promise.all([
+    sliders(),
+    masonries(),
+    search(),
+    scrollffset(),
+    prefetcher(),
+    shaders(),
+    festive(),
+    events()
+  ]);
 });
 
 
-const sliders = () => {
+/**
+ * @returns true if current theme is dark
+ */
+const isThemeDark = () => {
+  const dm = window.localStorage.getItem("darkmode");
+  if (dm === null) return window.matchMedia("(prefers-color-scheme: dark)").matches;
+  return dm === "true";
+}
+
+
+const sliders = async () => {
   const gliderElement = document.querySelector('.glider');
   if (!gliderElement) return;
 
@@ -53,7 +65,7 @@ const sliders = () => {
 };
 
 
-const masonries = () => {
+const masonries = async () => {
   let masonryElement = document.querySelector('.customers');
   if (!masonryElement) return;
 
@@ -79,7 +91,7 @@ const masonries = () => {
 };
 
 
-const search = () => {
+const search = async () => {
   // Initialize pagefind
   new PagefindUI({ element: "#pagefind", showSubResults: true });
 
@@ -122,7 +134,7 @@ const search = () => {
 /**
  * Set page scroll offset for #-links
  */
-const scrollffset = () => {
+const scrollffset = async () => {
   // Get navbar height
   const navbar = document.querySelector('.navbar');
   const bottomLocation = navbar.getBoundingClientRect().bottom;
@@ -134,19 +146,9 @@ const scrollffset = () => {
 
 
 /**
- * @returns true if current theme is dark
- */
-const isThemeDark = () => {
-  const dm = window.localStorage.getItem("darkmode");
-  if (dm === null) return window.matchMedia("(prefers-color-scheme: dark)").matches;
-  return dm === "true";
-}
-
-
-/**
  * User switchable theme
  */
-const theme = () => {
+const theme = async () => {
   let icon = null;
   let darkStyleObject = null;
   let darkStyleParent = null;
@@ -223,7 +225,7 @@ const theme = () => {
 /**
  * Sets different logo based on date
  */
-const festive = () => {
+const festive = async () => {
   /**
    * Sets festive theming on logo. 
    * @param {String} festive 
@@ -433,7 +435,7 @@ const shaders = async () => {
 /**
  * Prefetches links on mouse hover
  */
-const prefetcher = () => {
+const prefetcher = async () => {
   document.querySelectorAll("a").forEach((a) => {
     if (["/", "#"].includes(a.href)) return;
     if (a.href.startsWith("mailto")) return;
