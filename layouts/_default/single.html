@@ -6,7 +6,7 @@
     {{ partial "custom_headers.html" . }}
   </head>
 
-  <body data-pagefind-body>
+  <body data-pagefind-body data-pagefind-sort="date:{{ .Date.Format "2006-01-02" }}">
 
     <div id="all">
 

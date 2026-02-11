@@ -81,7 +81,11 @@ const masonries = () => {
 
 const search = () => {
   // Initialize pagefind
-  new PagefindUI({ element: "#pagefind", showSubResults: true });
+  new PagefindUI({
+    element: "#pagefind",
+    showSubResults: true,
+    sort: { date: "desc" }
+  });
 
   const searchInput = document.querySelector('.pagefind-ui__search-input');
   const emptyButton = document.querySelector('.pagefind-ui__search-clear');
