@@ -2,6 +2,7 @@
 title = "Updates"
 description = "Linkki Jyväskylä ry's updates"
 keywords = ["updates"]
+url = "/updates"
 [params]
     all-posts = true
 +++

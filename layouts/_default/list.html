@@ -93,6 +93,10 @@
                             {{ else }}
                             <li class="previous disabled"><a href="#">&larr; {{ i18n "newer" }}</a></li>
                             {{ end }}
+                            
+                            {{ with site.Param "all_listing" }}
+                            <li><a href="{{ . }} ">{{ i18n "allPages" }}</a></li>
+                            {{ end }}
 
                             {{ if .Paginator.HasNext }}
                             <li class="next"><a href="{{ .Paginator.Next.URL | relURL }}">{{ i18n "older" }} &rarr;</a></li>

@@ -73,6 +73,9 @@
 - id: older
   translation: "Older"
 
+- id: allPages
+  translation: "All" 
+
 - id: publishedOn
   translation: "on"
 
