@@ -7,7 +7,7 @@ window.addEventListener('DOMContentLoaded', async () => {
     sliders(),
     masonries(),
     search(),
-    scrollffset(),
+    scrollOffset(),
     prefetcher(),
     shaders(),
     festive(),
@@ -36,7 +36,7 @@ const sliders = async () => {
     draggable: true,
     scrollLock: true,
     rewind: true,
-    duration: 2,
+    duration: 1,
     dots: '.dots',
   });
 
@@ -44,12 +44,20 @@ const sliders = async () => {
   let i = 0;
   let scrolled = false;
   let mouseOnTop = false;
+  let autoScrolling = false;
 
   gliderElement.addEventListener('click', () => scrolled = true);
-  gliderElement.addEventListener('scroll', () => scrolled = true);
+  gliderElement.addEventListener('scroll', () => {
+    if (!autoScrolling) {
+      scrolled = true;
+    }
+  });
   document.querySelector('.dots').addEventListener('mousedown', () => scrolled = true);
   gliderElement.addEventListener('mouseenter', () => mouseOnTop = true);
   gliderElement.addEventListener('mouseleave', () => mouseOnTop = false);
+  gliderElement.addEventListener("glider-animated", () => {
+    autoScrolling = false;
+  })
 
   function autoplay() {
     // Stop if carousel was moved by user
@@ -57,6 +65,7 @@ const sliders = async () => {
 
     // Skip if mouse is over element
     if (!mouseOnTop) {
+      autoScrolling = true;
       glider.scrollItem(i % itemCount, false);
       i += 1;
     }
@@ -139,7 +148,7 @@ const search = async () => {
 /**
  * Set page scroll offset for #-links
  */
-const scrollffset = async () => {
+const scrollOffset = async () => {
   // Get navbar height
   const navbar = document.querySelector('.navbar');
   const bottomLocation = navbar.getBoundingClientRect().bottom;
