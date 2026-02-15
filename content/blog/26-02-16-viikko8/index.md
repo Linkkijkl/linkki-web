@@ -60,7 +60,7 @@ Missä: Laajavuoressa sekä Londonissa
 Milloin: Torstaina 12.3 klo 14:00 alkaen  
 Mitä maksaa: 25€  
 Muuta: Sopiva ulkovaatetus  
-Lipunmyynti aukeaa Ma 16.02 klo 12:00 Kidessä  
+Lipunmyynti aukeaa Ma 16.02 klo 12:00 [Kidessä](https://kide.app/events/9ad93498-9c6f-4e5c-8ab9-e42c7efcf4b0)  
 
 
 ## Hallituksen kokous 19.2. klo 16:30 - 18:00 @ Ag D221.3
