@@ -4,7 +4,7 @@ date = "2026-02-16T00:00:00+02:00"
 description = "Linkin viikkotiedote"
 authors = ["Juho Ropanen"]
 banner = "/img/blog/viikkotiedote.jpg"
-summary = "Linkin viikkotiedote viikolle 7"
+summary = "Linkin viikkotiedote viikolle 8"
 url = "viikkotiedotteet/2026/viikko8"
 categories = ["viikkotiedotteet"]
 +++

@@ -4,7 +4,7 @@ date = "2026-02-16T00:00:00+02:00"
 description = "Linkki's weekly info"
 authors = ["Juho Ropanen"]
 banner = "/img/blog/viikkotiedote.jpg"
-summary = "Linkki's weekly info for week 7"
+summary = "Linkki's weekly info for week 8"
 url = "weeklyinfo/2026/week8"
 categories = ["weekly info's"]
 +++
