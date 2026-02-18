@@ -45,6 +45,14 @@ h6,
     color: var(--text-color);
 }
 
+.home-carousel .glider-dot {
+	background-color: grey;
+}
+
+.home-carousel .glider-dot.active {
+	background-color: var(--primary-accent);
+}
+
 #blog-listing-medium .post h2 a {
     color: var(--primary-accent);
 }

@@ -75,11 +75,11 @@ a#lightswitch:focus {
 }
 
 .home-carousel .glider-dot {
-	background-color: grey;
+	background-color: lightgrey;
 }
 
 .home-carousel .glider-dot.active {
-	background-color: var(--primary-accent);
+	background-color: grey;
 }
 
 // end Home carousel
