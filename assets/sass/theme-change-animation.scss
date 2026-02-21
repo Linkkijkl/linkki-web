@@ -3,24 +3,17 @@
     --animation-curve: ease-out;
 }
 
-.navbar ul.dropdown-menu li {
-    transition: border-bottom-color var(--animation-time) var(--animation-curve);
-}
-
 h1,
 h2,
 h3,
 h4,
 h5,
 h6,
-.navbar-default .navbar-nav > li > a,
-.navbar-default .navbar-nav .open .dropdown-menu > li > a,
 .home-carousel h1,
 .home-carousel h2,
 .home-carousel h3,
 .home-carousel p,
-.home-carousel ul,
-.navbar ul.dropdown-menu li a {
+.home-carousel ul {
     transition: color var(--animation-time) var(--animation-curve);
 }
 
@@ -37,8 +30,8 @@ button,
 .btn,
 .navbar, 
 #copyright,
-.bar.background-white,
-.dropdown-menu {
+.bar.background-white
+{
     transition: background-color var(--animation-time) var(--animation-curve);
     transition: color var(--animation-time) var(--animation-curve);
     transition: background-color var(--animation-time) var(--animation-curve);
