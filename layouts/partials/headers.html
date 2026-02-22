@@ -65,6 +65,25 @@
     {{ end }}
   {{ end }}
 {{ end }}
+{{ with resources.Get "sass/theme-change-animation.scss" }}
+  {{ $opts := dict
+    "enableSourceMap" hugo.IsDevelopment
+    "outputStyle" (cond hugo.IsDevelopment "expanded" "compressed")
+    "targetPath" "css/theme-change-animation.css"
+    "transpiler" "dartsass"
+    "vars" site.Params.styles
+    "includePaths" (slice "node_modules/bootstrap/scss")
+  }}
+  {{ with . | toCSS $opts }}
+    {{ if hugo.IsDevelopment }}
+      <link rel="stylesheet" href="{{ .RelPermalink }}?{{ now.Unix }}" disabled="true" id="theme-change-animation">
+    {{ else }}
+      {{ with . | fingerprint }}
+        <link rel="stylesheet" href="{{ .RelPermalink }}?{{ now.Unix }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" disabled="true" id="theme-change-animation">
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
 
 <!-- Responsivity for older IE -->
 {{ `

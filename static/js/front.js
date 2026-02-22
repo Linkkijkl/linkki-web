@@ -216,8 +216,12 @@ const theme = async () => {
     lightswitch.appendChild(icon);
     lightswitch.id = "lightswitch";
     lightswitch.href = "#";
-    lightswitch.onclick = (event) => {
+    lightswitch.onclick = async (event) => {
       event.preventDefault();
+      const animations = document.querySelector("#theme-change-animation");
+      animations.disabled = false;
+      // Await for some time to give animations a chance to load properly
+      await new Promise(resolve => setTimeout(resolve, 50));
       toggle();
     };
 

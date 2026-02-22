@@ -1,0 +1,58 @@
+:root {
+    --animation-time: 0.3s;
+    --animation-curve: ease-out;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.home-carousel h1,
+.home-carousel h2,
+.home-carousel h3,
+.home-carousel p,
+.home-carousel ul {
+    transition: color var(--animation-time) var(--animation-curve);
+}
+
+#blog-listing-medium .post h2 a {
+    transition: color var(--animation-time) var(--animation-curve);
+}
+
+#blog-listing-medium .post h2 a:hover {
+    transition: color var(--animation-time) var(--animation-curve);
+}
+
+body,
+button,
+.btn,
+.navbar, 
+#copyright,
+.bar.background-white
+{
+    transition: background-color var(--animation-time) var(--animation-curve);
+    transition: color var(--animation-time) var(--animation-curve);
+    transition: background-color var(--animation-time) var(--animation-curve);
+}
+
+.bar.background-gray {
+    transition: background-color var(--animation-time) var(--animation-curve);
+}
+
+#footer {
+    transition: background-color var(--animation-time) var(--animation-curve);
+}
+
+#shader, #heading-breadcrumbs {
+    transition: background-color var(--animation-time) var(--animation-curve);
+}
+
+.box {
+    transition: background-color var(--animation-time) var(--animation-curve);
+}
+
+.pagefind-ui mark {
+    transition: background-color var(--animation-time) var(--animation-curve);
+}
