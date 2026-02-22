@@ -131,4 +131,7 @@
   translation: Laskutus
 
 - id: allRightsReserved
-  translation: "Kaikki oikeudet pidätetään"
+  translation: Kaikki oikeudet pidätetään
+
+- id: downloadFullscreen
+  translation: Lataa / koko näytön tila

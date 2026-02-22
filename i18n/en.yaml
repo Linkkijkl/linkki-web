@@ -131,4 +131,7 @@
   translation: Invoicing
 
 - id: allRightsReserved
-  translation: "All rights reserved"
+  translation: All rights reserved
+
+- id: downloadFullscreen
+  translation: Download / fullscreen

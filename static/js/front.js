@@ -11,7 +11,8 @@ window.addEventListener('DOMContentLoaded', async () => {
     prefetcher(),
     shaders(),
     festive(),
-    events()
+    events(),
+    pdfs()
   ]);
 });
 
@@ -573,5 +574,16 @@ const events = async () => {
   // Display "no upcoming events" if applicable
   if (upcoming_events.length == 0) {
     noEventsElement.removeAttribute("hidden");
+  }
+};
+
+/**
+ * Set correct height for pdf objects in page
+ */
+const pdfs = async () => {
+  for (const pdf of document.querySelectorAll(".pdf")) {
+    pdf.addEventListener('load', () => {
+      pdf.setAttribute("height", `${pdf.clientWidth * Math.sqrt(2)}px`);
+    });
   }
 };

@@ -1,6 +1,5 @@
 baseURL = 'https://linkkijkl.fi'
 title = 'Linkki Jyväskylä ry.'
-theme = ["hugo-embed-pdf-shortcode"]
 enableInlineShortcodes = true
 
 # Number of posts per page
