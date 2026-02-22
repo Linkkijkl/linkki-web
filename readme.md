@@ -9,7 +9,6 @@ First:
 
 1. Install git and [Git Large File Storage](https://git-lfs.com)
 2. Clone this repository, i.e. `git clone https://github.com/linkkijkl/linkki-web`
-3. Initialize git submodules `git submodule init && git submodule update`
 
 After this there are a few options:
 
@@ -72,7 +71,7 @@ Take a look at open issues. From there you should find something to do.
 
 ### `hugo server` fails after git pull:
 
-Try running `git submodule init && git submodule update && yarn`, and make sure you have the extended edition of Hugo installed.
+Try running `yarn`, and make sure you have the extended edition of Hugo installed.
 
 ### Do I benefit from contributing?
 
