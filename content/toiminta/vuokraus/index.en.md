@@ -16,19 +16,22 @@ If intrested, please contact <pj@linkkijkl.fi>.
 
 ### 24 x Stairville LED Flood Panel 150 40° RGB
 
-![Light](/toiminta/vuokraus/valo.jpg)
+![Light](/laitteistovuokraus/valo.jpg)
 
 ### 1 x The t.amp PA-4080
 
-![PA](/toiminta/vuokraus/pa.jpg)
+![PA](/laitteistovuokraus/pa.jpg)
 
 ## Pricing
 
-|             | Day (member) | Week (member) | Day (non-member) | Week (non-member) |
-|-------------|--------------|---------------|------------------|-------------------|
-| 1x lights   | 8€           | 40€           | 10€              | 48€               |
-| 12x lights  | 80€          | 400€          | 96€              | 480€              |
-| 24x lights  | 128€         | 640€          | 152€             | 768€              |
-| PA system   | 40€          | 160€          | 48€              | 192€              |
+|                | 3 days (member)    | Week (member)  | 3 days (non-member)   | Week (non-member) |
+|----------------|--------------------|----------------|-----------------------|-------------------|
+| 1x light       | 5€                 | 10€            | 20€                   | 40€               |
+| 12x lights     | 50€                | 100€           | 200€                  | 400€              |
+| 24x lights     | 80€                | 160€           | 320€                  | 640€              |
 
-Longer rental can be negotiated separately.
+Longer-term rentals are priced separately by agreement.
+
+Members can also borrow the following equipment for one week at a time with a €20 deposit:
+
+The t.amp PA-4080, Enttec DMX USB Pro, wireless headset microphones, and a mixer.
