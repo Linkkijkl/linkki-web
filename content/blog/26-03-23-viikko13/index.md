@@ -9,6 +9,7 @@ url = "viikkotiedotteet/2026/viikko13"
 categories = ["viikkotiedotteet"]
 +++
 # Ilmoitusasiaa
+## Save the date: Jyväsmetron lipunmyynti 1. - 12.4.
 ## Save the date: Jyväsmetro 23.4.
 
 # Tapahtumat

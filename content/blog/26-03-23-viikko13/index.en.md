@@ -10,6 +10,7 @@ categories = ["weekly info's"]
 +++
 
 # Things to note
+## Save the date: Jyväsmetro ticket sale 1. - 12.4.
 ## Save the date: Jyväsmetro 23.4.
 
 # Events
