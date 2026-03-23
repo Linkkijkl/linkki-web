@@ -1,7 +1,7 @@
 +++
 title = "Board of Directors 2026"
 date = "2026-01-01T00:00:00+02:00"
-authors = ["Johannes Horila", "Jenna Tykkyläinen", "Ilkka Sario", "Lari Nurkka", "Olavi Lahtinen", "Anton Turpeinen", "Santeri Sormunen", "Lauri Leppänen", "Joonas Niemi", "Juho Ropanen", "Mortti Luhtala", "Oskari Lahtinen", "Valtteri Hiltunen", "Urho Laurinen", "Emma Järvinen", "Taru Nikkanen", "Aino Sipola", "Antton Kharine", "Eetu Norta", "Nico Kääriäinen", "Lassi Jääskeläinen", "Toni Pietiläinen", "Lassi Karjalainen", "Mikael Garam"]
+authors = ["Johannes Horila", "Jenna Tykkyläinen", "Ilkka Sario", "Lari Nurkka", "Olavi Lahtinen", "Anton Turpeinen", "Santeri Sormunen", "Lauri Leppänen", "Joonas Niemi", "Juho Ropanen", "Mortti Luhtala", "Oskari Lahtinen", "Valtteri Hiltunen", "Urho Laurinen", "Emma Järvinen", "Taru Nikkanen", "Aino Sipola", "Antton Kharine", "Eetu Norta", "Nico Kääriäinen", "Lassi Jääskeläinen", "Toni Pietiläinen", "Lassi Karjalainen", "Mikael Garam", "Pekka Pihlajamaa"]
 banner = "/img/hallitukset/hallitus2026.webp"
 summary = " "
 url = "board/2026"
@@ -234,8 +234,7 @@ url = "board/2026"
 {{< column >}}
 {{< img-thumb-cap >}}
 ## Valtteri Hiltunen
-#### Freshman Coordinator & International Affairs Coordinator
-[**fuksivastaava@linkkijkl.fi**](mailto:kv@linkkijkl.fi)
+#### DuunIT Coordinator & International Affairs Coordinator
 [**kv@linkkijkl.fi**](mailto:kv@linkkijkl.fi)
 
 [Telegram: **@luigipunk**](https://t.me/luigipunk)
@@ -259,6 +258,16 @@ url = "board/2026"
 [**verijumala@linkkijkl.fi**](mailto:verijumala@linkkijkl.fi)
 
 [Telegram: **@Urlsql**](https://t.me/Urlsql)
+{{< /img-thumb-cap >}}
+{{< /column >}}
+
+{{< column >}}
+{{< img-thumb-cap >}}
+## Pekka Pihlajamaa
+#### Freshman Coordinator
+[**fuksivastaava@linkkijkl.fi**](mailto:kv@linkkijkl.fi)
+
+[Telegram: **@phenex02**](https://t.me/phenex02)
 {{< /img-thumb-cap >}}
 {{< /column >}}
 

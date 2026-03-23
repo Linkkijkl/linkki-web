@@ -3,7 +3,7 @@ title = "Hallitus 2026"
 date = "2026-01-01T00:00:00+02:00"
 description = "Linkin hallitus 2026"
 categories = ["hallitukset"]
-authors = ["Johannes Horila", "Jenna Tykkyläinen", "Ilkka Sario", "Lari Nurkka", "Olavi Lahtinen", "Anton Turpeinen", "Santeri Sormunen", "Lauri Leppänen", "Joonas Niemi", "Juho Ropanen", "Mortti Luhtala", "Oskari Lahtinen", "Valtteri Hiltunen", "Urho Laurinen", "Emma Järvinen", "Taru Nikkanen", "Aino Sipola", "Antton Kharine", "Eetu Norta", "Nico Kääriäinen", "Lassi Jääskeläinen", "Toni Pietiläinen", "Lassi Karjalainen", "Mikael Garam"]
+authors = ["Johannes Horila", "Jenna Tykkyläinen", "Ilkka Sario", "Lari Nurkka", "Olavi Lahtinen", "Anton Turpeinen", "Santeri Sormunen", "Lauri Leppänen", "Joonas Niemi", "Juho Ropanen", "Mortti Luhtala", "Oskari Lahtinen", "Valtteri Hiltunen", "Urho Laurinen", "Emma Järvinen", "Taru Nikkanen", "Aino Sipola", "Antton Kharine", "Eetu Norta", "Nico Kääriäinen", "Lassi Jääskeläinen", "Toni Pietiläinen", "Lassi Karjalainen", "Mikael Garam", "Pekka Pihlajamaa"]
 banner = "/img/hallitukset/hallitus2026.webp"
 summary = " "
 +++
@@ -243,8 +243,7 @@ Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnast
 {{< column >}}
 {{< img-thumb-cap >}}
 ## Valtteri Hiltunen
-#### Fuksivastaava & Kansainvälisyysvastaava
-[**fuksivastaava@linkkijkl.fi**](mailto:kv@linkkijkl.fi)
+#### DuunIT-vastaava & Kansainvälisyysvastaava
 [**kv@linkkijkl.fi**](mailto:kv@linkkijkl.fi)
 
 [Telegram: **@luigipunk**](https://t.me/luigipunk)
@@ -268,6 +267,16 @@ Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnast
 [**verijumala@linkkijkl.fi**](mailto:verijumala@linkkijkl.fi)
 
 [Telegram: **@Urlsql**](https://t.me/Urlsql)
+{{< /img-thumb-cap >}}
+{{< /column >}}
+
+{{< column >}}
+{{< img-thumb-cap >}}
+## Pekka Pihlajamaa
+#### Fuksivastaava
+[**fuksivastaava@linkkijkl.fi**](mailto:fuksivastaava@linkkijkl.fi)
+
+[Telegram: **@phenex02**](https://t.me/phenex02)
 {{< /img-thumb-cap >}}
 {{< /column >}}
 
