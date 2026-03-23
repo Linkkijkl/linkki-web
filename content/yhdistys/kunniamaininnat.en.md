@@ -45,6 +45,8 @@ Jyväskylä ry.
 
 The following persons have been granted Linkki Jyväskylä ry honorary
 mention: 
+- Toni Pietiläinen 2026
+- Ossi Rantala 2026
 - Emma Järvinen 2025
 - Lari Nurkka 2025
 - Niko Muukkonen 2024
@@ -75,6 +77,7 @@ and the voting period lasts for 3 weeks. The vote will be announced to
 the members via email and the website of the association. 
 
 The following people have been chosen as Linkeens of the year:
+- Oskari Lahtinen 2025
 - Alexander Goldhill 2024
 - Tinja Vaskelainen 2018
 - Sara Afflekt-Lazar 2017

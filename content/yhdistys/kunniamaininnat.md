@@ -41,10 +41,12 @@ kunniajäsenyys:
 # Kunniamaininnat
 
 Yhdistyksen hallitus voi myöntää ansioituneelle Linkki Jyväskylä ry:n
-jäsenelle kunniamaininnan.  
+jäsenelle kunniamaininnan.
 
 Seuraaville henkilöille on myönnetty Linkki Jyväskylä ry:n
 kunniamaininta:
+- Toni Pietiläinen 2026
+- Ossi Rantala 2026
 - Emma Järvinen 2025
 - Lari Nurkka 2025
 - Niko Muukkonen 2024
@@ -75,6 +77,7 @@ Vuoden linkkari -äänestys suoritetaan vuosittain marraskuussa ja
 sähköpostilla sekä Linkin nettisivuilla. 
 
 Seuraavat henkilöt on valittu Vuoden linkkareiksi:
+- Oskari Lahtinen 2025
 - Alexander Goldhill 2024
 - Tinja Vaskelainen 2018
 - Sara Afflekt-Lazar 2017
