@@ -3,7 +3,7 @@ title = "Hallitus 2026"
 date = "2026-01-01T00:00:00+02:00"
 description = "Linkin hallitus 2026"
 categories = ["hallitukset"]
-authors = ["Johannes Horila", "Jenna Tykkyläinen", "Ilkka Sario", "Lari Nurkka", "Olavi Lahtinen", "Anton Turpeinen", "Santeri Sormunen", "Lauri Leppänen", "Joonas Niemi", "Juho Ropanen", "Mortti Luhtala", "Oskari Lahtinen", "Valtteri Hiltunen", "Urho Laurinen", "Emma Järvinen", "Taru Nikkanen", "Aino Sipola", "Antton Kharine", "Eetu Norta", "Nico Kääriäinen", "Lassi Jääskeläinen", "Toni Pietiläinen", "Lassi Karjalainen"]
+authors = ["Johannes Horila", "Jenna Tykkyläinen", "Ilkka Sario", "Lari Nurkka", "Olavi Lahtinen", "Anton Turpeinen", "Santeri Sormunen", "Lauri Leppänen", "Joonas Niemi", "Juho Ropanen", "Mortti Luhtala", "Oskari Lahtinen", "Valtteri Hiltunen", "Urho Laurinen", "Emma Järvinen", "Taru Nikkanen", "Aino Sipola", "Antton Kharine", "Eetu Norta", "Nico Kääriäinen", "Lassi Jääskeläinen", "Toni Pietiläinen", "Lassi Karjalainen", "Mikael Garam"]
 banner = "/img/hallitukset/hallitus2026.webp"
 summary = " "
 +++
@@ -307,6 +307,15 @@ Mediatiimin tehtävänä on tiedottaa jäsenistöä yhdistyksen eri kanavissa ku
 [**some@linkkijkl.fi**](mailto:some@linkkijkl.fi)
 
 [Telegram: **@taruksn**](https://t.me/taruksn)
+{{< /img-thumb-cap >}}
+{{< /column >}}
+
+{{< column >}}
+{{< img-thumb-cap "placeholder.png" "200x" >}}
+## Mikael Garam
+#### Pilvivastaava
+
+[Telegram: **@michgfi**](https://t.me/michgfi)
 {{< /img-thumb-cap >}}
 {{< /column >}}
 

@@ -1,7 +1,7 @@
 +++
 title = "Board of Directors 2026"
 date = "2026-01-01T00:00:00+02:00"
-authors = ["Johannes Horila", "Jenna Tykkyläinen", "Ilkka Sario", "Lari Nurkka", "Olavi Lahtinen", "Anton Turpeinen", "Santeri Sormunen", "Lauri Leppänen", "Joonas Niemi", "Juho Ropanen", "Mortti Luhtala", "Oskari Lahtinen", "Valtteri Hiltunen", "Urho Laurinen", "Emma Järvinen", "Taru Nikkanen", "Aino Sipola", "Antton Kharine", "Eetu Norta", "Nico Kääriäinen", "Lassi Jääskeläinen", "Toni Pietiläinen", "Lassi Karjalainen"]
+authors = ["Johannes Horila", "Jenna Tykkyläinen", "Ilkka Sario", "Lari Nurkka", "Olavi Lahtinen", "Anton Turpeinen", "Santeri Sormunen", "Lauri Leppänen", "Joonas Niemi", "Juho Ropanen", "Mortti Luhtala", "Oskari Lahtinen", "Valtteri Hiltunen", "Urho Laurinen", "Emma Järvinen", "Taru Nikkanen", "Aino Sipola", "Antton Kharine", "Eetu Norta", "Nico Kääriäinen", "Lassi Jääskeläinen", "Toni Pietiläinen", "Lassi Karjalainen", "Mikael Garam"]
 banner = "/img/hallitukset/hallitus2026.webp"
 summary = " "
 url = "board/2026"
@@ -296,6 +296,15 @@ url = "board/2026"
 [**some@linkkijkl.fi**](mailto:some@linkkijkl.fi)
 
 [Telegram: **@taruksn**](https://t.me/taruksn)
+{{< /img-thumb-cap >}}
+{{< /column >}}
+
+{{< column >}}
+{{< img-thumb-cap "placeholder.png" "200x" >}}
+## Mikael Garam
+#### Cloud Coordinator
+
+[Telegram: **@michgfi**](https://t.me/michgfi)
 {{< /img-thumb-cap >}}
 {{< /column >}}
 
