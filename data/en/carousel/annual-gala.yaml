@@ -7,4 +7,4 @@ description: >
   Ticket sales open February 2nd.</p>
 image: "/img/vujut-web-banner.webp"
 href: "https://vujut.linkkijkl.fi"
-hide: false
+hide: true
