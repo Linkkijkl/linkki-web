@@ -1,4 +1,4 @@
-weight: 0
+weight: 2
 title: "Linkin 20v vuosijuhlat"
 description: >
   <p>On aika kaivaa esiin juhlakuteet, sillä kauan odotetut Linkin 20-vuotisvuosijuhlat vietetään 20.-21.3.!
@@ -7,4 +7,4 @@ description: >
   Lipunmyynti vujuille aukeaa 23.2.</p>
 image: "/img/vujut-web-banner.webp"
 href: "https://vujut.linkkijkl.fi"
-hide: false
+hide: true
