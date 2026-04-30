@@ -46,7 +46,7 @@
         {{ end }}
 
         {{ range $translations := $.Page.Page.Translations }}
-          {{ $lang_to_language_display:= dict "fi" "suomeksi" "en" "In English"}}
+          {{ $lang_to_language_display:= dict "fi" "🇫🇮" "en" "🇬🇧"}}
           {{ range $lang, $lang_display := $lang_to_language_display }}
             {{ with eq $translations.Language.Lang $lang }}
               <li class="nav-item dropdown" data-hide-on-search>

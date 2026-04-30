@@ -71,7 +71,11 @@
 }
 
 a#lightswitch:focus {
-	color: #fff;
+	color: var(--primary-accent);
+}
+
+a#lightswitch.theme-dark:focus {
+    color: white;
 }
 
 .home-carousel .glider-dot {
