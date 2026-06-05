@@ -165,6 +165,7 @@ const scrollOffset = async () => {
  */
 const theme = async () => {
   let icon = null;
+  let lightswitch = null;
   let darkStyleObject = null;
   let darkStyleParent = null;
 
@@ -200,19 +201,20 @@ const theme = async () => {
       if (icon) icon.className = "fas fa-2x fa-moon";
       setLogoDark(false);
     }
+    if (lightswitch) lightswitch.classList.toggle("theme-dark", dark);
     document.getRootNode().dispatchEvent(themeChangeEvent);
   }
 
   const toggle = () => setDark(!isThemeDark());
 
   const createButton = () => {
-    const element = document.querySelector(".home-carousel .container, #heading-breadcrumbs .container");
+    const element = document.querySelector(".navbar-collapse ul"); // Original: .home-carousel .container, #heading-breadcrumbs .container
     if (element === null) return;
 
     icon = document.createElement("i");
     icon.className = "fas fa-2x " + (isThemeDark() ? "fa-sun" : "fa-moon");
 
-    let lightswitch = document.createElement("a");
+    lightswitch = document.createElement("a");
     lightswitch.appendChild(icon);
     lightswitch.id = "lightswitch";
     lightswitch.href = "#";
@@ -225,7 +227,11 @@ const theme = async () => {
       toggle();
     };
 
-    element.appendChild(lightswitch);
+    const li = document.createElement("li");
+    li.className = "nav-item";
+    li.setAttribute("data-hide-on-search", "");
+    li.appendChild(lightswitch);
+    element.insertBefore(li, element.querySelector("#pagefind"));
   }
 
   createButton();
