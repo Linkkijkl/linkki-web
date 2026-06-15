@@ -17,7 +17,7 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap "johannes.webp" "200x" >}}
 ## Johannes Horila
 #### Puheenjohtaja
 [**pj@linkkijkl.fi**](mailto:pj@linkkijkl.fi)
@@ -28,7 +28,7 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 {{< /column >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap "jenna.webp" "200x" >}}
 ## Jenna Tykkyläinen
 #### Varapuheenjohtaja
 [**vpj@linkkijkl.fi**](mailto:vpj@linkkijkl.fi)
@@ -39,7 +39,7 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 {{< /column >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap "lari.webp" "200x" >}}
 ## Lari Nurkka
 #### Sihteeri
 #### TiTOL-yhteyshenkilö
@@ -50,7 +50,7 @@ Hallintotiimin tehtävä on pääsääntöisesti varmistaa ja työskennellä sen
 {{< /column >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap "ilkka.webp" "200x" >}}
 ## Ilkka Sario
 #### Rahastonhoitaja
 [**raha@linkkijkl.fi**](mailto:raha@linkkijkl.fi)
@@ -108,7 +108,7 @@ Projektitiimi vastaa suurempien kokonaisuuksien ja tapahtumien, kuten esimerkiks
 {{< /column >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap >}}
 ## Jami Virtanen
 #### Vuosijuhlakoordinaattori
 [**vujut@linkkijkl.fi**](mailto:vujut@linkkijkl.fi)
@@ -126,7 +126,7 @@ Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistykse
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap "olavi.webp" "200x" >}}
 ## Olavi Lahtinen
 #### Tapahtumapäällikkö
 [**tapahtuma@linkkijkl.fi**](mailto:tapahtuma@linkkijkl.fi)
@@ -137,7 +137,7 @@ Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistykse
 {{< /column >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap "anton.webp" "200x" >}}
 ## Anton Turpeinen
 #### Tapahtumapäällikkö
 [**tapahtuma@linkkijkl.fi**](mailto:tapahtuma@linkkijkl.fi)
@@ -199,7 +199,7 @@ Hyvinvointitiimin tehtävänä on huolehtia yhdistyksen jäsenien edunvalvonnast
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap "lauri.webp" "200x" >}}
 ## Lauri Leppänen
 #### Hyvinvointipäällikkö
 [**hyvinvointi@linkkijkl.fi**](mailto:hyvinvointi@linkkijkl.fi)
@@ -289,7 +289,7 @@ Mediatiimin tehtävänä on tiedottaa jäsenistöä yhdistyksen eri kanavissa ku
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap "ropa.webp" "200x" >}}
 ## Juho Ropanen
 #### Mediapäällikkö
 [**media@linkkijkl.fi**](mailto:media@linkkijkl.fi)
@@ -320,7 +320,7 @@ Mediatiimin tehtävänä on tiedottaa jäsenistöä yhdistyksen eri kanavissa ku
 {{< /column >}}
 
 {{< column >}}
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap >}}
 ## Mikael Garam
 #### Pilvivastaava
 
