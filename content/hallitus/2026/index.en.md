@@ -14,7 +14,7 @@ url = "board/2026"
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap "johannes.webp" "200x" >}}
 ## Johannes Horila
 #### Chairperson
 [**pj@linkkijkl.fi**](mailto:pj@linkkijkl.fi)
@@ -25,7 +25,7 @@ url = "board/2026"
 {{< /column >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap "jenna.webp" "200x" >}}
 ## Jenna Tykkyläinen
 #### Vice Chairperson
 [**vpj@linkkijkl.fi**](mailto:vpj@linkkijkl.fi)
@@ -36,7 +36,7 @@ url = "board/2026"
 {{< /column >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap "lari.webp" "200x" >}}
 ## Lari Nurkka
 #### Secretary
 #### TiTOL Coordinator
@@ -48,7 +48,7 @@ url = "board/2026"
 {{< /column >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap "ilkka.webp" "200x" >}}
 ## Ilkka Sario
 #### Treasurer
 [**raha@linkkijkl.fi**](mailto:raha@linkkijkl.fi)
@@ -102,7 +102,7 @@ url = "board/2026"
 {{< /column >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap >}}
 ## Jami Virtanen
 #### Anniversary Coordinator
 [**vujut@linkkijkl.fi**](mailto:vujut@linkkijkl.fi)
@@ -118,7 +118,7 @@ url = "board/2026"
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap "olavi.webp" "200x" >}}
 ## Olavi Lahtinen
 #### Event Coordinator
 [**tapahtuma@linkkijkl.fi**](mailto:tapahtuma@linkkijkl.fi)
@@ -129,7 +129,7 @@ url = "board/2026"
 {{< /column >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap "anton.webp" "200x" >}}
 ## Anton Turpeinen
 #### Event Coordinator
 [**tapahtuma@linkkijkl.fi**](mailto:tapahtuma@linkkijkl.fi)
@@ -192,7 +192,7 @@ url = "board/2026"
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap "lauri.webp" "200x" >}}
 ## Lauri Leppänen
 #### Wellness Coordinator
 [**hyvinvointi@linkkijkl.fi**](mailto:hyvinvointi@linkkijkl.fi)
@@ -205,6 +205,8 @@ url = "board/2026"
 {{< img-thumb-cap >}}
 ## Oskari Lahtinen
 #### Educational Policy Coordinator
+#### Mentor of Board (i.e. Old Marten)
+#### Student Overalls Coordinator
 [**kopo@linkkijkl.fi**](mailto:kopo@linkkijkl.fi)
 
 [Telegram: **@ikaros02**](https://t.me/ikaros02)
@@ -278,7 +280,7 @@ url = "board/2026"
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap "ropa.webp" "200x" >}}
 ## Juho Ropanen
 #### Media Coordinator
 [**media@linkkijkl.fi**](mailto:media@linkkijkl.fi)
@@ -309,7 +311,7 @@ url = "board/2026"
 {{< /column >}}
 
 {{< column >}}
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap >}}
 ## Mikael Garam
 #### Cloud Coordinator
 
