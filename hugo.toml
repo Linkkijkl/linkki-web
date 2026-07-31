@@ -10,6 +10,9 @@ pluralizeListTitles = false
 
 staticDir = ["static"]
 
+[security]
+        allowContent = ['.*']
+
 defaultContentLanguage = 'fi'
 [languages]
 
