@@ -69,7 +69,7 @@ Yritys- ja yhteistyötiimin tehtävänä on vaalia yhdistyksen yhteistyökumppan
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap "joonas.webp" "200x" >}}
 ## Joonas Niemi
 #### Yritys- ja yhteistyöpäällikkö
 #### TEK- ja Loimu-yhteyshenkilö
@@ -97,7 +97,7 @@ Projektitiimi vastaa suurempien kokonaisuuksien ja tapahtumien, kuten esimerkiks
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "placeholder.png" "200x" >}}
+{{< img-thumb-cap "santeri.webp" "200x" >}}
 ## Santeri Sormunen
 #### Projektipäällikkö
 [**projekti@linkkijkl.fi**](mailto:projekti@linkkijkl.fi)
