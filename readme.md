@@ -71,7 +71,7 @@ Take a look at open issues. From there you should find something to do.
 
 ### `hugo server` fails after git pull:
 
-Try running `yarn`, and make sure you have the extended edition of Hugo installed.
+Try running `yarn`, and make sure you have the extended edition version 0.164.0 of Hugo installed.
 
 ### Do I benefit from contributing?
 
