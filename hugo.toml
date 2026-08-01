@@ -448,7 +448,7 @@ home = ["html", "rss", "api-sponsors"]
 [params.clients]
     enable = true
     # All clients are defined in their own files. You can find example items
-    # at 'hugo/data/clients'.
+    # at 'exampleSite/data/clients'.
     # For more information take a look at the README.
 
 
