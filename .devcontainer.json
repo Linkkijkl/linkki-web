@@ -11,6 +11,7 @@
     },
     "features": {
         "ghcr.io/devcontainers/features/hugo:1": {
+            "version": "0.164.0",
             "extended": true
         },
         "ghcr.io/devcontainers/features/node:1": {},
