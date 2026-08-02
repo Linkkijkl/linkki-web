@@ -1,4 +1,5 @@
 FROM alpine:edge AS builder
+ARG HUGO_VERSION=0.164.0
 RUN apk update && apk add hugo npm
 RUN apk add dart-sass --repository=https://dl-cdn.alpinelinux.org/alpine/edge/testing
 # Install yarn and pagefind

@@ -23,7 +23,7 @@ After this there are a few options:
     - When the container is running, open a terminal in VSCode (`Ctrl` + `Shift` + `P`, search for `create new terminal`) and run `hugo server`.
 
 2. Use local development tools (in Unix compatible environments, like Linux or MacOS)
-    - Install [Hugo extended edition](https://gohugo.io/), [Yarn package manager](https://yarnpkg.com/) and [Dart Sass](https://sass-lang.com/dart-sass/).
+    - Install [Hugo extended edition version 0.164.0](https://gohugo.io/), [Yarn package manager](https://yarnpkg.com/) and [Dart Sass](https://sass-lang.com/dart-sass/).
 
     Then in project root run
 
@@ -71,7 +71,7 @@ Take a look at open issues. From there you should find something to do.
 
 ### `hugo server` fails after git pull:
 
-Try running `yarn`, and make sure you have the extended edition of Hugo installed.
+Try running `yarn`, and make sure you have the extended edition version 0.164.0 of Hugo installed.
 
 ### Do I benefit from contributing?
 

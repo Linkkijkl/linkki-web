@@ -2,6 +2,8 @@ baseURL = 'https://linkkijkl.fi'
 title = 'Linkki Jyväskylä ry.'
 enableInlineShortcodes = true
 
+defaultContentLanguage = 'fi'
+
 # Number of posts per page
 pagination.pagerSize = 10
 
@@ -13,19 +15,19 @@ staticDir = ["static"]
 [security]
         allowContent = ['.*']
 
-defaultContentLanguage = 'fi'
+
 [languages]
 
     [languages.fi]
         disabled = false
-        languageCode = 'fi'
-        languageName = 'Suomi'
+        locale = 'fi'
+        label = 'Suomi'
         weight = 1
 
     [languages.en]
         disabled = false
-        languageCode = 'en'
-        languageName = 'English'
+        locale = 'en'
+        label = 'English'
         weight = 2
 
 [outputs]
