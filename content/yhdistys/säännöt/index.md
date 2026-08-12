@@ -312,6 +312,35 @@ Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 6.3.2017, kohtaa 4§
 
 ---
 
+# {{% wrap "Ta/pah/tu/mi/en pe/li/sään/nöt" %}}
+
+**1§** Nämä säännöt koskevat kaikkia Linkki Jyväskylä ry:n tapahtumia, ellei tapahtumakuvauksessa toisin mainita.
+
+**2§** Linkki Jyväskylä ry:n tapahtumat ovat vain Linkki Jyväskylä ry:n jäsenille, ellei tapahtumakuvauksessa toisin mainita. Tähän poikkeuksen tekevät Jyväsmetro ja Instanssi, jotka ovat aina poikkitieteellisiä tapahtumia.
+
+**3§** Ostetun lipun saa jälleenmyydä vain henkilölle, jolla on oikeus osallistua tapahtumaan ja lipun jälleenmyynti ei saa tuottaa voittoa. 
+
+**4§** Ostamalla lipun sitoudut maksamaan lipun. Lipun maksu palautetaan vain silloin, kun tapahtuma perutaan.
+
+**5§** Linkki Jyväskylä ry:n järjestämiin tapahtumiin osallistutaan omalla vastuulla, eli tapahtuman järjestäjä ei ole vastuussa mahdollisista tapaturmista tai henkilökohtaisten esineiden häviämisestä tai hajoamisesta
+
+**6§** Tapahtumaan osallistumalla sitoudut korvaamaan aiheuttamasi materiaali- tai tilavahingot yhdistykselle.
+
+**7§** Mikäli saunatapahtumassa on sekavuoro, niin saunassa sekä paljussa on uimapukupakko. 
+
+**8§** Kaikissa tapahtumissa noudatetaan Linkki Jyväskylä ry:n yhdenvertaisuussuunnitelmaa sekä JYYn turvallisemman tilan periaatteita.
+
+**9§** Tapahtumissa kohdellaan aina muita kunnioittavasti ja osallistujan käytöksen tulee olla sellaista, että se ei häiritse muiden tapahtumakokemusta. Tämän lisäksi ketään ei saa painostaa alkoholin tai muiden päihteiden käyttöön.
+
+**10§** Näiden sääntöjen rikkominen voi aiheuttaa tapahtumasta poistamisen. Oikeus henkilön tapahtumasta poistamiseen on hallituksen jäsenillä sekä tapahtuman järjestäjillä.
+
+**11§** Sääntöjen toistuvasta tai törkeästä rikkomisesta hallitus voi kieltää henkilöä osallistumasta yhdistyksen tapahtumiin. Tällöin sääntöjä rikkoneelle henkilölle tulee antaa mahdollisuus tulla kuulluksi sekä päätöksen jälkeen ilmoittaa kirjallisesti henkilölle osallistumiskiellosta, sen perusteluista sekä kiellon kestosta.
+
+**12§** Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 17.3.2026 ja se on voimassa toistaiseksi. Tämän ohjesäännön muuttamisesta päättää yhdistyksen kokous yksinkertaisella äänten enemmistöllä.
+
+
+---
+
 
 # {{% wrap "Juh/la/nau/ha/oh/je/sään/tö" %}}
 
