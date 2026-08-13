@@ -314,29 +314,29 @@ Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 6.3.2017, kohtaa 4§
 
 # {{% wrap "Ta/pah/tu/mi/en pe/li/sään/nöt" %}}
 
-**1§** Nämä säännöt koskevat kaikkia Linkki Jyväskylä ry:n tapahtumia, ellei tapahtumakuvauksessa toisin mainita.
+**1 §** Nämä säännöt koskevat kaikkia Linkki Jyväskylä ry:n tapahtumia, ellei tapahtumakuvauksessa toisin mainita.
 
-**2§** Linkki Jyväskylä ry:n tapahtumat ovat vain Linkki Jyväskylä ry:n jäsenille, ellei tapahtumakuvauksessa toisin mainita. Tähän poikkeuksen tekevät Jyväsmetro ja Instanssi, jotka ovat aina poikkitieteellisiä tapahtumia.
+**2 §** Linkki Jyväskylä ry:n tapahtumat ovat vain Linkki Jyväskylä ry:n jäsenille, ellei tapahtumakuvauksessa toisin mainita. Tähän poikkeuksen tekevät Jyväsmetro ja Instanssi, jotka ovat aina poikkitieteellisiä tapahtumia.
 
-**3§** Ostetun lipun saa jälleenmyydä vain henkilölle, jolla on oikeus osallistua tapahtumaan ja lipun jälleenmyynti ei saa tuottaa voittoa. 
+**3 §** Ostetun lipun saa jälleenmyydä vain henkilölle, jolla on oikeus osallistua tapahtumaan ja lipun jälleenmyynti ei saa tuottaa voittoa. 
 
-**4§** Ostamalla lipun sitoudut maksamaan lipun. Lipun maksu palautetaan vain silloin, kun tapahtuma perutaan.
+**4 §** Ostamalla lipun sitoudut maksamaan lipun. Lipun maksu palautetaan vain silloin, kun tapahtuma perutaan.
 
-**5§** Linkki Jyväskylä ry:n järjestämiin tapahtumiin osallistutaan omalla vastuulla, eli tapahtuman järjestäjä ei ole vastuussa mahdollisista tapaturmista tai henkilökohtaisten esineiden häviämisestä tai hajoamisesta
+**5 §** Linkki Jyväskylä ry:n järjestämiin tapahtumiin osallistutaan omalla vastuulla, eli tapahtuman järjestäjä ei ole vastuussa mahdollisista tapaturmista tai henkilökohtaisten esineiden häviämisestä tai hajoamisesta
 
-**6§** Tapahtumaan osallistumalla sitoudut korvaamaan aiheuttamasi materiaali- tai tilavahingot yhdistykselle.
+**6 §** Tapahtumaan osallistumalla sitoudut korvaamaan aiheuttamasi materiaali- tai tilavahingot yhdistykselle.
 
-**7§** Mikäli saunatapahtumassa on sekavuoro, niin saunassa sekä paljussa on uimapukupakko. 
+**7 §** Mikäli saunatapahtumassa on sekavuoro, niin saunassa sekä paljussa on uimapukupakko. 
 
-**8§** Kaikissa tapahtumissa noudatetaan Linkki Jyväskylä ry:n yhdenvertaisuussuunnitelmaa sekä JYYn turvallisemman tilan periaatteita.
+**8 §** Kaikissa tapahtumissa noudatetaan Linkki Jyväskylä ry:n yhdenvertaisuussuunnitelmaa sekä JYYn turvallisemman tilan periaatteita.
 
-**9§** Tapahtumissa kohdellaan aina muita kunnioittavasti ja osallistujan käytöksen tulee olla sellaista, että se ei häiritse muiden tapahtumakokemusta. Tämän lisäksi ketään ei saa painostaa alkoholin tai muiden päihteiden käyttöön.
+**9 §** Tapahtumissa kohdellaan aina muita kunnioittavasti ja osallistujan käytöksen tulee olla sellaista, että se ei häiritse muiden tapahtumakokemusta. Tämän lisäksi ketään ei saa painostaa alkoholin tai muiden päihteiden käyttöön.
 
-**10§** Näiden sääntöjen rikkominen voi aiheuttaa tapahtumasta poistamisen. Oikeus henkilön tapahtumasta poistamiseen on hallituksen jäsenillä sekä tapahtuman järjestäjillä.
+**10 §** Näiden sääntöjen rikkominen voi aiheuttaa tapahtumasta poistamisen. Oikeus henkilön tapahtumasta poistamiseen on hallituksen jäsenillä sekä tapahtuman järjestäjillä.
 
-**11§** Sääntöjen toistuvasta tai törkeästä rikkomisesta hallitus voi kieltää henkilöä osallistumasta yhdistyksen tapahtumiin. Tällöin sääntöjä rikkoneelle henkilölle tulee antaa mahdollisuus tulla kuulluksi sekä päätöksen jälkeen ilmoittaa kirjallisesti henkilölle osallistumiskiellosta, sen perusteluista sekä kiellon kestosta.
+**11 §** Sääntöjen toistuvasta tai törkeästä rikkomisesta hallitus voi kieltää henkilöä osallistumasta yhdistyksen tapahtumiin. Tällöin sääntöjä rikkoneelle henkilölle tulee antaa mahdollisuus tulla kuulluksi sekä päätöksen jälkeen ilmoittaa kirjallisesti henkilölle osallistumiskiellosta, sen perusteluista sekä kiellon kestosta.
 
-**12§** Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 17.3.2026 ja se on voimassa toistaiseksi. Tämän ohjesäännön muuttamisesta päättää yhdistyksen kokous yksinkertaisella äänten enemmistöllä.
+**12 §** Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 17.3.2026 ja se on voimassa toistaiseksi. Tämän ohjesäännön muuttamisesta päättää yhdistyksen kokous yksinkertaisella äänten enemmistöllä.
 
 
 ---
@@ -344,25 +344,25 @@ Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 6.3.2017, kohtaa 4§
 
 # {{% wrap "Juh/la/nau/ha/oh/je/sään/tö" %}}
 
-**1§** Linkki Jyväskylä ry:llä on ainejärjestönauha, joita käytetään ylioppilaskuntanauhan tavoin akateemisissa juhlatilaisuuksissa ja yhdistystä edustaessa. Jokaisella yhdistyksen jäsenellä on ainejärjestönauhan käyttöoikeus ja nauhan voi ostaa suoraan yhdistykseltä.
+**1 §** Linkki Jyväskylä ry:llä on ainejärjestönauha, joita käytetään ylioppilaskuntanauhan tavoin akateemisissa juhlatilaisuuksissa ja yhdistystä edustaessa. Jokaisella yhdistyksen jäsenellä on ainejärjestönauhan käyttöoikeus ja nauhan voi ostaa suoraan yhdistykseltä.
 
-**2§** Ainejärjestönauha on 30 mm leveä ja sen värit ovat järjestyksessä sininen ja hopea. Nauhan mitat ovat ylhäältä alas lukien 22 mm ja 8 mm. 
+**2 §** Ainejärjestönauha on 30 mm leveä ja sen värit ovat järjestyksessä sininen ja hopea. Nauhan mitat ovat ylhäältä alas lukien 22 mm ja 8 mm. 
 
-**3§** Ainejärjestönauhaa kannetaan siten, että frakkia tai tummaa pukua käytettäessä nauha kulkee oikealta olkapäältä rinnan yli vasemmalle lantiolle, hopeinen väri alaspäin. Ainejärjestönauha kulkee frakkia käyttäessä liivin alla ja tummaa pukua käyttäessä liivin ja solmion päällä. Iltapukua käyttäessä ainejärjestönauha taitellaan ruusukkeeksi siten, että harmaa väri jää taitellessa vasemmalle puolelle. Tällöin ruusuke asetetaan vasemmalle puolen rintaa siten, että harmaa väri jää alaspäin. Ainejärjestönauha ei saa koskea paljasta ihoa.
+**3 §** Ainejärjestönauhaa kannetaan siten, että frakkia tai tummaa pukua käytettäessä nauha kulkee oikealta olkapäältä rinnan yli vasemmalle lantiolle, hopeinen väri alaspäin. Ainejärjestönauha kulkee frakkia käyttäessä liivin alla ja tummaa pukua käyttäessä liivin ja solmion päällä. Iltapukua käyttäessä ainejärjestönauha taitellaan ruusukkeeksi siten, että harmaa väri jää taitellessa vasemmalle puolelle. Tällöin ruusuke asetetaan vasemmalle puolen rintaa siten, että harmaa väri jää alaspäin. Ainejärjestönauha ei saa koskea paljasta ihoa.
 
-**4§** Linkki Jyväskylä ry:n hallituksen jäsenillä sekä kunniajäsenillä on oikeus käyttää ansionauhaa, jonka leveys on 45mm ja sen värit ovat järjestyksessä sininen ja hopea. Nauhan mitat ovat ylhäältä alas 25mm ja 20mm. Ansionauhan käyttöoikeus on elinikäinen ja ansionauha luovutetaan veloituksetta.
+**4 §** Linkki Jyväskylä ry:n hallituksen jäsenillä sekä kunniajäsenillä on oikeus käyttää ansionauhaa, jonka leveys on 45mm ja sen värit ovat järjestyksessä sininen ja hopea. Nauhan mitat ovat ylhäältä alas 25mm ja 20mm. Ansionauhan käyttöoikeus on elinikäinen ja ansionauha luovutetaan veloituksetta.
 
-**5§** Käytettäessä ainejärjestö- tai ansionauhaa tulee muun pukeutumisen olla tilaisuuden ja nauhan arvolle sopivaa.
+**5 §** Käytettäessä ainejärjestö- tai ansionauhaa tulee muun pukeutumisen olla tilaisuuden ja nauhan arvolle sopivaa.
 
-**6§** Linkki Jyväskylä ry:n omissa tilaisuuksissa ainejärjestönauhaa kannetaan ylimpänä, mikäli kantajalla on myös muiden organisaatioiden nauhoja. Istuvalla hallituksella ansionauha tulee aina olla ylimpänä, mikäli kantajalla on myös muiden organisaatioiden nauhoja.
+**6 §** Linkki Jyväskylä ry:n omissa tilaisuuksissa ainejärjestönauhaa kannetaan ylimpänä, mikäli kantajalla on myös muiden organisaatioiden nauhoja. Istuvalla hallituksella ansionauha tulee aina olla ylimpänä, mikäli kantajalla on myös muiden organisaatioiden nauhoja.
 
-**7§** Ansionauhan kanssa on oikeus kantaa Linkin kultaista ansiomerkkiä. Ansiomerkki on Linkin tunnuksen muotoinen (halkaisija 28 mm) kullattu pinssi. Frakkia tai tummaa pukua käytettäessä merkkiä kannetaan siten, että se on kiinnitetty ansionauhaan keskelle rintaa vaakasuoraan. Iltapukua käytettäessä merkkiä kannetaan keskellä ansionauhasta taiteltua ruusuketta. Ansiomerkin käyttöoikeus ansionauhassa on elinikäinen.
+**7 §** Ansionauhan kanssa on oikeus kantaa Linkin kultaista ansiomerkkiä. Ansiomerkki on Linkin tunnuksen muotoinen (halkaisija 28 mm) kullattu pinssi. Frakkia tai tummaa pukua käytettäessä merkkiä kannetaan siten, että se on kiinnitetty ansionauhaan keskelle rintaa vaakasuoraan. Iltapukua käytettäessä merkkiä kannetaan keskellä ansionauhasta taiteltua ruusuketta. Ansiomerkin käyttöoikeus ansionauhassa on elinikäinen.
 
-**8§** Kunniajäsenillä on oikeus käyttää ansionauhan kanssa Linkin kunniamerkkiä. Kunniamerkki on Linkin tunnuksen muotoinen (halkaisija 42 mm) kullattu pinssi. Frakkia tai tummaa pukua käytettäessä merkkiä kannetaan siten, että se on kiinnitetty ansionauhaan keskelle rintaa vaakasuoraan. Iltapukua käytettäessä merkkiä kannetaan keskellä ansionauhasta taiteltua ruusuketta. Kunniamerkin käyttöoikeus ansionauhassa on elinikäinen.
+**8 §** Kunniajäsenillä on oikeus käyttää ansionauhan kanssa Linkin kunniamerkkiä. Kunniamerkki on Linkin tunnuksen muotoinen (halkaisija 42 mm) kullattu pinssi. Frakkia tai tummaa pukua käytettäessä merkkiä kannetaan siten, että se on kiinnitetty ansionauhaan keskelle rintaa vaakasuoraan. Iltapukua käytettäessä merkkiä kannetaan keskellä ansionauhasta taiteltua ruusuketta. Kunniamerkin käyttöoikeus ansionauhassa on elinikäinen.
 
-**9§** Mikäli jäsenellä on useampi yhdistyksen ansiomerkeistä, kiinnitetään ne ansionauhaan seuraavassa järjestyksessä ylhäältä alaspäin: kunniamerkki, kultainen ansiomerkki, hopeinen ansiomerkki. Ansiomerkit tulee asettaa nauhaan siten, että ne keskittyvät keskikohtaan riippumatta ansiomerkkien määrästä. Ruusuketta käytettäessä mikäli kantajalla on kunniamerkki, vain kunniamerkki kiinnitetään ruusukkeeseen ja mahdolliset ansiomerkit kiinnitetään ruusukkeen alapuolelle keskitetysti siten, että vasemmalla on kultainen ansiomerkki ja oikealla hopeinen ansiomerkki. Mikäli kantajalla on kaksi ansiomerkkiä, niin kultainen asetetaan ruusukkeeseen ja hopeinen ruusukkeen alapuolelle keskitetysti.
+**9 §** Mikäli jäsenellä on useampi yhdistyksen ansiomerkeistä, kiinnitetään ne ansionauhaan seuraavassa järjestyksessä ylhäältä alaspäin: kunniamerkki, kultainen ansiomerkki, hopeinen ansiomerkki. Ansiomerkit tulee asettaa nauhaan siten, että ne keskittyvät keskikohtaan riippumatta ansiomerkkien määrästä. Ruusuketta käytettäessä mikäli kantajalla on kunniamerkki, vain kunniamerkki kiinnitetään ruusukkeeseen ja mahdolliset ansiomerkit kiinnitetään ruusukkeen alapuolelle keskitetysti siten, että vasemmalla on kultainen ansiomerkki ja oikealla hopeinen ansiomerkki. Mikäli kantajalla on kaksi ansiomerkkiä, niin kultainen asetetaan ruusukkeeseen ja hopeinen ruusukkeen alapuolelle keskitetysti.
 
-**10§** Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 6.3.2017 ja muokattu kohtaa 4§ yhdistyksen ylimääräisessä kokouksessa 24.1.2018 ja uudistettu yhdistyksen kokouksessa 30.10.2025 ja se on voimassa toistaiseksi. Tämän ohjesäännön muuttamisesta päättää yhdistyksen kokous yksinkertaisella äänten enemmistöllä.
+**10 §** Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 6.3.2017 ja muokattu kohtaa 4§ yhdistyksen ylimääräisessä kokouksessa 24.1.2018 ja uudistettu yhdistyksen kokouksessa 30.10.2025 ja se on voimassa toistaiseksi. Tämän ohjesäännön muuttamisesta päättää yhdistyksen kokous yksinkertaisella äänten enemmistöllä.
 
 ---
 
@@ -371,35 +371,35 @@ Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 6.3.2017, kohtaa 4§
 
 #### Kunniamaininta
 
-**1§** Linkki Jyväskylä ry:llä on akateeminen ansiomerkki, jonka yhdistyksen hallitus voi myöntää ansioituneelle Linkki Jyväskylä ry:n jäsenelle. Ansiomerkkiä ei voida myöntää istuvan hallituksen jäsenelle, pois lukien vuoden linkkarille jaettava merkki. Ansiomerkki voidaan myöntää myös yhdistyksen entiselle jäsenelle, joka on toiminut ansiokkaasti yhdistyksen hyväksi myös yhdistyksestä eroamisen jälkeen. Ansiomerkki on kooltaan 28 mm ja väriltään hopeinen.
+**1 §** Linkki Jyväskylä ry:llä on akateeminen ansiomerkki, jonka yhdistyksen hallitus voi myöntää ansioituneelle Linkki Jyväskylä ry:n jäsenelle. Ansiomerkkiä ei voida myöntää istuvan hallituksen jäsenelle, pois lukien vuoden linkkarille jaettava merkki. Ansiomerkki voidaan myöntää myös yhdistyksen entiselle jäsenelle, joka on toiminut ansiokkaasti yhdistyksen hyväksi myös yhdistyksestä eroamisen jälkeen. Ansiomerkki on kooltaan 28 mm ja väriltään hopeinen.
 
-**2§** Ansiomerkkejä voidaan myöntää vuoden aikana korkeintaan kolme ansiomerkkiä Linkki Jyväskylä ry:n jäsenille tai entisille jäsenille, joista yksi voidaan myöntää vuoden linkkari – äänestyksen voittaneelle henkilölle. Hallitus voi hyvin perustelluista syistä jättää antamatta vuoden linkkari merkin eniten ääniä saaneelle henkilön erityisen painavista syistä ja antaa sen seuraavaksi eniten ääniä saaneelle. Yhdistyksen hallituksen on pidettävä rekisteriä ansiomerkin saajista ja myöntämisajankohdista.
+**2 §** Ansiomerkkejä voidaan myöntää vuoden aikana korkeintaan kolme ansiomerkkiä Linkki Jyväskylä ry:n jäsenille tai entisille jäsenille, joista yksi voidaan myöntää vuoden linkkari – äänestyksen voittaneelle henkilölle. Hallitus voi hyvin perustelluista syistä jättää antamatta vuoden linkkari merkin eniten ääniä saaneelle henkilön erityisen painavista syistä ja antaa sen seuraavaksi eniten ääniä saaneelle. Yhdistyksen hallituksen on pidettävä rekisteriä ansiomerkin saajista ja myöntämisajankohdista.
 
-**3§** Vuoden linkkari äänestetään vuosittain marraskuussa ja äänestysaika on 3 viikkoa. Äänioikeutettuja ovat kaikki Linkki Jyväskylä ry:n jäsenet. Äänestyksestä tulee tiedottaa jäsenistölle sähköpostilla ja Linkin nettisivuilla.
+**3 §** Vuoden linkkari äänestetään vuosittain marraskuussa ja äänestysaika on 3 viikkoa. Äänioikeutettuja ovat kaikki Linkki Jyväskylä ry:n jäsenet. Äänestyksestä tulee tiedottaa jäsenistölle sähköpostilla ja Linkin nettisivuilla.
 
-**4§** Ansiomerkin myöntämisperusteena on jäsenen osoittama työ Linkki Jyväskylä ry:n hyväksi. Myöntämisen yhteydessä hallituksen on yksilöitävä myöntämisperusteet, jotka on arkistoitava.
+**4 §** Ansiomerkin myöntämisperusteena on jäsenen osoittama työ Linkki Jyväskylä ry:n hyväksi. Myöntämisen yhteydessä hallituksen on yksilöitävä myöntämisperusteet, jotka on arkistoitava.
 
-**5§** Myönnetyt ansiomerkit luovutetaan saajilleen seuraavissa yhdistyksen vuosijuhlissa, vuosijuhlasitseillä tai muussa hallituksen sopivaksi katsomassa arvokkaassa tilaisuudessa.
+**5 §** Myönnetyt ansiomerkit luovutetaan saajilleen seuraavissa yhdistyksen vuosijuhlissa, vuosijuhlasitseillä tai muussa hallituksen sopivaksi katsomassa arvokkaassa tilaisuudessa.
 
 #### Kunniajäsenyys
 
-**6§** Linkki Jyväskylä ry:llä on akateeminen kunniajäsenmerkki, jonka yhdistyksen hallitus voi myöntää vain Linkki Jyväskylä ry:n kunniajäsenelle. Merkki voidaan myöntää kunniajäseneksi myöntämisen yhteydessä tai takautuvasti kunniajäsenelle.
+**6 §** Linkki Jyväskylä ry:llä on akateeminen kunniajäsenmerkki, jonka yhdistyksen hallitus voi myöntää vain Linkki Jyväskylä ry:n kunniajäsenelle. Merkki voidaan myöntää kunniajäseneksi myöntämisen yhteydessä tai takautuvasti kunniajäsenelle.
 
 Ansiomerkki voidaan myöntää myös yhdistyksen entiselle jäsenelle. Ansiomerkki on kooltaan 42 mm ja väriltään kultainen.
 
-**7§** Ansiomerkkejä voidaan myöntää vuoden aikana korkeintaan yksi, poislukien takautuvasti myönnetyt ansiomerkit yhdistyksen aikaisempien hallitusten päättämille kunniajäsenille. Yhdistyksen hallituksen on pidettävä rekisteriä ansiomerkin saajista ja myöntämisajankohdista.
+**7 §** Ansiomerkkejä voidaan myöntää vuoden aikana korkeintaan yksi, poislukien takautuvasti myönnetyt ansiomerkit yhdistyksen aikaisempien hallitusten päättämille kunniajäsenille. Yhdistyksen hallituksen on pidettävä rekisteriä ansiomerkin saajista ja myöntämisajankohdista.
 
-**8§** Myönnetyt ansiomerkit luovutetaan saajilleen seuraavissa yhdistyksen vuosijuhlissa, vuosijuhlasitseillä tai muussa hallituksen sopivaksi katsomassa arvokkaassa tilaisuudessa.
+**8 §** Myönnetyt ansiomerkit luovutetaan saajilleen seuraavissa yhdistyksen vuosijuhlissa, vuosijuhlasitseillä tai muussa hallituksen sopivaksi katsomassa arvokkaassa tilaisuudessa.
 
 #### Hallitusmerkit
 
-**9§** Linkki Jyväskylä ry:llä on akateeminen hallitusmerkki, joka myönnetään käyttöön yhdistyksen hallituksen jäsenille. Ansiomerkki voidaan myöntää myös yhdistyksen hallituksen entiselle jäsenelle. Ansiomerkki on kooltaan 28 mm ja väriltään kultainen.
+**9 §** Linkki Jyväskylä ry:llä on akateeminen hallitusmerkki, joka myönnetään käyttöön yhdistyksen hallituksen jäsenille. Ansiomerkki voidaan myöntää myös yhdistyksen hallituksen entiselle jäsenelle. Ansiomerkki on kooltaan 28 mm ja väriltään kultainen.
 
 #### Yleisiä ohjeita
 
-**10§** Kaikkien Linkki Jyväskylä ry:n myöntämien ansiomerkkien käyttöoikeus on elinikäinen.
+**10 §** Kaikkien Linkki Jyväskylä ry:n myöntämien ansiomerkkien käyttöoikeus on elinikäinen.
 
-**11§** Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 6.3.2017 ja muokattu kohtia 4§ ja 7§  yhdistyksen ylimääräisessä kokouksessa 24.1.2018 sekä lisätty kohta 3§ ja muokattu kohtia 1§ ja 2§ yhdistyksen ylimääräisessä kokouksessa 29.1.2019. Se on voimassa toistaiseksi. Tämän ohjesäännön muuttamisesta päättää yhdistyksen kokous yksinkertaisella äänten enemmistöllä.
+**11 §** Tämä ohjesääntö on hyväksytty yhdistyksen kokouksessa 6.3.2017 ja muokattu kohtia 4§ ja 7§  yhdistyksen ylimääräisessä kokouksessa 24.1.2018 sekä lisätty kohta 3§ ja muokattu kohtia 1§ ja 2§ yhdistyksen ylimääräisessä kokouksessa 29.1.2019. Se on voimassa toistaiseksi. Tämän ohjesäännön muuttamisesta päättää yhdistyksen kokous yksinkertaisella äänten enemmistöllä.
 
 
 ---
