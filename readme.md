@@ -73,6 +73,8 @@ Take a look at open issues. From there you should find something to do.
 
 Try running `yarn`, and make sure you have the extended edition version 0.164.0 of Hugo installed.
 
+If the error ends with `error calling imageConfig: image: unknown format` run `git-lfs install` followed by `git-lfs pull`.
+
 ### Do I benefit from contributing?
 
 Yes! If you make (a) useful contribution(s) to this repo, you may
