@@ -1,7 +1,7 @@
-weight: 2
+weight: 0
 title: "Are you a new student?"
 description: >
   <p>Take a look at our guide for new students.</p>
 image: "img/linkkiukkeli-perus-istuu.webp"
 href: "/fuksit/"
-hide: true
+hide: false

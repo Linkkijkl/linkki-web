@@ -1,7 +1,7 @@
-weight: 2
+weight: 0
 title: "Oletko uusi opiskelija?"
 description: >
   <p>Katso täältä uuden opiskelijan opas.</p>
 image: "img/linkkiukkeli-perus-istuu.webp"
 href: "/fuksit/"
-hide: true
+hide: false
