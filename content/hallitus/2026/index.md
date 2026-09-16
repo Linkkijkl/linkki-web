@@ -126,17 +126,6 @@ Tapahtumatiimin tehtävänä on ideoida, organisoida, sekä toteuttaa yhdistykse
 {{< row >}}
 {{< column >}}
 
-{{< img-thumb-cap "olavi.webp" "200x" >}}
-## Olavi Lahtinen
-#### Tapahtumapäällikkö
-[**tapahtuma@linkkijkl.fi**](mailto:tapahtuma@linkkijkl.fi)
-
-[Telegram: **@zzuol**](https://t.me/zzuol)
-{{< /img-thumb-cap >}}
-
-{{< /column >}}
-{{< column >}}
-
 {{< img-thumb-cap "anton.webp" "200x" >}}
 ## Anton Turpeinen
 #### Tapahtumapäällikkö
