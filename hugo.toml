@@ -64,12 +64,12 @@ home = ["html", "rss", "api-sponsors"]
     weight = 2
 
 
-[[languages.fi.menus.main]]
-    name = "Järjestön historia"
-    identifier = "menu.historia"
-    url = "/historia/"
-    parent = "menu.yhdistys"
-    weight = 3
+#[[languages.fi.menus.main]]
+#    name = "Järjestön historia"
+#    identifier = "menu.historia"
+#    url = "/historia/"
+#    parent = "menu.yhdistys"
+#    weight = 3
 
 
 [[languages.fi.menus.main]]
@@ -117,12 +117,22 @@ home = ["html", "rss", "api-sponsors"]
     parent = "menu.toiminta"
     weight = 1
 
+
 #[[languages.fi.menus.main]]
 #    name = "Vappu 2025"
 #    identifier = "menu.vappu"
 #    url = "/blog/vappu2025"
 #    parent = "menu.toiminta"
 #    weight = 1
+
+
+[[languages.fi.menus.main]]
+    name = "Jäsenlehti A href"
+    identifier = "menu.ahref"
+    url = "/a-href/"
+    parent = "menu.toiminta"
+    weight = 1
+
 
 [[languages.fi.menus.main]]
     name = "Kattila"
@@ -188,18 +198,65 @@ home = ["html", "rss", "api-sponsors"]
 
 
 [[languages.fi.menus.main]]
-    name = "Blogi"
-    identifier = "menu.blog"
-    url = "/blog/"
+    name = "Muut sivut"
+    identifier = "menu.muut"
     weight = 5
 
 
 [[languages.fi.menus.main]]
-    name = "A href"
-    identifier = "menu.ahref"
-    url = "/a-href/"
+    name = "Postaukset"
+    identifier = "menu.postaukset"
+    url = "/postaukset/"
+    parent = "menu.muut"
+    weight = 2
+
+
+[[languages.fi.menus.main]]
+    name = "Kattilan kahvikamera"
+    identifier = "menu.kahvikamera"
+    url = "https://kattila.linkkijkl.fi"
+    parent = "menu.muut"
+    weight = 3
+
+
+[[languages.fi.menus.main]]
+    name = "Kuvagalleria"
+    identifier = "menu.kuvat"
+    url = "https://kuvat.linkkijkl.fi"
+    parent = "menu.muut"
+    weight = 4
+
+
+[[languages.fi.menus.main]]
+    name = "Jyväsmetro"
+    identifier = "menu.metro"
+    url = "https://jyvasmetro.fi"
+    parent = "menu.muut"
+    weight = 5
+
+
+[[languages.fi.menus.main]]
+    name = "Vuosijuhlat"
+    identifier = "menu.vujut"
+    url = "https://vujut.linkkijkl.fi"
+    parent = "menu.muut"
     weight = 6
 
+
+[[languages.fi.menus.main]]
+    name = "Minecraft-palvelin"
+    identifier = "menu.minecraft"
+    url = "https://mine.linkkijkl.fi"
+    parent = "menu.muut"
+    weight = 7
+
+
+[[languages.fi.menus.main]]
+    name = "Infonäyttö"
+    identifier = "menu.info"
+    url = "https://event.linkkijkl.fi"
+    parent = "menu.muut"
+    weight = 8
 
 
 [languages.en.menus]
@@ -273,11 +330,20 @@ home = ["html", "rss", "api-sponsors"]
 
 
 [[languages.en.menus.main]]
+    name = "Member Magazine A Href"
+    identifier = "menu.ahref"
+    url = "/en/a-href/"
+    parent = "menu.toiminta"
+    weight = 1
+
+
+[[languages.en.menus.main]]
     name = "Events"
     identifier = "menu.tapahtumat"
     url = "/en/events/"
     parent = "menu.toiminta"
-    weight = 1
+    weight = 2
+
 
 #[[languages.en.menus.main]]
 #    name = "Vappu 2025"
@@ -286,12 +352,13 @@ home = ["html", "rss", "api-sponsors"]
 #    parent = "menu.toiminta"
 #    weight = 1
 
+
 [[languages.en.menus.main]]
-    name = "Kattila"
+    name = "Association Space Kattila"
     identifier = "menu.kattila"
     url = "/en/kattila/"
     parent = "menu.toiminta"
-    weight = 2
+    weight = 3
 
 
 [[languages.en.menus.main]]
@@ -299,7 +366,7 @@ home = ["html", "rss", "api-sponsors"]
     identifier = "menu.tenttiarkisto"
     url = "/en/exam-archive/"
     parent = "menu.toiminta"
-    weight = 3
+    weight = 4
 
 
 [[languages.en.menus.main]]
@@ -307,7 +374,7 @@ home = ["html", "rss", "api-sponsors"]
     identifier = "menu.vuokraus"
     url = "/en/equipment-rental/"
     parent = "menu.toiminta"
-    weight = 4
+    weight = 5
 
 
 [[languages.en.menus.main]]
@@ -315,7 +382,7 @@ home = ["html", "rss", "api-sponsors"]
     identifier = "menu.haalarimerkit"
     url = "/en/overall-patches/"
     parent = "menu.toiminta"
-    weight = 5
+    weight = 6
 
 
 [[languages.en.menus.main]]
@@ -323,15 +390,15 @@ home = ["html", "rss", "api-sponsors"]
     identifier = "menu.keskustelukanavat"
     url = "/en/chat/"
     parent = "menu.toiminta"
-    weight = 6
+    weight = 7
 
 
 [[languages.en.menus.main]]
-    name = "Book club"
+    name = "Book Club"
     identifier = "menu.lukupiiri"
     url = "/book-club/"
     parent = "menu.toiminta"
-    weight = 7
+    weight = 8
 
 
 [[languages.en.menus.main]]
@@ -339,7 +406,7 @@ home = ["html", "rss", "api-sponsors"]
     identifier = "menu.fuksit"
     url = "/en/fuksit/"
     parent = "menu.toiminta"
-    weight = 8
+    weight = 9
 
 
 [[languages.en.menus.main]]
@@ -350,18 +417,65 @@ home = ["html", "rss", "api-sponsors"]
 
 
 [[languages.en.menus.main]]
-    name = "Blog"
-    identifier = "menu.blog"
-    url = "/en/blog/"
+    name = "More"
+    identifier = "menu.muut"
     weight = 5
 
 
 [[languages.en.menus.main]]
-    name = "A href"
-    identifier = "menu.ahref"
-    url = "/en/a-href/"
+    name = "Updates"
+    identifier = "menu.postaukset"
+    url = "/updates/"
+    parent = "menu.muut"
+    weight = 2
+
+
+[[languages.en.menus.main]]
+    name = "Kattila's Coffe Cam"
+    identifier = "menu.kahvikamera"
+    url = "https://kattila.linkkijkl.fi/en"
+    parent = "menu.muut"
+    weight = 3
+
+
+[[languages.en.menus.main]]
+    name = "Gallery"
+    identifier = "menu.kuvat"
+    url = "https://kuvat.linkkijkl.fi"
+    parent = "menu.muut"
+    weight = 4
+
+
+[[languages.en.menus.main]]
+    name = "Jyväsmetro"
+    identifier = "menu.metro"
+    url = "https://jyvasmetro.fi/en"
+    parent = "menu.muut"
+    weight = 5
+
+
+[[languages.en.menus.main]]
+    name = "Annual Gala"
+    identifier = "menu.vujut"
+    url = "https://vujut.linkkijkl.fi"
+    parent = "menu.muut"
     weight = 6
 
+
+[[languages.en.menus.main]]
+    name = "Minecraft server"
+    identifier = "menu.minecraft"
+    url = "https://mine.linkkijkl.fi"
+    parent = "menu.muut"
+    weight = 7
+
+
+[[languages.en.menus.main]]
+    name = "Info screen"
+    identifier = "menu.info"
+    url = "https://event.linkkijkl.fi"
+    parent = "menu.muut"
+    weight = 8
 
 
 [params]
