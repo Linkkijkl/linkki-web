@@ -11,3 +11,6 @@ node_modules/
 
 # Node modules linking directory (see link-node-dependencies.sh)
 assets/node/
+
+# Devcontainer package lock, which is not relevant to this project
+.devcontainer-lock.json
