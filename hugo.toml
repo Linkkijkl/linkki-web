@@ -181,13 +181,20 @@ home = ["html", "rss", "api-sponsors"]
     parent = "menu.toiminta"
     weight = 7
 
+[[languages.fi.menus.main]]
+    name = "Pelipiiri"
+    identifier = "menu.pelipiiri"
+    url = "/pelipiiri/"
+    parent = "menu.toiminta"
+    weight = 8
+
 
 [[languages.fi.menus.main]]
     name = "Uudelle opiskelijalle"
     identifier = "menu.fuksit"
     url = "/fuksit/"
     parent = "menu.toiminta"
-    weight = 8
+    weight = 9
 
 
 [[languages.fi.menus.main]]
@@ -396,9 +403,16 @@ home = ["html", "rss", "api-sponsors"]
 [[languages.en.menus.main]]
     name = "Book Club"
     identifier = "menu.lukupiiri"
-    url = "/book-club/"
+    url = "/en/book-club/"
     parent = "menu.toiminta"
     weight = 8
+
+[[languages.en.menus.main]]
+    name = "Game Club"
+    identifier = "menu.pelipiiri"
+    url = "/en/game-club/"
+    parent = "menu.toiminta"
+    weight = 9
 
 
 [[languages.en.menus.main]]
@@ -406,7 +420,7 @@ home = ["html", "rss", "api-sponsors"]
     identifier = "menu.fuksit"
     url = "/en/fuksit/"
     parent = "menu.toiminta"
-    weight = 9
+    weight = 10
 
 
 [[languages.en.menus.main]]
