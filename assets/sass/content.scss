@@ -41,6 +41,33 @@
     font-size: 1.1em;
 }
 
+// Markdown tables
+#post-content table {
+    // Scroll horizontally on narrow screens instead of overflowing the page
+    display: block;
+    max-width: 100%;
+    overflow-x: auto;
+    width: fit-content;
+    border-collapse: collapse;
+    margin-bottom: 1.5em;
+
+    th,
+    td {
+        // currentColor-based border adapts to both light and dark themes
+        border: 1px solid color-mix(in srgb, currentColor 30%, transparent);
+        padding: 0.4em 0.9em;
+    }
+
+    thead th {
+        background-color: var(--background2);
+        font-weight: 700;
+    }
+
+    tbody tr:nth-child(even) {
+        background-color: color-mix(in srgb, currentColor 5%, transparent);
+    }
+}
+
 #TableOfContents {
     font-weight: 800;
     margin-bottom: 2em;
