@@ -1,8 +1,8 @@
 +++
-title = "Lukupiiri"
+title = "Book Club"
 description = ""
-keywords = ["tapahtumat", "lukupiiri"]
-url = "lukupiiri"
+keywords = ["events", "book club"]
+url = "book-club"
 +++
 
 Linkki's book club gathers about once a month to discuss a chosen work. Gathering times and book suggestions are discussed in the [book club's telegram group](https://t.me/+SFwSBN8MrGNkMDA0). Gatherings have mostly been held on sundays at Musta Kynnys.
