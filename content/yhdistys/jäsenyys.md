@@ -37,7 +37,7 @@ pääaine-, sivuaine- tai jatko-opiskelija, joka hyväksyy yhdistyksen
 säännöt sekä tavoitteet.
 
 - *Aktiiviksi* haku tapahtuu oheisen
-[LOMAKKEEN](https://r.jyu.fi/aktiivihaku) kautta.
+[AKTIIVIHAKULOMAKKEEN](https://forms.gle/xemj9gFMdiwxyrQE8) kautta.
 
 - *Kannatusjäseneksi* ei ole tällä hetkellä mahdollista liittyä.
 <!---
