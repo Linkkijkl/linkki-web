@@ -5,8 +5,11 @@ description = "Linkin Hallitus 2020"
 keywords = ["hallitus", "2020"]
 categories = ["hallitukset"]
 authors = ["Riina Kokkonen", "Jari Haapasaari", "Maiju Velkeinen", "Henrik Korhonen", "Joonas Rautiainen", "Lauri Määttä", "Ella Ilen", "Otto Virtanen", "Niko Sihvo"]
+banner = "/img/hallitukset/hallitus2020.jpg"
 summary = " "
 +++
+
+![Hallitus 2020](/img/hallitukset/hallitus2020.jpg)
 
 ## Puheenjohtaja
 #### Riina Kokkonen
