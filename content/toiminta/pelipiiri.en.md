@@ -55,4 +55,5 @@ Ratings are on the following scale:
 |      Alien Isolation      |            Game based on a movie           |   ⭐    |
 |            Prey           | A second chance (= a game left unfinished) |   ⭐    |
 |        Inscryption        |          Breaking the fourth wall          |   👍    |
-|  Resident Evil 2 (Remake) |              Remake / Remaster             |  TBD  |
+|  Resident Evil 2 (Remake) |              Remake / Remaster             |   👍    |
+|     Enter The Gungeon     |            Roguelike / Roguelite           |   TBD   |
