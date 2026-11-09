@@ -55,4 +55,5 @@ Arviot ovat asteikolla:
 |      Alien Isolation      |          Elokuvaan perustuva peli          |   ⭐   |
 |            Prey           | Uusi mahdollisuus (= peli joka jäi kesken) |   ⭐   |
 |        Inscryption        |         Neljännen seinän rikkominen        |   👍   |
-|  Resident Evil 2 (Remake) |              Remake / Remaster             |  TBD  |
+|  Resident Evil 2 (Remake) |              Remake / Remaster             |   👍   |
+|     Enter The Gungeon     |            Roguelike / Roguelite           |   TBD   |
